@@ -29,10 +29,13 @@ jobs:
       - name: Publish snapshot to private dashboard bridge
         env:
           TENDER_UPDATE_URL: ${{ secrets.TENDER_UPDATE_URL }}
+          SITES_BYPASS_TOKEN: ${{ secrets.SITES_BYPASS_TOKEN }}
         run: |
           test -n "$TENDER_UPDATE_URL"
+          test -n "$SITES_BYPASS_TOKEN"
           curl --fail-with-body --silent --show-error \
             --request POST \
             --header "Content-Type: application/json" \
+            --header "OAI-Sites-Authorization: Bearer $SITES_BYPASS_TOKEN" \
             --data-binary @docs/latest.json \
             "$TENDER_UPDATE_URL"
