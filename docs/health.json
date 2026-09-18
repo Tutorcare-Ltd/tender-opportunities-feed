@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "degraded": true,
+  "lastSuccessfulUpdate": "2026-09-18T09:06:22.233Z",
+  "retrievedCount": 64,
+  "totalCount": 64,
+  "sourceFailures": [
+    "FTS: FTS returned HTTP 429"
+  ]
+}
