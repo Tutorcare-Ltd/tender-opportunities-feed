@@ -46,16 +46,27 @@ function deliveryLocation(tender) {
   return compact([...new Set(addresses.flatMap(address => [address.region, address.locality, address.postalCode]).filter(Boolean))].join(", ")) || "United Kingdom / to confirm";
 }
 
+function assessmentScores(tender, match) {
+  const text = `${tender.title || ""} ${tender.description || ""}`.toLowerCase();
+  const location = /online|remote|england|united kingdom|uk-wide|national/.test(`${text} ${deliveryLocation(tender).toLowerCase()}`) ? 14 : 8;
+  const strategy = match.keywordMatches.length ? 18 : match.cpvMatches.some(code => !["80000000", "80500000"].includes(code)) ? 14 : 8;
+  const experience = /first aid|manual handling|safeguard|mental health|suicide|fire safety|resuscitation/.test(text) ? 18 : 10;
+  const value = Number(tender.value?.amount || 0);
+  const commercial = value >= 20000 && value <= 500000 ? 14 : value > 500000 && value <= 2000000 ? 10 : 6;
+  return [location, strategy, experience, commercial, 0];
+}
+
 function mapRelease(release, source, buildId) {
   const tender = release.tender || {};
   const match = relevance(release);
   if (!match.relevant || !tender.title) return null;
+  const tags = asArray(release.tag);
+  const isAward = tags.includes("award") && !tags.includes("tender");
+  if (isAward) return null;
   const isPlanned = tender.status === "planned" || asArray(release.tag).includes("planning");
   const deadline = isoDate(tender.tenderPeriod?.endDate || (isPlanned ? tender.contractPeriod?.startDate : ""));
   if (!deadline) return null;
-  const tags = asArray(release.tag);
   const now = new Date();
-  const isAward = tags.includes("award") && !tags.includes("tender");
   const contractEnd = tender.contractPeriod?.endDate ? new Date(tender.contractPeriod.endDate) : null;
   if (isAward && contractEnd && contractEnd < now) return null;
   const stage = isAward ? "Award" : isPlanned ? "Pipeline" : new Date(`${deadline}T23:59:59Z`) < now ? "Recently closed" : "Open";
@@ -71,7 +82,7 @@ function mapRelease(release, source, buildId) {
     value: Number(tender.value?.amount || 0),
     currency: tender.value?.currency || "GBP",
     stage,
-    scores: [10, 10, 10, 10, 10],
+    scores: assessmentScores(tender, match),
     description: compact(tender.description),
     tenderSummary: compact(tender.description),
     fitRationale: "Team assessment required after reviewing the full specification.",

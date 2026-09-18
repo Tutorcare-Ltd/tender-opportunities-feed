@@ -18,6 +18,7 @@ function merge(previous = [], incoming = []) {
     map.set(record.id, old ? { ...old, ...record, addedBuild: old.addedBuild || record.addedBuild, updatedBuild: record.addedBuild } : record);
   }
   return [...map.values()]
+    .filter(record => record.stage !== "Award")
     .filter(record => record.matchedKeywords?.length || record.matchedCpvCodes?.some(code => !["80000000", "80500000"].includes(code)))
     .sort((a, b) => String(a.deadline).localeCompare(String(b.deadline)));
 }

@@ -1,385 +1,19 @@
 {
   "schemaVersion": 1,
-  "buildId": "202609180923",
-  "lastSuccessfulUpdate": "2026-09-18T09:23:17.927Z",
+  "buildId": "202609180941",
+  "lastSuccessfulUpdate": "2026-09-18T09:41:04.953Z",
   "interval": {
-    "from": "2026-09-17T09:06:22.233Z",
-    "to": "2026-09-18T09:23:15.616Z"
+    "from": "2026-09-17T09:23:17.927Z",
+    "to": "2026-09-18T09:41:02.110Z"
   },
   "sources": [
     "FTS",
     "Contracts Finder"
   ],
   "retrievedCount": 2,
-  "totalCount": 11,
+  "totalCount": 2,
   "sourceFailures": [],
   "records": [
-    {
-      "id": "cf-32a83896-8868-49f1-8af3-88559c3460d9-914164",
-      "title": "Fire Engineer Consultancy Service, EN: Procure Construction Consultancy Services Framework Gen-4, Lot 12 Fire Safety Consultant Services, further competition",
-      "authority": "Hull City Council",
-      "category": "Fire safety",
-      "source": "Contracts Finder",
-      "noticeId": "32a83896-8868-49f1-8af3-88559c3460d9-914164",
-      "published": "2026-09-15",
-      "deadline": "2026-04-16",
-      "value": 280000,
-      "currency": "GBP",
-      "stage": "Award",
-      "scores": [
-        10,
-        10,
-        10,
-        10,
-        10
-      ],
-      "description": "Kingston upon Hull City Council has appointed Firntec Ltd for the provision of technical fire safety advice and guidance from a specialist fire engineering contractor on compliance with fire regulations The opportunity was advertised from the EN Procure 4th generation framework for construction consultancy services Lot 12 - Fire Safety Consultant Services via mini-competition process. The Services are to commence 22nd June 2026, end date 21st June 2028 with an option to extend for up to 24 months. The total spend for the contract is £280,000 (£70,000 per annum).",
-      "tenderSummary": "Kingston upon Hull City Council has appointed Firntec Ltd for the provision of technical fire safety advice and guidance from a specialist fire engineering contractor on compliance with fire regulations The opportunity was advertised from the EN Procure 4th generation framework for construction consultancy services Lot 12 - Fire Safety Consultant Services via mini-competition process. The Services are to commence 22nd June 2026, end date 21st June 2028 with an option to extend for up to 24 months. The total spend for the contract is £280,000 (£70,000 per annum).",
-      "fitRationale": "Team assessment required after reviewing the full specification.",
-      "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
-      "decision": "",
-      "workflowStatus": "New lead",
-      "comments": "",
-      "duration": "2026-06-21 to 2028-06-21",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/32a83896-8868-49f1-8af3-88559c3460d9",
-      "researchUrl": "",
-      "procurementUrl": "",
-      "location": "HU1 2AA",
-      "cpv": "75251110, 71000000, 71300000, 71310000",
-      "matchedKeywords": [
-        "fire safety"
-      ],
-      "matchedCpvCodes": [],
-      "addedBuild": "202609180905",
-      "demo": false
-    },
-    {
-      "id": "cf-6a2b679d-00e1-4053-8990-a720795906f4-913875",
-      "title": "Award of a call off contract under the Prison Education Dynamic Purchasing System for Railtrack provision for prisoners at HMP Guys Marsh",
-      "authority": "Ministry of Justice",
-      "category": "First aid",
-      "source": "Contracts Finder",
-      "noticeId": "6a2b679d-00e1-4053-8990-a720795906f4-913875",
-      "published": "2026-09-14",
-      "deadline": "2026-05-20",
-      "value": 22081,
-      "currency": "GBP",
-      "stage": "Award",
-      "scores": [
-        10,
-        10,
-        10,
-        10,
-        10
-      ],
-      "description": "Award of a call off contract under the Prison Education Dynamic Purchasing System for Railtrack provision for prisoners at HMP Guys Marsh. The supplier will deliver accredited and industry standard rail track maintenance course. The course shall prepare learners for PTS (Personal track Safety course), formal accredited training to be delivered to learners, the course must also contain other industry standard training, for example, first aid, manual handling, health and safety and fire awareness, to help prisoners to gain employment on release.",
-      "tenderSummary": "Award of a call off contract under the Prison Education Dynamic Purchasing System for Railtrack provision for prisoners at HMP Guys Marsh. The supplier will deliver accredited and industry standard rail track maintenance course. The course shall prepare learners for PTS (Personal track Safety course), formal accredited training to be delivered to learners, the course must also contain other industry standard training, for example, first aid, manual handling, health and safety and fire awareness, to help prisoners to gain employment on release.",
-      "fitRationale": "Team assessment required after reviewing the full specification.",
-      "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
-      "decision": "",
-      "workflowStatus": "New lead",
-      "comments": "",
-      "duration": "2026-06-30 to 2027-03-31",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/6a2b679d-00e1-4053-8990-a720795906f4",
-      "researchUrl": "",
-      "procurementUrl": "",
-      "location": "South West",
-      "cpv": "80000000",
-      "matchedKeywords": [
-        "first aid",
-        "manual handling"
-      ],
-      "matchedCpvCodes": [
-        "80000000"
-      ],
-      "addedBuild": "202609180905",
-      "demo": false
-    },
-    {
-      "id": "cf-bdb49423-1e13-4dea-b646-f3c4e5150da9-914128",
-      "title": "Condition Monitoring",
-      "authority": "Sellafield Ltd",
-      "category": "Learning & development",
-      "source": "Contracts Finder",
-      "noticeId": "bdb49423-1e13-4dea-b646-f3c4e5150da9-914128",
-      "published": "2026-09-15",
-      "deadline": "2026-05-21",
-      "value": 1727050,
-      "currency": "GBP",
-      "stage": "Award",
-      "scores": [
-        10,
-        10,
-        10,
-        10,
-        10
-      ],
-      "description": "Condition Monitoring . Call off from Engineering & Technology Solutions Market Place Dynamic Purchasing System (C12362) - Engineering Services Category",
-      "tenderSummary": "Condition Monitoring . Call off from Engineering & Technology Solutions Market Place Dynamic Purchasing System (C12362) - Engineering Services Category",
-      "fitRationale": "Team assessment required after reviewing the full specification.",
-      "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
-      "decision": "",
-      "workflowStatus": "New lead",
-      "comments": "",
-      "duration": "2026-10-04 to 2031-10-04",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/bdb49423-1e13-4dea-b646-f3c4e5150da9",
-      "researchUrl": "",
-      "procurementUrl": "",
-      "location": "WA3 6GR, North West",
-      "cpv": "80511000, 51610000, 80531000, 71600000, 32510000, 32531000, 38431000, 38432000, 38434000, 71300000, 71620000, 71700000, 72100000, 72200000",
-      "matchedKeywords": [],
-      "matchedCpvCodes": [
-        "80000000",
-        "80500000",
-        "80510000"
-      ],
-      "addedBuild": "202609180905",
-      "demo": false
-    },
-    {
-      "id": "cf-457efe68-95c7-43bf-bb2c-f480306325f6-914404",
-      "title": "Fire Risk Appraisal External Walls, Hull, EN: Procure Construction Consultancy Services Framework Gen-4, Lot 12 Fire Safety Consultant Services, further competition",
-      "authority": "Hull City Council",
-      "category": "Fire safety",
-      "source": "Contracts Finder",
-      "noticeId": "457efe68-95c7-43bf-bb2c-f480306325f6-914404",
-      "published": "2026-09-16",
-      "deadline": "2026-06-01",
-      "value": 240000,
-      "currency": "GBP",
-      "stage": "Award",
-      "scores": [
-        10,
-        10,
-        10,
-        10,
-        10
-      ],
-      "description": "Hull City Council has appointed Firntec Ltd to conduct comprehensive Fire Risk Appraisals of External Walls (FRAEW) for 14 of Hull City Council's High-Risk Residential buildings (18m+). This appointment has been made under EN: Procure Construction Consultancy Services Framework Gen-4, Lot 12 Fire Safety Consultant Services. The Services are to commence 21st July 2026, completion date 19th July 2027. The budget is £240,000 overall with no option to extend.",
-      "tenderSummary": "Hull City Council has appointed Firntec Ltd to conduct comprehensive Fire Risk Appraisals of External Walls (FRAEW) for 14 of Hull City Council's High-Risk Residential buildings (18m+). This appointment has been made under EN: Procure Construction Consultancy Services Framework Gen-4, Lot 12 Fire Safety Consultant Services. The Services are to commence 21st July 2026, completion date 19th July 2027. The budget is £240,000 overall with no option to extend.",
-      "fitRationale": "Team assessment required after reviewing the full specification.",
-      "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
-      "decision": "",
-      "workflowStatus": "New lead",
-      "comments": "",
-      "duration": "2026-07-20 to 2027-07-19",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/457efe68-95c7-43bf-bb2c-f480306325f6",
-      "researchUrl": "",
-      "procurementUrl": "",
-      "location": "HU1 2AA",
-      "cpv": "75251110, 71317100",
-      "matchedKeywords": [
-        "fire safety"
-      ],
-      "matchedCpvCodes": [],
-      "addedBuild": "202609180905",
-      "demo": false
-    },
-    {
-      "id": "cf-84853fb0-32e3-4d85-ac5a-1d079b3bc857-913663",
-      "title": "Award of a call off contract under the Prison Education Dynamic Purchasing System for Step into Construction provision for prisoners at HMP Bullingdon",
-      "authority": "Ministry of Justice",
-      "category": "First aid",
-      "source": "Contracts Finder",
-      "noticeId": "84853fb0-32e3-4d85-ac5a-1d079b3bc857-913663",
-      "published": "2026-09-11",
-      "deadline": "2026-06-17",
-      "value": 50400,
-      "currency": "GBP",
-      "stage": "Award",
-      "scores": [
-        10,
-        10,
-        10,
-        10,
-        10
-      ],
-      "description": "Award of a call off contract under the Prison Education Dynamic Purchasing System for Step into Construction provision for prisoners at HMP Bullingdon. The supplier shall deliver a construction training programme comprising Level 1 Health and Safety in the Construction Environment, CSCS certification, CAT and Genny training, Abrasive Wheels, Manual Handling, and First Aid, for prisoners who would like a pathway into construction once released.",
-      "tenderSummary": "Award of a call off contract under the Prison Education Dynamic Purchasing System for Step into Construction provision for prisoners at HMP Bullingdon. The supplier shall deliver a construction training programme comprising Level 1 Health and Safety in the Construction Environment, CSCS certification, CAT and Genny training, Abrasive Wheels, Manual Handling, and First Aid, for prisoners who would like a pathway into construction once released.",
-      "fitRationale": "Team assessment required after reviewing the full specification.",
-      "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
-      "decision": "",
-      "workflowStatus": "New lead",
-      "comments": "",
-      "duration": "2026-09-30 to 2027-09-30",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/84853fb0-32e3-4d85-ac5a-1d079b3bc857",
-      "researchUrl": "",
-      "procurementUrl": "",
-      "location": "London",
-      "cpv": "80000000",
-      "matchedKeywords": [
-        "first aid",
-        "manual handling"
-      ],
-      "matchedCpvCodes": [
-        "80000000"
-      ],
-      "addedBuild": "202609180905",
-      "demo": false
-    },
-    {
-      "id": "cf-85c41c23-446d-4dc3-a11e-ddc8fecf326e-913597",
-      "title": "First Aid Training/Qualifications for SCC staff",
-      "authority": "Southampton City Council",
-      "category": "First aid",
-      "source": "Contracts Finder",
-      "noticeId": "85c41c23-446d-4dc3-a11e-ddc8fecf326e-913597",
-      "published": "2026-09-10",
-      "deadline": "2026-06-30",
-      "value": 26000,
-      "currency": "GBP",
-      "stage": "Award",
-      "scores": [
-        10,
-        10,
-        10,
-        10,
-        10
-      ],
-      "description": "Various types of first aid training depending on job role. Additional information: This was procured using the NEPO514 External Training DPS.",
-      "tenderSummary": "Various types of first aid training depending on job role. Additional information: This was procured using the NEPO514 External Training DPS.",
-      "fitRationale": "Team assessment required after reviewing the full specification.",
-      "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
-      "decision": "",
-      "workflowStatus": "New lead",
-      "comments": "",
-      "duration": "2026-06-30 to 2028-06-30",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/85c41c23-446d-4dc3-a11e-ddc8fecf326e",
-      "researchUrl": "",
-      "procurementUrl": "",
-      "location": "SO15 7NU",
-      "cpv": "80560000",
-      "matchedKeywords": [
-        "first aid"
-      ],
-      "matchedCpvCodes": [
-        "80000000",
-        "80500000",
-        "80560000"
-      ],
-      "addedBuild": "202609180905",
-      "demo": false
-    },
-    {
-      "id": "cf-101a8595-9b20-4125-ac63-e4f3f04e6dda-913679",
-      "title": "Blue Light Training Course",
-      "authority": "Ministry of Justice",
-      "category": "Learning & development",
-      "source": "Contracts Finder",
-      "noticeId": "101a8595-9b20-4125-ac63-e4f3f04e6dda-913679",
-      "published": "2026-09-11",
-      "deadline": "2026-07-02",
-      "value": 180500,
-      "currency": "GBP",
-      "stage": "Award",
-      "scores": [
-        10,
-        10,
-        10,
-        10,
-        10
-      ],
-      "description": "*****THIS IS AN AWARD NOTICE, NOT A CALL FOR COMPETITION******* This procurement is being concluded following a mini competition through the Yorkshire Purchasing Organisation (YPO) Dynamic Purchasing System Agreement 000999, Lot 12 Driving. A contract has been awarded for the provision of Training solutions for the Operational Response and Resilience Unit (ORRU) to deliver Blue light training for up to 100 staff members. The contract has been awarded for 3 years.",
-      "tenderSummary": "*****THIS IS AN AWARD NOTICE, NOT A CALL FOR COMPETITION******* This procurement is being concluded following a mini competition through the Yorkshire Purchasing Organisation (YPO) Dynamic Purchasing System Agreement 000999, Lot 12 Driving. A contract has been awarded for the provision of Training solutions for the Operational Response and Resilience Unit (ORRU) to deliver Blue light training for up to 100 staff members. The contract has been awarded for 3 years.",
-      "fitRationale": "Team assessment required after reviewing the full specification.",
-      "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
-      "decision": "",
-      "workflowStatus": "New lead",
-      "comments": "",
-      "duration": "2026-09-30 to 2029-09-30",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/101a8595-9b20-4125-ac63-e4f3f04e6dda",
-      "researchUrl": "",
-      "procurementUrl": "",
-      "location": "United Kingdom / to confirm",
-      "cpv": "80500000, 80511000, 80550000",
-      "matchedKeywords": [],
-      "matchedCpvCodes": [
-        "80000000",
-        "80500000",
-        "80510000",
-        "80550000"
-      ],
-      "addedBuild": "202609180905",
-      "demo": false
-    },
-    {
-      "id": "cf-08276954-cdcb-466b-a304-61183c90c8fe-913918",
-      "title": "AE Fire Safety, AE Pressure Systems and AE Ventilation to the Royal Marsden NHS Foundation Trustc",
-      "authority": "The Royal Marsden NHS Foundation Trust",
-      "category": "Fire safety",
-      "source": "Contracts Finder",
-      "noticeId": "08276954-cdcb-466b-a304-61183c90c8fe-913918",
-      "published": "2026-09-14",
-      "deadline": "2026-07-31",
-      "value": 161033,
-      "currency": "GBP",
-      "stage": "Award",
-      "scores": [
-        10,
-        10,
-        10,
-        10,
-        10
-      ],
-      "description": "Provision of AE Fire Safety, AE Pressure Systems and AE Ventilation to the Royal Marsden NHS Foundation Trust",
-      "tenderSummary": "Provision of AE Fire Safety, AE Pressure Systems and AE Ventilation to the Royal Marsden NHS Foundation Trust",
-      "fitRationale": "Team assessment required after reviewing the full specification.",
-      "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
-      "decision": "",
-      "workflowStatus": "New lead",
-      "comments": "",
-      "duration": "2026-07-31 to 2031-03-31",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/08276954-cdcb-466b-a304-61183c90c8fe",
-      "researchUrl": "",
-      "procurementUrl": "",
-      "location": "SW3 6JJ, England",
-      "cpv": "79400000",
-      "matchedKeywords": [
-        "fire safety"
-      ],
-      "matchedCpvCodes": [],
-      "addedBuild": "202609180905",
-      "demo": false
-    },
-    {
-      "id": "cf-d5101410-db44-4525-a1a8-2108736d36c1-913850",
-      "title": "Consultancy plus contract R Reed",
-      "authority": "City of Doncaster Council",
-      "category": "Safeguarding",
-      "source": "Contracts Finder",
-      "noticeId": "d5101410-db44-4525-a1a8-2108736d36c1-913850",
-      "published": "2026-09-11",
-      "deadline": "2026-09-08",
-      "value": 0,
-      "currency": "GBP",
-      "stage": "Award",
-      "scores": [
-        10,
-        10,
-        10,
-        10,
-        10
-      ],
-      "description": "Contract to provide ongoing consultancy and development support, strengthening relational public services, embedding learning and advancing Transitional Safeguarding across partners.",
-      "tenderSummary": "Contract to provide ongoing consultancy and development support, strengthening relational public services, embedding learning and advancing Transitional Safeguarding across partners.",
-      "fitRationale": "Team assessment required after reviewing the full specification.",
-      "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
-      "decision": "",
-      "workflowStatus": "New lead",
-      "comments": "",
-      "duration": "2026-10-27 to 2027-03-26",
-      "url": "https://www.contractsfinder.service.gov.uk/Notice/d5101410-db44-4525-a1a8-2108736d36c1",
-      "researchUrl": "",
-      "procurementUrl": "",
-      "location": "Yorkshire and the Humber",
-      "cpv": "79411000",
-      "matchedKeywords": [
-        "safeguarding"
-      ],
-      "matchedCpvCodes": [],
-      "addedBuild": "202609180905",
-      "demo": false
-    },
     {
       "id": "fts-088150-2026",
       "title": "Learning, Talent and Performance Platform",
@@ -393,11 +27,11 @@
       "currency": "GBP",
       "stage": "Open",
       "scores": [
+        8,
+        14,
         10,
-        10,
-        10,
-        10,
-        10
+        14,
+        0
       ],
       "description": "Bromford Flagship LiveWest (BFL) wants to procure a single, modern Learning Management System (LMS) to provide a unified learning and compliance platform across the organisation. The proposed solution will replace existing learning platforms and support the delivery, management and reporting of learning across the organisation. The LMS will serve a workforce of more than 6,000 colleagues across a geographically dispersed operating area, supporting a wide range of roles including housing, property maintenance, customer services, corporate services, leadership and specialist functions. BFL requires a scalable, cloud-based solution capable of managing mandatory, role-specific, compliance, onboarding and professional development learning through a single platform. The system must support both internal colleagues and external users, including contractors, suppliers and customers. The proposed contract is anticipated to be for an initial term of 3 years, with the option to extend for up to a further 2 years. The contract value stated within this notice is an estimate over the initial 3 year contract term. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Tewkesbury:-Education-and-training-services./A8WA327ZQ7 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/A8WA327ZQ7",
       "tenderSummary": "Bromford Flagship LiveWest (BFL) wants to procure a single, modern Learning Management System (LMS) to provide a unified learning and compliance platform across the organisation. The proposed solution will replace existing learning platforms and support the delivery, management and reporting of learning across the organisation. The LMS will serve a workforce of more than 6,000 colleagues across a geographically dispersed operating area, supporting a wide range of roles including housing, property maintenance, customer services, corporate services, leadership and specialist functions. BFL requires a scalable, cloud-based solution capable of managing mandatory, role-specific, compliance, onboarding and professional development learning through a single platform. The system must support both internal colleagues and external users, including contractors, suppliers and customers. The proposed contract is anticipated to be for an initial term of 3 years, with the option to extend for up to a further 2 years. The contract value stated within this notice is an estimate over the initial 3 year contract term. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Tewkesbury:-Education-and-training-services./A8WA327ZQ7 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/A8WA327ZQ7",
@@ -419,7 +53,8 @@
         "80510000"
       ],
       "addedBuild": "202609180923",
-      "demo": false
+      "demo": false,
+      "updatedBuild": "202609180941"
     },
     {
       "id": "fts-088429-2026",
@@ -434,11 +69,11 @@
       "currency": "GBP",
       "stage": "Open",
       "scores": [
+        8,
+        14,
         10,
-        10,
-        10,
-        10,
-        10
+        6,
+        0
       ],
       "description": "Catchment Sensitive Farming are looking for BASIS Certificate in Sustainable Land Management course for up to 10 Farm Advisers on a existing Course for delivery between the 19/10/2026 and 31/03/2027.",
       "tenderSummary": "Catchment Sensitive Farming are looking for BASIS Certificate in Sustainable Land Management course for up to 10 Farm Advisers on a existing Course for delivery between the 19/10/2026 and 31/03/2027.",
@@ -460,7 +95,8 @@
         "80510000"
       ],
       "addedBuild": "202609180923",
-      "demo": false
+      "demo": false,
+      "updatedBuild": "202609180941"
     }
   ]
 }
