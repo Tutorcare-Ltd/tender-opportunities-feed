@@ -1,8 +1,8 @@
 {
   "ok": true,
   "degraded": false,
-  "lastSuccessfulUpdate": "2026-09-18T09:08:32.001Z",
-  "retrievedCount": 70,
-  "totalCount": 127,
+  "lastSuccessfulUpdate": "2026-09-18T09:23:17.927Z",
+  "retrievedCount": 2,
+  "totalCount": 11,
   "sourceFailures": []
 }

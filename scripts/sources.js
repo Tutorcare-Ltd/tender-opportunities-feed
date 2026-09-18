@@ -14,11 +14,13 @@ function relevance(release) {
   const codes = classifications(tender);
   const searchable = compact([tender.title, tender.description, ...asArray(tender.items).map(item => item.description), ...codes].join(" ")).toLowerCase();
   const cpvMatches = CPV_CODES.filter(code => {
-    const prefix = code.replace(/0+$/, "");
+    const trimmed = code.replace(/0+$/, "");
+    const prefix = trimmed.length < 2 ? code.slice(0, 2) : trimmed;
     return codes.some(candidate => candidate.startsWith(prefix));
   });
   const keywordMatches = KEYWORDS.filter(keyword => searchable.includes(keyword));
-  return { relevant: cpvMatches.length > 0 || keywordMatches.length > 0, cpvMatches, keywordMatches, codes };
+  const specialistCpvMatches = cpvMatches.filter(code => !["80000000", "80500000"].includes(code));
+  return { relevant: specialistCpvMatches.length > 0 || keywordMatches.length > 0, cpvMatches, keywordMatches, codes };
 }
 
 function noticeUrl(release, source) {
@@ -48,14 +50,14 @@ function mapRelease(release, source, buildId) {
   const tender = release.tender || {};
   const match = relevance(release);
   if (!match.relevant || !tender.title) return null;
-  const deadline = isoDate(tender.tenderPeriod?.endDate || tender.contractPeriod?.startDate || release.date);
+  const isPlanned = tender.status === "planned" || asArray(release.tag).includes("planning");
+  const deadline = isoDate(tender.tenderPeriod?.endDate || (isPlanned ? tender.contractPeriod?.startDate : ""));
   if (!deadline) return null;
   const tags = asArray(release.tag);
   const now = new Date();
   const isAward = tags.includes("award") && !tags.includes("tender");
   const contractEnd = tender.contractPeriod?.endDate ? new Date(tender.contractPeriod.endDate) : null;
   if (isAward && contractEnd && contractEnd < now) return null;
-  const isPlanned = tender.status === "planned" || tags.includes("planning");
   const stage = isAward ? "Award" : isPlanned ? "Pipeline" : new Date(`${deadline}T23:59:59Z`) < now ? "Recently closed" : "Open";
   return {
     id: `${source === "FTS" ? "fts" : "cf"}-${release.id || release.ocid}`,
