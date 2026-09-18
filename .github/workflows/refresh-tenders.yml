@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: tender-refresh
@@ -24,12 +24,15 @@ jobs:
           node-version: 22
       - name: Validate updater
         run: npm run check
-      - name: Refresh public feed
+      - name: Refresh protected feed
         run: npm run refresh
-      - name: Commit successful snapshot
+      - name: Publish snapshot to private dashboard bridge
+        env:
+          TENDER_UPDATE_URL: ${{ secrets.TENDER_UPDATE_URL }}
         run: |
-          git config user.name "Tutorcare Tender Bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add docs/latest.json docs/health.json
-          git diff --cached --quiet || git commit -m "Refresh tender opportunities"
-          git push
+          test -n "$TENDER_UPDATE_URL"
+          curl --fail-with-body --silent --show-error \
+            --request POST \
+            --header "Content-Type: application/json" \
+            --data-binary @docs/latest.json \
+            "$TENDER_UPDATE_URL"
