@@ -1,9 +1,6 @@
 name: Feed unit tests
 on:
   pull_request:
-  push:
-    branches-ignore:
-      - feed-state
 permissions:
   contents: read
 jobs:
