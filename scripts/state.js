@@ -1,4 +1,5 @@
 import { OVERLAP_HOURS } from "./config.js";
+import { publicState, publicRecord } from "./public-schema.js";
 export const SOURCE_NAMES = ["FTS", "Contracts Finder"];
 
 export function validateState(state) {
@@ -7,12 +8,11 @@ export function validateState(state) {
       state.snapshot.totalCount !== state.snapshot.records.length) {
     throw new Error("A validated schemaVersion 2 feed-state/state.json is required; do not use the committed September seed");
   }
+  state = publicState(state);
   const ids = new Set();
   for (const row of state.snapshot.records) {
     if (!row || typeof row.id !== "string" || !row.id || ids.has(row.id) || !SOURCE_NAMES.includes(row.source)) throw new Error("Invalid or duplicate record in durable feed state");
     ids.add(row.id);
-    // Public feed state must never be initialized from staff workflow data.
-    if (row.comments || row.decision || (row.workflowStatus && row.workflowStatus !== "New lead")) throw new Error("Remove private staff fields before initializing public feed state");
   }
   for (const source of SOURCE_NAMES) {
     if (!Number.isFinite(Date.parse(state.sourceState?.[source]?.watermark))) throw new Error("Missing verified watermark for " + source);
@@ -21,7 +21,7 @@ export function validateState(state) {
 }
 
 export async function refreshState(previous, { to = new Date(), attemptId, fetchSource } = {}) {
-  validateState(previous);
+  previous = validateState(previous);
   if (!attemptId || typeof fetchSource !== "function" || !Number.isFinite(to.getTime())) throw new Error("Refresh requires an attempt ID, valid end time and source reader");
   const sourceState = structuredClone(previous.sourceState);
   const results = await Promise.all(SOURCE_NAMES.map(async source => {
@@ -31,7 +31,7 @@ export async function refreshState(previous, { to = new Date(), attemptId, fetch
       if (cursor > to) throw new Error("Checkpoint is in the future");
       const records = await fetchSource(source, from, to, attemptId);
       if (!Array.isArray(records) || records.some(row => !row?.id || row.source !== source)) throw new Error("Invalid normalized source records");
-      return { source, ok: true, records, from: from.toISOString(), to: to.toISOString() };
+      return { source, ok: true, records: records.map(publicRecord), from: from.toISOString(), to: to.toISOString() };
     } catch (error) {
       return { source, ok: false, error: String(error.message || error), from: from.toISOString(), to: to.toISOString() };
     }

@@ -65,8 +65,22 @@ export async function requestAll(initialUrl, source, {
     if (!payload) throw new Error(source + ": no complete response");
     releases.push(...payload.releases);
     let next = "";
-    if (Array.isArray(payload.links)) next = payload.links.find(link => link.rel === "next")?.href ?? "";
-    else if (payload.links && typeof payload.links === "object") next = payload.links.next ?? "";
+    if (Array.isArray(payload.links)) {
+      if (payload.links.some(link => !link || typeof link !== "object" || Array.isArray(link) || typeof link.rel !== "string")) {
+        throw new Error(source + ": invalid pagination links");
+      }
+      const declared = payload.links.filter(link => link.rel === "next");
+      if (declared.length > 1 || (declared.length && (typeof declared[0].href !== "string" || !declared[0].href.trim()))) {
+        throw new Error(source + ": malformed declared next link");
+      }
+      if (declared.length) next = declared[0].href;
+    }
+    else if (payload.links && typeof payload.links === "object") {
+      if (Object.hasOwn(payload.links, "next")) {
+        if (typeof payload.links.next !== "string" || !payload.links.next.trim()) throw new Error(source + ": malformed declared next link");
+        next = payload.links.next;
+      }
+    }
     else if (payload.links != null) throw new Error(source + ": invalid pagination links");
     if (typeof next !== "string") throw new Error(source + ": invalid next link");
     url = next ? new URL(next, url).href : "";

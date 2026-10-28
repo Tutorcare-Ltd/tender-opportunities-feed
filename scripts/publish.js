@@ -1,7 +1,11 @@
 import { readFile } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
+import { validateState } from "./state.js";
 
 export async function publishSnapshot(snapshot, { url, token, fetchImpl = fetch } = {}) {
+  const { health, sourceState, ...data } = snapshot;
+  const state = validateState({ schemaVersion: 2, snapshot: data, health, sourceState });
+  snapshot = { ...state.snapshot, health: state.health, sourceState: state.sourceState };
   if (!url || !token || new URL(url).protocol !== "https:") throw new Error("Configure the existing HTTPS bridge destination and authorization");
   if (!snapshot.health?.attemptId) throw new Error("Snapshot health is required");
   let response;

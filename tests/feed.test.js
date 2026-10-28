@@ -4,6 +4,7 @@ import { requestAll, retryDelay } from "../scripts/transport.js";
 import { refreshState, validateState } from "../scripts/state.js";
 import { publishSnapshot } from "../scripts/publish.js";
 import { fetchSourceRecords } from "../scripts/sources.js";
+import { publicScores } from "../scripts/public-schema.js";
 
 // Every network dependency is replaced. These tests never ingest or publish.
 const initialUrl = "https://example.test/feed";
@@ -140,7 +141,7 @@ test("source normalization uses independent interval and rejects malformed dates
   assert.equal(new URL(t.calls[0].url).searchParams.get("updatedTo"), to.toISOString());
 });
 test("publication requires exact snapshot and health acknowledgement", async () => {
-  const snapshot = { buildId: "build", totalCount: 2, health: { attemptId: "attempt" } };
+  const snapshot = { ...seed().snapshot, buildId: "build", sourceState: seed().sourceState, health: { attemptId: "attempt" } };
   let sent;
   const args = { url: "https://bridge.test/update", token: "test-only",
     fetchImpl: async (_url, options) => { sent = options; return json({ accepted: true, buildId: "build", records: 2, healthAttemptId: "attempt" }); } };
@@ -151,4 +152,84 @@ test("publication requires exact snapshot and health acknowledgement", async () 
   let calls = 0;
   await assert.rejects(publishSnapshot(snapshot, { ...args, fetchImpl: async () => { calls++; throw new Error("timeout"); } }), /outcome uncertain/);
   assert.equal(calls, 1, "do not blindly repeat a POST with uncertain outcome");
+});
+
+test("unknown private fields fail closed at every public state boundary", () => {
+  const mutations = [
+    s => { s.internalNotes = "Private"; },
+    s => { s.snapshot.staffBudget = 1234; },
+    s => { s.snapshot.records[0].internalComments = "Private"; },
+    s => { s.sourceState.FTS.privateOwner = "Private"; },
+    s => { s.sourceState.FTS.interval = { from: "date", to: "date", notes: "Private" }; },
+    s => { s.sourceState.Other = { watermark: "2026-10-23Z" }; },
+    s => { s.health = { attemptId: "run", privateNotes: "Private" }; },
+    s => { s.health = { sourceState: { FTS: { watermark: "2026-10-23Z", notes: "Private" } } }; }
+  ];
+  for (const mutate of mutations) {
+    const original = seed(); mutate(original);
+    assert.throws(() => validateState(original), /Unknown field/);
+  }
+});
+test("allowed fields cannot hide private nested objects or workflow assessments", () => {
+  for (const [field, value] of [
+    ["description", { privateNotes: "Private" }],
+    ["matchedKeywords", [{ note: "Private" }]],
+    ["fitRationale", "Internal bid strategy"],
+    ["buyerInsight", "Private contact details"],
+    ["researchUrl", "https://private.test"]
+  ]) {
+    const state = seed(); state.snapshot.records[0][field] = value;
+    assert.throws(() => validateState(state), /Invalid value/);
+  }
+});
+test("manual scores are replaced using only public notice fields without mutating input", async () => {
+  const previous = seed();
+  const row = previous.snapshot.records[0];
+  Object.assign(row, { title: "First aid training", description: "UK-wide", value: 100000, cpv: "80510000", scores: [99, 98, 97, 96, 95] });
+  const before = structuredClone(previous);
+  const validated = validateState(previous);
+  assert.deepEqual(validated.snapshot.records[0].scores, publicScores(row));
+  assert.deepEqual(validated.snapshot.records[0].scores, [14, 18, 18, 14, 0]);
+  assert.deepEqual(previous, before, "private source must remain unchanged");
+  const failed = await refreshState(previous, { to, attemptId: "failed", fetchSource: async () => { throw new Error("failed"); } });
+  assert.deepEqual(failed.snapshot.records[0].scores, [14, 18, 18, 14, 0]);
+});
+test("private incoming fields fail that source without advancing its checkpoint", async () => {
+  const previous = seed();
+  const next = await refreshState(previous, { to, attemptId: "unsafe", fetchSource: async source =>
+    source === "FTS" ? [{ id: "fts-new", source, privateNotes: "Private" }] : [] });
+  assert.equal(next.sourceState.FTS.watermark, previous.sourceState.FTS.watermark);
+  assert.equal(next.health.status, "degraded");
+  assert.equal(JSON.stringify(next).includes("Private"), false);
+  assert.equal(next.snapshot.totalCount, 2);
+});
+test("publication independently refuses unexpected private fields before any HTTP call", async () => {
+  const snapshot = { ...seed().snapshot, sourceState: seed().sourceState, health: { attemptId: "attempt" }, internalNotes: "Private" };
+  let called = false;
+  await assert.rejects(publishSnapshot(snapshot, { url: "https://bridge.test", token: "test-only",
+    fetchImpl: async () => { called = true; return json({}); } }), /Unknown field/);
+  assert.equal(called, false);
+});
+test("declared next links must be unique nonempty strings", async () => {
+  for (const links of [
+    [{ rel: "next" }], [{ rel: "next", href: null }], [{ rel: "next", href: "" }],
+    [{ rel: "next", href: " " }], [{ rel: "next", href: 42 }],
+    [{ rel: "next", href: "?p=2" }, { rel: "next", href: "?p=3" }],
+    { next: null }, { next: "" }, { next: " " }, { next: {} },
+    [null], [42]
+  ]) {
+    const t = transport([json({ releases: [{ id: "partial" }], links })]);
+    await assert.rejects(requestAll(initialUrl, "FTS", t.options), /next link|pagination links/);
+  }
+});
+test("malformed pagination cannot advance a source checkpoint or import partial records", async () => {
+  const previous = seed();
+  const t = transport([json({ releases: [{ id: "fts-partial", source: "FTS" }], links: [{ rel: "next" }] })]);
+  const next = await refreshState(previous, { to, attemptId: "malformed", fetchSource: async source =>
+    source === "FTS" ? requestAll(initialUrl, source, t.options) : [] });
+  assert.equal(next.sourceState.FTS.watermark, previous.sourceState.FTS.watermark);
+  assert.equal(next.sourceState["Contracts Finder"].watermark, to.toISOString());
+  assert.equal(next.snapshot.totalCount, 2);
+  assert.equal(next.snapshot.records.some(row => row.id === "fts-partial"), false);
+  assert.equal(next.health.status, "degraded");
 });

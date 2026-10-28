@@ -6,7 +6,7 @@
   "scripts": {
     "refresh": "node scripts/refresh.js",
     "publish:feed": "node scripts/publish.js",
-    "check": "node --check scripts/config.js && node --check scripts/sources.js && node --check scripts/transport.js && node --check scripts/state.js && node --check scripts/refresh.js && node --check scripts/publish.js",
+    "check": "node --check scripts/config.js && node --check scripts/sources.js && node --check scripts/transport.js && node --check scripts/public-schema.js && node --check scripts/state.js && node --check scripts/refresh.js && node --check scripts/publish.js",
     "test": "node --test tests/*.test.js"
   },
   "engines": { "node": ">=22 <25" }
