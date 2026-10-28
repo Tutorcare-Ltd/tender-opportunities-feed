@@ -15,27 +15,55 @@ concurrency:
 
 jobs:
   refresh:
+    # Enable only after state migration and the companion Site contract are verified.
+    if: github.ref == 'refs/heads/main' && vars.TENDER_FEED_V2_READY == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: 22
       - name: Validate updater
-        run: npm run check
+        run: |
+          npm run check
+          npm test
+      - name: Restore durable public feed state
+        uses: actions/checkout@v4
+        with:
+          ref: feed-state
+          path: state-store
       - name: Refresh protected feed
+        id: refresh
+        env:
+          FEED_STATE_FILE: state-store/state.json
         run: npm run refresh
-      - name: Publish snapshot to private dashboard bridge
+      - name: Commit state before attempting publication
+        run: |
+          git -C state-store config user.name "github-actions[bot]"
+          git -C state-store config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C state-store add -- state.json
+          if ! git -C state-store diff --cached --quiet; then
+            git -C state-store commit -m "Record tender source checkpoints and run health"
+            git -C state-store push origin HEAD:feed-state
+          fi
+      - name: Publish retained snapshot and current health
         env:
           TENDER_UPDATE_URL: ${{ secrets.TENDER_UPDATE_URL }}
           SITES_BYPASS_TOKEN: ${{ secrets.SITES_BYPASS_TOKEN }}
-        run: |
-          test -n "$TENDER_UPDATE_URL"
-          test -n "$SITES_BYPASS_TOKEN"
-          curl --fail-with-body --silent --show-error \
-            --request POST \
-            --header "Content-Type: application/json" \
-            --header "OAI-Sites-Authorization: Bearer $SITES_BYPASS_TOKEN" \
-            --data-binary @docs/latest.json \
-            "$TENDER_UPDATE_URL"
+        run: npm run publish:feed
+      - name: Report degraded upstream status
+        run: node --input-type=module -e "import fs from 'node:fs'; const h=JSON.parse(fs.readFileSync('docs/health.json')); if(!h.ok) { console.error(h.sourceFailures.join('; ')); process.exitCode=1; }"
+      - name: Retain public diagnostics
+        if: always() && steps.refresh.outcome == 'success'
+        uses: actions/upload-artifact@v4
+        with:
+          name: tender-feed-diagnostics
+          path: |
+            docs/latest.json
+            docs/health.json
+          retention-days: 30
