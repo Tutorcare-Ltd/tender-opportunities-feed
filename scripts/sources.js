@@ -1,3 +1,4 @@
+import { requestAll } from "./transport.js";
 import { CPV_CODES, KEYWORDS, SOURCES } from "./config.js";
 
 const compact = value => String(value || "").replace(/\s+/g, " ").trim();
@@ -103,62 +104,13 @@ function mapRelease(release, source, buildId) {
   };
 }
 
-function nextLink(payload) {
-  if (typeof payload.links?.next === "string") return payload.links.next;
-  if (Array.isArray(payload.links)) return payload.links.find(link => link.rel === "next")?.href || "";
-  return "";
-}
-
-async function requestAll(initialUrl, source) {
-  const releases = [];
-  let url = initialUrl;
-  let page = 0;
-  while (url && page < 100) {
-    let response;
-    for (let attempt = 0; attempt < 3; attempt += 1) {
-      response = await fetch(url, { headers: { accept: "application/json", "user-agent": "Tutorcare-Tender-Updater/1.0" } });
-      if (response.status !== 429 && response.status < 500) break;
-      const retryAfter = Number(response.headers.get("retry-after") || 0);
-      const waitMs = retryAfter > 0 ? Math.min(retryAfter * 1000, 15000) : 1000 * (2 ** attempt);
-      console.warn(`${source}: HTTP ${response.status}; retrying in ${waitMs}ms`);
-      await new Promise(resolve => setTimeout(resolve, waitMs));
-    }
-    if (!response.ok) throw new Error(`${source} returned HTTP ${response.status}`);
-    const payload = await response.json();
-    releases.push(...asArray(payload.releases));
-    url = nextLink(payload);
-    page += 1;
-    if (url) await new Promise(resolve => setTimeout(resolve, 250));
-  }
-  console.log(`${source}: retrieved ${releases.length} releases`);
-  return releases;
-}
-
-export async function fetchTenderRecords(from, to) {
-  const buildId = new Date().toISOString().replace(/[-:TZ.]/g, "").slice(0, 12);
-  const fts = new URL(SOURCES.FTS);
-  fts.searchParams.set("updatedFrom", from.toISOString());
-  fts.searchParams.set("updatedTo", to.toISOString());
-  fts.searchParams.set("limit", "100");
-  const cf = new URL(SOURCES["Contracts Finder"]);
-  cf.searchParams.set("publishedFrom", from.toISOString());
-  cf.searchParams.set("publishedTo", to.toISOString());
-  cf.searchParams.set("limit", "100");
-  const results = await Promise.allSettled([
-    requestAll(fts.toString(), "FTS"),
-    requestAll(cf.toString(), "Contracts Finder")
-  ]);
-  const [ftsResult, cfResult] = results;
-  const ftsReleases = ftsResult.status === "fulfilled" ? ftsResult.value : [];
-  const cfReleases = cfResult.status === "fulfilled" ? cfResult.value : [];
-  const failures = results
-    .map((result, index) => result.status === "rejected" ? `${index === 0 ? "FTS" : "Contracts Finder"}: ${result.reason?.message || result.reason}` : "")
-    .filter(Boolean);
-  for (const failure of failures) console.warn(`Source unavailable: ${failure}`);
-  if (!ftsReleases.length && !cfReleases.length) throw new Error(`All sources failed: ${failures.join("; ")}`);
-  return {
-    buildId,
-    records: [...ftsReleases.map(release => mapRelease(release, "FTS", buildId)), ...cfReleases.map(release => mapRelease(release, "Contracts Finder", buildId))].filter(Boolean),
-    sourceFailures: failures
-  };
+// Pagination and transport are isolated so tests never contact procurement services.
+export async function fetchSourceRecords(source, from, to, buildId, options = {}) {
+  const url = new URL(SOURCES[source]);
+  const prefix = source === "FTS" ? "updated" : "published";
+  url.searchParams.set(prefix + "From", from.toISOString());
+  url.searchParams.set(prefix + "To", to.toISOString());
+  url.searchParams.set("limit", "100");
+  const releases = await requestAll(url.toString(), source, options);
+  return releases.map(release => mapRelease(release, source, buildId)).filter(Boolean);
 }
