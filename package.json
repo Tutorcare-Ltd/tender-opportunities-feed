@@ -1,13 +1,13 @@
 {
   "name": "tutorcare-tender-opportunities-feed",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "type": "module",
   "scripts": {
     "refresh": "node scripts/refresh.js",
-    "check": "node --check scripts/config.js && node --check scripts/sources.js && node --check scripts/refresh.js"
+    "publish:feed": "node scripts/publish.js",
+    "check": "node --check scripts/config.js && node --check scripts/sources.js && node --check scripts/transport.js && node --check scripts/state.js && node --check scripts/refresh.js && node --check scripts/publish.js",
+    "test": "node --test --test-isolation=none tests/*.test.js"
   },
-  "engines": {
-    "node": ">=20 <23"
-  }
+  "engines": { "node": ">=22 <25" }
 }
