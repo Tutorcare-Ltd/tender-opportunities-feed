@@ -19,5 +19,7 @@ async function atomicJson(file, data) {
 await atomicJson(stateFile, next);
 await atomicJson("docs/latest.json", { ...next.snapshot, health: next.health, sourceState: next.sourceState });
 await atomicJson("docs/health.json", next.health);
-console.log(JSON.stringify({ status: next.health.status, attemptId, totalCount: next.snapshot.totalCount, sourceFailures: next.health.sourceFailures }));
+// All durable writes are complete. Flush the summary, then release the CLI even
+// if a broken upstream transport retained a socket after being aborted.
+process.stdout.write(JSON.stringify({ status: next.health.status, attemptId, totalCount: next.snapshot.totalCount, sourceFailures: next.health.sourceFailures })+'\n',()=>process.exit(0));
 // Health must be persisted and delivered before the workflow is marked failed.

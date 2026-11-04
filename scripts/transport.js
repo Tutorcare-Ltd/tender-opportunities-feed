@@ -8,11 +8,24 @@ export function retryDelay(value, now, attempt, random = Math.random) {
   return Math.max(requested, 1000 * 2 ** attempt) + Math.floor(random() * 500);
 }
 
-export async function requestAll(initialUrl, source, {
+// Bound the complete transport operation, including response bodies and their
+// cancellation. Per-fetch aborts alone cannot guard an unresponsive transport.
+export async function requestAll(initialUrl, source, options={}) {
+  const budget=options.budgetMs??8*60*1000, controller=new AbortController();
+  let timer;
+  const deadline=new Promise((_,reject)=>{timer=setTimeout(()=>{
+    controller.abort();
+    reject(new Error(source+': request budget exhausted; checkpoint retained'));
+  },budget);});
+  try{return await Promise.race([requestPages(initialUrl,source,{...options,overallSignal:controller.signal}),deadline]);}
+  finally{clearTimeout(timer);controller.abort();}
+}
+
+async function requestPages(initialUrl, source, {
   fetchImpl = fetch, wait = sleep, now = Date.now, random = Math.random,
   maxPages = 100, attempts = 4, pageDelayMs = 1000,
   budgetMs = 8 * 60 * 1000, requestTimeoutMs = 30000,
-  log = console.warn
+  log = console.warn, overallSignal
 } = {}) {
   const origin = new URL(initialUrl).origin;
   const deadline = now() + budgetMs;
@@ -20,10 +33,12 @@ export async function requestAll(initialUrl, source, {
   const releases = [];
   let url = initialUrl;
   async function pause(ms) {
+    overallSignal.throwIfAborted();
     if (now() + ms >= deadline) throw new Error(source + ": retry exceeds run budget; checkpoint retained");
     await wait(ms);
   }
   while (url) {
+    overallSignal.throwIfAborted();
     if (visited.size >= maxPages) throw new Error(source + ": pagination limit reached before completion");
     if (visited.has(url)) throw new Error(source + ": repeated pagination URL");
     const target = new URL(url);
@@ -37,10 +52,11 @@ export async function requestAll(initialUrl, source, {
       try {
         response = await fetchImpl(url, {
           headers: { accept: "application/json", "user-agent": "Tutorcare-Tender-Updater/1.1" },
-          signal: AbortSignal.timeout(Math.max(1, Math.min(requestTimeoutMs, remaining))),
+          signal: AbortSignal.any([overallSignal,AbortSignal.timeout(Math.max(1, Math.min(requestTimeoutMs, remaining)))]),
           redirect: "error"
         });
       } catch {
+        overallSignal.throwIfAborted();
         if (attempt === attempts - 1) throw new Error(source + ": request failed after retries");
         await pause(retryDelay(null, now(), attempt, random));
         continue;
