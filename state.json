@@ -2,46 +2,126 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-10-29T09:41:04.953Z",
-      "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
-      "lastAttemptAt": "2026-11-04T13:25:53.583Z",
+      "watermark": "2026-11-04T13:30:44.767Z",
+      "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
+      "lastAttemptAt": "2026-11-04T13:30:44.767Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-10-21T09:41:04.953Z",
-        "to": "2026-10-29T09:41:04.953Z"
+        "from": "2026-10-28T09:41:04.953Z",
+        "to": "2026-11-04T13:30:44.767Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-10-29T09:41:04.953Z",
-      "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
-      "lastAttemptAt": "2026-11-04T13:25:53.583Z",
+      "watermark": "2026-11-04T13:30:44.767Z",
+      "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
+      "lastAttemptAt": "2026-11-04T13:30:44.767Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-10-21T09:41:04.953Z",
-        "to": "2026-10-29T09:41:04.953Z"
+        "from": "2026-10-28T09:41:04.953Z",
+        "to": "2026-11-04T13:30:44.767Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
-    "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
+    "buildId": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
+    "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
     "interval": {
-      "from": "2026-10-21T09:41:04.953Z",
-      "to": "2026-11-04T13:25:53.583Z"
+      "from": "2026-10-28T09:41:04.953Z",
+      "to": "2026-11-04T13:30:44.767Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 21,
-    "totalCount": 117,
+    "retrievedCount": 15,
+    "totalCount": 130,
     "sourceFailures": [],
     "records": [
+      {
+        "id": "cf-0517bf68-0a3f-4e09-8353-3a6e97560ef9-920373",
+        "title": "Provision of Wellbeing Workshops Contract",
+        "authority": "GOVERNMENT COMMERCIAL AGENCY",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "0517bf68-0a3f-4e09-8353-3a6e97560ef9-920373",
+        "published": "2026-11-03",
+        "deadline": "2026-09-16",
+        "value": 223752,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          14,
+          14,
+          10,
+          14,
+          0
+        ],
+        "description": "Provision of Wellbeing Workshops Contract",
+        "tenderSummary": "Provision of Wellbeing Workshops Contract",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-11-03 to 2029-11-02",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/0517bf68-0a3f-4e09-8353-3a6e97560ef9",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "North East, North West, Yorkshire and the Humber, East Midlands, West Midlands, East of England, London, South East, South West, Scotland, Wales, Northern Ireland",
+        "cpv": "80511000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
+        "demo": false
+      },
+      {
+        "id": "cf-541bfa44-466d-4b8e-a8cf-d905fb00b230-919652",
+        "title": "Ratton School Specialist Base - Project Manager, Technical Advisor Consultancy Services",
+        "authority": "East Sussex County Council",
+        "category": "Fire safety",
+        "source": "Contracts Finder",
+        "noticeId": "541bfa44-466d-4b8e-a8cf-d905fb00b230-919652",
+        "published": "2026-10-29",
+        "deadline": "2026-09-18",
+        "value": 37501.67,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "East Sussex County Council (ESCC) requires the appointment of an independent Project Manager and Technical Advisor (PM/TA) to support the delivery of a school project utilising a Modern Methods of Construction (MMC) solution. The PM/TA will provide overall project management, governance, programme management, stakeholder engagement, risk and change management, together with independent technical assurance throughout the design, manufacture, construction, commissioning and defects phases of the project. The requirement is needed to ensure ESCC acts as an informed client and receives objective, evidence-based advice throughout the project lifecycle. Given the specialist nature of MMC delivery and the need to maintain robust oversight of programme, quality, statutory compliance, design development and construction activities, ESCC requires an experienced consultant capable of providing both project management leadership and independent technical assurance. The key objectives of the procurement were to: • Appoint a suitably qualified and experienced consultant with expertise in project management and technical assurance for MMC projects. • Provide ESCC with independent oversight and challenge of design, manufacturing and construction activities. • Ensure compliance with statutory requirements, Building Regulations, fire safety, accessibility standards and SEND-specific requirements. • Support effective project governance, stakeholder engagement, risk management and decision-making. • Protect the Council's interests by providing quality assurance, programme monitoring and independent technical advice throughout project delivery. • Deliver value for money whilst ensuring successful project outcomes and minimising project risk.",
+        "tenderSummary": "East Sussex County Council (ESCC) requires the appointment of an independent Project Manager and Technical Advisor (PM/TA) to support the delivery of a school project utilising a Modern Methods of Construction (MMC) solution. The PM/TA will provide overall project management, governance, programme management, stakeholder engagement, risk and change management, together with independent technical assurance throughout the design, manufacture, construction, commissioning and defects phases of the project. The requirement is needed to ensure ESCC acts as an informed client and receives objective, evidence-based advice throughout the project lifecycle. Given the specialist nature of MMC delivery and the need to maintain robust oversight of programme, quality, statutory compliance, design development and construction activities, ESCC requires an experienced consultant capable of providing both project management leadership and independent technical assurance. The key objectives of the procurement were to: • Appoint a suitably qualified and experienced consultant with expertise in project management and technical assurance for MMC projects. • Provide ESCC with independent oversight and challenge of design, manufacturing and construction activities. • Ensure compliance with statutory requirements, Building Regulations, fire safety, accessibility standards and SEND-specific requirements. • Support effective project governance, stakeholder engagement, risk management and decision-making. • Protect the Council's interests by providing quality assurance, programme monitoring and independent technical advice throughout project delivery. • Deliver value for money whilst ensuring successful project outcomes and minimising project risk.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-10-12 to 2027-10-14",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/541bfa44-466d-4b8e-a8cf-d905fb00b230",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "South East",
+        "cpv": "71315200",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
+        "demo": false
+      },
       {
         "id": "fts-088150-2026",
         "title": "Learning, Talent and Performance Platform",
@@ -3421,6 +3501,127 @@
         "demo": false
       },
       {
+        "id": "fts-104586-2026",
+        "title": "Communal Entrance Doors Qualifying Long-Term Agreement",
+        "authority": "VIVID Housing Ltd",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "104586-2026",
+        "published": "2026-11-04",
+        "deadline": "2026-11-16",
+        "value": 5000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "VIVID Housing Limited is seeking to appoint a suitably qualified and experienced contractor to enter into a Qualifying Long-Term Agreement (QLTA) for the Communal Doors Installation and Replacement Works, across its housing portfolio. The scope of the agreement includes the survey, design, manufacture, supply, installation, replacement of communal entrance doors. The Contract will include a range of door types and associated components, including steel, aluminium, timber, composite and UPVC door sets, glazing, curtain walling and door entry access control systems. All works must comply with current Building Regulations, relevant British Standards, fire safety requirements, accessibility requirements, and Secured by Design standards. The appointed contractor will be responsible for carrying out property surveys, consulting with residents where required, manufacturing and installing compliant door sets, and ensuring minimal disruption to residents during delivery of the works.",
+        "tenderSummary": "VIVID Housing Limited is seeking to appoint a suitably qualified and experienced contractor to enter into a Qualifying Long-Term Agreement (QLTA) for the Communal Doors Installation and Replacement Works, across its housing portfolio. The scope of the agreement includes the survey, design, manufacture, supply, installation, replacement of communal entrance doors. The Contract will include a range of door types and associated components, including steel, aluminium, timber, composite and UPVC door sets, glazing, curtain walling and door entry access control systems. All works must comply with current Building Regulations, relevant British Standards, fire safety requirements, accessibility requirements, and Secured by Design standards. The appointed contractor will be responsible for carrying out property surveys, consulting with residents where required, manufacturing and installing compliant door sets, and ensuring minimal disruption to residents during delivery of the works.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/104586-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "45421100, 45421130, 45421131",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
+        "demo": false
+      },
+      {
+        "id": "fts-103128-2026",
+        "title": "Framework for the Provision of Trailblazer Programme Support Services and Activities",
+        "authority": "City & County of Swansea",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "103128-2026",
+        "published": "2026-10-30",
+        "deadline": "2026-11-16",
+        "value": 190000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          14,
+          10,
+          14,
+          0
+        ],
+        "description": "Swansea Council is establishing a Framework Agreement to commission suitable providers to deliver accessible, community-based activities and support as part of Swansea Council’s Trailblazer programme. Funding for this commission has been secured through the Welsh Government’s Trailblazer fund. The services will support economically inactive residents across Swansea to improve health, wellbeing, confidence, resilience, social connection and readiness to move closer to employment, training, volunteering or wider community participation. The programme will align with CFW+ and strengthen links with statutory, third sector, health, community and employer-based services to ensure participants can access appropriate local support and opportunities. The Framework is comprised of Four (4) Lots:- Lot 1: Physical and Emotional Health Lot 2: Education, Employability and Skill Building Lot 3: Creative and Cultural Provision Lot 4: Other Beneficial Provision",
+        "tenderSummary": "Swansea Council is establishing a Framework Agreement to commission suitable providers to deliver accessible, community-based activities and support as part of Swansea Council’s Trailblazer programme. Funding for this commission has been secured through the Welsh Government’s Trailblazer fund. The services will support economically inactive residents across Swansea to improve health, wellbeing, confidence, resilience, social connection and readiness to move closer to employment, training, volunteering or wider community participation. The programme will align with CFW+ and strengthen links with statutory, third sector, health, community and employer-based services to ensure participants can access appropriate local support and opportunities. The Framework is comprised of Four (4) Lots:- Lot 1: Physical and Emotional Health Lot 2: Education, Employability and Skill Building Lot 3: Creative and Cultural Provision Lot 4: Other Beneficial Provision",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://etenderwales.ukp.app.jaggaer.com/home.html",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL18",
+        "cpv": "80510000, 80570000, 98000000, 85312320, 85312300, 75200000, 80400000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
+        "demo": false
+      },
+      {
+        "id": "fts-102856-2026",
+        "title": "Preventing Knife Crime: Community Champions Programme",
+        "authority": "South Yorkshire Mayoral Combined Authority",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "102856-2026",
+        "published": "2026-10-29",
+        "deadline": "2026-11-16",
+        "value": 165000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          14,
+          10,
+          14,
+          0
+        ],
+        "description": "The Violence Prevention Partnership (VPP) is seeking a provider to design and deliver a leadership development programme for leaders and aspiring leaders from the Voluntary, Community, Faith and Social Enterprise (VCFSE) sector. The programme will strengthen leadership capability across organisations working with children, young people and communities, while equipping participants with the specialist knowledge, skills and practical tools to lead effective, evidence-informed approaches to knife crime prevention.",
+        "tenderSummary": "The Violence Prevention Partnership (VPP) is seeking a provider to design and deliver a leadership development programme for leaders and aspiring leaders from the Voluntary, Community, Faith and Social Enterprise (VCFSE) sector. The programme will strengthen leadership capability across organisations working with children, young people and communities, while equipping participants with the specialist knowledge, skills and practical tools to lead effective, evidence-informed approaches to knife crime prevention.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/102856-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE3",
+        "cpv": "80510000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
+        "demo": false
+      },
+      {
         "id": "fts-094251-2026",
         "title": "Contract for the Execution of Fire Safety Works",
         "authority": "City & County of Swansea",
@@ -3817,6 +4018,45 @@
         "demo": false
       },
       {
+        "id": "fts-103313-2026",
+        "title": "An Online Policies and Procedures service",
+        "authority": "Lincolnshire County Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "103313-2026",
+        "published": "2026-10-30",
+        "deadline": "2026-11-20",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "All practitioners in Lincolnshire who work with or have direct contact with Children or Adults must have access to current national legislation and statutory guidance, alongside local policies and procedures and best practice guidance, to enable them to safeguard Children and Adults. This includes staff within Lincolnshire County Council’s (LCC) Children’s Services, Adult Social Care, and professionals from partner organisations and sectors, such as Police, Education, Health and the Voluntary and Community sector. LCC therefore requires access to an online manual to host and manage policies and procedures on behalf of Children’s Services, Adult Services and the Lincolnshire Safeguarding Children Partnership (LSCP) as well as a range of safeguarding and regulatory manuals to support multi agency access to legislation, practice and policy guidance across Lincolnshire. This service is a critical resource for practitioners across Lincolnshire, ensuring access to up-to-date legislative, statutory and practice guidance that supports safe, effective and compliant service delivery.",
+        "tenderSummary": "All practitioners in Lincolnshire who work with or have direct contact with Children or Adults must have access to current national legislation and statutory guidance, alongside local policies and procedures and best practice guidance, to enable them to safeguard Children and Adults. This includes staff within Lincolnshire County Council’s (LCC) Children’s Services, Adult Social Care, and professionals from partner organisations and sectors, such as Police, Education, Health and the Voluntary and Community sector. LCC therefore requires access to an online manual to host and manage policies and procedures on behalf of Children’s Services, Adult Services and the Lincolnshire Safeguarding Children Partnership (LSCP) as well as a range of safeguarding and regulatory manuals to support multi agency access to legislation, practice and policy guidance across Lincolnshire. This service is a critical resource for practitioners across Lincolnshire, ensuring access to up-to-date legislative, statutory and practice guidance that supports safe, effective and compliant service delivery.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/103313-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "72900000, 72800000, 72700000, 72600000, 72500000, 72400000, 72300000, 72200000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
+        "demo": false
+      },
+      {
         "id": "fts-099085-2026",
         "title": "The Harlington Refurbishment And Remodelling",
         "authority": "Fleet Town Council",
@@ -3895,6 +4135,45 @@
         "demo": false
       },
       {
+        "id": "fts-103211-2026",
+        "title": "The Harlington Refurbishment And Remodelling",
+        "authority": "Fleet Town Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "103211-2026",
+        "published": "2026-10-30",
+        "deadline": "2026-11-21",
+        "value": 10000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The works comprise refurbishment, reconfiguration and enhancement of the existing Harlington civic and entertainment venue. This involves refurbishment of the auditorium, including a new roof structure, balcony/mezzanine seating, retractable seating, improved accessibility, and upgraded theatre lighting, AV, rigging and acoustic systems. Front-of-house areas are to be remodelled with an improved entrance, foyer, box office, bar, WCs and circulation, alongside upgrades to backstage areas, dressing rooms, Council offices and meeting facilities. The scheme also incorporates substantial mechanical and electrical replacements, improvements to fire safety, thermal performance and energy efficiency, together with drainage, landscaping and external works. To be procured via two stage JCT design and build contract.",
+        "tenderSummary": "The works comprise refurbishment, reconfiguration and enhancement of the existing Harlington civic and entertainment venue. This involves refurbishment of the auditorium, including a new roof structure, balcony/mezzanine seating, retractable seating, improved accessibility, and upgraded theatre lighting, AV, rigging and acoustic systems. Front-of-house areas are to be remodelled with an improved entrance, foyer, box office, bar, WCs and circulation, alongside upgrades to backstage areas, dressing rooms, Council offices and meeting facilities. The scheme also incorporates substantial mechanical and electrical replacements, improvements to fire safety, thermal performance and energy efficiency, together with drainage, landscaping and external works. To be procured via two stage JCT design and build contract.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-24387",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKC, UKD, UKE, UKF, UKG, UKH, UKI, UKJ, UKK",
+        "cpv": "45000000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
+        "demo": false
+      },
+      {
         "id": "fts-101410-2026",
         "title": "Training First Aid at Work",
         "authority": "Belfast Health & Social Care Trust",
@@ -3933,6 +4212,45 @@
           "80000000"
         ],
         "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
+        "id": "fts-104533-2026",
+        "title": "Catering Services",
+        "authority": "CONNECT ACADEMY TRUST",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "104533-2026",
+        "published": "2026-11-04",
+        "deadline": "2026-11-23",
+        "value": 850000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The Trust invites expressions of interest from suitably qualified catering providers for the provision of school catering services across nine schools within the Trust (based in Plymouth, Torquay and Newton Abbott). Current value of contract is £850,000. The contract will include: • Daily pupil meal provision • Free School Meal provision • Hospitality services • Nutritional compliance • Sustainability objectives • Social value commitments The procurement will be conducted under the Competitive Flexible Procedure in accordance with the Procurement Act 2023. Interested suppliers must demonstrate: • Relevant education sector experience • Financial stability • Appropriate insurances • Safeguarding compliance • Food safety management systems • TUPE experience The estimated contract commencement date is 1 April 2027.",
+        "tenderSummary": "The Trust invites expressions of interest from suitably qualified catering providers for the provision of school catering services across nine schools within the Trust (based in Plymouth, Torquay and Newton Abbott). Current value of contract is £850,000. The contract will include: • Daily pupil meal provision • Free School Meal provision • Hospitality services • Nutritional compliance • Sustainability objectives • Social value commitments The procurement will be conducted under the Competitive Flexible Procedure in accordance with the Procurement Act 2023. Interested suppliers must demonstrate: • Relevant education sector experience • Financial stability • Appropriate insurances • Safeguarding compliance • Food safety management systems • TUPE experience The estimated contract commencement date is 1 April 2027.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-24087",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "55520000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
         "demo": false
       },
       {
@@ -4011,6 +4329,45 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
+        "id": "fts-102519-2026",
+        "title": "Safeguarding insight work to inform sector-led improvement",
+        "authority": "Improvement and Development Agency for Local Government (IDeA)",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "102519-2026",
+        "published": "2026-10-29",
+        "deadline": "2026-11-24",
+        "value": 24700,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "This project will develop evidence-based insights to inform future sector-led improvement and so to strengthen adult safeguarding practice. Through a review of academic research, CQC reports, peer reviews and safeguarding improvement activity, it will identify the organisational structures, processes and leadership approaches associated with effective safeguarding services. Engagement with safeguarding leaders, practitioners and experts in the field will help to explore common challenges, barriers and successful improvement strategies, including lessons from post-CQC support programmes. The findings will inform practical recommendations for local authorities and support Partners in Care and Health (PCH) to enhance its safeguarding improvement offer, ensuring it meets emerging sector needs and national priorities. PCH are looking for experienced consultancy to undertake a multi-faceted piece of work around safeguarding insight. • Research and insight into what processes and pathways, ways of organising safeguarding in adult social care services, support and improve positive safeguarding practice. • Refer to existing analyses of recurring themes in authorities demonstrating strong safeguarding performance and those requiring improvement (including CQC reports). • Develop practical recommendations for local authorities seeking to strengthen safeguarding arrangements. • Gain input from consultants and local authorities who have experienced PCH bespoke project support and peer reviews, gain insight from regional and national networks with an interest in improvement of adult safeguarding services. This may include convening focus groups and undertaking interviews • Reviewing academic and ‘grey’ literature, e.g. CQC inspection reports and post-CQC interventions to support improvement in safeguarding services; considering what has helped improvement from the post-CQC bespoke safeguarding projects and from peer reviews. • Recommendations on how PCH can upscale its current improvement work for 2027-9.",
+        "tenderSummary": "This project will develop evidence-based insights to inform future sector-led improvement and so to strengthen adult safeguarding practice. Through a review of academic research, CQC reports, peer reviews and safeguarding improvement activity, it will identify the organisational structures, processes and leadership approaches associated with effective safeguarding services. Engagement with safeguarding leaders, practitioners and experts in the field will help to explore common challenges, barriers and successful improvement strategies, including lessons from post-CQC support programmes. The findings will inform practical recommendations for local authorities and support Partners in Care and Health (PCH) to enhance its safeguarding improvement offer, ensuring it meets emerging sector needs and national priorities. PCH are looking for experienced consultancy to undertake a multi-faceted piece of work around safeguarding insight. • Research and insight into what processes and pathways, ways of organising safeguarding in adult social care services, support and improve positive safeguarding practice. • Refer to existing analyses of recurring themes in authorities demonstrating strong safeguarding performance and those requiring improvement (including CQC reports). • Develop practical recommendations for local authorities seeking to strengthen safeguarding arrangements. • Gain input from consultants and local authorities who have experienced PCH bespoke project support and peer reviews, gain insight from regional and national networks with an interest in improvement of adult safeguarding services. This may include convening focus groups and undertaking interviews • Reviewing academic and ‘grey’ literature, e.g. CQC inspection reports and post-CQC interventions to support improvement in safeguarding services; considering what has helped improvement from the post-CQC bespoke safeguarding projects and from peer reviews. • Recommendations on how PCH can upscale its current improvement work for 2027-9.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/102519-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85300000, 85140000, 85110000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
         "demo": false
       },
       {
@@ -4172,6 +4529,45 @@
         "demo": false
       },
       {
+        "id": "fts-103016-2026",
+        "title": "Great Hall Bridge Alexandra Palace",
+        "authority": "London Borough of Haringey",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "103016-2026",
+        "published": "2026-10-30",
+        "deadline": "2026-11-27",
+        "value": 850000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The project is to regenerate the use of the Great Hall Bridge through improving waterproofing and ensuring compliance with Building Regulations. Through these interventions, the project will allow for members of the public to use the bridge both as access to the Great Hall, which hosts some of the most significant events for the Palace, and as a means of escape therefore safety is paramount. The proposed works are to be carefully integrated within the existing structure and building services infrastructure, ensuring compliance with current Building Regulations and statutory requirements while safeguarding the listed fabric, preserve the architectural integrity of the building, minimise disruption to public events, and ensure continuous functionality for critical life-safety systems and venue operations.",
+        "tenderSummary": "The project is to regenerate the use of the Great Hall Bridge through improving waterproofing and ensuring compliance with Building Regulations. Through these interventions, the project will allow for members of the public to use the bridge both as access to the Great Hall, which hosts some of the most significant events for the Palace, and as a means of escape therefore safety is paramount. The proposed works are to be carefully integrated within the existing structure and building services infrastructure, ensuring compliance with current Building Regulations and statutory requirements while safeguarding the listed fabric, preserve the architectural integrity of the building, minimise disruption to public events, and ensure continuous functionality for critical life-safety systems and venue operations.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/103016-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKI",
+        "cpv": "45000000, 45200000, 45210000, 45212000, 45212300, 45212350, 45212351, 45212352, 45212353, 45212354, 45217000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
+        "demo": false
+      },
+      {
         "id": "fts-099739-2026",
         "title": "WSTLAT Provision of Supply Agency Services",
         "authority": "Westcountry Schools Trust",
@@ -4290,6 +4686,45 @@
           "80000000"
         ],
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-103327-2026",
+        "title": "ITT - Climate resilience and the historic environment: Sustainable drainage systems (UID 371)",
+        "authority": "Historic England",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "103327-2026",
+        "published": "2026-10-30",
+        "deadline": "2026-11-30",
+        "value": 25000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "This project seeks to develop an initial evidence base formed of a series of case studies to inform updated guidance on the sensitive integration of Sustainable Drainage Systems (SuDS) within the historic environment. It will examine how SuDS can support climate adaptation, water management, biodiversity enhancement and nature recovery while safeguarding heritage significance, and will identify best practice, case studies, decision-making frameworks, policy considerations, and implementation challenges across a range of historic contexts and stakeholder groups.",
+        "tenderSummary": "This project seeks to develop an initial evidence base formed of a series of case studies to inform updated guidance on the sensitive integration of Sustainable Drainage Systems (SuDS) within the historic environment. It will examine how SuDS can support climate adaptation, water management, biodiversity enhancement and nature recovery while safeguarding heritage significance, and will identify best practice, case studies, decision-making frameworks, policy considerations, and implementation challenges across a range of historic contexts and stakeholder groups.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/103327-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "71250000, 71400000, 73110000, 90712400, 92522000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
         "demo": false
       },
       {
@@ -4447,6 +4882,46 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add"
+      },
+      {
+        "id": "fts-104449-2026",
+        "title": "Welfare Advice Services and Advice Network Support & Training Services",
+        "authority": "City of Bradford Metropolitan District Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "104449-2026",
+        "published": "2026-11-03",
+        "deadline": "2026-12-04",
+        "value": 21102592,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The City of Bradford Metropolitan District Council is procuring Welfare Advice Services and Advice Network Support and Training Services to support residents experiencing financial hardship, poverty and barriers to accessing support across Bradford District. The service is funded through the Crisis and Resilience Fund and aims to improve financial wellbeing, resilience and access to welfare support. The procurement comprises two lots. Lot 1 – Welfare Advice Services will provide free, independent, impartial and confidential welfare advice, casework and representation for Bradford District residents. The service will support residents with welfare benefits, debt, housing, employment, health-related welfare issues, fuel poverty, consumer matters and immigration advice within the provider's authorised competence. The Lead Provider will deliver services directly and coordinate a network of subcontracted locality-based organisations to ensure access across all five Bradford localities. The service will operate on a \"no wrong front door\" basis, ensuring residents receive timely support, active referrals and appropriate advocacy where required. Lot 2 – Advice Network Support and Training Services will support workforce development, quality improvement, collaboration and network coordination across the Bradford District Resilience and Advice Network. The Provider will facilitate partnership working, deliver a district-wide training programme, support consistent reporting and quality standards, strengthen safeguarding awareness and develop pathways into accredited welfare advice roles. The services will contribute to the Council's Anti-Poverty Strategy, support prevention of homelessness, improve financial resilience, increase benefit uptake, strengthen partnership working and improve outcomes for vulnerable residents across the district. The initial contract term is two years with options to extend for up to two further periods of 24 months.",
+        "tenderSummary": "The City of Bradford Metropolitan District Council is procuring Welfare Advice Services and Advice Network Support and Training Services to support residents experiencing financial hardship, poverty and barriers to accessing support across Bradford District. The service is funded through the Crisis and Resilience Fund and aims to improve financial wellbeing, resilience and access to welfare support. The procurement comprises two lots. Lot 1 – Welfare Advice Services will provide free, independent, impartial and confidential welfare advice, casework and representation for Bradford District residents. The service will support residents with welfare benefits, debt, housing, employment, health-related welfare issues, fuel poverty, consumer matters and immigration advice within the provider's authorised competence. The Lead Provider will deliver services directly and coordinate a network of subcontracted locality-based organisations to ensure access across all five Bradford localities. The service will operate on a \"no wrong front door\" basis, ensuring residents receive timely support, active referrals and appropriate advocacy where required. Lot 2 – Advice Network Support and Training Services will support workforce development, quality improvement, collaboration and network coordination across the Bradford District Resilience and Advice Network. The Provider will facilitate partnership working, deliver a district-wide training programme, support consistent reporting and quality standards, strengthen safeguarding awareness and develop pathways into accredited welfare advice roles. The services will contribute to the Council's Anti-Poverty Strategy, support prevention of homelessness, improve financial resilience, increase benefit uptake, strengthen partnership working and improve outcomes for vulnerable residents across the district. The initial contract term is two years with options to extend for up to two further periods of 24 months.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/104449-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE41, UKE4",
+        "cpv": "85312400, 85311100, 85311200, 85311300",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
         "demo": false
       },
       {
@@ -4731,45 +5206,85 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add"
+      },
+      {
+        "id": "cf-e92582f5-95e5-461d-8a9f-675c50df724a-920293",
+        "title": "Fire safety works and curtain walling - Bicton - Accommodation blocks",
+        "authority": "Cornwall College",
+        "category": "Fire safety",
+        "source": "Contracts Finder",
+        "noticeId": "e92582f5-95e5-461d-8a9f-675c50df724a-920293",
+        "published": "2026-11-03",
+        "deadline": "2027-03-31",
+        "value": 250000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "The Cornwall College Group will be issuing a tender for the following works on its Bicton College campus (East Budleigh, Budleigh Salterton EX9 7BH), which will be released w/c 25 January 2027: • Remediation and/or supply/replacement of FD30S internal fire door sets for 72 doors in total (36 in each block) in two ensuite residential accommodation blocks; Louden and Veitch. • Fire stopping works to two ensuite residential accommodation blocks; Louden and Veitch. • Supply and replacement of curtain walling in three residential accommodation blocks; Furze, Glendinning and Gilpin. • The works will be required to take place over the summer break 2027 (5th July to 3rd September 2027) and one local contractor (within two hours normal travelling distance from their base/office) is sought to carry out all the works indicated above. • The contract will commence on 01/04/2027 due to material lead times Additional information: The Colleges electronic tendering system (herein after referred to as In-Tend) will be used for this Tender https://in-tendhost.co.uk/cornwall Registering your company on In-Tend Supplier Side https://in-tendhost.co.uk/cornwall/aspx/Home • Overview of Portal • Intro to Project Summary Page/ Correspondence box Useful Contact Information: In-Tend Helpdesk 0845 5578079 email: support@in-tend.co.uk All bidders / suppliers are ALSO required to register on the Government Central Digital Platform https://www.gov.uk/government/publications/procurement-act-2023-short-guides/central-digital-platform-factsheet-html",
+        "tenderSummary": "The Cornwall College Group will be issuing a tender for the following works on its Bicton College campus (East Budleigh, Budleigh Salterton EX9 7BH), which will be released w/c 25 January 2027: • Remediation and/or supply/replacement of FD30S internal fire door sets for 72 doors in total (36 in each block) in two ensuite residential accommodation blocks; Louden and Veitch. • Fire stopping works to two ensuite residential accommodation blocks; Louden and Veitch. • Supply and replacement of curtain walling in three residential accommodation blocks; Furze, Glendinning and Gilpin. • The works will be required to take place over the summer break 2027 (5th July to 3rd September 2027) and one local contractor (within two hours normal travelling distance from their base/office) is sought to carry out all the works indicated above. • The contract will commence on 01/04/2027 due to material lead times Additional information: The Colleges electronic tendering system (herein after referred to as In-Tend) will be used for this Tender https://in-tendhost.co.uk/cornwall Registering your company on In-Tend Supplier Side https://in-tendhost.co.uk/cornwall/aspx/Home • Overview of Portal • Intro to Project Summary Page/ Correspondence box Useful Contact Information: In-Tend Helpdesk 0845 5578079 email: support@in-tend.co.uk All bidders / suppliers are ALSO required to register on the Government Central Digital Platform https://www.gov.uk/government/publications/procurement-act-2023-short-guides/central-digital-platform-factsheet-html",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2027-03-31 to 2027-09-03",
+        "url": "https://www.contractsfinder.service.gov.uk/Search",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "South West",
+        "cpv": "50700000, 50800000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-04T13:25:53.583Z"
+    "lastPartialUpdate": "2026-11-04T13:30:44.767Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
-    "attemptedAt": "2026-11-04T13:25:53.583Z",
+    "attemptId": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
+    "attemptedAt": "2026-11-04T13:30:44.767Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
-    "retrievedCount": 21,
-    "totalCount": 117,
+    "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
+    "retrievedCount": 15,
+    "totalCount": 130,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-10-29T09:41:04.953Z",
-        "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
-        "lastAttemptAt": "2026-11-04T13:25:53.583Z",
+        "watermark": "2026-11-04T13:30:44.767Z",
+        "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
+        "lastAttemptAt": "2026-11-04T13:30:44.767Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-10-21T09:41:04.953Z",
-          "to": "2026-10-29T09:41:04.953Z"
+          "from": "2026-10-28T09:41:04.953Z",
+          "to": "2026-11-04T13:30:44.767Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-10-29T09:41:04.953Z",
-        "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
-        "lastAttemptAt": "2026-11-04T13:25:53.583Z",
+        "watermark": "2026-11-04T13:30:44.767Z",
+        "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
+        "lastAttemptAt": "2026-11-04T13:30:44.767Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-10-21T09:41:04.953Z",
-          "to": "2026-10-29T09:41:04.953Z"
+          "from": "2026-10-28T09:41:04.953Z",
+          "to": "2026-11-04T13:30:44.767Z"
         }
       }
     }
