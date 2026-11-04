@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 2,
+  "sourceState": {
+    "FTS": {
+      "watermark": "2026-09-17T09:41:04.953Z",
+      "lastSuccessfulUpdate": null
+    },
+    "Contracts Finder": {
+      "watermark": "2026-09-17T09:41:04.953Z",
+      "lastSuccessfulUpdate": null
+    }
+  },
+  "snapshot": {
+    "schemaVersion": 1,
+    "buildId": "202610231236",
+    "lastSuccessfulUpdate": null,
+    "interval": {
+      "from": "2026-09-17T09:41:04.953Z",
+      "to": "2026-10-23T12:36:59.308Z"
+    },
+    "sources": [
+      "FTS",
+      "Contracts Finder"
+    ],
+    "retrievedCount": 1,
+    "totalCount": 3,
+    "sourceFailures": [
+      "FTS: FTS returned HTTP 429"
+    ],
+    "records": [
+      {
+        "id": "fts-088150-2026",
+        "title": "Learning, Talent and Performance Platform",
+        "authority": "BROMFORD FLAGSHIP LIVEWEST LIMITED",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "088150-2026",
+        "published": "2026-09-17",
+        "deadline": "2026-09-28",
+        "value": 470000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          14,
+          10,
+          14,
+          0
+        ],
+        "description": "Bromford Flagship LiveWest (BFL) wants to procure a single, modern Learning Management System (LMS) to provide a unified learning and compliance platform across the organisation. The proposed solution will replace existing learning platforms and support the delivery, management and reporting of learning across the organisation. The LMS will serve a workforce of more than 6,000 colleagues across a geographically dispersed operating area, supporting a wide range of roles including housing, property maintenance, customer services, corporate services, leadership and specialist functions. BFL requires a scalable, cloud-based solution capable of managing mandatory, role-specific, compliance, onboarding and professional development learning through a single platform. The system must support both internal colleagues and external users, including contractors, suppliers and customers. The proposed contract is anticipated to be for an initial term of 3 years, with the option to extend for up to a further 2 years. The contract value stated within this notice is an estimate over the initial 3 year contract term. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Tewkesbury:-Education-and-training-services./A8WA327ZQ7 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/A8WA327ZQ7",
+        "tenderSummary": "Bromford Flagship LiveWest (BFL) wants to procure a single, modern Learning Management System (LMS) to provide a unified learning and compliance platform across the organisation. The proposed solution will replace existing learning platforms and support the delivery, management and reporting of learning across the organisation. The LMS will serve a workforce of more than 6,000 colleagues across a geographically dispersed operating area, supporting a wide range of roles including housing, property maintenance, customer services, corporate services, leadership and specialist functions. BFL requires a scalable, cloud-based solution capable of managing mandatory, role-specific, compliance, onboarding and professional development learning through a single platform. The system must support both internal colleagues and external users, including contractors, suppliers and customers. The proposed contract is anticipated to be for an initial term of 3 years, with the option to extend for up to a further 2 years. The contract value stated within this notice is an estimate over the initial 3 year contract term. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Tewkesbury:-Education-and-training-services./A8WA327ZQ7 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/A8WA327ZQ7",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/088150-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "80000000, 80420000, 80500000, 80510000, 80511000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "202609180923",
+        "demo": false,
+        "updatedBuild": "202609180941"
+      },
+      {
+        "id": "fts-088429-2026",
+        "title": "BASIS Certificate in Sustainable Land Management",
+        "authority": "Natural England",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "088429-2026",
+        "published": "2026-09-17",
+        "deadline": "2026-10-05",
+        "value": 19834,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "Catchment Sensitive Farming are looking for BASIS Certificate in Sustainable Land Management course for up to 10 Farm Advisers on a existing Course for delivery between the 19/10/2026 and 31/03/2027.",
+        "tenderSummary": "Catchment Sensitive Farming are looking for BASIS Certificate in Sustainable Land Management course for up to 10 Farm Advisers on a existing Course for delivery between the 19/10/2026 and 31/03/2027.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-22632",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "80510000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "202609180923",
+        "demo": false,
+        "updatedBuild": "202609180941"
+      },
+      {
+        "id": "cf-ecd27e50-1bd9-489a-ad12-72730a1a95cc-917035",
+        "title": "CA18527 - Danes Educational Trust",
+        "authority": "Danes Educational Trust",
+        "category": "Safeguarding",
+        "source": "Contracts Finder",
+        "noticeId": "ecd27e50-1bd9-489a-ad12-72730a1a95cc-917035",
+        "published": "2026-10-07",
+        "deadline": "2026-11-19",
+        "value": 7900000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Catering Services Opportunity Invitation to Tender - Catering Services Across 13 Schools within Danes Educational Trust Danes Educational Trust is seeking to appoint an exceptional, innovative and collaborative catering partner to deliver high-quality catering services across its family of 13 schools, comprising 6 Primary Schools and 7 Secondary Schools. As a dynamic and ambitious Multi Academy Trust, Danes Educational Trust is committed to providing outstanding educational environments where pupils and students can flourish. The Trust recognises the vital role that food, nutrition and the dining experience play in supporting wellbeing, educational outcomes and the development of healthy lifelong habits. Consequently, the Trust is seeking a catering provider that shares its vision, values and commitment to excellence. The successful catering partner will be responsible for delivering fresh, nutritious and appealing food offers that meet the diverse needs of pupils, students and staff across both primary and secondary settings. The Trust is looking for a provider that will move beyond traditional school catering models, bringing innovation, creativity and commercial expertise to create vibrant and engaging dining experiences that increase participation and enhance customer satisfaction. Menus should offer a range of contemporary, nutritious and appealing choices that reflect current food trends whilst remaining fully compliant with School Food Standards. The successful provider will be expected to continually evolve and develop its offer, ensuring that food provision remains relevant, exciting and responsive to the feedback of students, pupils and staff. Food safety and allergen management are of paramount importance to the Trust. Bidders must clearly demonstrate that allergen awareness, risk management and food safety are embedded throughout their organisation and form part of the company's culture and operational DNA. The Trust expects robust allergen controls, comprehensive staff training, effective communication processes and industry-leading systems to protect those with dietary requirements and food allergies. Danes Educational Trust is seeking more than a contractor; it is looking for a genuine strategic partner that will work collaboratively with school leaders and stakeholders to support wider educational objectives, engage with pupils and students, promote healthy eating, support sustainability initiatives and contribute positively to each school's culture and community. Bidder Requirements Prospective bidders must be able to demonstrate: • Significant experience delivering catering services within a Multi Academy Trust environment. • A successful track record of operating across multiple school locations under a single contract structure. • Proven experience catering for both Primary and Secondary Schools, with a clear understanding of the differing requirements, dining patterns and expectations of each phase. • The capability and resources to successfully manage catering services across 13 schools comprising 6 Primary Schools and 7 Secondary Schools. • Strong evidence of increasing meal uptake, enhancing customer satisfaction and delivering excellent value for money. • Full compliance with all relevant legislation relating to food safety, nutrition, employment, safeguarding, health and safety, and allergen management. • Robust allergen management systems, procedures and training programmes embedded throughout the organisation. • A commitment to innovation through menu development, themed events, promotional activities and customer engagement initiatives. • Proven mobilisation and change management expertise to ensure a seamless transition from any incumbent provider. • Financial stability and the ability to invest in continuous service improvement, training, technology and innovation throughout the contract term. • Demonstrable commitment to sustainability, food provenance, waste reduction and supporting environmental objectives. Partnership Expectations The appointed provider will be expected to: • Deliver consistently high standards of food quality and customer service. • Work in partnership with school leaders, Trust representatives and key stakeholders. • Engage regularly with pupils, students and staff to shape and improve the catering offer. • Support food education, health and wellbeing initiatives across the Trust. • Maintain outstanding standards of food safety, allergen management and compliance. • Drive continuous improvement and innovation throughout the contract term. • Create welcoming dining environments that encourage healthy eating habits and increase participation. Contract Opportunity The contract will be awarded for an initial term of three years, with the option, at the Trust's discretion, to extend for a further two years based on successful performance, service quality and continued alignment with the Trust's strategic objectives. This represents an exciting opportunity for an experienced and forward-thinking catering organisation to partner with Danes Educational Trust and play a central role in enhancing the daily experience of pupils, students and staff across its schools. The Trust welcomes interest from dynamic, ambitious and education-focused catering providers capable of delivering a service that reflects the values, aspirations and excellence expected throughout the Trust. To access this competition: Registered: Login to https://suppliers.multiquote.com and view the opportunity CA18527. Not registered: Visit https://suppliers.multiquote.com then register and quote CA18527 as the reason for registration. Any queries please contact MultiQuote on 020 3920 8054.",
+        "tenderSummary": "Catering Services Opportunity Invitation to Tender - Catering Services Across 13 Schools within Danes Educational Trust Danes Educational Trust is seeking to appoint an exceptional, innovative and collaborative catering partner to deliver high-quality catering services across its family of 13 schools, comprising 6 Primary Schools and 7 Secondary Schools. As a dynamic and ambitious Multi Academy Trust, Danes Educational Trust is committed to providing outstanding educational environments where pupils and students can flourish. The Trust recognises the vital role that food, nutrition and the dining experience play in supporting wellbeing, educational outcomes and the development of healthy lifelong habits. Consequently, the Trust is seeking a catering provider that shares its vision, values and commitment to excellence. The successful catering partner will be responsible for delivering fresh, nutritious and appealing food offers that meet the diverse needs of pupils, students and staff across both primary and secondary settings. The Trust is looking for a provider that will move beyond traditional school catering models, bringing innovation, creativity and commercial expertise to create vibrant and engaging dining experiences that increase participation and enhance customer satisfaction. Menus should offer a range of contemporary, nutritious and appealing choices that reflect current food trends whilst remaining fully compliant with School Food Standards. The successful provider will be expected to continually evolve and develop its offer, ensuring that food provision remains relevant, exciting and responsive to the feedback of students, pupils and staff. Food safety and allergen management are of paramount importance to the Trust. Bidders must clearly demonstrate that allergen awareness, risk management and food safety are embedded throughout their organisation and form part of the company's culture and operational DNA. The Trust expects robust allergen controls, comprehensive staff training, effective communication processes and industry-leading systems to protect those with dietary requirements and food allergies. Danes Educational Trust is seeking more than a contractor; it is looking for a genuine strategic partner that will work collaboratively with school leaders and stakeholders to support wider educational objectives, engage with pupils and students, promote healthy eating, support sustainability initiatives and contribute positively to each school's culture and community. Bidder Requirements Prospective bidders must be able to demonstrate: • Significant experience delivering catering services within a Multi Academy Trust environment. • A successful track record of operating across multiple school locations under a single contract structure. • Proven experience catering for both Primary and Secondary Schools, with a clear understanding of the differing requirements, dining patterns and expectations of each phase. • The capability and resources to successfully manage catering services across 13 schools comprising 6 Primary Schools and 7 Secondary Schools. • Strong evidence of increasing meal uptake, enhancing customer satisfaction and delivering excellent value for money. • Full compliance with all relevant legislation relating to food safety, nutrition, employment, safeguarding, health and safety, and allergen management. • Robust allergen management systems, procedures and training programmes embedded throughout the organisation. • A commitment to innovation through menu development, themed events, promotional activities and customer engagement initiatives. • Proven mobilisation and change management expertise to ensure a seamless transition from any incumbent provider. • Financial stability and the ability to invest in continuous service improvement, training, technology and innovation throughout the contract term. • Demonstrable commitment to sustainability, food provenance, waste reduction and supporting environmental objectives. Partnership Expectations The appointed provider will be expected to: • Deliver consistently high standards of food quality and customer service. • Work in partnership with school leaders, Trust representatives and key stakeholders. • Engage regularly with pupils, students and staff to shape and improve the catering offer. • Support food education, health and wellbeing initiatives across the Trust. • Maintain outstanding standards of food safety, allergen management and compliance. • Drive continuous improvement and innovation throughout the contract term. • Create welcoming dining environments that encourage healthy eating habits and increase participation. Contract Opportunity The contract will be awarded for an initial term of three years, with the option, at the Trust's discretion, to extend for a further two years based on successful performance, service quality and continued alignment with the Trust's strategic objectives. This represents an exciting opportunity for an experienced and forward-thinking catering organisation to partner with Danes Educational Trust and play a central role in enhancing the daily experience of pupils, students and staff across its schools. The Trust welcomes interest from dynamic, ambitious and education-focused catering providers capable of delivering a service that reflects the values, aspirations and excellence expected throughout the Trust. To access this competition: Registered: Login to https://suppliers.multiquote.com and view the opportunity CA18527. Not registered: Visit https://suppliers.multiquote.com then register and quote CA18527 as the reason for registration. Any queries please contact MultiQuote on 020 3920 8054.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2027-03-31 to 2030-03-31",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/ecd27e50-1bd9-489a-ad12-72730a1a95cc",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "WD3 6EW",
+        "cpv": "15894210",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "202610231236",
+        "demo": false
+      }
+    ],
+    "lastPartialUpdate": "2026-10-23T12:36:59.308Z"
+  }
+}
+
