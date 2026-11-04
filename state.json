@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-04T13:30:44.767Z",
-      "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
-      "lastAttemptAt": "2026-11-04T13:30:44.767Z",
+      "watermark": "2026-11-04T16:16:55.685Z",
+      "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
+      "lastAttemptAt": "2026-11-04T16:16:55.685Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-10-28T09:41:04.953Z",
-        "to": "2026-11-04T13:30:44.767Z"
+        "from": "2026-11-03T13:30:44.767Z",
+        "to": "2026-11-04T16:16:55.685Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-04T13:30:44.767Z",
-      "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
-      "lastAttemptAt": "2026-11-04T13:30:44.767Z",
+      "watermark": "2026-11-04T16:16:55.685Z",
+      "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
+      "lastAttemptAt": "2026-11-04T16:16:55.685Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-10-28T09:41:04.953Z",
-        "to": "2026-11-04T13:30:44.767Z"
+        "from": "2026-11-03T13:30:44.767Z",
+        "to": "2026-11-04T16:16:55.685Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
-    "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
+    "buildId": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e",
+    "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
     "interval": {
-      "from": "2026-10-28T09:41:04.953Z",
-      "to": "2026-11-04T13:30:44.767Z"
+      "from": "2026-11-03T13:30:44.767Z",
+      "to": "2026-11-04T16:16:55.685Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 15,
-    "totalCount": 130,
+    "retrievedCount": 4,
+    "totalCount": 131,
     "sourceFailures": [],
     "records": [
       {
@@ -3537,7 +3537,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e"
       },
       {
         "id": "fts-103128-2026",
@@ -4251,7 +4252,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e"
       },
       {
         "id": "fts-099209-2026",
@@ -4407,6 +4409,45 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
+        "id": "fts-104760-2026",
+        "title": "Conwy County Leisure Facilities CCTV Supply and Install",
+        "authority": "Conwy County Borough Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "104760-2026",
+        "published": "2026-11-04",
+        "deadline": "2026-11-26",
+        "value": 100000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "tenderSummary": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sell2wales.gov.wales/Assets/NoticeBuilder_FileDownload.aspx?id=385689",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL13",
+        "cpv": "32231000, 32234000, 32235000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e",
         "demo": false
       },
       {
@@ -4922,7 +4963,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e"
       },
       {
         "id": "fts-098200-2026",
@@ -5249,42 +5291,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-04T13:30:44.767Z"
+    "lastPartialUpdate": "2026-11-04T16:16:55.685Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
-    "attemptedAt": "2026-11-04T13:30:44.767Z",
+    "attemptId": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e",
+    "attemptedAt": "2026-11-04T16:16:55.685Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
-    "retrievedCount": 15,
-    "totalCount": 130,
+    "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
+    "retrievedCount": 4,
+    "totalCount": 131,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-04T13:30:44.767Z",
-        "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
-        "lastAttemptAt": "2026-11-04T13:30:44.767Z",
+        "watermark": "2026-11-04T16:16:55.685Z",
+        "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
+        "lastAttemptAt": "2026-11-04T16:16:55.685Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-10-28T09:41:04.953Z",
-          "to": "2026-11-04T13:30:44.767Z"
+          "from": "2026-11-03T13:30:44.767Z",
+          "to": "2026-11-04T16:16:55.685Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-04T13:30:44.767Z",
-        "lastSuccessfulUpdate": "2026-11-04T13:30:44.767Z",
-        "lastAttemptAt": "2026-11-04T13:30:44.767Z",
+        "watermark": "2026-11-04T16:16:55.685Z",
+        "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
+        "lastAttemptAt": "2026-11-04T16:16:55.685Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-10-28T09:41:04.953Z",
-          "to": "2026-11-04T13:30:44.767Z"
+          "from": "2026-11-03T13:30:44.767Z",
+          "to": "2026-11-04T16:16:55.685Z"
         }
       }
     }
