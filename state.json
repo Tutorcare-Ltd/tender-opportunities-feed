@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-10-15T09:41:04.953Z",
-      "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
-      "lastAttemptAt": "2026-11-04T13:16:16.093Z",
+      "watermark": "2026-10-22T09:41:04.953Z",
+      "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
+      "lastAttemptAt": "2026-11-04T13:21:03.669Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-10-07T09:41:04.953Z",
-        "to": "2026-10-15T09:41:04.953Z"
+        "from": "2026-10-14T09:41:04.953Z",
+        "to": "2026-10-22T09:41:04.953Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-10-15T09:41:04.953Z",
-      "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
-      "lastAttemptAt": "2026-11-04T13:16:16.093Z",
+      "watermark": "2026-10-22T09:41:04.953Z",
+      "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
+      "lastAttemptAt": "2026-11-04T13:21:03.669Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-10-07T09:41:04.953Z",
-        "to": "2026-10-15T09:41:04.953Z"
+        "from": "2026-10-14T09:41:04.953Z",
+        "to": "2026-10-22T09:41:04.953Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
-    "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
+    "buildId": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+    "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
     "interval": {
-      "from": "2026-10-07T09:41:04.953Z",
-      "to": "2026-11-04T13:16:16.093Z"
+      "from": "2026-10-14T09:41:04.953Z",
+      "to": "2026-11-04T13:21:03.669Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 24,
-    "totalCount": 79,
+    "retrievedCount": 29,
+    "totalCount": 103,
     "sourceFailures": [],
     "records": [
       {
@@ -1928,7 +1928,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919"
       },
       {
         "id": "fts-095335-2026",
@@ -1967,6 +1968,45 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-097793-2026",
+        "title": "Children Who Use Harm",
+        "authority": "South Yorkshire Mayoral Combined Authority",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "097793-2026",
+        "published": "2026-10-16",
+        "deadline": "2026-11-02",
+        "value": 2600282,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "South Yorkshire Mayoral Combined Authority invites tenders for the provision of a South Yorkshire-wide Children Who Use Harm (CWUH) Programme. The service will provide targeted interventions for children and young people who display harmful behaviours within a family context, including child and adolescent to parent or caregiver abuse (CAPVA). The successful bidder will deliver an accessible, evidence-informed programme across South Yorkshire that improves outcomes for children, young people and families affected by these behaviours. The contract will commence on the 24 November 2026 with an end date of 31 March 2029. Full details of the intended procurement timetable are included within the tender documents. Requirement Summary The proposed service will support children and young people aged 10 to 17 who use harmful behaviours towards parents, carers, siblings or other family members. Parents, carers and siblings affected by these behaviours will also be supported. The service will operate across South Yorkshire and provide a trauma informed, whole family intervention. It is expected to include assessment and risk management, structured support for parents and carers, direct therapeutic and behaviour change support for children and young people, relationship harm prevention, safeguarding support, multi agency coordination and follow up. Delivery will be developmentally appropriate and individually tailored, including adaptations for developmental stage, communication needs and neurodiversity. Interventions for children under 16 will involve parents or carers throughout. For those aged 16 to 17, there will be greater emphasis on individual responsibility, prevention, transition planning and preparation for adulthood, while maintaining family involvement where safe and appropriate. Practitioners will use CWUH evidence informed approach, including motivational interviewing, cognitive behavioural techniques, emotional regulation interventions and restorative practice. Safety planning will be completed with both victims and children and young people who use harm. The programme will use a blended delivery model incorporating community venues, Family Hubs, schools, partner premises and online support where appropriate. Safeguarding, victim safety and risk management will be embedded throughout the entire delivery pathway. While recognising that children who use harmful behaviour often present with significant vulnerabilities and unmet needs, the programme maintains a clear focus on protecting victims and reducing harm. The intended outcomes include reduced harmful behaviour, improved victim and family safety, improved emotional wellbeing and regulation, increased educational engagement and attendance, reduced police demand associated with family harm, reduced future offending risk and improved outcomes for vulnerable children and young people. The detailed service requirements, anticipated activity levels, outcome measures, award criteria, service standards and contractual arrangements will be set out in the tender documents. Please be advised that a related UK3: Planned procurement notice was previously published of Notice identifier: 2026/S 000-084070, Procurement identifier (OCID): ocds-h6vhtk-06f2ad",
+        "tenderSummary": "South Yorkshire Mayoral Combined Authority invites tenders for the provision of a South Yorkshire-wide Children Who Use Harm (CWUH) Programme. The service will provide targeted interventions for children and young people who display harmful behaviours within a family context, including child and adolescent to parent or caregiver abuse (CAPVA). The successful bidder will deliver an accessible, evidence-informed programme across South Yorkshire that improves outcomes for children, young people and families affected by these behaviours. The contract will commence on the 24 November 2026 with an end date of 31 March 2029. Full details of the intended procurement timetable are included within the tender documents. Requirement Summary The proposed service will support children and young people aged 10 to 17 who use harmful behaviours towards parents, carers, siblings or other family members. Parents, carers and siblings affected by these behaviours will also be supported. The service will operate across South Yorkshire and provide a trauma informed, whole family intervention. It is expected to include assessment and risk management, structured support for parents and carers, direct therapeutic and behaviour change support for children and young people, relationship harm prevention, safeguarding support, multi agency coordination and follow up. Delivery will be developmentally appropriate and individually tailored, including adaptations for developmental stage, communication needs and neurodiversity. Interventions for children under 16 will involve parents or carers throughout. For those aged 16 to 17, there will be greater emphasis on individual responsibility, prevention, transition planning and preparation for adulthood, while maintaining family involvement where safe and appropriate. Practitioners will use CWUH evidence informed approach, including motivational interviewing, cognitive behavioural techniques, emotional regulation interventions and restorative practice. Safety planning will be completed with both victims and children and young people who use harm. The programme will use a blended delivery model incorporating community venues, Family Hubs, schools, partner premises and online support where appropriate. Safeguarding, victim safety and risk management will be embedded throughout the entire delivery pathway. While recognising that children who use harmful behaviour often present with significant vulnerabilities and unmet needs, the programme maintains a clear focus on protecting victims and reducing harm. The intended outcomes include reduced harmful behaviour, improved victim and family safety, improved emotional wellbeing and regulation, increased educational engagement and attendance, reduced police demand associated with family harm, reduced future offending risk and improved outcomes for vulnerable children and young people. The detailed service requirements, anticipated activity levels, outcome measures, award criteria, service standards and contractual arrangements will be set out in the tender documents. Please be advised that a related UK3: Planned procurement notice was previously published of Notice identifier: 2026/S 000-084070, Procurement identifier (OCID): ocds-h6vhtk-06f2ad",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/097793-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE3",
+        "cpv": "85311300",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
         "demo": false
       },
       {
@@ -2367,6 +2407,48 @@
           "80000000"
         ],
         "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919"
+      },
+      {
+        "id": "fts-097666-2026",
+        "title": "Youth Services Framework",
+        "authority": "Birmingham City Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "097666-2026",
+        "published": "2026-10-15",
+        "deadline": "2026-11-06",
+        "value": 660000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The proposed procurement will establish a framework of providers to deliver a range of youth services interventions aimed at preventing and reducing serious violence. Services will focus on early intervention, targeted support and specialist provision targeted at safeguarding children and young people from harm. This will be an Open Framework under PA23.",
+        "tenderSummary": "The proposed procurement will establish a framework of providers to deliver a range of youth services interventions aimed at preventing and reducing serious violence. Services will focus on early intervention, targeted support and specialist provision targeted at safeguarding children and young people from harm. This will be an Open Framework under PA23.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/097666-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG31",
+        "cpv": "73220000, 75200000, 80310000, 85322000, 98000000, 98133110",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
         "demo": false
       },
       {
@@ -2484,7 +2566,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919"
       },
       {
         "id": "fts-096017-2026",
@@ -2523,6 +2606,162 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-099537-2026",
+        "title": "Cymru Can Strategy Review",
+        "authority": "Future Generations Commissioner for Wales",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "099537-2026",
+        "published": "2026-10-21",
+        "deadline": "2026-11-09",
+        "value": 12500,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Full invitation to tender document (in Welsh & English) is downloadable from the Additional Documents section. Tender submission must be made via Sell2Wales only. The Future Generations Commissioner for Wales is seeking proposals for expert research and evaluation support to provide an independent assessment of the effectiveness of his Cymru Can strategy and how the strategy might be updated for the remaining three years of the Commissioner’s term. The Welsh Government is currently producing the next Future Trends report for Wales in conjunction with the Office of the Future Generations Commissioner and this report will be available to inform this evaluation. Internal and external data and reports, including annual performance reports, will also be made available for the successful consultant. Background: The Well-being of Future Generations Act (“The WFG Act”) was enacted in Wales in 2015. The position of Future Generations Commissioner arose out of the legislation and exists to act as a guardian for those people yet-to-be-born. The Act puts a legal duty on public bodies to ensure that they maximise their contribution to our collective well-being and that decisions taken today do not limit the ability of future generations to meet their needs. It requires them to think about the long term impact of their decisions, to work better with people, communities and each other, and to prevent or reverse persistent problems such as poverty, health inequalities and climate change. The Future Generations Commissioner is there to advise, support and monitor the progress of public bodies in Wales in achieving these goals. The Commissioner is also able to undertake investigations (section 20 reviews) into a relevant issue to consider the extent to which a public body is safeguarding the ability of future generations to meet their needs by taking account of the long-term impact of things the body does. Cymru Can: In 2023, the Future Generations Commissioner for Wales, Derek Walker, launched ‘Cymru Can’, his strategy for his time in the role. Cymru Can covers the period 2023 – 2030 and we are now at a mid-point. The WFG Act is broad in scope, and the Cymru Can approach is designed to ensure we can focus our work where it can be most effective. The strategy and missions were arrived at through research, foresight techniques and an involvement process, ‘Our Future Focus’. Cymru Can’s five missions are: Implementation and Impact, Climate and Nature, Health and Well-being, Culture and Welsh Language, and A Well-being Economy. We have also identified themes or systems that connect our missions such as the food system and Artificial Intelligence.",
+        "tenderSummary": "Full invitation to tender document (in Welsh & English) is downloadable from the Additional Documents section. Tender submission must be made via Sell2Wales only. The Future Generations Commissioner for Wales is seeking proposals for expert research and evaluation support to provide an independent assessment of the effectiveness of his Cymru Can strategy and how the strategy might be updated for the remaining three years of the Commissioner’s term. The Welsh Government is currently producing the next Future Trends report for Wales in conjunction with the Office of the Future Generations Commissioner and this report will be available to inform this evaluation. Internal and external data and reports, including annual performance reports, will also be made available for the successful consultant. Background: The Well-being of Future Generations Act (“The WFG Act”) was enacted in Wales in 2015. The position of Future Generations Commissioner arose out of the legislation and exists to act as a guardian for those people yet-to-be-born. The Act puts a legal duty on public bodies to ensure that they maximise their contribution to our collective well-being and that decisions taken today do not limit the ability of future generations to meet their needs. It requires them to think about the long term impact of their decisions, to work better with people, communities and each other, and to prevent or reverse persistent problems such as poverty, health inequalities and climate change. The Future Generations Commissioner is there to advise, support and monitor the progress of public bodies in Wales in achieving these goals. The Commissioner is also able to undertake investigations (section 20 reviews) into a relevant issue to consider the extent to which a public body is safeguarding the ability of future generations to meet their needs by taking account of the long-term impact of things the body does. Cymru Can: In 2023, the Future Generations Commissioner for Wales, Derek Walker, launched ‘Cymru Can’, his strategy for his time in the role. Cymru Can covers the period 2023 – 2030 and we are now at a mid-point. The WFG Act is broad in scope, and the Cymru Can approach is designed to ensure we can focus our work where it can be most effective. The strategy and missions were arrived at through research, foresight techniques and an involvement process, ‘Our Future Focus’. Cymru Can’s five missions are: Implementation and Impact, Climate and Nature, Health and Well-being, Culture and Welsh Language, and A Well-being Economy. We have also identified themes or systems that connect our missions such as the food system and Artificial Intelligence.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sell2wales.gov.wales/Assets/NoticeBuilder_FileDownload.aspx?id=383435",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL22",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-098020-2026",
+        "title": "Cymru Can Strategy Review",
+        "authority": "Future Generations Commissioner for Wales",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "098020-2026",
+        "published": "2026-10-16",
+        "deadline": "2026-11-09",
+        "value": 12500,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Full invitation to tender document (in Welsh & English) is downloadable from the Additional Documents section. Tender submission must be made via Sell2Wales only. The Future Generations Commissioner for Wales is seeking proposals for expert research and evaluation support to provide an independent assessment of the effectiveness of his Cymru Can strategy and how the strategy might be updated for the remaining three years of the Commissioner’s term. The Welsh Government is currently producing the next Future Trends report for Wales in conjunction with the Office of the Future Generations Commissioner and this report will be available to inform this evaluation. Internal and external data and reports, including annual performance reports, will also be made available for the successful consultant. Background: The Well-being of Future Generations Act (“The WFG Act”) was enacted in Wales in 2015. The position of Future Generations Commissioner arose out of the legislation and exists to act as a guardian for those people yet-to-be-born. The Act puts a legal duty on public bodies to ensure that they maximise their contribution to our collective well-being and that decisions taken today do not limit the ability of future generations to meet their needs. It requires them to think about the long term impact of their decisions, to work better with people, communities and each other, and to prevent or reverse persistent problems such as poverty, health inequalities and climate change. The Future Generations Commissioner is there to advise, support and monitor the progress of public bodies in Wales in achieving these goals. The Commissioner is also able to undertake investigations (section 20 reviews) into a relevant issue to consider the extent to which a public body is safeguarding the ability of future generations to meet their needs by taking account of the long-term impact of things the body does. Cymru Can: In 2023, the Future Generations Commissioner for Wales, Derek Walker, launched ‘Cymru Can’, his strategy for his time in the role. Cymru Can covers the period 2023 – 2030 and we are now at a mid-point. The WFG Act is broad in scope, and the Cymru Can approach is designed to ensure we can focus our work where it can be most effective. The strategy and missions were arrived at through research, foresight techniques and an involvement process, ‘Our Future Focus’. Cymru Can’s five missions are: Implementation and Impact, Climate and Nature, Health and Well-being, Culture and Welsh Language, and A Well-being Economy. We have also identified themes or systems that connect our missions such as the food system and Artificial Intelligence.",
+        "tenderSummary": "Full invitation to tender document (in Welsh & English) is downloadable from the Additional Documents section. Tender submission must be made via Sell2Wales only. The Future Generations Commissioner for Wales is seeking proposals for expert research and evaluation support to provide an independent assessment of the effectiveness of his Cymru Can strategy and how the strategy might be updated for the remaining three years of the Commissioner’s term. The Welsh Government is currently producing the next Future Trends report for Wales in conjunction with the Office of the Future Generations Commissioner and this report will be available to inform this evaluation. Internal and external data and reports, including annual performance reports, will also be made available for the successful consultant. Background: The Well-being of Future Generations Act (“The WFG Act”) was enacted in Wales in 2015. The position of Future Generations Commissioner arose out of the legislation and exists to act as a guardian for those people yet-to-be-born. The Act puts a legal duty on public bodies to ensure that they maximise their contribution to our collective well-being and that decisions taken today do not limit the ability of future generations to meet their needs. It requires them to think about the long term impact of their decisions, to work better with people, communities and each other, and to prevent or reverse persistent problems such as poverty, health inequalities and climate change. The Future Generations Commissioner is there to advise, support and monitor the progress of public bodies in Wales in achieving these goals. The Commissioner is also able to undertake investigations (section 20 reviews) into a relevant issue to consider the extent to which a public body is safeguarding the ability of future generations to meet their needs by taking account of the long-term impact of things the body does. Cymru Can: In 2023, the Future Generations Commissioner for Wales, Derek Walker, launched ‘Cymru Can’, his strategy for his time in the role. Cymru Can covers the period 2023 – 2030 and we are now at a mid-point. The WFG Act is broad in scope, and the Cymru Can approach is designed to ensure we can focus our work where it can be most effective. The strategy and missions were arrived at through research, foresight techniques and an involvement process, ‘Our Future Focus’. Cymru Can’s five missions are: Implementation and Impact, Climate and Nature, Health and Well-being, Culture and Welsh Language, and A Well-being Economy. We have also identified themes or systems that connect our missions such as the food system and Artificial Intelligence.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sell2wales.gov.wales/Assets/NoticeBuilder_FileDownload.aspx?id=383435",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL22",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-097854-2026",
+        "title": "Conversion Practices Victim Support Service",
+        "authority": "Cabinet Office",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "097854-2026",
+        "published": "2026-10-16",
+        "deadline": "2026-11-09",
+        "value": 180000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "This contract is for the development, setup, and operation of a Conversion Practice Victim Support Service (CP VSS)-or the integration of comprehensive support into an existing helpline and website. The service provides confidential, sensitive support, initial pastoral care, and signposting (such as counselling, options for police reporting, emergency housing, and personal safety) to individuals who have experienced, are undergoing, or are at risk of conversion practices, as well as concerned family members, colleagues, and safeguarding professionals. Please note that the contract value has been listed at £180,000+VAT to allow for any potential future variations required to the contract. However the anticipated spend through the contract is expected to be up to a maximum of £160,000 plus VAT.",
+        "tenderSummary": "This contract is for the development, setup, and operation of a Conversion Practice Victim Support Service (CP VSS)-or the integration of comprehensive support into an existing helpline and website. The service provides confidential, sensitive support, initial pastoral care, and signposting (such as counselling, options for police reporting, emergency housing, and personal safety) to individuals who have experienced, are undergoing, or are at risk of conversion practices, as well as concerned family members, colleagues, and safeguarding professionals. Please note that the contract value has been listed at £180,000+VAT to allow for any potential future variations required to the contract. However the anticipated spend through the contract is expected to be up to a maximum of £160,000 plus VAT.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://gca.bravosolution.co.uk",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "72253000, 79510000, 85312320, 98300000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-098098-2026",
+        "title": "Fire Safety Equipment Maintenance and Repairs",
+        "authority": "Ashford Borough Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "098098-2026",
+        "published": "2026-10-16",
+        "deadline": "2026-11-10",
+        "value": 360000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "ABC are looking to procure a contractor to deliver Fire Safety Equipment Maintenance and Repairs. The contractor will provide maintenance, repairs, and testing as required for the safe and continuing use of fire safety equipment. The contract will cover properties/assets which are the responsibility of the Housing Department and Corporate Property Department. For more information about this opportunity, please visit the eSourcing portal at: https://www.kentbusinessportal.org.uk/tenders/UK-UK-Ashford:-Repair-and-maintenance-services-of-firefighting-equipment./Y776D63692 To respond to this opportunity, please click here: https://www.kentbusinessportal.org.uk/respond/Y776D63692",
+        "tenderSummary": "ABC are looking to procure a contractor to deliver Fire Safety Equipment Maintenance and Repairs. The contractor will provide maintenance, repairs, and testing as required for the safe and continuing use of fire safety equipment. The contract will cover properties/assets which are the responsibility of the Housing Department and Corporate Property Department. For more information about this opportunity, please visit the eSourcing portal at: https://www.kentbusinessportal.org.uk/tenders/UK-UK-Ashford:-Repair-and-maintenance-services-of-firefighting-equipment./Y776D63692 To respond to this opportunity, please click here: https://www.kentbusinessportal.org.uk/respond/Y776D63692",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.kentbusinessportal.org.uk/",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ4",
+        "cpv": "50413200, 45343200",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
         "demo": false
       },
       {
@@ -2610,6 +2849,54 @@
         "demo": false
       },
       {
+        "id": "fts-097653-2026",
+        "title": "Mandatory Training for students enrolled on Healthcare programmes Framework Agreement",
+        "authority": "London and South East University Group",
+        "category": "First aid",
+        "source": "FTS",
+        "noticeId": "097653-2026",
+        "published": "2026-10-15",
+        "deadline": "2026-11-11",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The University of Greenwich and the University of Kent successfully completed their merger on 3 August 2026, to create the new London and South East University Group - to be known as LASE. LASE is seeking to establish a Framework Agreement to provide additional resource, as and when required, to deliver mandatory Moving and Handling, Resuscitation / Basic Life Support (BSL), Safeguarding Adults and Children, Conflict Resolution, and Breakaway Training for students enrolled on health care programmes. The framework is being designed to supply services to LASE institutions, and Canterbury Christ Church University (University of Kent's partner in the Kent and Medway Medical School). The first call-off contract will be awarded at the same time as the Framework Agreement. To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/YZJ48828YR If suppliers experience any issues accessing this opportunity, they should contact the Delta Helpdesk for assistance quoting the Reference Number: 1060034026 and the Access Code: YZJ48828YR. The Delta Helpdesk operates Monday to Friday, 8:00 am to 6:00 pm (GMT), excluding bank holidays. You can contact the Helpdesk by calling +44 800 923 9236. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-London:-Training-services./YZJ48828YR To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/YZJ48828YR",
+        "tenderSummary": "The University of Greenwich and the University of Kent successfully completed their merger on 3 August 2026, to create the new London and South East University Group - to be known as LASE. LASE is seeking to establish a Framework Agreement to provide additional resource, as and when required, to deliver mandatory Moving and Handling, Resuscitation / Basic Life Support (BSL), Safeguarding Adults and Children, Conflict Resolution, and Breakaway Training for students enrolled on health care programmes. The framework is being designed to supply services to LASE institutions, and Canterbury Christ Church University (University of Kent's partner in the Kent and Medway Medical School). The first call-off contract will be awarded at the same time as the Framework Agreement. To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/YZJ48828YR If suppliers experience any issues accessing this opportunity, they should contact the Delta Helpdesk for assistance quoting the Reference Number: 1060034026 and the Access Code: YZJ48828YR. The Delta Helpdesk operates Monday to Friday, 8:00 am to 6:00 pm (GMT), excluding bank holidays. You can contact the Helpdesk by calling +44 800 923 9236. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-London:-Training-services./YZJ48828YR To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/YZJ48828YR",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/097653-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ",
+        "cpv": "80500000, 80510000, 80521000, 80550000, 80560000, 80561000, 80562000",
+        "matchedKeywords": [
+          "safeguarding",
+          "resuscitation"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000",
+          "80550000",
+          "80560000",
+          "80561000",
+          "80562000"
+        ],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
         "id": "fts-097242-2026",
         "title": "Search Education Trust - Catering Tender",
         "authority": "Educo",
@@ -2646,7 +2933,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919"
       },
       {
         "id": "fts-095430-2026",
@@ -2765,7 +3053,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919"
       },
       {
         "id": "fts-095401-2026",
@@ -2806,6 +3095,165 @@
           "80000000"
         ],
         "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-099631-2026",
+        "title": "DRIVE Project for Bedfordshire",
+        "authority": "The Police and Crime Commissioner for Bedfordshire",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "099631-2026",
+        "published": "2026-10-21",
+        "deadline": "2026-11-16",
+        "value": 992314,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The Office of the Police and Crime Commissioner for Bedfordshire, is seeking to commission a specialist provider to deliver the DRIVE Project model, a nationally recognised, evidence based intervention for high harm domestic abuse perpetrators. The project forms part of a government funded national approach to reducing serious harm by addressing the behaviours of perpetrators who pose the greatest risk to victims, children, and communities. The commissioned service will deliver intensive, one to one case management and tailored behaviour change interventions for up to 125 high risk perpetrators, working in close partnership with statutory and voluntary sector agencies. The DRIVE Project model will operate as an integral component of existing multi agency safeguarding and offender management arrangements, including MARAC, DA Perpetrator, and Integrated Offender Management structures. The primary objectives of the DRIVE Project model are to reduce repeat and serial domestic abuse, lower risk to victims, improve safety outcomes, and strengthen system wide responses to high harm perpetration. Delivery must ensure that victim safety remains paramount and that interventions are proportionate, risk led, and aligned to national best practice. This tender seeks a provider with demonstrable experience in domestic abuse perpetrator interventions, strong partnership capability, and the capacity to deliver the DRIVE model with fidelity while responding effectively to local needs, risks, and priorities. The service will be commissioned in line with the national DRIVE Service Specification. Local adaptations will be permitted and required where necessary to reflect local need, partnerships, and system arrangements. Oversight and quality assurance will be provided by a ‘DRIVE Fellow’ to ensure adherence to the DRIVE model. This opportunity can be found a follows: 1. Log in to our supplier portal at https://7force.force.com/login 2. Locate the opportunity under the 'Find Opportunities' section 3. Click ‘Register Interest' 4. You can then go to 'My Proposals & Quotes' to view the documentation and submit your response. 5. Once you have completed all relevant Requirement Sections, ensure you click the 'Submit' button to ensure your responses are received by us. Upon clicking 'Submit' you will receive a confirmation email. The message centre (found on your Portal homepage) will be available for you to communicate with us regarding any open opportunities, or for any clarification questions you may have.",
+        "tenderSummary": "The Office of the Police and Crime Commissioner for Bedfordshire, is seeking to commission a specialist provider to deliver the DRIVE Project model, a nationally recognised, evidence based intervention for high harm domestic abuse perpetrators. The project forms part of a government funded national approach to reducing serious harm by addressing the behaviours of perpetrators who pose the greatest risk to victims, children, and communities. The commissioned service will deliver intensive, one to one case management and tailored behaviour change interventions for up to 125 high risk perpetrators, working in close partnership with statutory and voluntary sector agencies. The DRIVE Project model will operate as an integral component of existing multi agency safeguarding and offender management arrangements, including MARAC, DA Perpetrator, and Integrated Offender Management structures. The primary objectives of the DRIVE Project model are to reduce repeat and serial domestic abuse, lower risk to victims, improve safety outcomes, and strengthen system wide responses to high harm perpetration. Delivery must ensure that victim safety remains paramount and that interventions are proportionate, risk led, and aligned to national best practice. This tender seeks a provider with demonstrable experience in domestic abuse perpetrator interventions, strong partnership capability, and the capacity to deliver the DRIVE model with fidelity while responding effectively to local needs, risks, and priorities. The service will be commissioned in line with the national DRIVE Service Specification. Local adaptations will be permitted and required where necessary to reflect local need, partnerships, and system arrangements. Oversight and quality assurance will be provided by a ‘DRIVE Fellow’ to ensure adherence to the DRIVE model. This opportunity can be found a follows: 1. Log in to our supplier portal at https://7force.force.com/login 2. Locate the opportunity under the 'Find Opportunities' section 3. Click ‘Register Interest' 4. You can then go to 'My Proposals & Quotes' to view the documentation and submit your response. 5. Once you have completed all relevant Requirement Sections, ensure you click the 'Submit' button to ensure your responses are received by us. Upon clicking 'Submit' you will receive a confirmation email. The message centre (found on your Portal homepage) will be available for you to communicate with us regarding any open opportunities, or for any clarification questions you may have.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/099631-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKH25",
+        "cpv": "85312300, 98000000, 75241100, 85323000, 85000000, 85312320, 85312500",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-099616-2026",
+        "title": "DRIVE Project for Bedfordshire",
+        "authority": "The Police and Crime Commissioner for Bedfordshire",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "099616-2026",
+        "published": "2026-10-21",
+        "deadline": "2026-11-16",
+        "value": 900000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          14,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The Office of the Police and Crime Commissioner for Bedfordshire, is seeking to commission a specialist provider to deliver the DRIVE Project model, a nationally recognised, evidence based intervention for high harm domestic abuse perpetrators. The project forms part of a government funded national approach to reducing serious harm by addressing the behaviours of perpetrators who pose the greatest risk to victims, children, and communities. The commissioned service will deliver intensive, one to one case management and tailored behaviour change interventions for up to 125 high risk perpetrators, working in close partnership with statutory and voluntary sector agencies. The DRIVE Project model will operate as an integral component of existing multi agency safeguarding and offender management arrangements, including MARAC, DA Perpetrator, and Integrated Offender Management structures. The primary objectives of the DRIVE Project model are to reduce repeat and serial domestic abuse, lower risk to victims, improve safety outcomes, and strengthen system wide responses to high harm perpetration. Delivery must ensure that victim safety remains paramount and that interventions are proportionate, risk led, and aligned to national best practice. This tender seeks a provider with demonstrable experience in domestic abuse perpetrator interventions, strong partnership capability, and the capacity to deliver the DRIVE model with fidelity while responding effectively to local needs, risks, and priorities. The service will be commissioned in line with the national DRIVE Service Specification. Local adaptations will be permitted and required where necessary to reflect local need, partnerships, and system arrangements. Oversight and quality assurance will be provided by a ‘DRIVE Fellow’ to ensure adherence to the DRIVE model. This procurement will be divided into two lots – Lot 1 DRIVE high-risk perpetrator intervention programme Lot 2 IDVA service This proposed lot structure has been developed to secure specialist expertise in the high-risk perpetrator intervention service, maximise market engagement, maintain flexibility in contract award and ensure an integrated domestic abuse service pathway. The structure will provide the choice to appoint either a single provider across both lots or separate specialist providers if this represents a more advantageous outcome.",
+        "tenderSummary": "The Office of the Police and Crime Commissioner for Bedfordshire, is seeking to commission a specialist provider to deliver the DRIVE Project model, a nationally recognised, evidence based intervention for high harm domestic abuse perpetrators. The project forms part of a government funded national approach to reducing serious harm by addressing the behaviours of perpetrators who pose the greatest risk to victims, children, and communities. The commissioned service will deliver intensive, one to one case management and tailored behaviour change interventions for up to 125 high risk perpetrators, working in close partnership with statutory and voluntary sector agencies. The DRIVE Project model will operate as an integral component of existing multi agency safeguarding and offender management arrangements, including MARAC, DA Perpetrator, and Integrated Offender Management structures. The primary objectives of the DRIVE Project model are to reduce repeat and serial domestic abuse, lower risk to victims, improve safety outcomes, and strengthen system wide responses to high harm perpetration. Delivery must ensure that victim safety remains paramount and that interventions are proportionate, risk led, and aligned to national best practice. This tender seeks a provider with demonstrable experience in domestic abuse perpetrator interventions, strong partnership capability, and the capacity to deliver the DRIVE model with fidelity while responding effectively to local needs, risks, and priorities. The service will be commissioned in line with the national DRIVE Service Specification. Local adaptations will be permitted and required where necessary to reflect local need, partnerships, and system arrangements. Oversight and quality assurance will be provided by a ‘DRIVE Fellow’ to ensure adherence to the DRIVE model. This procurement will be divided into two lots – Lot 1 DRIVE high-risk perpetrator intervention programme Lot 2 IDVA service This proposed lot structure has been developed to secure specialist expertise in the high-risk perpetrator intervention service, maximise market engagement, maintain flexibility in contract award and ensure an integrated domestic abuse service pathway. The structure will provide the choice to appoint either a single provider across both lots or separate specialist providers if this represents a more advantageous outcome.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/099616-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKH25",
+        "cpv": "85312300, 98000000, 75241100, 85323000, 85000000, 85312320, 85312500",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-099183-2026",
+        "title": "Framework Agreement for DNA, Drug and Alcohol Testing Services",
+        "authority": "City & County of Swansea",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "099183-2026",
+        "published": "2026-10-20",
+        "deadline": "2026-11-16",
+        "value": 700000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Swansea Council is seeking to establish a Framework Agreement for the provision of accredited testing services to support safeguarding, social care, legal proceedings and associated statutory functions. The Framework will comprise two Lots: Lot 1 Drug and Alcohol Testing Services Lot 2 DNA Testing Services",
+        "tenderSummary": "Swansea Council is seeking to establish a Framework Agreement for the provision of accredited testing services to support safeguarding, social care, legal proceedings and associated statutory functions. The Framework will comprise two Lots: Lot 1 Drug and Alcohol Testing Services Lot 2 DNA Testing Services",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/099183-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL18",
+        "cpv": "85145000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-097656-2026",
+        "title": "Safeguarding in Education (Child Protection) Training Standing List - 2026 Reopen",
+        "authority": "Leicestershire County Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "097656-2026",
+        "published": "2026-10-15",
+        "deadline": "2026-11-16",
+        "value": 20000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "The Council is seeking to allow new providers to apply for inclusion to our standing list of experienced and suitably qualified training providers to deliver Safeguarding Awareness training to schools across the county.",
+        "tenderSummary": "The Council is seeking to allow new providers to apply for inclusion to our standing list of experienced and suitably qualified training providers to deliver Safeguarding Awareness training to schools across the county.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/097656-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKF22",
+        "cpv": "80500000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
         "demo": false
       },
       {
@@ -2888,6 +3336,45 @@
         "updatedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb"
       },
       {
+        "id": "fts-098704-2026",
+        "title": "Framework for the Provision of Forensic Testing",
+        "authority": "The Council of the City of Wakefield",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "098704-2026",
+        "published": "2026-10-19",
+        "deadline": "2026-11-18",
+        "value": 1700000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The Council would like to establish a Closed Framework Agreement for the Provision of Forensic Testing. Forensic Testing (a term used to cover DNA, drug and alcohol testing) is used to help inform decision making, particularly with regard to the safeguarding of children and young people. The proposed Closed Framework Agreement will run for an initial period of 2 years with the option to extend, on two occasions, each for a 12-month period (2 + 1 + 1). The Closed Framework will be procured via the Open Procedure under the Procurement Act 2023 The Closed Framework Agreement will be split into 2 lots, with a maximum of 3 suppliers awarded to each lot: • Lot 1 = DNA Testing • Lot 2 = Drug and Alcohol Testing",
+        "tenderSummary": "The Council would like to establish a Closed Framework Agreement for the Provision of Forensic Testing. Forensic Testing (a term used to cover DNA, drug and alcohol testing) is used to help inform decision making, particularly with regard to the safeguarding of children and young people. The proposed Closed Framework Agreement will run for an initial period of 2 years with the option to extend, on two occasions, each for a 12-month period (2 + 1 + 1). The Closed Framework will be procured via the Open Procedure under the Procurement Act 2023 The Closed Framework Agreement will be split into 2 lots, with a maximum of 3 suppliers awarded to each lot: • Lot 1 = DNA Testing • Lot 2 = Drug and Alcohol Testing",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/098704-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE45",
+        "cpv": "85000000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
         "id": "cf-ecd27e50-1bd9-489a-ad12-72730a1a95cc-917035",
         "title": "CA18527 - Danes Educational Trust",
         "authority": "Danes Educational Trust",
@@ -2968,6 +3455,84 @@
         "updatedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6"
       },
       {
+        "id": "fts-098809-2026",
+        "title": "VRU - Mayor’s Youth Clubs Safety Programme",
+        "authority": "Mayor's Office For Policing And Crime",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "098809-2026",
+        "published": "2026-10-20",
+        "deadline": "2026-11-19",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Indicative Contract Value: £4,300,000 excl VAT Contract Duration: The contract will commence on 4 January 2027 with a 8 weeks mobilisation period. Delivery of the service will start on the 1 March 2027 and end on 31 March 2029 (‘Initial Period’).The Initial Period is 25 months and the Authority reserves the right to extend the contract for a further period of up to 12 months. About The VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. The VRU invests in interventions at critical moments to keep young people safe in and out of school and at the key touchpoints that influence a young person’s journey; early years and families, education, positive opportunities, youth work, and communities and place. In London, working in partnership, we bring together services at a local level to better coordinate delivery of prevention. We build and support effective partnerships with government, local authorities, the NHS, education services, and the police. Our strength is in connection to London’s diverse communities and young people. We’ve made embedding the voice of young people, practitioner and communities a critical part of our approach and decision-making. You can read the VRU's strategy on our website and view the VRU’s outcomes framework, which measures our impact. Project Background The Mayor of London has increased investment in London’s Youth Clubs. Across 32 London boroughs and the City of London, a £30 million programme is funding youth clubs to extend and expand their existing offer into weekday evenings, weekends, and school holidays – when young people need safe spaces the most – and provide specialist support to those facing the greatest challenges. This investment strengthens youth clubs as trusted community spaces – where connections are made, young people feel safe and valued, and opportunities are created, all with support from trusted adults. The programme will help community organisations reach more young people aged 14–24 years old and strengthen the quality and sustainability of their provision. It will do this by delivering an increased universal, open-access provision, and targeted specialised support for young people facing greater challenges. For more information on this specific Youth Clubs programme, please see The Mayor's investment in youth clubs | London City Hall. Safety is a core outcome of this Mayoral investment in youth clubs. Whilst it will provide universal youth provision alongside targeted support, some young people will require specialist interventions beyond the expertise and capacity of local delivery partners. Therefore, the Mayor has agreed additional investment to provide a London-wide Safety Offer to sit alongside the core Youth Clubs programme. Drawing on its regional oversight and networks across London, alongside seven years of experience and expertise in commissioning impactful violence reduction programmes, the VRU is looking to commission a specialist organisation to deliver the Mayor’s Youth Clubs Safety Programme, which will provide additional capacity to connect with the Mayoral funded youth clubs across the 32 boroughs and the City of London to enhance safety of young people. This programme is to include a network of specialised youth workers for each of the chosen youth clubs, with an expected minimum of 2:1 borough to youth worker ratio. These specialist youth workers will provide targeted support for young people experiencing or at risk of violence and exploitation, offer support to enhance feelings of safety and boost connections and pathways into wider specialist services. Description of the service The aim of the Safety Programme will be to provide a regular, connected and meaningful presence across the Mayor's Youth Clubs programme to support children and young people who are affected by, or vulnerable to, violence and exploitation. Its purpose is to identify those at risk, provide direct support, make referrals into appropriate services and interventions and enhance feelings of safety. The VRU will commission a specialist organisation to deliver the Safety Programme. This service will provide a network of specialist practitioners who will work alongside funded Youth Club partnerships, providing additional capacity and expertise to identify, engage, and support young people who face higher levels of risk. They will work with local youth club partnerships to build trusted relationships with young people, provide targeted interventions and support, and help young people access wider opportunities and services. The programme is underpinned by evidence highlighting the important role youth clubs play in engaging children and young people who may be vulnerable to violence and exploitation, particularly those who may be less likely to engage with other forms of support. Research also highlights the importance of trusted adults, specialist youth work and effective safeguarding pathways in identifying need and connecting young people to timely support. The service will contribute to the Violence Reduction Unit's public health approach to preventing and reducing violence in London, by preventing harm, identifying and addressing risk factors, and improving outcomes for children and young people. The service is expected to: - Provide specialised youth workers who build trusted relationships with children and young people who may be at risk of harm, supporting them to access the Mayoral youth club as a safe space. - Provide a regular presence within the Mayoral youth clubs, working with youth club staff to identify young people with existing or potential risk and need for further support. - Assess needs and vulnerabilities of children and young people identified as at risk, including those impacted by exploitation, extra familial harm, online and digital harms and domestic abuse. - Provide targeted support and engagement, including 1-1 support for children and young people at greater risk of harm, holding casework where appropriate. - Facilitate access to appropriate statutory, community and specialist support services through referrals and where needed building connections and support pathways, including connecting with families /parents /guardians as appropriate to ensure a whole family approach. - Undertake contextual safeguarding assessments, working with the youth club providers and local authority partners, to assess contextual risk of youth club and surrounding environments, and deliver peer group contextual interventions where appropriate. - Deliver workshops and group work aimed at increasing safety of young people attending the youth club and support awareness of risk, based on identified local concerns/need. - Work collaboratively with mayoral youth clubs and wider statutory agencies to strengthen the connections and pathways between the many safety programmes held both by VCS and public authorities; and do so through a place-based approach. - Strengthen local partnership responses to emerging safeguarding and violence-related issues through sharing understanding of emerging risks, contextual safeguarding and issues impacting children and young people in local areas. - Operate as a pan-London network, share intelligence and effective practice across London through a connected practitioner network. - Contribute to reductions in vulnerability and harm and improving outcomes for children and young people. - Embed trauma-informed practice, lived experience and cultural sensitivity throughout service delivery. Target Audience The Mayor’s Investment in Youth Clubs Programme is a programme for children and young people, with delivery expected to expand the reach to the 14–24 years cohort. Whilst the programme does not prescribe a fixed age range, provision should have a strong focus on children and young people during adolescence, when exposure to violence, exploitation and associated risk can become more pronounced. This should not preclude earlier preventative activity with younger children where appropriate. Scope of Delivery The Provider will deliver a service with a network of specialist youth workers who will work across the 33 Mayoral funded Youth Clubs on a 2:1 youth club to youth worker ratio, to provide specialist and targeted support to children identified as at greater risk of harm. This will include engaging young people within and around the youth clubs, building trusted relationships, providing tailored 1-1 support and interventions and facilitating appropriate referrals into local statutory, VCS or specialist support to address their risk, improve their safety and promote positive outcomes. This will also include delivery of targeted workshops, drop-in sessions and other interventions at the Youth Clubs in response to local needs and emerging issues and to support the building of trusted relationships. The service is expected to work closely with Mayoral Youth Club Providers, local authorities, safeguarding partnerships, education providers, health services, community organisations, borough violence reduction initiatives and other VRU tertiary programmes. Timeframe and Budget The total budget available for the Initial Period is up to £2,900,000 excluding VAT. The Authority may, at its discretion, exercise the option to extend the contract for a further 12 months, with an additional budget of up to £1,400,000 excluding VAT. This would bring the total potential contract value to £4,300,000 excluding VAT.",
+        "tenderSummary": "Indicative Contract Value: £4,300,000 excl VAT Contract Duration: The contract will commence on 4 January 2027 with a 8 weeks mobilisation period. Delivery of the service will start on the 1 March 2027 and end on 31 March 2029 (‘Initial Period’).The Initial Period is 25 months and the Authority reserves the right to extend the contract for a further period of up to 12 months. About The VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. The VRU invests in interventions at critical moments to keep young people safe in and out of school and at the key touchpoints that influence a young person’s journey; early years and families, education, positive opportunities, youth work, and communities and place. In London, working in partnership, we bring together services at a local level to better coordinate delivery of prevention. We build and support effective partnerships with government, local authorities, the NHS, education services, and the police. Our strength is in connection to London’s diverse communities and young people. We’ve made embedding the voice of young people, practitioner and communities a critical part of our approach and decision-making. You can read the VRU's strategy on our website and view the VRU’s outcomes framework, which measures our impact. Project Background The Mayor of London has increased investment in London’s Youth Clubs. Across 32 London boroughs and the City of London, a £30 million programme is funding youth clubs to extend and expand their existing offer into weekday evenings, weekends, and school holidays – when young people need safe spaces the most – and provide specialist support to those facing the greatest challenges. This investment strengthens youth clubs as trusted community spaces – where connections are made, young people feel safe and valued, and opportunities are created, all with support from trusted adults. The programme will help community organisations reach more young people aged 14–24 years old and strengthen the quality and sustainability of their provision. It will do this by delivering an increased universal, open-access provision, and targeted specialised support for young people facing greater challenges. For more information on this specific Youth Clubs programme, please see The Mayor's investment in youth clubs | London City Hall. Safety is a core outcome of this Mayoral investment in youth clubs. Whilst it will provide universal youth provision alongside targeted support, some young people will require specialist interventions beyond the expertise and capacity of local delivery partners. Therefore, the Mayor has agreed additional investment to provide a London-wide Safety Offer to sit alongside the core Youth Clubs programme. Drawing on its regional oversight and networks across London, alongside seven years of experience and expertise in commissioning impactful violence reduction programmes, the VRU is looking to commission a specialist organisation to deliver the Mayor’s Youth Clubs Safety Programme, which will provide additional capacity to connect with the Mayoral funded youth clubs across the 32 boroughs and the City of London to enhance safety of young people. This programme is to include a network of specialised youth workers for each of the chosen youth clubs, with an expected minimum of 2:1 borough to youth worker ratio. These specialist youth workers will provide targeted support for young people experiencing or at risk of violence and exploitation, offer support to enhance feelings of safety and boost connections and pathways into wider specialist services. Description of the service The aim of the Safety Programme will be to provide a regular, connected and meaningful presence across the Mayor's Youth Clubs programme to support children and young people who are affected by, or vulnerable to, violence and exploitation. Its purpose is to identify those at risk, provide direct support, make referrals into appropriate services and interventions and enhance feelings of safety. The VRU will commission a specialist organisation to deliver the Safety Programme. This service will provide a network of specialist practitioners who will work alongside funded Youth Club partnerships, providing additional capacity and expertise to identify, engage, and support young people who face higher levels of risk. They will work with local youth club partnerships to build trusted relationships with young people, provide targeted interventions and support, and help young people access wider opportunities and services. The programme is underpinned by evidence highlighting the important role youth clubs play in engaging children and young people who may be vulnerable to violence and exploitation, particularly those who may be less likely to engage with other forms of support. Research also highlights the importance of trusted adults, specialist youth work and effective safeguarding pathways in identifying need and connecting young people to timely support. The service will contribute to the Violence Reduction Unit's public health approach to preventing and reducing violence in London, by preventing harm, identifying and addressing risk factors, and improving outcomes for children and young people. The service is expected to: - Provide specialised youth workers who build trusted relationships with children and young people who may be at risk of harm, supporting them to access the Mayoral youth club as a safe space. - Provide a regular presence within the Mayoral youth clubs, working with youth club staff to identify young people with existing or potential risk and need for further support. - Assess needs and vulnerabilities of children and young people identified as at risk, including those impacted by exploitation, extra familial harm, online and digital harms and domestic abuse. - Provide targeted support and engagement, including 1-1 support for children and young people at greater risk of harm, holding casework where appropriate. - Facilitate access to appropriate statutory, community and specialist support services through referrals and where needed building connections and support pathways, including connecting with families /parents /guardians as appropriate to ensure a whole family approach. - Undertake contextual safeguarding assessments, working with the youth club providers and local authority partners, to assess contextual risk of youth club and surrounding environments, and deliver peer group contextual interventions where appropriate. - Deliver workshops and group work aimed at increasing safety of young people attending the youth club and support awareness of risk, based on identified local concerns/need. - Work collaboratively with mayoral youth clubs and wider statutory agencies to strengthen the connections and pathways between the many safety programmes held both by VCS and public authorities; and do so through a place-based approach. - Strengthen local partnership responses to emerging safeguarding and violence-related issues through sharing understanding of emerging risks, contextual safeguarding and issues impacting children and young people in local areas. - Operate as a pan-London network, share intelligence and effective practice across London through a connected practitioner network. - Contribute to reductions in vulnerability and harm and improving outcomes for children and young people. - Embed trauma-informed practice, lived experience and cultural sensitivity throughout service delivery. Target Audience The Mayor’s Investment in Youth Clubs Programme is a programme for children and young people, with delivery expected to expand the reach to the 14–24 years cohort. Whilst the programme does not prescribe a fixed age range, provision should have a strong focus on children and young people during adolescence, when exposure to violence, exploitation and associated risk can become more pronounced. This should not preclude earlier preventative activity with younger children where appropriate. Scope of Delivery The Provider will deliver a service with a network of specialist youth workers who will work across the 33 Mayoral funded Youth Clubs on a 2:1 youth club to youth worker ratio, to provide specialist and targeted support to children identified as at greater risk of harm. This will include engaging young people within and around the youth clubs, building trusted relationships, providing tailored 1-1 support and interventions and facilitating appropriate referrals into local statutory, VCS or specialist support to address their risk, improve their safety and promote positive outcomes. This will also include delivery of targeted workshops, drop-in sessions and other interventions at the Youth Clubs in response to local needs and emerging issues and to support the building of trusted relationships. The service is expected to work closely with Mayoral Youth Club Providers, local authorities, safeguarding partnerships, education providers, health services, community organisations, borough violence reduction initiatives and other VRU tertiary programmes. Timeframe and Budget The total budget available for the Initial Period is up to £2,900,000 excluding VAT. The Authority may, at its discretion, exercise the option to extend the contract for a further 12 months, with an additional budget of up to £1,400,000 excluding VAT. This would bring the total potential contract value to £4,300,000 excluding VAT.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/098809-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKI",
+        "cpv": "98133110, 85000000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-098582-2026",
+        "title": "VRU - Mayor’s Youth Clubs Safety Programme",
+        "authority": "Mayor's Office For Policing And Crime",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "098582-2026",
+        "published": "2026-10-19",
+        "deadline": "2026-11-19",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Indicative Contract Value: £4,300,000 excl VAT Contract Duration: The contract will commence on 4 January 2027 with a 8 weeks mobilisation period. Delivery of the service will start on the 1 March 2027 and end on 31 March 2029 (‘Initial Period’).The Initial Period is 25 months and the Authority reserves the right to extend the contract for a further period of up to 12 months. About The VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. The VRU invests in interventions at critical moments to keep young people safe in and out of school and at the key touchpoints that influence a young person’s journey; early years and families, education, positive opportunities, youth work, and communities and place. In London, working in partnership, we bring together services at a local level to better coordinate delivery of prevention. We build and support effective partnerships with government, local authorities, the NHS, education services, and the police. Our strength is in connection to London’s diverse communities and young people. We’ve made embedding the voice of young people, practitioner and communities a critical part of our approach and decision-making. You can read the VRU's strategy on our website and view the VRU’s outcomes framework, which measures our impact. Project Background The Mayor of London has increased investment in London’s Youth Clubs. Across 32 London boroughs and the City of London, a £30 million programme is funding youth clubs to extend and expand their existing offer into weekday evenings, weekends, and school holidays – when young people need safe spaces the most – and provide specialist support to those facing the greatest challenges. This investment strengthens youth clubs as trusted community spaces – where connections are made, young people feel safe and valued, and opportunities are created, all with support from trusted adults. The programme will help community organisations reach more young people aged 14–24 years old and strengthen the quality and sustainability of their provision. It will do this by delivering an increased universal, open-access provision, and targeted specialised support for young people facing greater challenges. For more information on this specific Youth Clubs programme, please see The Mayor's investment in youth clubs | London City Hall. Safety is a core outcome of this Mayoral investment in youth clubs. Whilst it will provide universal youth provision alongside targeted support, some young people will require specialist interventions beyond the expertise and capacity of local delivery partners. Therefore, the Mayor has agreed additional investment to provide a London-wide Safety Offer to sit alongside the core Youth Clubs programme. Drawing on its regional oversight and networks across London, alongside seven years of experience and expertise in commissioning impactful violence reduction programmes, the VRU is looking to commission a specialist organisation to deliver the Mayor’s Youth Clubs Safety Programme, which will provide additional capacity to connect with the Mayoral funded youth clubs across the 32 boroughs and the City of London to enhance safety of young people. This programme is to include a network of specialised youth workers for each of the chosen youth clubs, with an expected minimum of 2:1 borough to youth worker ratio. These specialist youth workers will provide targeted support for young people experiencing or at risk of violence and exploitation, offer support to enhance feelings of safety and boost connections and pathways into wider specialist services. Description of the service The aim of the Safety Programme will be to provide a regular, connected and meaningful presence across the Mayor's Youth Clubs programme to support children and young people who are affected by, or vulnerable to, violence and exploitation. Its purpose is to identify those at risk, provide direct support, make referrals into appropriate services and interventions and enhance feelings of safety. The VRU will commission a specialist organisation to deliver the Safety Programme. This service will provide a network of specialist practitioners who will work alongside funded Youth Club partnerships, providing additional capacity and expertise to identify, engage, and support young people who face higher levels of risk. They will work with local youth club partnerships to build trusted relationships with young people, provide targeted interventions and support, and help young people access wider opportunities and services. The programme is underpinned by evidence highlighting the important role youth clubs play in engaging children and young people who may be vulnerable to violence and exploitation, particularly those who may be less likely to engage with other forms of support. Research also highlights the importance of trusted adults, specialist youth work and effective safeguarding pathways in identifying need and connecting young people to timely support. The service will contribute to the Violence Reduction Unit's public health approach to preventing and reducing violence in London, by preventing harm, identifying and addressing risk factors, and improving outcomes for children and young people. The service is expected to: - Provide specialised youth workers who build trusted relationships with children and young people who may be at risk of harm, supporting them to access the Mayoral youth club as a safe space. - Provide a regular presence within the Mayoral youth clubs, working with youth club staff to identify young people with existing or potential risk and need for further support. - Assess needs and vulnerabilities of children and young people identified as at risk, including those impacted by exploitation, extra familial harm, online and digital harms and domestic abuse. - Provide targeted support and engagement, including 1-1 support for children and young people at greater risk of harm, holding casework where appropriate. - Facilitate access to appropriate statutory, community and specialist support services through referrals and where needed building connections and support pathways, including connecting with families /parents /guardians as appropriate to ensure a whole family approach. - Undertake contextual safeguarding assessments, working with the youth club providers and local authority partners, to assess contextual risk of youth club and surrounding environments, and deliver peer group contextual interventions where appropriate. - Deliver workshops and group work aimed at increasing safety of young people attending the youth club and support awareness of risk, based on identified local concerns/need. - Work collaboratively with mayoral youth clubs and wider statutory agencies to strengthen the connections and pathways between the many safety programmes held both by VCS and public authorities; and do so through a place-based approach. - Strengthen local partnership responses to emerging safeguarding and violence-related issues through sharing understanding of emerging risks, contextual safeguarding and issues impacting children and young people in local areas. - Operate as a pan-London network, share intelligence and effective practice across London through a connected practitioner network. - Contribute to reductions in vulnerability and harm and improving outcomes for children and young people. - Embed trauma-informed practice, lived experience and cultural sensitivity throughout service delivery. Target Audience The Mayor’s Investment in Youth Clubs Programme is a programme for children and young people, with delivery expected to expand the reach to the 14–24 years cohort. Whilst the programme does not prescribe a fixed age range, provision should have a strong focus on children and young people during adolescence, when exposure to violence, exploitation and associated risk can become more pronounced. This should not preclude earlier preventative activity with younger children where appropriate. Scope of Delivery The Provider will deliver a service with a network of specialist youth workers who will work across the 33 Mayoral funded Youth Clubs on a 2:1 youth club to youth worker ratio, to provide specialist and targeted support to children identified as at greater risk of harm. This will include engaging young people within and around the youth clubs, building trusted relationships, providing tailored 1-1 support and interventions and facilitating appropriate referrals into local statutory, VCS or specialist support to address their risk, improve their safety and promote positive outcomes. This will also include delivery of targeted workshops, drop-in sessions and other interventions at the Youth Clubs in response to local needs and emerging issues and to support the building of trusted relationships. The service is expected to work closely with Mayoral Youth Club Providers, local authorities, safeguarding partnerships, education providers, health services, community organisations, borough violence reduction initiatives and other VRU tertiary programmes. Timeframe and Budget The total budget available for the Initial Period is up to £2,900,000 excluding VAT. The Authority may, at its discretion, exercise the option to extend the contract for a further 12 months, with an additional budget of up to £1,400,000 excluding VAT. This would bring the total potential contract value to £4,300,000 excluding VAT.",
+        "tenderSummary": "Indicative Contract Value: £4,300,000 excl VAT Contract Duration: The contract will commence on 4 January 2027 with a 8 weeks mobilisation period. Delivery of the service will start on the 1 March 2027 and end on 31 March 2029 (‘Initial Period’).The Initial Period is 25 months and the Authority reserves the right to extend the contract for a further period of up to 12 months. About The VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. The VRU invests in interventions at critical moments to keep young people safe in and out of school and at the key touchpoints that influence a young person’s journey; early years and families, education, positive opportunities, youth work, and communities and place. In London, working in partnership, we bring together services at a local level to better coordinate delivery of prevention. We build and support effective partnerships with government, local authorities, the NHS, education services, and the police. Our strength is in connection to London’s diverse communities and young people. We’ve made embedding the voice of young people, practitioner and communities a critical part of our approach and decision-making. You can read the VRU's strategy on our website and view the VRU’s outcomes framework, which measures our impact. Project Background The Mayor of London has increased investment in London’s Youth Clubs. Across 32 London boroughs and the City of London, a £30 million programme is funding youth clubs to extend and expand their existing offer into weekday evenings, weekends, and school holidays – when young people need safe spaces the most – and provide specialist support to those facing the greatest challenges. This investment strengthens youth clubs as trusted community spaces – where connections are made, young people feel safe and valued, and opportunities are created, all with support from trusted adults. The programme will help community organisations reach more young people aged 14–24 years old and strengthen the quality and sustainability of their provision. It will do this by delivering an increased universal, open-access provision, and targeted specialised support for young people facing greater challenges. For more information on this specific Youth Clubs programme, please see The Mayor's investment in youth clubs | London City Hall. Safety is a core outcome of this Mayoral investment in youth clubs. Whilst it will provide universal youth provision alongside targeted support, some young people will require specialist interventions beyond the expertise and capacity of local delivery partners. Therefore, the Mayor has agreed additional investment to provide a London-wide Safety Offer to sit alongside the core Youth Clubs programme. Drawing on its regional oversight and networks across London, alongside seven years of experience and expertise in commissioning impactful violence reduction programmes, the VRU is looking to commission a specialist organisation to deliver the Mayor’s Youth Clubs Safety Programme, which will provide additional capacity to connect with the Mayoral funded youth clubs across the 32 boroughs and the City of London to enhance safety of young people. This programme is to include a network of specialised youth workers for each of the chosen youth clubs, with an expected minimum of 2:1 borough to youth worker ratio. These specialist youth workers will provide targeted support for young people experiencing or at risk of violence and exploitation, offer support to enhance feelings of safety and boost connections and pathways into wider specialist services. Description of the service The aim of the Safety Programme will be to provide a regular, connected and meaningful presence across the Mayor's Youth Clubs programme to support children and young people who are affected by, or vulnerable to, violence and exploitation. Its purpose is to identify those at risk, provide direct support, make referrals into appropriate services and interventions and enhance feelings of safety. The VRU will commission a specialist organisation to deliver the Safety Programme. This service will provide a network of specialist practitioners who will work alongside funded Youth Club partnerships, providing additional capacity and expertise to identify, engage, and support young people who face higher levels of risk. They will work with local youth club partnerships to build trusted relationships with young people, provide targeted interventions and support, and help young people access wider opportunities and services. The programme is underpinned by evidence highlighting the important role youth clubs play in engaging children and young people who may be vulnerable to violence and exploitation, particularly those who may be less likely to engage with other forms of support. Research also highlights the importance of trusted adults, specialist youth work and effective safeguarding pathways in identifying need and connecting young people to timely support. The service will contribute to the Violence Reduction Unit's public health approach to preventing and reducing violence in London, by preventing harm, identifying and addressing risk factors, and improving outcomes for children and young people. The service is expected to: - Provide specialised youth workers who build trusted relationships with children and young people who may be at risk of harm, supporting them to access the Mayoral youth club as a safe space. - Provide a regular presence within the Mayoral youth clubs, working with youth club staff to identify young people with existing or potential risk and need for further support. - Assess needs and vulnerabilities of children and young people identified as at risk, including those impacted by exploitation, extra familial harm, online and digital harms and domestic abuse. - Provide targeted support and engagement, including 1-1 support for children and young people at greater risk of harm, holding casework where appropriate. - Facilitate access to appropriate statutory, community and specialist support services through referrals and where needed building connections and support pathways, including connecting with families /parents /guardians as appropriate to ensure a whole family approach. - Undertake contextual safeguarding assessments, working with the youth club providers and local authority partners, to assess contextual risk of youth club and surrounding environments, and deliver peer group contextual interventions where appropriate. - Deliver workshops and group work aimed at increasing safety of young people attending the youth club and support awareness of risk, based on identified local concerns/need. - Work collaboratively with mayoral youth clubs and wider statutory agencies to strengthen the connections and pathways between the many safety programmes held both by VCS and public authorities; and do so through a place-based approach. - Strengthen local partnership responses to emerging safeguarding and violence-related issues through sharing understanding of emerging risks, contextual safeguarding and issues impacting children and young people in local areas. - Operate as a pan-London network, share intelligence and effective practice across London through a connected practitioner network. - Contribute to reductions in vulnerability and harm and improving outcomes for children and young people. - Embed trauma-informed practice, lived experience and cultural sensitivity throughout service delivery. Target Audience The Mayor’s Investment in Youth Clubs Programme is a programme for children and young people, with delivery expected to expand the reach to the 14–24 years cohort. Whilst the programme does not prescribe a fixed age range, provision should have a strong focus on children and young people during adolescence, when exposure to violence, exploitation and associated risk can become more pronounced. This should not preclude earlier preventative activity with younger children where appropriate. Scope of Delivery The Provider will deliver a service with a network of specialist youth workers who will work across the 33 Mayoral funded Youth Clubs on a 2:1 youth club to youth worker ratio, to provide specialist and targeted support to children identified as at greater risk of harm. This will include engaging young people within and around the youth clubs, building trusted relationships, providing tailored 1-1 support and interventions and facilitating appropriate referrals into local statutory, VCS or specialist support to address their risk, improve their safety and promote positive outcomes. This will also include delivery of targeted workshops, drop-in sessions and other interventions at the Youth Clubs in response to local needs and emerging issues and to support the building of trusted relationships. The service is expected to work closely with Mayoral Youth Club Providers, local authorities, safeguarding partnerships, education providers, health services, community organisations, borough violence reduction initiatives and other VRU tertiary programmes. Timeframe and Budget The total budget available for the Initial Period is up to £2,900,000 excluding VAT. The Authority may, at its discretion, exercise the option to extend the contract for a further 12 months, with an additional budget of up to £1,400,000 excluding VAT. This would bring the total potential contract value to £4,300,000 excluding VAT.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/098582-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKI",
+        "cpv": "98133110, 85000000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
         "id": "fts-092987-2026",
         "title": "Regional Care Cooperative - Supported Accommodation",
         "authority": "Greater Manchester Combined Authority",
@@ -3004,6 +3569,123 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
+        "demo": false
+      },
+      {
+        "id": "fts-099085-2026",
+        "title": "The Harlington Refurbishment And Remodelling",
+        "authority": "Fleet Town Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "099085-2026",
+        "published": "2026-10-20",
+        "deadline": "2026-11-21",
+        "value": 10000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The works comprise refurbishment, reconfiguration and enhancement of the existing Harlington civic and entertainment venue. This involves refurbishment of the auditorium, including a new roof structure, balcony/mezzanine seating, retractable seating, improved accessibility, and upgraded theatre lighting, AV, rigging and acoustic systems. Front-of-house areas are to be remodelled with an improved entrance, foyer, box office, bar, WCs and circulation, alongside upgrades to backstage areas, dressing rooms, Council offices and meeting facilities. The scheme also incorporates substantial mechanical and electrical replacements, improvements to fire safety, thermal performance and energy efficiency, together with drainage, landscaping and external works. To be procured via two stage JCT design and build contract.",
+        "tenderSummary": "The works comprise refurbishment, reconfiguration and enhancement of the existing Harlington civic and entertainment venue. This involves refurbishment of the auditorium, including a new roof structure, balcony/mezzanine seating, retractable seating, improved accessibility, and upgraded theatre lighting, AV, rigging and acoustic systems. Front-of-house areas are to be remodelled with an improved entrance, foyer, box office, bar, WCs and circulation, alongside upgrades to backstage areas, dressing rooms, Council offices and meeting facilities. The scheme also incorporates substantial mechanical and electrical replacements, improvements to fire safety, thermal performance and energy efficiency, together with drainage, landscaping and external works. To be procured via two stage JCT design and build contract.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-24387",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKC, UKD, UKE, UKF, UKG, UKH, UKI, UKJ, UKK",
+        "cpv": "45000000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-099038-2026",
+        "title": "The Harlington Refurbishment And Remodelling",
+        "authority": "Fleet Town Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "099038-2026",
+        "published": "2026-10-20",
+        "deadline": "2026-11-21",
+        "value": 10000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The works comprise refurbishment, reconfiguration and enhancement of the existing Harlington civic and entertainment venue. This involves refurbishment of the auditorium, including a new roof structure, balcony/mezzanine seating, retractable seating, improved accessibility, and upgraded theatre lighting, AV, rigging and acoustic systems. Front-of-house areas are to be remodelled with an improved entrance, foyer, box office, bar, WCs and circulation, alongside upgrades to backstage areas, dressing rooms, Council offices and meeting facilities. The scheme also incorporates substantial mechanical and electrical replacements, improvements to fire safety, thermal performance and energy efficiency, together with drainage, landscaping and external works. To be procured via two stage JCT design and build contract.",
+        "tenderSummary": "The works comprise refurbishment, reconfiguration and enhancement of the existing Harlington civic and entertainment venue. This involves refurbishment of the auditorium, including a new roof structure, balcony/mezzanine seating, retractable seating, improved accessibility, and upgraded theatre lighting, AV, rigging and acoustic systems. Front-of-house areas are to be remodelled with an improved entrance, foyer, box office, bar, WCs and circulation, alongside upgrades to backstage areas, dressing rooms, Council offices and meeting facilities. The scheme also incorporates substantial mechanical and electrical replacements, improvements to fire safety, thermal performance and energy efficiency, together with drainage, landscaping and external works. To be procured via two stage JCT design and build contract.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-24387",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKC, UKD, UKE, UKF, UKG, UKH, UKI, UKJ, UKK",
+        "cpv": "45000000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-099209-2026",
+        "title": "Fire Door Replacements",
+        "authority": "Royal Borough of Greenwich",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "099209-2026",
+        "published": "2026-10-20",
+        "deadline": "2026-11-24",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "This tender covers the replacement of fire-rated door sets within a range of residential buildings, including general needs, vulnerable occupant schemes, and communal areas. The programme aims to ensure full compliance with UK fire safety regulations, improve compartmentation, upgrade life safety systems, and meet obligations under the Fire Safety Act and the Building Safety Act.",
+        "tenderSummary": "This tender covers the replacement of fire-rated door sets within a range of residential buildings, including general needs, vulnerable occupant schemes, and communal areas. The programme aims to ensure full compliance with UK fire safety regulations, improve compartmentation, upgrade life safety systems, and meet obligations under the Fire Safety Act and the Building Safety Act.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/099209-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKI",
+        "cpv": "44221220, 45421131, 51700000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
         "demo": false
       },
       {
@@ -3082,6 +3764,242 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-099739-2026",
+        "title": "WSTLAT Provision of Supply Agency Services",
+        "authority": "Westcountry Schools Trust",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "099739-2026",
+        "published": "2026-10-22",
+        "deadline": "2026-11-30",
+        "value": 11750000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "This collaborative tender opportunity has been issued by Westcountry Schools Trust and Learning Academies Trust. The proposed contracts will be for the provision of supply agency services. The service is intended to provide access to safe, compliant and good quality agency workers when required, while supporting the Trust’s objectives of continuity of provision, safeguarding compliance, operational flexibility and value for money. The tender has been divided into Lots to reflect the two Academy Trusts and the different geographical areas in which the service will be delivered. The intention is to award four (4) separate contracts for each Lot following evaluation of tenders The contracts will be for a period of three (3) years, with the possible extension of two (2) further years in 12-month intervals (3 + 1 + 1).",
+        "tenderSummary": "This collaborative tender opportunity has been issued by Westcountry Schools Trust and Learning Academies Trust. The proposed contracts will be for the provision of supply agency services. The service is intended to provide access to safe, compliant and good quality agency workers when required, while supporting the Trust’s objectives of continuity of provision, safeguarding compliance, operational flexibility and value for money. The tender has been divided into Lots to reflect the two Academy Trusts and the different geographical areas in which the service will be delivered. The intention is to award four (4) separate contracts for each Lot following evaluation of tenders The contracts will be for a period of three (3) years, with the possible extension of two (2) further years in 12-month intervals (3 + 1 + 1).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/099739-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK3, UKK4, UKK41",
+        "cpv": "79620000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-099580-2026",
+        "title": "WSTLAT Provision of Supply Agency Services",
+        "authority": "Westcountry Schools Trust",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "099580-2026",
+        "published": "2026-10-21",
+        "deadline": "2026-11-30",
+        "value": 11750000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "This collaborative tender opportunity has been issued by Westcountry Schools Trust and Learning Academies Trust. The proposed contracts will be for the provision of supply agency services. The service is intended to provide access to safe, compliant and good quality agency workers when required, while supporting the Trust’s objectives of continuity of provision, safeguarding compliance, operational flexibility and value for money. The tender has been divided into Lots to reflect the two Academy Trusts and the different geographical areas in which the service will be delivered. The intention is to award four (4) separate contracts for each Lot following evaluation of tenders The contracts will be for a period of three (3) years, with the possible extension of two (2) further years in 12-month intervals (3 + 1 + 1).",
+        "tenderSummary": "This collaborative tender opportunity has been issued by Westcountry Schools Trust and Learning Academies Trust. The proposed contracts will be for the provision of supply agency services. The service is intended to provide access to safe, compliant and good quality agency workers when required, while supporting the Trust’s objectives of continuity of provision, safeguarding compliance, operational flexibility and value for money. The tender has been divided into Lots to reflect the two Academy Trusts and the different geographical areas in which the service will be delivered. The intention is to award four (4) separate contracts for each Lot following evaluation of tenders The contracts will be for a period of three (3) years, with the possible extension of two (2) further years in 12-month intervals (3 + 1 + 1).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/099580-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK3, UKK4, UKK41",
+        "cpv": "79620000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-097714-2026",
+        "title": "Request for Quote: Musical Groups & Workshop Providers - East and South Cambridgeshire (June-July 2027)",
+        "authority": "Cambridgeshire County Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "097714-2026",
+        "published": "2026-10-16",
+        "deadline": "2026-11-30",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Organisation: Cambridgeshire Music Service Required: Live Performances and Interactive Music Workshops for Primary and Secondary-Aged Children, Including Inclusive Provision for Pupils with Special Educational Needs and Disabilities (SEND) Location: East and South Cambridgeshire Delivery Window: 14 June 2027 to 9 July 2027 (school hours) Cambridgeshire Music is seeking requests for quotes from local musical groups, ensembles, solo performers, and music workshop providers of any musical genre to deliver engaging performances or practical musical workshops for primary and / or secondary -aged pupils, including inclusive provision for pupils with Special Educational Needs and Disabilities (SEND) across schools in East and South Cambridgeshire. We welcome interest from artists working in all musical styles, including (but not limited to) classical, folk, pop, rock, jazz, world music, electronic, choral, and culturally specific traditions. Our aim is to provide high-quality, inspiring musical experiences that broaden children's understanding and enjoyment of music. Requirements: - Ability to deliver 50-60 minute performances suitable for primary and/or secondary aged children. - Capacity to travel to schools within East and South Cambridgeshire. - Availability during school hours between 14 June - 9th July 2027 - Public liability insurance and relevant safeguarding checks - Previous experience of working in schools",
+        "tenderSummary": "Organisation: Cambridgeshire Music Service Required: Live Performances and Interactive Music Workshops for Primary and Secondary-Aged Children, Including Inclusive Provision for Pupils with Special Educational Needs and Disabilities (SEND) Location: East and South Cambridgeshire Delivery Window: 14 June 2027 to 9 July 2027 (school hours) Cambridgeshire Music is seeking requests for quotes from local musical groups, ensembles, solo performers, and music workshop providers of any musical genre to deliver engaging performances or practical musical workshops for primary and / or secondary -aged pupils, including inclusive provision for pupils with Special Educational Needs and Disabilities (SEND) across schools in East and South Cambridgeshire. We welcome interest from artists working in all musical styles, including (but not limited to) classical, folk, pop, rock, jazz, world music, electronic, choral, and culturally specific traditions. Our aim is to provide high-quality, inspiring musical experiences that broaden children's understanding and enjoyment of music. Requirements: - Ability to deliver 50-60 minute performances suitable for primary and/or secondary aged children. - Capacity to travel to schools within East and South Cambridgeshire. - Availability during school hours between 14 June - 9th July 2027 - Public liability insurance and relevant safeguarding checks - Previous experience of working in schools",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/097714-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKH12",
+        "cpv": "80000000, 92312100, 92312120, 92312130, 92312140, 92312200, 92312220, 92312240, 92340000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-099469-2026",
+        "title": "London's Violence Reduction Unit - Pan London Tertiary Service",
+        "authority": "Mayor's Office For Policing And Crime",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "099469-2026",
+        "published": "2026-10-21",
+        "deadline": "2026-12-02",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "About the VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. Project Background The VRU takes a public health approach to violence reduction, recognising that prevention requires action at different stages. Primary prevention seeks to change the conditions that make violence more likely, strengthening protective factors before violence occurs. Secondary prevention responds when risk or violence is emerging, aiming to interrupt risk and prevent escalation. Tertiary prevention focuses on reducing the harm caused by violence, supporting recovery and reducing the likelihood of further violence. These approaches are complementary, forming part of a wider response to violence and exploitation. Children and young people affected by violence and exploitation can experience complex and interconnected needs, alongside significant barriers to accessing support. These may include safeguarding concerns, trauma, mental health needs, housing instability, disrupted relationships and difficulties accessing education, employment and other opportunities. Tertiary provision is therefore essential to provide tailored, coordinated support that addresses immediate safeguarding concerns, helps young people recover and improve their circumstances, and reduces the risk of further harm. The Violence and Exploitation Support Service (VESS) launched in June 2024 to provide specialist support to young people across London who have been affected by violence and exploitation. Management of the VESS contract transferred from the Mayor’s Office for Police and Crime (MOPAC) to the VRU in October 2025, with the contract due to expire in June 2027. VESS has made an important contribution to the VRU’s wider approach to tertiary provision, reinforcing the value of trusted relationships between practitioners and young people, flexible and personalised support, and a multidisciplinary approach connecting young people to specialist services, including mental health, housing, education, employment and safeguarding. This experience, alongside the VRU’s established expertise in violence reduction and wider evidence base, provides a strong foundation for the development of the new Tertiary Service. As VESS is due to end in June 2027, the VRU is commissioning a new Tertiary Service to provide specialist support to young people experiencing the highest levels of harm, vulnerability, violence and exploitation. Description of the service The London Violence Reduction Unit (VRU) will appoint a provider to deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The VRU Tertiary Service forms part of the VRU’s wider public health approach to violence reduction. It is intended to provide specialist support to young people who are already affected by, or at significant risk of, serious violence and exploitation, where intensive and coordinated, intervention is required to address their needs and reduce the risk of further harm. The Service will deliver intensive, relationship-based one-to-one support that responds to immediate safeguarding concerns and the wider factors contributing to violence, exploitation and vulnerability. Practitioners will build trusted relationships with young people who may have experienced significant trauma, have difficulty engaging with services or have developed distrust towards professionals. Support will be tailored to each young person’s circumstances, needs, risks and aspirations. This includes responding to immediate concerns while addressing longer-term factors affecting safety, stability and wellbeing. The Provider will coordinate support across multiple areas of need and help young people access relevant specialist interventions and wider services. The Provider will work collaboratively with statutory, voluntary and community sector partners to support identification and referral, coordinate interventions, address barriers to accessing support and strengthen pathways between the VRU’s wider tertiary provision and other relevant services. The Service will operate within a consistent pan-London framework, supported by strong local integration and partnerships. The Provider will understand local systems and community contexts in which young people experience violence and exploitation, while ensuring that young people can access a consistent standard of support across London. The service is expected to: - Identify, engage and support young people aged 11-25 who are experiencing the highest levels of violence, exploitation, harm and vulnerability. - Deliver intensive, relationship-based support through named practitioners who build trusted, consistent and sustained relationships with young people. - Improve young people's safety, wellbeing, stability and resilience by addressing immediate safeguarding concerns and underlying drivers of harm. - Provide tailored, needs-led interventions that respond to each young person's individual circumstances, strengths, risks, and aspirations. - Support young people to access, navigate, and engage with relevant statutory, voluntary, and community services through advocacy and system navigation. - Improve access to specialist support, including housing, education, training and employment, family support, mental health services, and other interventions relevant to need. - Strengthen multi-agency partnerships, information sharing, and coordinated responses across local systems. - Promote culturally competent, gender-responsive, and trauma-informed approaches that reflect young people's identities, experiences, and needs. - Embed lived experience, cultural competence, reflective practice and trauma-informed principles throughout service delivery. - Strengthen local safeguarding and violence reduction responses through the sharing of intelligence, learning, emerging risks and contextual safeguarding insights. - Operate as a connected pan-London service that shares effective practice, learning and intelligence across borough boundaries. - Support wider system improvement by informing more effective local and pan-London responses to violence and exploitation through learning from service delivery. Target Audience The Service is intended for London-based young people aged 11 to 25 who are most impacted by violence and exploitation. Support young people who demonstrate indicators of: - Established harm: Violence or exploitation is currently occurring or has occurred repeatedly. - Entrenched circumstances: The young person is experiencing persistent violence or exploitation that has not been effectively addressed through existing services or previous interventions. - Multiple and interconnected risks: Violence or exploitation is linked to factors such as housing instability, family circumstances, harmful peer influences, trauma, substance use, education, or involvement with the justice system. - Escalating or significant contextual risk: The young person is exposed to harm through relationships, peer networks, locations, institutions, online spaces or wider environments that require specialist intervention and coordinated support. This risk may be increasing in frequency, severity or impact. Examples of young people who may be appropriate for the Service include, but are not limited to: - Young people with missing episodes linked to violence, exploitation or criminal activity. - Young people who are being exploited into, or are actively involved with, harmful peer groups, gangs or organised criminal networks. - Young people whose risks have persisted or escalated despite previous interventions or support arrangements. - Young people demonstrating escalating patterns of offending, exploitation, vulnerability or harm. - Young people experiencing violence and exploitation alongside housing insecurity, homelessness, family breakdown, trauma, poor mental health, neurodiversity, substance use or disengagement from education, training or employment. Scope of Delivery The Provider will deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The Provider delivering the Service must demonstrate the following: - Credible and effective youth work - Advocacy and systems navigation - Safeguarding and transitional safeguarding - Multi-agency partnership working and local systems integration - Specialist intervention and needs-led support - Reflective practice, learning and service development The Provider will demonstrate experience of working with young people affected by violence and exploitation who present with high levels of risk, harm and vulnerability. The Provider will deliver a clear organisational approach to engaging and supporting this cohort. They must evidence how their approach enables them to build trust, sustain long term engagement, and achieve positive outcomes in relation to safety, wellbeing, stability and reduced vulnerability to violence and exploitation. Practitioners must demonstrate credibility, authenticity, professional curiosity and appropriate boundaries, supported by training, supervision and ongoing workforce development. The service is expected to work closely with local authorities, criminal justice system, education providers, health services, community VCS organisations, and other VRU tertiary programmes. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-London:-Health-and-social-work-services./7S23397Z36 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/7S23397Z36",
+        "tenderSummary": "About the VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. Project Background The VRU takes a public health approach to violence reduction, recognising that prevention requires action at different stages. Primary prevention seeks to change the conditions that make violence more likely, strengthening protective factors before violence occurs. Secondary prevention responds when risk or violence is emerging, aiming to interrupt risk and prevent escalation. Tertiary prevention focuses on reducing the harm caused by violence, supporting recovery and reducing the likelihood of further violence. These approaches are complementary, forming part of a wider response to violence and exploitation. Children and young people affected by violence and exploitation can experience complex and interconnected needs, alongside significant barriers to accessing support. These may include safeguarding concerns, trauma, mental health needs, housing instability, disrupted relationships and difficulties accessing education, employment and other opportunities. Tertiary provision is therefore essential to provide tailored, coordinated support that addresses immediate safeguarding concerns, helps young people recover and improve their circumstances, and reduces the risk of further harm. The Violence and Exploitation Support Service (VESS) launched in June 2024 to provide specialist support to young people across London who have been affected by violence and exploitation. Management of the VESS contract transferred from the Mayor’s Office for Police and Crime (MOPAC) to the VRU in October 2025, with the contract due to expire in June 2027. VESS has made an important contribution to the VRU’s wider approach to tertiary provision, reinforcing the value of trusted relationships between practitioners and young people, flexible and personalised support, and a multidisciplinary approach connecting young people to specialist services, including mental health, housing, education, employment and safeguarding. This experience, alongside the VRU’s established expertise in violence reduction and wider evidence base, provides a strong foundation for the development of the new Tertiary Service. As VESS is due to end in June 2027, the VRU is commissioning a new Tertiary Service to provide specialist support to young people experiencing the highest levels of harm, vulnerability, violence and exploitation. Description of the service The London Violence Reduction Unit (VRU) will appoint a provider to deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The VRU Tertiary Service forms part of the VRU’s wider public health approach to violence reduction. It is intended to provide specialist support to young people who are already affected by, or at significant risk of, serious violence and exploitation, where intensive and coordinated, intervention is required to address their needs and reduce the risk of further harm. The Service will deliver intensive, relationship-based one-to-one support that responds to immediate safeguarding concerns and the wider factors contributing to violence, exploitation and vulnerability. Practitioners will build trusted relationships with young people who may have experienced significant trauma, have difficulty engaging with services or have developed distrust towards professionals. Support will be tailored to each young person’s circumstances, needs, risks and aspirations. This includes responding to immediate concerns while addressing longer-term factors affecting safety, stability and wellbeing. The Provider will coordinate support across multiple areas of need and help young people access relevant specialist interventions and wider services. The Provider will work collaboratively with statutory, voluntary and community sector partners to support identification and referral, coordinate interventions, address barriers to accessing support and strengthen pathways between the VRU’s wider tertiary provision and other relevant services. The Service will operate within a consistent pan-London framework, supported by strong local integration and partnerships. The Provider will understand local systems and community contexts in which young people experience violence and exploitation, while ensuring that young people can access a consistent standard of support across London. The service is expected to: - Identify, engage and support young people aged 11-25 who are experiencing the highest levels of violence, exploitation, harm and vulnerability. - Deliver intensive, relationship-based support through named practitioners who build trusted, consistent and sustained relationships with young people. - Improve young people's safety, wellbeing, stability and resilience by addressing immediate safeguarding concerns and underlying drivers of harm. - Provide tailored, needs-led interventions that respond to each young person's individual circumstances, strengths, risks, and aspirations. - Support young people to access, navigate, and engage with relevant statutory, voluntary, and community services through advocacy and system navigation. - Improve access to specialist support, including housing, education, training and employment, family support, mental health services, and other interventions relevant to need. - Strengthen multi-agency partnerships, information sharing, and coordinated responses across local systems. - Promote culturally competent, gender-responsive, and trauma-informed approaches that reflect young people's identities, experiences, and needs. - Embed lived experience, cultural competence, reflective practice and trauma-informed principles throughout service delivery. - Strengthen local safeguarding and violence reduction responses through the sharing of intelligence, learning, emerging risks and contextual safeguarding insights. - Operate as a connected pan-London service that shares effective practice, learning and intelligence across borough boundaries. - Support wider system improvement by informing more effective local and pan-London responses to violence and exploitation through learning from service delivery. Target Audience The Service is intended for London-based young people aged 11 to 25 who are most impacted by violence and exploitation. Support young people who demonstrate indicators of: - Established harm: Violence or exploitation is currently occurring or has occurred repeatedly. - Entrenched circumstances: The young person is experiencing persistent violence or exploitation that has not been effectively addressed through existing services or previous interventions. - Multiple and interconnected risks: Violence or exploitation is linked to factors such as housing instability, family circumstances, harmful peer influences, trauma, substance use, education, or involvement with the justice system. - Escalating or significant contextual risk: The young person is exposed to harm through relationships, peer networks, locations, institutions, online spaces or wider environments that require specialist intervention and coordinated support. This risk may be increasing in frequency, severity or impact. Examples of young people who may be appropriate for the Service include, but are not limited to: - Young people with missing episodes linked to violence, exploitation or criminal activity. - Young people who are being exploited into, or are actively involved with, harmful peer groups, gangs or organised criminal networks. - Young people whose risks have persisted or escalated despite previous interventions or support arrangements. - Young people demonstrating escalating patterns of offending, exploitation, vulnerability or harm. - Young people experiencing violence and exploitation alongside housing insecurity, homelessness, family breakdown, trauma, poor mental health, neurodiversity, substance use or disengagement from education, training or employment. Scope of Delivery The Provider will deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The Provider delivering the Service must demonstrate the following: - Credible and effective youth work - Advocacy and systems navigation - Safeguarding and transitional safeguarding - Multi-agency partnership working and local systems integration - Specialist intervention and needs-led support - Reflective practice, learning and service development The Provider will demonstrate experience of working with young people affected by violence and exploitation who present with high levels of risk, harm and vulnerability. The Provider will deliver a clear organisational approach to engaging and supporting this cohort. They must evidence how their approach enables them to build trust, sustain long term engagement, and achieve positive outcomes in relation to safety, wellbeing, stability and reduced vulnerability to violence and exploitation. Practitioners must demonstrate credibility, authenticity, professional curiosity and appropriate boundaries, supported by training, supervision and ongoing workforce development. The service is expected to work closely with local authorities, criminal justice system, education providers, health services, community VCS organisations, and other VRU tertiary programmes. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-London:-Health-and-social-work-services./7S23397Z36 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/7S23397Z36",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/099469-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85000000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-098220-2026",
+        "title": "Cutenhoe Hill Primary School & Nursery _ Luton",
+        "authority": "Cutenhoe Hill Primary School & Nursery",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "098220-2026",
+        "published": "2026-10-16",
+        "deadline": "2026-12-04",
+        "value": 478800,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Cutenhoe Hill Primary School Cutenhoe Hill Primary School is seeking to appoint an experienced, professional and forward-thinking catering partner to deliver high-quality school meals and associated catering services. The School is committed to ensuring that every pupil has access to freshly prepared, nutritious and enjoyable meals that support health, wellbeing and educational attainment. The successful contractor will share the School's commitment to putting children at the centre of decision-making and delivering a catering service that reflects the values and aspirations of the School community. This procurement seeks to establish a genuine partnership between the School and its chosen caterer. The School is not simply seeking a food provider, but a collaborative organisation that places quality, service excellence, pupil experience and long-term relationship management at the heart of its delivery model. The successful contractor will be expected to: Deliver fresh, high-quality and nutritious meals that exceed School Food Standards requirements. Demonstrate a strong commitment to fresh food preparation and menu innovation. Provide excellent value for money whilst maintaining high standards of food quality and service. Develop positive and constructive relationships with pupils, parents, staff and School leadership. Promote healthy eating and encourage increased meal uptake. Demonstrate a strong understanding of safeguarding, allergen management and food safety requirements within an educational environment. Deliver transparent and open-book financial management. Support the School's environmental and sustainability objectives. Work collaboratively with the School to continually improve the service throughout the contract term. The School is particularly interested in receiving submissions from organisations whose values align with its own and who can demonstrate a culture of honesty, integrity, responsiveness and continuous improvement. The initial contract period will be three (3) years, with the option, at the School's sole discretion, to extend the contract for a further two (2) years, creating a maximum potential contract term of five (5) years. Tenderers will be expected to demonstrate: Proven experience of delivering successful school catering services. Strong customer service and client relationship management credentials. High standards of operational performance and financial transparency. Evidence of innovation, continuous improvement and social value delivery. A clear commitment to supporting the wellbeing and experience of pupils. Cutenhoe Hill Primary School looks forward to receiving submissions from catering partners that share its vision of delivering an exceptional dining experience where fresh food, value for money, trusted relationships and doing the right thing for children are at the heart of everything they do.",
+        "tenderSummary": "Cutenhoe Hill Primary School Cutenhoe Hill Primary School is seeking to appoint an experienced, professional and forward-thinking catering partner to deliver high-quality school meals and associated catering services. The School is committed to ensuring that every pupil has access to freshly prepared, nutritious and enjoyable meals that support health, wellbeing and educational attainment. The successful contractor will share the School's commitment to putting children at the centre of decision-making and delivering a catering service that reflects the values and aspirations of the School community. This procurement seeks to establish a genuine partnership between the School and its chosen caterer. The School is not simply seeking a food provider, but a collaborative organisation that places quality, service excellence, pupil experience and long-term relationship management at the heart of its delivery model. The successful contractor will be expected to: Deliver fresh, high-quality and nutritious meals that exceed School Food Standards requirements. Demonstrate a strong commitment to fresh food preparation and menu innovation. Provide excellent value for money whilst maintaining high standards of food quality and service. Develop positive and constructive relationships with pupils, parents, staff and School leadership. Promote healthy eating and encourage increased meal uptake. Demonstrate a strong understanding of safeguarding, allergen management and food safety requirements within an educational environment. Deliver transparent and open-book financial management. Support the School's environmental and sustainability objectives. Work collaboratively with the School to continually improve the service throughout the contract term. The School is particularly interested in receiving submissions from organisations whose values align with its own and who can demonstrate a culture of honesty, integrity, responsiveness and continuous improvement. The initial contract period will be three (3) years, with the option, at the School's sole discretion, to extend the contract for a further two (2) years, creating a maximum potential contract term of five (5) years. Tenderers will be expected to demonstrate: Proven experience of delivering successful school catering services. Strong customer service and client relationship management credentials. High standards of operational performance and financial transparency. Evidence of innovation, continuous improvement and social value delivery. A clear commitment to supporting the wellbeing and experience of pupils. Cutenhoe Hill Primary School looks forward to receiving submissions from catering partners that share its vision of delivering an exceptional dining experience where fresh food, value for money, trusted relationships and doing the right thing for children are at the heart of everything they do.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/098220-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "15894210",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-098200-2026",
+        "title": "Gwelliannau i / Improvement works to the ‘Materials Recovery Facility’ (MRF) Ystâd Ddiwydiannol Cibyn, Caernarfon, Gwynedd, LL55 2BD",
+        "authority": "Cyngor Gwynedd",
+        "category": "Manual handling",
+        "source": "FTS",
+        "noticeId": "098200-2026",
+        "published": "2026-10-16",
+        "deadline": "2026-12-10",
+        "value": 1200000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The Authority has recently secured additional floor space within the Materials Recycling Facility (MRF) following the relocation of the confidential paper shredding operation to another area of the depot. This additional space presents an opportunity to redesign and optimise the existing MRF layout to improve operational performance and future-proof the facility. The Authority is seeking a suitably qualified and experienced Tenderer to undertake the design, supply, installation, commissioning, and testing of a redesigned materials recycling line incorporating both the existing and newly available floor areas. The redesigned solution shall aim to: • Improve operational efficiency and throughput. • Enhance health, safety, and welfare standards. • Increase automation and reduce manual handling where practicable. • Reduce contamination levels within material streams. • Improve the quality and value of recovered materials. • Provide flexibility to accommodate future changes in recycling materials and processing requirements. The scope of works shall include, but not be limited to: • Assessment of the existing MRF operation and site constraints. • Design of a new MRF layout and processing line. • Removal and disposal, or relocation where applicable, of existing MRF equipment. • Supply of all new equipment required for the proposed solution. • Integration of both existing and new equipment into the redesigned processing line. • Installation, commissioning, performance testing, and handover of the complete system. • Provision of operator training and relevant documentation. • Provision of warranties for all new equipment supplied under the Contract. • Provision of ongoing maintenance and support services, including details of response times and planned preventative maintenance arrangements. The Tenderer shall demonstrate that the proposed solution represents best value for money and is capable of delivering a safe, efficient, reliable, and future-ready recycling operation throughout the contract term. Previous notices linked to this procurement; A Planned Procurement Notice (UK3) was published in relation to this procurement through Sell2Wales (OCID reference number: ocds-h6vhtk-0544d7) in December 2025, to make the market aware that we intended on going out to market to procure a Contractor to undertake Improvement works to the Materials Recycling Facility (MRF), Cibyn Industrial Estate, Caernarfon, Gwynedd in 2026 Preliminary Market Engagement (UK2) Prior to commencement of this procurement, the Authority undertook preliminary market engagement in accordance with section 16 of the Procurement Act 2023 and published a UK2 Preliminary Market Engagement Notice through Sell2Wales (OCID reference number: ocds-h6vhtk-05faec) The purpose of the engagement was to obtain market feedback and insights to help inform the procurement strategy, specification, and delivery requirements for the proposed improvement works to the Materials Recycling Facility (MRF). --------------------------------------------------------- Mae'r Awdurdod wedi sicrhau gofod llawr ychwanegol yn ddiweddar o fewn y Cyfleuster Adfer Deunyddiau (MRF) yn sgil adleoli'r broses malu papur cyfrinachol i ran arall o'r depo. Mae'r gofod ychwanegol hwn yn darparu cyfle i ailgynllunio ac optimeiddio cynllun presennol y MRF er mwyn gwella perfformiad gweithredol a sicrhau bod y cyfleuster yn gallu ymateb i ofynion y dyfodol. Mae'r Awdurdod yn ceisio Tendrwr cymwys a phrofiadol i ymgymryd â dylunio, cyflenwi, gosod, comisiynu a phrofi llinell brosesu ailgylchu wedi'i hailgynllunio, gan ymgorffori'r gofod llawr presennol a'r gofod ychwanegol newydd. Dylai'r ateb arfaethedig anelu at: • Wella effeithlonrwydd gweithredol a chynyddu'r capasiti prosesu. • Gwella safonau iechyd, diogelwch a llesiant. • Cynyddu awtomeiddio a lleihau trin deunyddiau â llaw lle bo'n ymarferol. • Lleihau lefelau halogiad o fewn ffrydiau deunyddiau. • Gwella ansawdd a gwerth y deunyddiau a adferir. • Darparu hyblygrwydd i allu ymateb i newidiadau yn y dyfodol mewn deunyddiau ailgylchu neu ofynion prosesu. Bydd cwmpas y gwaith yn cynnwys, ond ni fydd yn gyfyngedig i: • Asesu gweithrediadau presennol y MRF a chyfyngiadau'r safle. • Dylunio cynllun newydd a llinell brosesu newydd ar gyfer y MRF. • Datgomisiynu, symud neu waredu offer presennol y MRF fel sy'n briodol. • Cyflenwi'r holl offer newydd sydd eu hangen ar gyfer yr ateb arfaethedig. • Integreiddio offer presennol ac offer newydd i mewn i'r llinell brosesu wedi'i hailgynllunio. • Gosod, comisiynu, profi perfformiad a throsglwyddo'r system gyflawn. • Darparu hyfforddiant i weithredwyr ynghyd â'r holl ddogfennau perthnasol. • Darparu gwarantau ar gyfer yr holl offer newydd a gyflenwir o dan y Contract. • Darparu trefniadau cynnal a chadw a chymorth parhaus, gan gynnwys manylion amseroedd ymateb a rhaglenni cynnal a chadw ataliol wedi'u cynllunio. Rhaid i'r Tendrwr ddangos bod yr ateb arfaethedig yn cynrychioli gwerth gorau am arian ac yn gallu darparu gweithrediad ailgylchu diogel, effeithlon, dibynadwy ac addas ar gyfer anghenion y dyfodol drwy gydol cyfnod y contract. Hysbysiadau blaenorol sy'n gysylltiedig â'r caffael hwn; Cyhoeddwyd Hysbysiad Caffael Arfaethedig (UK3) mewn perthynas â'r caffaeliad hwn drwy Sell2Wales (rhif cyfeirnod OCID: ocds-h6vhtk-0544d7) ym mis Rhagfyr 2025. Diben yr hysbysiad oedd rhoi gwybod i'r farchnad am fwriad yr Awdurdod i fynd allan i dendr i benodi Contractwr i ymgymryd â gwaith gwella yng Nghyfleuster Adfer Deunyddiau (MRF) Stad Ddiwydiannol Cibyn, Caernarfon, Gwynedd yn ystod 2026. Ymgysylltu Rhagarweiniol â'r Farchnad (UK2) Cyn dechrau'r caffaeliad hwn, cynhaliodd yr Awdurdod Ymgysylltu Rhagarweiniol â'r Farchnad yn unol ag Adran 16 o Ddeddf Caffael 2023 a chyhoeddodd Hysbysiad Ymgysylltu Rhagarweiniol â'r Farchnad UK2 drwy Sell2Wales (rhif cyfeirnod OCID: ocds-h6vhtk-05faec). Cynhaliwyd yr ymgysylltiad hwn er mwyn cael adborth a gwybodaeth gan y farchnad i lywio'r strategaeth gaffael, y fanyleb a'r gofynion cyflawni ar gyfer y gwaith gwella arfaethedig yng Nghyfleuster Adfer Deunyddiau (MRF).",
+        "tenderSummary": "The Authority has recently secured additional floor space within the Materials Recycling Facility (MRF) following the relocation of the confidential paper shredding operation to another area of the depot. This additional space presents an opportunity to redesign and optimise the existing MRF layout to improve operational performance and future-proof the facility. The Authority is seeking a suitably qualified and experienced Tenderer to undertake the design, supply, installation, commissioning, and testing of a redesigned materials recycling line incorporating both the existing and newly available floor areas. The redesigned solution shall aim to: • Improve operational efficiency and throughput. • Enhance health, safety, and welfare standards. • Increase automation and reduce manual handling where practicable. • Reduce contamination levels within material streams. • Improve the quality and value of recovered materials. • Provide flexibility to accommodate future changes in recycling materials and processing requirements. The scope of works shall include, but not be limited to: • Assessment of the existing MRF operation and site constraints. • Design of a new MRF layout and processing line. • Removal and disposal, or relocation where applicable, of existing MRF equipment. • Supply of all new equipment required for the proposed solution. • Integration of both existing and new equipment into the redesigned processing line. • Installation, commissioning, performance testing, and handover of the complete system. • Provision of operator training and relevant documentation. • Provision of warranties for all new equipment supplied under the Contract. • Provision of ongoing maintenance and support services, including details of response times and planned preventative maintenance arrangements. The Tenderer shall demonstrate that the proposed solution represents best value for money and is capable of delivering a safe, efficient, reliable, and future-ready recycling operation throughout the contract term. Previous notices linked to this procurement; A Planned Procurement Notice (UK3) was published in relation to this procurement through Sell2Wales (OCID reference number: ocds-h6vhtk-0544d7) in December 2025, to make the market aware that we intended on going out to market to procure a Contractor to undertake Improvement works to the Materials Recycling Facility (MRF), Cibyn Industrial Estate, Caernarfon, Gwynedd in 2026 Preliminary Market Engagement (UK2) Prior to commencement of this procurement, the Authority undertook preliminary market engagement in accordance with section 16 of the Procurement Act 2023 and published a UK2 Preliminary Market Engagement Notice through Sell2Wales (OCID reference number: ocds-h6vhtk-05faec) The purpose of the engagement was to obtain market feedback and insights to help inform the procurement strategy, specification, and delivery requirements for the proposed improvement works to the Materials Recycling Facility (MRF). --------------------------------------------------------- Mae'r Awdurdod wedi sicrhau gofod llawr ychwanegol yn ddiweddar o fewn y Cyfleuster Adfer Deunyddiau (MRF) yn sgil adleoli'r broses malu papur cyfrinachol i ran arall o'r depo. Mae'r gofod ychwanegol hwn yn darparu cyfle i ailgynllunio ac optimeiddio cynllun presennol y MRF er mwyn gwella perfformiad gweithredol a sicrhau bod y cyfleuster yn gallu ymateb i ofynion y dyfodol. Mae'r Awdurdod yn ceisio Tendrwr cymwys a phrofiadol i ymgymryd â dylunio, cyflenwi, gosod, comisiynu a phrofi llinell brosesu ailgylchu wedi'i hailgynllunio, gan ymgorffori'r gofod llawr presennol a'r gofod ychwanegol newydd. Dylai'r ateb arfaethedig anelu at: • Wella effeithlonrwydd gweithredol a chynyddu'r capasiti prosesu. • Gwella safonau iechyd, diogelwch a llesiant. • Cynyddu awtomeiddio a lleihau trin deunyddiau â llaw lle bo'n ymarferol. • Lleihau lefelau halogiad o fewn ffrydiau deunyddiau. • Gwella ansawdd a gwerth y deunyddiau a adferir. • Darparu hyblygrwydd i allu ymateb i newidiadau yn y dyfodol mewn deunyddiau ailgylchu neu ofynion prosesu. Bydd cwmpas y gwaith yn cynnwys, ond ni fydd yn gyfyngedig i: • Asesu gweithrediadau presennol y MRF a chyfyngiadau'r safle. • Dylunio cynllun newydd a llinell brosesu newydd ar gyfer y MRF. • Datgomisiynu, symud neu waredu offer presennol y MRF fel sy'n briodol. • Cyflenwi'r holl offer newydd sydd eu hangen ar gyfer yr ateb arfaethedig. • Integreiddio offer presennol ac offer newydd i mewn i'r llinell brosesu wedi'i hailgynllunio. • Gosod, comisiynu, profi perfformiad a throsglwyddo'r system gyflawn. • Darparu hyfforddiant i weithredwyr ynghyd â'r holl ddogfennau perthnasol. • Darparu gwarantau ar gyfer yr holl offer newydd a gyflenwir o dan y Contract. • Darparu trefniadau cynnal a chadw a chymorth parhaus, gan gynnwys manylion amseroedd ymateb a rhaglenni cynnal a chadw ataliol wedi'u cynllunio. Rhaid i'r Tendrwr ddangos bod yr ateb arfaethedig yn cynrychioli gwerth gorau am arian ac yn gallu darparu gweithrediad ailgylchu diogel, effeithlon, dibynadwy ac addas ar gyfer anghenion y dyfodol drwy gydol cyfnod y contract. Hysbysiadau blaenorol sy'n gysylltiedig â'r caffael hwn; Cyhoeddwyd Hysbysiad Caffael Arfaethedig (UK3) mewn perthynas â'r caffaeliad hwn drwy Sell2Wales (rhif cyfeirnod OCID: ocds-h6vhtk-0544d7) ym mis Rhagfyr 2025. Diben yr hysbysiad oedd rhoi gwybod i'r farchnad am fwriad yr Awdurdod i fynd allan i dendr i benodi Contractwr i ymgymryd â gwaith gwella yng Nghyfleuster Adfer Deunyddiau (MRF) Stad Ddiwydiannol Cibyn, Caernarfon, Gwynedd yn ystod 2026. Ymgysylltu Rhagarweiniol â'r Farchnad (UK2) Cyn dechrau'r caffaeliad hwn, cynhaliodd yr Awdurdod Ymgysylltu Rhagarweiniol â'r Farchnad yn unol ag Adran 16 o Ddeddf Caffael 2023 a chyhoeddodd Hysbysiad Ymgysylltu Rhagarweiniol â'r Farchnad UK2 drwy Sell2Wales (rhif cyfeirnod OCID: ocds-h6vhtk-05faec). Cynhaliwyd yr ymgysylltiad hwn er mwyn cael adborth a gwybodaeth gan y farchnad i lywio'r strategaeth gaffael, y fanyleb a'r gofynion cyflawni ar gyfer y gwaith gwella arfaethedig yng Nghyfleuster Adfer Deunyddiau (MRF).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://etenderwales.bravosolution.co.uk",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL12",
+        "cpv": "45262640",
+        "matchedKeywords": [
+          "manual handling"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
         "demo": false
       },
       {
@@ -3204,44 +4122,87 @@
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
         "demo": false
+      },
+      {
+        "id": "fts-099313-2026",
+        "title": "QTS Consultants Framework",
+        "authority": "QUALITY TRUSTED SOLUTIONS LLP",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "099313-2026",
+        "published": "2026-10-21",
+        "deadline": "2026-12-18",
+        "value": 150000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "As a result of this tender, the Authority is seeking to create: A framework incorporating 12 lots Lot 1 - Architects Lot 2 - Cost Consultants Lot 3 - M&E Engineering Lot 4 - Building Surveyors Lot 5 - Structural Engineering Lot 6 - Principal Designer Lot 7 - Property Consulting Advice Lot 8 - Strategic Estates Advice Lot 9 - Fire Safety, AE Fire Services and Training Lot 10 - Project Management Lot 11 - Clerk of Works Lot 12 - Strategic Estates & FM Delivery Partnerships",
+        "tenderSummary": "As a result of this tender, the Authority is seeking to create: A framework incorporating 12 lots Lot 1 - Architects Lot 2 - Cost Consultants Lot 3 - M&E Engineering Lot 4 - Building Surveyors Lot 5 - Structural Engineering Lot 6 - Principal Designer Lot 7 - Property Consulting Advice Lot 8 - Strategic Estates Advice Lot 9 - Fire Safety, AE Fire Services and Training Lot 10 - Project Management Lot 11 - Clerk of Works Lot 12 - Strategic Estates & FM Delivery Partnerships",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/099313-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "71220000, 71530000, 71242000, 71244000, 71334000, 71251000, 71315300, 71322000, 70332200, 71315200, 71000000, 79993000, 71317100, 71317210, 80550000, 71541000, 72224000, 71247000, 71520000, 70000000, 79400000, 79993100, 90713000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80550000"
+        ],
+        "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-04T13:16:16.093Z"
+    "lastPartialUpdate": "2026-11-04T13:21:03.669Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
-    "attemptedAt": "2026-11-04T13:16:16.093Z",
+    "attemptId": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+    "attemptedAt": "2026-11-04T13:21:03.669Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
-    "retrievedCount": 24,
-    "totalCount": 79,
+    "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
+    "retrievedCount": 29,
+    "totalCount": 103,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-10-15T09:41:04.953Z",
-        "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
-        "lastAttemptAt": "2026-11-04T13:16:16.093Z",
+        "watermark": "2026-10-22T09:41:04.953Z",
+        "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
+        "lastAttemptAt": "2026-11-04T13:21:03.669Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-10-07T09:41:04.953Z",
-          "to": "2026-10-15T09:41:04.953Z"
+          "from": "2026-10-14T09:41:04.953Z",
+          "to": "2026-10-22T09:41:04.953Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-10-15T09:41:04.953Z",
-        "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
-        "lastAttemptAt": "2026-11-04T13:16:16.093Z",
+        "watermark": "2026-10-22T09:41:04.953Z",
+        "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
+        "lastAttemptAt": "2026-11-04T13:21:03.669Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-10-07T09:41:04.953Z",
-          "to": "2026-10-15T09:41:04.953Z"
+          "from": "2026-10-14T09:41:04.953Z",
+          "to": "2026-10-22T09:41:04.953Z"
         }
       }
     }
