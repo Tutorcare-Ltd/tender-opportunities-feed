@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-10-08T09:41:04.953Z",
-      "lastSuccessfulUpdate": "2026-10-08T09:41:04.953Z",
-      "lastAttemptAt": "2026-11-04T13:11:28.722Z",
+      "watermark": "2026-10-15T09:41:04.953Z",
+      "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
+      "lastAttemptAt": "2026-11-04T13:16:16.093Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-09-30T09:41:04.953Z",
-        "to": "2026-10-08T09:41:04.953Z"
+        "from": "2026-10-07T09:41:04.953Z",
+        "to": "2026-10-15T09:41:04.953Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-10-08T09:41:04.953Z",
-      "lastSuccessfulUpdate": "2026-10-08T09:41:04.953Z",
-      "lastAttemptAt": "2026-11-04T13:11:28.722Z",
+      "watermark": "2026-10-15T09:41:04.953Z",
+      "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
+      "lastAttemptAt": "2026-11-04T13:16:16.093Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-09-30T09:41:04.953Z",
-        "to": "2026-10-08T09:41:04.953Z"
+        "from": "2026-10-07T09:41:04.953Z",
+        "to": "2026-10-15T09:41:04.953Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
-    "lastSuccessfulUpdate": "2026-10-08T09:41:04.953Z",
+    "buildId": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+    "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
     "interval": {
-      "from": "2026-09-30T09:41:04.953Z",
-      "to": "2026-11-04T13:11:28.722Z"
+      "from": "2026-10-07T09:41:04.953Z",
+      "to": "2026-11-04T13:16:16.093Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 26,
-    "totalCount": 60,
+    "retrievedCount": 24,
+    "totalCount": 79,
     "sourceFailures": [],
     "records": [
       {
@@ -645,7 +645,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6"
       },
       {
         "id": "fts-093139-2026",
@@ -762,6 +763,46 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
+        "demo": false
+      },
+      {
+        "id": "fts-096803-2026",
+        "title": "Fire Alarms, Intruder Alarms & Access Control Testing, Maintenance and Monitoring Services",
+        "authority": "Trowbridge Town Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "096803-2026",
+        "published": "2026-10-14",
+        "deadline": "2026-10-16",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Trowbridge Town Council (\"the Council\") invites tenders from competent and qualified contractors for the provision of testing, inspection, planned preventative maintenance, reactive maintenance and monitoring of the following systems: Fire alarm systems Intruder alarm systems Monitoring of fire and intruder alarms Controlled access (fob/code entry) systems Emergency lighting systems Portable fire extinguishers Annual fire risk assessments This service is required across seven Council sites (\"the Sites\") for an initial period of 3 years, with the option for the Council to extend for a further period of up to 2 years. The Council is committed to safeguarding the health, safety and welfare of residents, staff and visitors, and to maintaining full compliance with: BS 9999 - Fire safety in the design, management and use of buildings Approved Document B - Fire safety (Building Regulations) The Regulatory Reform (Fire Safety) Order 2005 BS 5266-1 - Emergency lighting",
+        "tenderSummary": "Trowbridge Town Council (\"the Council\") invites tenders from competent and qualified contractors for the provision of testing, inspection, planned preventative maintenance, reactive maintenance and monitoring of the following systems: Fire alarm systems Intruder alarm systems Monitoring of fire and intruder alarms Controlled access (fob/code entry) systems Emergency lighting systems Portable fire extinguishers Annual fire risk assessments This service is required across seven Council sites (\"the Sites\") for an initial period of 3 years, with the option for the Council to extend for a further period of up to 2 years. The Council is committed to safeguarding the health, safety and welfare of residents, staff and visitors, and to maintaining full compliance with: BS 9999 - Fire safety in the design, management and use of buildings Approved Document B - Fire safety (Building Regulations) The Regulatory Reform (Fire Safety) Order 2005 BS 5266-1 - Emergency lighting",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-22074",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK",
+        "cpv": "50710000",
+        "matchedKeywords": [
+          "safeguarding",
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
         "demo": false
       },
       {
@@ -1366,6 +1407,45 @@
         "demo": false
       },
       {
+        "id": "fts-095886-2026",
+        "title": "Delivery of the UK-Ireland Youth Forum 2027",
+        "authority": "Foreign, Commonwealth and Development Office",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "095886-2026",
+        "published": "2026-10-12",
+        "deadline": "2026-10-26",
+        "value": 84000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Provision of services for the design, delivery and evaluation of the UK-Ireland Youth Forum 2027, including participant engagement, programme development, event management, safeguarding, stakeholder coordination and reporting",
+        "tenderSummary": "Provision of services for the design, delivery and evaluation of the UK-Ireland Youth Forum 2027, including participant engagement, programme development, event management, safeguarding, stakeholder coordination and reporting",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/095886-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "79952000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
         "id": "fts-091358-2026",
         "title": "Community Early Language Service",
         "authority": "City of Bradford Metropolitan District Council",
@@ -1487,6 +1567,45 @@
         "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
         "demo": false,
         "updatedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb"
+      },
+      {
+        "id": "fts-095642-2026",
+        "title": "Wirral Restorative Justice & Mediation Service",
+        "authority": "Wirral Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "095642-2026",
+        "published": "2026-10-09",
+        "deadline": "2026-10-29",
+        "value": 45000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Wirral Borough Council's Community Safety Service seeks to commission a suitably qualified and experienced provider to deliver a Restorative Justice (RJ) and Mediation Service across the Borough of Wirral. The Council require a high-quality, victim-focused Restorative Justice and Mediation Service that supports the resolution of conflict, repairs harm, improves community relationships and contributes to the reduction of anti-social behaviour and community tensions. The successful provider will be expected to deliver services in accordance with current Restorative Justice Council (RJC) standards and guidance and adopt a trauma-informed, restorative and person-centred approach throughout service delivery. RJC Practice Guidance 2020 As a minimum, the successful provider must be able to: • Manage referrals from multiple referral pathways. • Deliver a safe, impartial and effective restorative justice and mediation service. • Demonstrate adherence to Restorative Justice Council Best Practice Guidance. • Deliver interventions that are tailored to the needs and circumstances of participants. • Undertake robust assessments, safeguarding procedures and risk management processes. • Facilitate a range of restorative interventions, including direct and indirect restorative processes. • Support the resolution of anti-social behaviour, neighbour disputes and community conflict. • Deliver community-based restorative approaches and community problem-solving interventions. • Work collaboratively with Wirral Borough Council, Merseyside Police and partner agencies. • Monitor service performance and demonstrate positive outcomes for participants and communities. The successful provider must ensure the service is fully operational and prepared to receive referrals from the commencement date of the contract.",
+        "tenderSummary": "Wirral Borough Council's Community Safety Service seeks to commission a suitably qualified and experienced provider to deliver a Restorative Justice (RJ) and Mediation Service across the Borough of Wirral. The Council require a high-quality, victim-focused Restorative Justice and Mediation Service that supports the resolution of conflict, repairs harm, improves community relationships and contributes to the reduction of anti-social behaviour and community tensions. The successful provider will be expected to deliver services in accordance with current Restorative Justice Council (RJC) standards and guidance and adopt a trauma-informed, restorative and person-centred approach throughout service delivery. RJC Practice Guidance 2020 As a minimum, the successful provider must be able to: • Manage referrals from multiple referral pathways. • Deliver a safe, impartial and effective restorative justice and mediation service. • Demonstrate adherence to Restorative Justice Council Best Practice Guidance. • Deliver interventions that are tailored to the needs and circumstances of participants. • Undertake robust assessments, safeguarding procedures and risk management processes. • Facilitate a range of restorative interventions, including direct and indirect restorative processes. • Support the resolution of anti-social behaviour, neighbour disputes and community conflict. • Deliver community-based restorative approaches and community problem-solving interventions. • Work collaboratively with Wirral Borough Council, Merseyside Police and partner agencies. • Monitor service performance and demonstrate positive outcomes for participants and communities. The successful provider must ensure the service is fully operational and prepared to receive referrals from the commencement date of the contract.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/095642-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD74",
+        "cpv": "75200000, 85300000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
       },
       {
         "id": "fts-092485-2026",
@@ -1687,7 +1806,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6"
       },
       {
         "id": "fts-093439-2026",
@@ -1769,6 +1889,84 @@
           "80000000"
         ],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
+        "demo": false
+      },
+      {
+        "id": "fts-097164-2026",
+        "title": "Children Who Use Harm",
+        "authority": "South Yorkshire Mayoral Combined Authority",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "097164-2026",
+        "published": "2026-10-14",
+        "deadline": "2026-11-02",
+        "value": 2600282,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "South Yorkshire Mayoral Combined Authority invites tenders for the provision of a South Yorkshire-wide Children Who Use Harm (CWUH) Programme. The service will provide targeted interventions for children and young people who display harmful behaviours within a family context, including child and adolescent to parent or caregiver abuse (CAPVA). The successful bidder will deliver an accessible, evidence-informed programme across South Yorkshire that improves outcomes for children, young people and families affected by these behaviours. The contract will commence on the 24 November 2026 with an end date of 31 March 2029. Full details of the intended procurement timetable are included within the tender documents. Requirement Summary The proposed service will support children and young people aged 10 to 17 who use harmful behaviours towards parents, carers, siblings or other family members. Parents, carers and siblings affected by these behaviours will also be supported. The service will operate across South Yorkshire and provide a trauma informed, whole family intervention. It is expected to include assessment and risk management, structured support for parents and carers, direct therapeutic and behaviour change support for children and young people, relationship harm prevention, safeguarding support, multi agency coordination and follow up. Delivery will be developmentally appropriate and individually tailored, including adaptations for developmental stage, communication needs and neurodiversity. Interventions for children under 16 will involve parents or carers throughout. For those aged 16 to 17, there will be greater emphasis on individual responsibility, prevention, transition planning and preparation for adulthood, while maintaining family involvement where safe and appropriate. Practitioners will use CWUH evidence informed approach, including motivational interviewing, cognitive behavioural techniques, emotional regulation interventions and restorative practice. Safety planning will be completed with both victims and children and young people who use harm. The programme will use a blended delivery model incorporating community venues, Family Hubs, schools, partner premises and online support where appropriate. Safeguarding, victim safety and risk management will be embedded throughout the entire delivery pathway. While recognising that children who use harmful behaviour often present with significant vulnerabilities and unmet needs, the programme maintains a clear focus on protecting victims and reducing harm. The intended outcomes include reduced harmful behaviour, improved victim and family safety, improved emotional wellbeing and regulation, increased educational engagement and attendance, reduced police demand associated with family harm, reduced future offending risk and improved outcomes for vulnerable children and young people. The detailed service requirements, anticipated activity levels, outcome measures, award criteria, service standards and contractual arrangements will be set out in the tender documents. Please be advised that a related UK3: Planned procurement notice was previously published of Notice identifier: 2026/S 000-084070, Procurement identifier (OCID): ocds-h6vhtk-06f2ad",
+        "tenderSummary": "South Yorkshire Mayoral Combined Authority invites tenders for the provision of a South Yorkshire-wide Children Who Use Harm (CWUH) Programme. The service will provide targeted interventions for children and young people who display harmful behaviours within a family context, including child and adolescent to parent or caregiver abuse (CAPVA). The successful bidder will deliver an accessible, evidence-informed programme across South Yorkshire that improves outcomes for children, young people and families affected by these behaviours. The contract will commence on the 24 November 2026 with an end date of 31 March 2029. Full details of the intended procurement timetable are included within the tender documents. Requirement Summary The proposed service will support children and young people aged 10 to 17 who use harmful behaviours towards parents, carers, siblings or other family members. Parents, carers and siblings affected by these behaviours will also be supported. The service will operate across South Yorkshire and provide a trauma informed, whole family intervention. It is expected to include assessment and risk management, structured support for parents and carers, direct therapeutic and behaviour change support for children and young people, relationship harm prevention, safeguarding support, multi agency coordination and follow up. Delivery will be developmentally appropriate and individually tailored, including adaptations for developmental stage, communication needs and neurodiversity. Interventions for children under 16 will involve parents or carers throughout. For those aged 16 to 17, there will be greater emphasis on individual responsibility, prevention, transition planning and preparation for adulthood, while maintaining family involvement where safe and appropriate. Practitioners will use CWUH evidence informed approach, including motivational interviewing, cognitive behavioural techniques, emotional regulation interventions and restorative practice. Safety planning will be completed with both victims and children and young people who use harm. The programme will use a blended delivery model incorporating community venues, Family Hubs, schools, partner premises and online support where appropriate. Safeguarding, victim safety and risk management will be embedded throughout the entire delivery pathway. While recognising that children who use harmful behaviour often present with significant vulnerabilities and unmet needs, the programme maintains a clear focus on protecting victims and reducing harm. The intended outcomes include reduced harmful behaviour, improved victim and family safety, improved emotional wellbeing and regulation, increased educational engagement and attendance, reduced police demand associated with family harm, reduced future offending risk and improved outcomes for vulnerable children and young people. The detailed service requirements, anticipated activity levels, outcome measures, award criteria, service standards and contractual arrangements will be set out in the tender documents. Please be advised that a related UK3: Planned procurement notice was previously published of Notice identifier: 2026/S 000-084070, Procurement identifier (OCID): ocds-h6vhtk-06f2ad",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/097164-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE3",
+        "cpv": "85311300",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-095335-2026",
+        "title": "Fire Safety and Security Systems Servicing and Reactive Maintenance",
+        "authority": "Test Valley Borough Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "095335-2026",
+        "published": "2026-10-08",
+        "deadline": "2026-11-02",
+        "value": 360000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Scope of Contract: Fire Safety and Security Systems Maintenance The proposed contract is for the planned preventative maintenance, statutory inspection, servicing, testing, certification, reactive repair, emergency response and minor works associated with Fire Safety and Security Systems installed throughout the property estate owned, occupied or managed by Test Valley Borough Council. The contract term will be three (3) years, with the option to extend for up to an additional three (3) further years, subject to satisfactory performance and budget availability. The appointed Contractor shall deliver a comprehensive servicing, inspection and maintenance programme throughout the contract term to ensure that all Fire Safety and Security Systems remain safe, effective, operational and compliant with statutory obligations, relevant British Standards, industry best practice and manufacturers' recommendations.",
+        "tenderSummary": "Scope of Contract: Fire Safety and Security Systems Maintenance The proposed contract is for the planned preventative maintenance, statutory inspection, servicing, testing, certification, reactive repair, emergency response and minor works associated with Fire Safety and Security Systems installed throughout the property estate owned, occupied or managed by Test Valley Borough Council. The contract term will be three (3) years, with the option to extend for up to an additional three (3) further years, subject to satisfactory performance and budget availability. The appointed Contractor shall deliver a comprehensive servicing, inspection and maintenance programme throughout the contract term to ensure that all Fire Safety and Security Systems remain safe, effective, operational and compliant with statutory obligations, relevant British Standards, industry best practice and manufacturers' recommendations.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/095335-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ3",
+        "cpv": "31625200, 35121700, 45312000, 45312100",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
         "demo": false
       },
       {
@@ -1930,7 +2128,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6"
       },
       {
         "id": "fts-094515-2026",
@@ -2091,6 +2290,86 @@
         "demo": false
       },
       {
+        "id": "fts-095204-2026",
+        "title": "Fire Safety Systems - Service & Maintenance",
+        "authority": "Ipswich Borough Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "095204-2026",
+        "published": "2026-10-08",
+        "deadline": "2026-11-05",
+        "value": 180000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Servicing and maintenance of Fire Safety Equipment for Ipswich Borough Council housing stock.",
+        "tenderSummary": "Servicing and maintenance of Fire Safety Equipment for Ipswich Borough Council housing stock.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/095204-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKH14",
+        "cpv": "45343000, 50000000, 51700000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-097213-2026",
+        "title": "Youth Services Framework",
+        "authority": "Birmingham City Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "097213-2026",
+        "published": "2026-10-14",
+        "deadline": "2026-11-06",
+        "value": 660000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The proposed procurement will establish a framework of providers to deliver a range of youth services interventions aimed at preventing and reducing serious violence. Services will focus on early intervention, targeted support and specialist provision targeted at safeguarding children and young people from harm. This will be an Open Framework under PA23.",
+        "tenderSummary": "The proposed procurement will establish a framework of providers to deliver a range of youth services interventions aimed at preventing and reducing serious violence. Services will focus on early intervention, targeted support and specialist provision targeted at safeguarding children and young people from harm. This will be an Open Framework under PA23.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/097213-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG31",
+        "cpv": "73220000, 75200000, 80310000, 85322000, 98000000, 98133110",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
         "id": "fts-088835-2026",
         "title": "Youth Services Provision - Invitation to Quote",
         "authority": "Woodley Town Council",
@@ -2169,6 +2448,246 @@
         "demo": false
       },
       {
+        "id": "fts-097101-2026",
+        "title": "Conversion Practices Victim Support Service",
+        "authority": "Cabinet Office",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "097101-2026",
+        "published": "2026-10-14",
+        "deadline": "2026-11-09",
+        "value": 180000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "This contract is for the development, setup, and operation of a Conversion Practice Victim Support Service (CP VSS)-or the integration of comprehensive support into an existing helpline and website. The service provides confidential, sensitive support, initial pastoral care, and signposting (such as counselling, options for police reporting, emergency housing, and personal safety) to individuals who have experienced, are undergoing, or are at risk of conversion practices, as well as concerned family members, colleagues, and safeguarding professionals. Please note that the contract value has been listed at £180,000+VAT to allow for any potential future variations required to the contract. However the anticipated spend through the contract is expected to be up to a maximum of £160,000 plus VAT.",
+        "tenderSummary": "This contract is for the development, setup, and operation of a Conversion Practice Victim Support Service (CP VSS)-or the integration of comprehensive support into an existing helpline and website. The service provides confidential, sensitive support, initial pastoral care, and signposting (such as counselling, options for police reporting, emergency housing, and personal safety) to individuals who have experienced, are undergoing, or are at risk of conversion practices, as well as concerned family members, colleagues, and safeguarding professionals. Please note that the contract value has been listed at £180,000+VAT to allow for any potential future variations required to the contract. However the anticipated spend through the contract is expected to be up to a maximum of £160,000 plus VAT.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://gca.bravosolution.co.uk",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "72253000, 79510000, 85312320, 98300000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-096017-2026",
+        "title": "Parent Chat - Digital Parenting Support",
+        "authority": "Leicester City Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "096017-2026",
+        "published": "2026-10-12",
+        "deadline": "2026-11-09",
+        "value": 124000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Leicester City Council (LCC) is seeking to commission a Parent Chat service to enhance the parenting support available to Leicester-based parents and carers of children and young people aged 0 to 19 years, or up to 25 years for those with SEND. The service forms part of the Council’s Family Hubs and Start for Life programme and is intended to provide a digital parenting support offer for families across the city. The proposed contract is expected to commence on 14th January 2027 and run until 13th January 2029. The Parent Chat service will provide access to information, advice and guidance on parenting topics including behaviour management, routines, infant feeding, school issues, developmental stages, relationships, becoming a parent, and speech and communication. The service will also provide access to 1:1 support from trained workers through channels such as telephone, text, email or webchat, offering advice, signposting and support to help families access appropriate local and national services. The provider will be expected to work with Leicester City Council and partners to promote the service through a Leicester-focused digital marketing approach and ensure the service is accessible to all parents and carers, taking account of language needs, literacy levels and accessibility requirements. The service must also provide data insights and reporting, maintain appropriate safeguarding arrangements, and ensure the security and confidentiality of service-user information.",
+        "tenderSummary": "Leicester City Council (LCC) is seeking to commission a Parent Chat service to enhance the parenting support available to Leicester-based parents and carers of children and young people aged 0 to 19 years, or up to 25 years for those with SEND. The service forms part of the Council’s Family Hubs and Start for Life programme and is intended to provide a digital parenting support offer for families across the city. The proposed contract is expected to commence on 14th January 2027 and run until 13th January 2029. The Parent Chat service will provide access to information, advice and guidance on parenting topics including behaviour management, routines, infant feeding, school issues, developmental stages, relationships, becoming a parent, and speech and communication. The service will also provide access to 1:1 support from trained workers through channels such as telephone, text, email or webchat, offering advice, signposting and support to help families access appropriate local and national services. The provider will be expected to work with Leicester City Council and partners to promote the service through a Leicester-focused digital marketing approach and ensure the service is accessible to all parents and carers, taking account of language needs, literacy levels and accessibility requirements. The service must also provide data insights and reporting, maintain appropriate safeguarding arrangements, and ensure the security and confidentiality of service-user information.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://procontract.due-north.com//FileUploads/ViewAttachment?attachmentId=8ff7ad50-e8c3-f111-813c-005056b64545&entityTypeId=b5c83c15-39cd-480e-b232-0e94cac4b464&attachmentTypeId=FtsDocument",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKF21",
+        "cpv": "85312300",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-096205-2026",
+        "title": "HIV Anti-Stigma Training Programme-HIV Opt out Testing for Blood Borne Viruses programme",
+        "authority": "NHS England",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "096205-2026",
+        "published": "2026-10-12",
+        "deadline": "2026-11-11",
+        "value": 900000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          10,
+          0
+        ],
+        "description": "NHS England is seeking to commission a provider to deliver an anti-stigma programme in 61 trusts. Initial contract term is 24 months with the option to extend for a period of 12 months. Maximum financial envelope for the initial term is £600,000 ex VAT. Total value for the full contract term in extensions is £900,000 ex vat. The deadline for submission of completed ITT submissions is 11th November 12:00 (midday). Late submissions will not be accepted therefore, please submit in good time prior to the deadline date and time. All communications should be made via the messaging function on the e-Tendering portal during the tender exercise. The Contracting Authority requests that all communications are channelled through the e-portal system and not with the Contracting Authority itself other than as expressly permitted within this ITT. Further information relating to this project can be found at NHSE e-tendering portal at the link below. All clarification questions and submission bids must be received via this portal only. Registration is free of charge. https://health-family-contract-search.secure.force.com/?SearchType=Projects",
+        "tenderSummary": "NHS England is seeking to commission a provider to deliver an anti-stigma programme in 61 trusts. Initial contract term is 24 months with the option to extend for a period of 12 months. Maximum financial envelope for the initial term is £600,000 ex VAT. Total value for the full contract term in extensions is £900,000 ex vat. The deadline for submission of completed ITT submissions is 11th November 12:00 (midday). Late submissions will not be accepted therefore, please submit in good time prior to the deadline date and time. All communications should be made via the messaging function on the e-Tendering portal during the tender exercise. The Contracting Authority requests that all communications are channelled through the e-portal system and not with the Contracting Authority itself other than as expressly permitted within this ITT. Further information relating to this project can be found at NHSE e-tendering portal at the link below. All clarification questions and submission bids must be received via this portal only. Registration is free of charge. https://health-family-contract-search.secure.force.com/?SearchType=Projects",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/096205-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "80000000, 80560000, 80510000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000",
+          "80560000"
+        ],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-095276-2026",
+        "title": "HIV Anti-Stigma Training-HIV Opt out Testing for Blood Borne Viruses programme",
+        "authority": "NHS England",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "095276-2026",
+        "published": "2026-10-08",
+        "deadline": "2026-11-11",
+        "value": 900000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          10,
+          0
+        ],
+        "description": "NHS England is seeking to commission a provider to deliver anti-stigma training in 61 trusts. Initial contract term is 24 months with the option to extend for a period of 12 months. Maximum financial envelope for the initial term is £600,00 ex VAT. Total value for the full contract term in extensions is £900,000 ex vat. The deadline for submission of completed ITT submissions is 11th November 12:00 (midday). Late submissions will not be accepted therefore, please submit in good time prior to the deadline date and time. All communications should be made via the messaging function on the e-Tendering portal during the tender exercise. The Contracting Authority requests that all communications are channelled through the e-portal system and not with the Contracting Authority itself other than as expressly permitted within this ITT. Further information relating to this project can be found at NHSE e-tendering portal at the link below. All clarification questions and submission bids must be received via this portal only. Registration is free of charge. https://health-family-contract-search.secure.force.com/?SearchType=Projects",
+        "tenderSummary": "NHS England is seeking to commission a provider to deliver anti-stigma training in 61 trusts. Initial contract term is 24 months with the option to extend for a period of 12 months. Maximum financial envelope for the initial term is £600,00 ex VAT. Total value for the full contract term in extensions is £900,000 ex vat. The deadline for submission of completed ITT submissions is 11th November 12:00 (midday). Late submissions will not be accepted therefore, please submit in good time prior to the deadline date and time. All communications should be made via the messaging function on the e-Tendering portal during the tender exercise. The Contracting Authority requests that all communications are channelled through the e-portal system and not with the Contracting Authority itself other than as expressly permitted within this ITT. Further information relating to this project can be found at NHSE e-tendering portal at the link below. All clarification questions and submission bids must be received via this portal only. Registration is free of charge. https://health-family-contract-search.secure.force.com/?SearchType=Projects",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/095276-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "80000000, 80560000, 80510000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000",
+          "80560000"
+        ],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-097242-2026",
+        "title": "Search Education Trust - Catering Tender",
+        "authority": "Educo",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "097242-2026",
+        "published": "2026-10-15",
+        "deadline": "2026-11-12",
+        "value": 2336000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Educo Consultancy & Facilities Management have been commissioned to complete a single stage tender for the catering services at Heartlands High School N22 7ST and The Grove School N17 6AR in the London Borough of Haringey, both Schools are part of the Search Education Trust. Educo requires any Contractor to have a clear safeguarding policy that includes an overarching declaration that the organisation acknowledges its duty of care and is committed to protecting all individuals from harm, regardless of age, disability, race, religion, sex, or sexual orientation. Through this tender the Trust is seeking to engage a Contractor that is committed to delivering a consistently high quality catering service throughout the contract term and will independently choose the most suitable bidder for their needs. All details are outlined within the Specification and RFI documents uploaded to this notice.",
+        "tenderSummary": "Educo Consultancy & Facilities Management have been commissioned to complete a single stage tender for the catering services at Heartlands High School N22 7ST and The Grove School N17 6AR in the London Borough of Haringey, both Schools are part of the Search Education Trust. Educo requires any Contractor to have a clear safeguarding policy that includes an overarching declaration that the organisation acknowledges its duty of care and is committed to protecting all individuals from harm, regardless of age, disability, race, religion, sex, or sexual orientation. Through this tender the Trust is seeking to engage a Contractor that is committed to delivering a consistently high quality catering service throughout the contract term and will independently choose the most suitable bidder for their needs. All details are outlined within the Specification and RFI documents uploaded to this notice.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.mytenders.co.uk/Authority/NoticeBuilder/NoticeBuilder_FileDownload.aspx?id=654596",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKI43",
+        "cpv": "55524000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-095430-2026",
+        "title": "Search Education Trust - Catering Tender",
+        "authority": "Educo",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "095430-2026",
+        "published": "2026-10-08",
+        "deadline": "2026-11-12",
+        "value": 2336000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Educo Consultancy & Facilities Management have been commissioned to complete a single stage tender for the catering services at Heartlands High School N22 7ST and The Grove School N17 6AR in the London Borough of Haringey, both Schools are part of the Search Education Trust. Educo requires any Contractor to have a clear safeguarding policy that includes an overarching declaration that the organisation acknowledges its duty of care and is committed to protecting all individuals from harm, regardless of age, disability, race, religion, sex, or sexual orientation. Through this tender the Trust is seeking to engage a Contractor that is committed to delivering a consistently high quality catering service throughout the contract term and will independently choose the most suitable bidder for their needs. All details are outlined within the Specification and RFI documents uploaded to this notice.",
+        "tenderSummary": "Educo Consultancy & Facilities Management have been commissioned to complete a single stage tender for the catering services at Heartlands High School N22 7ST and The Grove School N17 6AR in the London Borough of Haringey, both Schools are part of the Search Education Trust. Educo requires any Contractor to have a clear safeguarding policy that includes an overarching declaration that the organisation acknowledges its duty of care and is committed to protecting all individuals from harm, regardless of age, disability, race, religion, sex, or sexual orientation. Through this tender the Trust is seeking to engage a Contractor that is committed to delivering a consistently high quality catering service throughout the contract term and will independently choose the most suitable bidder for their needs. All details are outlined within the Specification and RFI documents uploaded to this notice.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.mytenders.co.uk/Authority/NoticeBuilder/NoticeBuilder_FileDownload.aspx?id=654595",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKI43",
+        "cpv": "55524000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
         "id": "fts-094235-2026",
         "title": "Level 1-3 Construction and Energy Efficiency Skills in the Community",
         "authority": "East Lindsey District Council",
@@ -2207,6 +2726,86 @@
           "80510000"
         ],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
+        "demo": false
+      },
+      {
+        "id": "fts-096984-2026",
+        "title": "Catering Services",
+        "authority": "CONNECT ACADEMY TRUST",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "096984-2026",
+        "published": "2026-10-14",
+        "deadline": "2026-11-16",
+        "value": 850000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The Trust invites expressions of interest from suitably qualified catering providers for the provision of school catering services across nine schools within the Trust (based in Plymouth, Torquay and Newton Abbott). Current value of contract is £850,000. The contract will include: • Daily pupil meal provision • Free School Meal provision • Hospitality services • Nutritional compliance • Sustainability objectives • Social value commitments The procurement will be conducted under the Competitive Flexible Procedure in accordance with the Procurement Act 2023. Interested suppliers must demonstrate: • Relevant education sector experience • Financial stability • Appropriate insurances • Safeguarding compliance • Food safety management systems • TUPE experience The estimated contract commencement date is 1 April 2027.",
+        "tenderSummary": "The Trust invites expressions of interest from suitably qualified catering providers for the provision of school catering services across nine schools within the Trust (based in Plymouth, Torquay and Newton Abbott). Current value of contract is £850,000. The contract will include: • Daily pupil meal provision • Free School Meal provision • Hospitality services • Nutritional compliance • Sustainability objectives • Social value commitments The procurement will be conducted under the Competitive Flexible Procedure in accordance with the Procurement Act 2023. Interested suppliers must demonstrate: • Relevant education sector experience • Financial stability • Appropriate insurances • Safeguarding compliance • Food safety management systems • TUPE experience The estimated contract commencement date is 1 April 2027.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-24087",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "55520000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-095401-2026",
+        "title": "School Presenter Services Tender",
+        "authority": "Historic Royal Palaces",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "095401-2026",
+        "published": "2026-10-08",
+        "deadline": "2026-11-16",
+        "value": 2000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Historic Royal Palaces (HRP) is a registered charity, responsible for the care, conservation and presentation of HM Tower of London (TOL), Hampton Court Palace (HCP), Kensington Palace State Apartments, (KP) the Banqueting House at Whitehall (BH), Kew Palace (KEW) and Hillsborough Castle and Gardens, (HCG) the official residence of HM The King in Northern Ireland and residence of the Secretary of State for Northern Ireland. We love and look after six of the most wonderful palaces in the world. The palaces are the setting for the stories that shape us all, and we’re bringing them to people in ways that mean more to them. We want everyone to find themselves in the spaces and stories we share. HRP is a charity for everyone. We are committed to preserving and sharing the stories of our six magnificent palaces and making them accessible to all. Through partnerships, innovation, and storytelling, we strive to break down barriers, inspire curiosity and stir the spirit in people of all ages and backgrounds. Our curriculum-linked schools programmes bring palace stories to life through costumed, presenter-led sessions, alongside digital learning, teacher training events and activities for local community groups and families. HRP is an independent charity, receiving no government funding and derives its income principally from admissions, retail, licensing, commercial events, sponsorship and support from donors and members. We will be running a tender process with the intention of awarding a contract for the provision of School Presenter Services and are seeking expressions of interest from suitably experienced / qualified organisations. We are seeking a skilled and collaborative partner to deliver one of the UK's largest and most established heritage learning programmes. Each year, Historic Royal Palaces welcomes over 200,000 school visitors across our sites, with approximately half participating in a curriculum-linked learning session delivered by our presenter team. The contract includes the delivery of around 3,000 educational sessions annually across the Tower of London, Hampton Court Palace and Kensington Palace, together with Home Educator Days, occasional community activity and opportunities to contribute to new programme and content development. This is an opportunity to join a highly regarded and well-established programme that combines rigorous historical scholarship with immersive, participatory and site-based learning. Working in partnership with HRP, the successful supplier will recruit, train and manage a team of presenters capable of delivering engaging learning experiences for diverse audiences, including primary and secondary schools, specialist settings, SEND learners and home-educating families. We are looking for an organisation that shares our commitment to educational excellence, inclusion, safeguarding and collaboration, and that can maintain consistently high standards whilst operating across multiple sites and busy heritage environments. The successful supplier will play an important role in helping young people connect with the stories, people and places that have shaped our past. HRP’s requirements: The successful supplier will be expected to: •Deliver approximately 3,000 curriculum-linked school sessions per year across our London sites •Recruit, train, schedule, line manage and support a team of presenters, ensuring sufficient staffing capacity and contingency arrangements to ensure reliable delivery of the programme. •Deliver learning sessions for a diverse range of audiences, including primary and secondary schools, specialist and SEND settings, international groups and home-educating families. •Deliver all activity in accordance with HRP's educational approach, Core Principles and commitment to high-quality, site-based learning. •Maintain consistently high standards of delivery, quality assurance and presenter performance •Demonstrate a strong commitment to inclusion, accessibility and representative historical interpretation, adapting delivery to meet a wide range of learning and access needs. •Provide day-to-day management, coordination and operational oversight of the programme, working collaboratively with HRP teams across all sites. •Maintain appropriate safeguarding policies, training and workforce checks, and comply with HRP safeguarding requirements and procedures. •Deliver activities safely within busy public-facing heritage environments and ensure compliance with relevant health and safety, conservation and security requirements. •Contribute to the development of new content, learning resources, events and bespoke projects where commissioned by HRP. •Support the delivery of Home Educator Days, community activity and other learning programmes as required. Exclusion criteria: Suppliers who are unable to demonstrate the following will not be considered eligible for award of this contract •Suppliers must have appropriate safeguarding policies, procedures and reporting arrangements for working with children, young people and vulnerable adults, including arrangements for safer recruitment, workforce training and the management of safeguarding concerns. •Suppliers must have relevant experience and organisational capacity to deliver learning, engagement or interpretation programmes for children and young people within museum, heritage, arts or cultural settings at a scale and complexity broadly comparable to this contract. Tender documents: The tender process will be run through HRP’s e tendering system, Delta e-Sourcing. Tender documents will be made available on Delta to those suppliers who expressed an interest. Suppliers will need to register on Delta in order to participate in the tender process. Suppliers can register here https://www.delta-esourcing.com/register/ Anticipated contract start date: September 2027 (with contract mobilisation commencing March 2027) Contract period: 3 + 2 years HRP reserves the right not to award a contract. In addition, HRP reserves the right to negotiate with short-listed tenderers or the preferred supplier. If you experience any technical difficulties from accessing Delta, please contact the Delta eSourcing Helpdesk. Call 0800 923 9236 or email helpdesk@delta-esourcing.com. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-East-Molesey:-Theatrical-producers%27%2C-singer-groups%27%2C-bands%27-and-orchestras%27-entertainment-services./67HNTVQ4E6 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/67HNTVQ4E6",
+        "tenderSummary": "Historic Royal Palaces (HRP) is a registered charity, responsible for the care, conservation and presentation of HM Tower of London (TOL), Hampton Court Palace (HCP), Kensington Palace State Apartments, (KP) the Banqueting House at Whitehall (BH), Kew Palace (KEW) and Hillsborough Castle and Gardens, (HCG) the official residence of HM The King in Northern Ireland and residence of the Secretary of State for Northern Ireland. We love and look after six of the most wonderful palaces in the world. The palaces are the setting for the stories that shape us all, and we’re bringing them to people in ways that mean more to them. We want everyone to find themselves in the spaces and stories we share. HRP is a charity for everyone. We are committed to preserving and sharing the stories of our six magnificent palaces and making them accessible to all. Through partnerships, innovation, and storytelling, we strive to break down barriers, inspire curiosity and stir the spirit in people of all ages and backgrounds. Our curriculum-linked schools programmes bring palace stories to life through costumed, presenter-led sessions, alongside digital learning, teacher training events and activities for local community groups and families. HRP is an independent charity, receiving no government funding and derives its income principally from admissions, retail, licensing, commercial events, sponsorship and support from donors and members. We will be running a tender process with the intention of awarding a contract for the provision of School Presenter Services and are seeking expressions of interest from suitably experienced / qualified organisations. We are seeking a skilled and collaborative partner to deliver one of the UK's largest and most established heritage learning programmes. Each year, Historic Royal Palaces welcomes over 200,000 school visitors across our sites, with approximately half participating in a curriculum-linked learning session delivered by our presenter team. The contract includes the delivery of around 3,000 educational sessions annually across the Tower of London, Hampton Court Palace and Kensington Palace, together with Home Educator Days, occasional community activity and opportunities to contribute to new programme and content development. This is an opportunity to join a highly regarded and well-established programme that combines rigorous historical scholarship with immersive, participatory and site-based learning. Working in partnership with HRP, the successful supplier will recruit, train and manage a team of presenters capable of delivering engaging learning experiences for diverse audiences, including primary and secondary schools, specialist settings, SEND learners and home-educating families. We are looking for an organisation that shares our commitment to educational excellence, inclusion, safeguarding and collaboration, and that can maintain consistently high standards whilst operating across multiple sites and busy heritage environments. The successful supplier will play an important role in helping young people connect with the stories, people and places that have shaped our past. HRP’s requirements: The successful supplier will be expected to: •Deliver approximately 3,000 curriculum-linked school sessions per year across our London sites •Recruit, train, schedule, line manage and support a team of presenters, ensuring sufficient staffing capacity and contingency arrangements to ensure reliable delivery of the programme. •Deliver learning sessions for a diverse range of audiences, including primary and secondary schools, specialist and SEND settings, international groups and home-educating families. •Deliver all activity in accordance with HRP's educational approach, Core Principles and commitment to high-quality, site-based learning. •Maintain consistently high standards of delivery, quality assurance and presenter performance •Demonstrate a strong commitment to inclusion, accessibility and representative historical interpretation, adapting delivery to meet a wide range of learning and access needs. •Provide day-to-day management, coordination and operational oversight of the programme, working collaboratively with HRP teams across all sites. •Maintain appropriate safeguarding policies, training and workforce checks, and comply with HRP safeguarding requirements and procedures. •Deliver activities safely within busy public-facing heritage environments and ensure compliance with relevant health and safety, conservation and security requirements. •Contribute to the development of new content, learning resources, events and bespoke projects where commissioned by HRP. •Support the delivery of Home Educator Days, community activity and other learning programmes as required. Exclusion criteria: Suppliers who are unable to demonstrate the following will not be considered eligible for award of this contract •Suppliers must have appropriate safeguarding policies, procedures and reporting arrangements for working with children, young people and vulnerable adults, including arrangements for safer recruitment, workforce training and the management of safeguarding concerns. •Suppliers must have relevant experience and organisational capacity to deliver learning, engagement or interpretation programmes for children and young people within museum, heritage, arts or cultural settings at a scale and complexity broadly comparable to this contract. Tender documents: The tender process will be run through HRP’s e tendering system, Delta e-Sourcing. Tender documents will be made available on Delta to those suppliers who expressed an interest. Suppliers will need to register on Delta in order to participate in the tender process. Suppliers can register here https://www.delta-esourcing.com/register/ Anticipated contract start date: September 2027 (with contract mobilisation commencing March 2027) Contract period: 3 + 2 years HRP reserves the right not to award a contract. In addition, HRP reserves the right to negotiate with short-listed tenderers or the preferred supplier. If you experience any technical difficulties from accessing Delta, please contact the Delta eSourcing Helpdesk. Call 0800 923 9236 or email helpdesk@delta-esourcing.com. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-East-Molesey:-Theatrical-producers%27%2C-singer-groups%27%2C-bands%27-and-orchestras%27-entertainment-services./67HNTVQ4E6 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/67HNTVQ4E6",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/095401-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "92312100, 92312110, 92312240, 92340000, 80200000, 80340000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
         "demo": false
       },
       {
@@ -2326,7 +2925,7 @@
         "matchedCpvCodes": [],
         "addedBuild": "202610231236",
         "demo": false,
-        "updatedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb"
+        "updatedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6"
       },
       {
         "id": "fts-094969-2026",
@@ -2365,7 +2964,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6"
       },
       {
         "id": "fts-092987-2026",
@@ -2407,6 +3007,84 @@
         "demo": false
       },
       {
+        "id": "fts-096003-2026",
+        "title": "Wantage Leisure Centre - Gym Extension and Wet Side Changing Facilities Refurbishments",
+        "authority": "Vale of White Horse District Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "096003-2026",
+        "published": "2026-10-12",
+        "deadline": "2026-11-27",
+        "value": 680000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Vale of White Horse District Council is seeking to appoint an experienced main contractor to carry out a Gym Extension and Wet Side Changing Facilities Refurbishment at the Wantage Leisure Centre. The wet side changing facilities at the centre have become outdated and require a total refurbishment to ensure the facilities maintain a high quality standard, meet current regulations, and adhere to Sport England's Accessible and Inclusive Sports Facilities directives. The leisure centre is always busy and is not only used by the members and public, but also the adjacent school, King Alfreds. It is therefore essential that the continuing well-being of all site users, the school pupils (safeguarding), and staff, is prioritised during the lifetime of this project, particularly during the construction phase. The contractor must make every effort whilst preparing their submission to always negate or reduce risks to an acceptable level for all site users, and this must be evidenced within the project's construction phase health and safety plan (CPHSP), risk assessments, and method statements (RAMS). Please refer to full suite of tender documents for further details.",
+        "tenderSummary": "Vale of White Horse District Council is seeking to appoint an experienced main contractor to carry out a Gym Extension and Wet Side Changing Facilities Refurbishment at the Wantage Leisure Centre. The wet side changing facilities at the centre have become outdated and require a total refurbishment to ensure the facilities maintain a high quality standard, meet current regulations, and adhere to Sport England's Accessible and Inclusive Sports Facilities directives. The leisure centre is always busy and is not only used by the members and public, but also the adjacent school, King Alfreds. It is therefore essential that the continuing well-being of all site users, the school pupils (safeguarding), and staff, is prioritised during the lifetime of this project, particularly during the construction phase. The contractor must make every effort whilst preparing their submission to always negate or reduce risks to an acceptable level for all site users, and this must be evidenced within the project's construction phase health and safety plan (CPHSP), risk assessments, and method statements (RAMS). Please refer to full suite of tender documents for further details.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/096003-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ14",
+        "cpv": "45453000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-095969-2026",
+        "title": "Wantage Leisure Centre - Gym Extension and Wet Side Changing Facilities Refurbishments",
+        "authority": "Vale of White Horse District Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "095969-2026",
+        "published": "2026-10-12",
+        "deadline": "2026-11-27",
+        "value": 680000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Vale of White Horse District Council is seeking to appoint an experienced main contractor to carry out a Gym Extension and Wet Side Changing Facilities Refurbishment at the Wantage Leisure Centre. The wet side changing facilities at the centre have become outdated and require a total refurbishment to ensure the facilities maintain a high quality standard, meet current regulations, and adhere to Sport England's Accessible and Inclusive Sports Facilities directives. The leisure centre is always busy and is not only used by the members and public, but also the adjacent school, King Alfreds. It is therefore essential that the continuing well-being of all site users, the school pupils (safeguarding), and staff, is prioritised during the lifetime of this project, particularly during the construction phase. The contractor must make every effort whilst preparing their submission to always negate or reduce risks to an acceptable level for all site users, and this must be evidenced within the project's construction phase health and safety plan (CPHSP), risk assessments, and method statements (RAMS). Please refer to full suite of tender documents for further details.",
+        "tenderSummary": "Vale of White Horse District Council is seeking to appoint an experienced main contractor to carry out a Gym Extension and Wet Side Changing Facilities Refurbishment at the Wantage Leisure Centre. The wet side changing facilities at the centre have become outdated and require a total refurbishment to ensure the facilities maintain a high quality standard, meet current regulations, and adhere to Sport England's Accessible and Inclusive Sports Facilities directives. The leisure centre is always busy and is not only used by the members and public, but also the adjacent school, King Alfreds. It is therefore essential that the continuing well-being of all site users, the school pupils (safeguarding), and staff, is prioritised during the lifetime of this project, particularly during the construction phase. The contractor must make every effort whilst preparing their submission to always negate or reduce risks to an acceptable level for all site users, and this must be evidenced within the project's construction phase health and safety plan (CPHSP), risk assessments, and method statements (RAMS). Please refer to full suite of tender documents for further details.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/095969-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ14",
+        "cpv": "45453000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
         "id": "fts-093865-2026",
         "title": "Direct Payment Support Service",
         "authority": "Newcastle City Council",
@@ -2444,44 +3122,126 @@
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
         "demo": false
+      },
+      {
+        "id": "fts-096631-2026",
+        "title": "QTS Consultanst Framework",
+        "authority": "QUALITY TRUSTED SOLUTIONS LLP",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "096631-2026",
+        "published": "2026-10-13",
+        "deadline": "2026-12-18",
+        "value": 150000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "As a result of this tender, the Authority is seeking to create: A framework incorporating 12 lots Lot 1 - Architects Lot 2 - Cost Consultants Lot 3 - M&E Engineering Lot 4 - Building Surveyors Lot 5 - Structural Engineering Lot 6 - Principal Designer Lot 7 - Property Consulting Advice Lot 8 - Strategic Estates Advice Lot 9 - Fire Safety, AE Fire Services and Training Lot 10 - Project Management Lot 11 - Clerk of Works Lot 12 - Strategic Estates & FM Deliver Partnerships",
+        "tenderSummary": "As a result of this tender, the Authority is seeking to create: A framework incorporating 12 lots Lot 1 - Architects Lot 2 - Cost Consultants Lot 3 - M&E Engineering Lot 4 - Building Surveyors Lot 5 - Structural Engineering Lot 6 - Principal Designer Lot 7 - Property Consulting Advice Lot 8 - Strategic Estates Advice Lot 9 - Fire Safety, AE Fire Services and Training Lot 10 - Project Management Lot 11 - Clerk of Works Lot 12 - Strategic Estates & FM Deliver Partnerships",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/096631-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "71220000, 71530000, 71242000, 71244000, 71334000, 71251000, 71315300, 71322000, 70332200, 71315200, 71000000, 79993000, 71317100, 71317210, 80550000, 71541000, 72224000, 71247000, 71520000, 70000000, 79400000, 79993100, 90713000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80550000"
+        ],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
+      },
+      {
+        "id": "fts-095365-2026",
+        "title": "Catering Services and Associated Goods",
+        "authority": "PERRY HALL MULTI-ACADEMY TRUST",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "095365-2026",
+        "published": "2026-10-08",
+        "deadline": "2026-12-18",
+        "value": 5500000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Reference: ACPHCS0001 Description: Perry Hall Multi-Academy Trust intends to procure a contract for the provision of catering services and associated goods across schools within the Trust. The procurement is intended to support the continued delivery of high-quality, safe, nutritious and value-for-money school meals whilst promoting pupil wellbeing, healthy eating, inclusion and sustainability. The Trust currently operates across a number of schools and is reviewing its future catering arrangements in advance of the expiry of its current catering contract in July 2027 Perry Hall Multi-Academy Trust currently comprises 10 primary schools serving approximately 3500 pupils total, across Wolverhampton and surrounding areas. The Trust reserves the right to include additional schools that may join the Multi-Academy Trust during the lifetime of the contract. The scope is expected to include: • Daily meal preparation and service. • Free School Meals (FSM), Universal Infant Free School Meals (UIFSM) and paid meal provision. • Breakfast clubs, hospitality and special event catering. • Menu planning and nutritional compliance. • Food safety, allergen management and HACCP compliance. • Staffing, recruitment, training and workforce management. • Contract management, performance reporting and continuous improvement. • Sustainability initiatives, food waste reduction and responsible sourcing. • Engagement with pupils, parents, schools and Trust stakeholders. • Supply of associated catering consumables and ancillary goods where required. Suppliers will be expected to demonstrate: • Strong experience delivering school catering services within the education sector. • Robust safeguarding, food safety and allergen management arrangements. • Ability to improve meal uptake, customer satisfaction and nutritional outcomes. • Effective staffing resilience and mobilisation capability. • Strong reporting and contract management processes. • Commitment to social value, local employment opportunities and community benefits. • Environmental sustainability and responsible supply chain management. The Trust intends to use feedback received through its market engagement activity to help shape the final specification, performance framework, contract structure and evaluation methodology for the procurement. Particular emphasis will be placed on: • Food quality, nutritional standards and pupil experience. • Allergen management and statutory compliance. • Safeguarding and staff vetting requirements. • Service reliability and workforce resilience. • Contract performance management and continuous improvement. • Social value and sustainability outcomes. Perry Hall Multi-Academy Trust has appointed Altair Ltd to act as its official procurement agent for this tender. Altair Ltd will be managing market engagement responses, administrative queries, and tender communications on behalf of the Trust. All expressions of interest and engagement submissions should be directed to procurementaltair@altairltd.co.uk When the tender notice is published, the contracting authority will be using InTend as its eportal.",
+        "tenderSummary": "Reference: ACPHCS0001 Description: Perry Hall Multi-Academy Trust intends to procure a contract for the provision of catering services and associated goods across schools within the Trust. The procurement is intended to support the continued delivery of high-quality, safe, nutritious and value-for-money school meals whilst promoting pupil wellbeing, healthy eating, inclusion and sustainability. The Trust currently operates across a number of schools and is reviewing its future catering arrangements in advance of the expiry of its current catering contract in July 2027 Perry Hall Multi-Academy Trust currently comprises 10 primary schools serving approximately 3500 pupils total, across Wolverhampton and surrounding areas. The Trust reserves the right to include additional schools that may join the Multi-Academy Trust during the lifetime of the contract. The scope is expected to include: • Daily meal preparation and service. • Free School Meals (FSM), Universal Infant Free School Meals (UIFSM) and paid meal provision. • Breakfast clubs, hospitality and special event catering. • Menu planning and nutritional compliance. • Food safety, allergen management and HACCP compliance. • Staffing, recruitment, training and workforce management. • Contract management, performance reporting and continuous improvement. • Sustainability initiatives, food waste reduction and responsible sourcing. • Engagement with pupils, parents, schools and Trust stakeholders. • Supply of associated catering consumables and ancillary goods where required. Suppliers will be expected to demonstrate: • Strong experience delivering school catering services within the education sector. • Robust safeguarding, food safety and allergen management arrangements. • Ability to improve meal uptake, customer satisfaction and nutritional outcomes. • Effective staffing resilience and mobilisation capability. • Strong reporting and contract management processes. • Commitment to social value, local employment opportunities and community benefits. • Environmental sustainability and responsible supply chain management. The Trust intends to use feedback received through its market engagement activity to help shape the final specification, performance framework, contract structure and evaluation methodology for the procurement. Particular emphasis will be placed on: • Food quality, nutritional standards and pupil experience. • Allergen management and statutory compliance. • Safeguarding and staff vetting requirements. • Service reliability and workforce resilience. • Contract performance management and continuous improvement. • Social value and sustainability outcomes. Perry Hall Multi-Academy Trust has appointed Altair Ltd to act as its official procurement agent for this tender. Altair Ltd will be managing market engagement responses, administrative queries, and tender communications on behalf of the Trust. All expressions of interest and engagement submissions should be directed to procurementaltair@altairltd.co.uk When the tender notice is published, the contracting authority will be using InTend as its eportal.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/095365-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKC, UKD, UKE, UKF, UKG, UKH, UKI, UKJ, UKK",
+        "cpv": "15894210, 55520000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+        "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-04T13:11:28.722Z"
+    "lastPartialUpdate": "2026-11-04T13:16:16.093Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
-    "attemptedAt": "2026-11-04T13:11:28.722Z",
+    "attemptId": "2026-11-04T13:16:16.093Z-bd8f882c-65ef-4900-a484-f9b5118b4af6",
+    "attemptedAt": "2026-11-04T13:16:16.093Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-10-08T09:41:04.953Z",
-    "retrievedCount": 26,
-    "totalCount": 60,
+    "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
+    "retrievedCount": 24,
+    "totalCount": 79,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-10-08T09:41:04.953Z",
-        "lastSuccessfulUpdate": "2026-10-08T09:41:04.953Z",
-        "lastAttemptAt": "2026-11-04T13:11:28.722Z",
+        "watermark": "2026-10-15T09:41:04.953Z",
+        "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
+        "lastAttemptAt": "2026-11-04T13:16:16.093Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-09-30T09:41:04.953Z",
-          "to": "2026-10-08T09:41:04.953Z"
+          "from": "2026-10-07T09:41:04.953Z",
+          "to": "2026-10-15T09:41:04.953Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-10-08T09:41:04.953Z",
-        "lastSuccessfulUpdate": "2026-10-08T09:41:04.953Z",
-        "lastAttemptAt": "2026-11-04T13:11:28.722Z",
+        "watermark": "2026-10-15T09:41:04.953Z",
+        "lastSuccessfulUpdate": "2026-10-15T09:41:04.953Z",
+        "lastAttemptAt": "2026-11-04T13:16:16.093Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-09-30T09:41:04.953Z",
-          "to": "2026-10-08T09:41:04.953Z"
+          "from": "2026-10-07T09:41:04.953Z",
+          "to": "2026-10-15T09:41:04.953Z"
         }
       }
     }
