@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-09-24T09:41:04.953Z",
-      "lastSuccessfulUpdate": "2026-09-24T09:41:04.953Z",
-      "lastAttemptAt": "2026-11-04T13:03:49.223Z",
+      "watermark": "2026-10-01T09:41:04.953Z",
+      "lastSuccessfulUpdate": "2026-10-01T09:41:04.953Z",
+      "lastAttemptAt": "2026-11-04T13:06:39.300Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-09-16T09:41:04.953Z",
-        "to": "2026-09-24T09:41:04.953Z"
+        "from": "2026-09-23T09:41:04.953Z",
+        "to": "2026-10-01T09:41:04.953Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-09-24T09:41:04.953Z",
-      "lastSuccessfulUpdate": "2026-09-24T09:41:04.953Z",
-      "lastAttemptAt": "2026-11-04T13:03:49.223Z",
+      "watermark": "2026-10-01T09:41:04.953Z",
+      "lastSuccessfulUpdate": "2026-10-01T09:41:04.953Z",
+      "lastAttemptAt": "2026-11-04T13:06:39.300Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-09-16T09:41:04.953Z",
-        "to": "2026-09-24T09:41:04.953Z"
+        "from": "2026-09-23T09:41:04.953Z",
+        "to": "2026-10-01T09:41:04.953Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-04T13:03:49.223Z-303c6337-9c3e-41b9-ba65-d38504e76f81",
-    "lastSuccessfulUpdate": "2026-09-24T09:41:04.953Z",
+    "buildId": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+    "lastSuccessfulUpdate": "2026-10-01T09:41:04.953Z",
     "interval": {
-      "from": "2026-09-16T09:41:04.953Z",
-      "to": "2026-11-04T13:03:49.223Z"
+      "from": "2026-09-23T09:41:04.953Z",
+      "to": "2026-11-04T13:06:39.300Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 19,
-    "totalCount": 20,
+    "retrievedCount": 21,
+    "totalCount": 39,
     "sourceFailures": [],
     "records": [
       {
@@ -168,6 +168,45 @@
         "updatedBuild": "2026-11-04T13:03:49.223Z-303c6337-9c3e-41b9-ba65-d38504e76f81"
       },
       {
+        "id": "cf-0d46e05e-509b-4ccc-852d-72b28f36c126-915820",
+        "title": "Fire Extinguisher Servicing and Maintenance",
+        "authority": "Cornwall Council",
+        "category": "Fire safety",
+        "source": "Contracts Finder",
+        "noticeId": "0d46e05e-509b-4ccc-852d-72b28f36c126-915820",
+        "published": "2026-09-29",
+        "deadline": "2026-10-05",
+        "value": 45000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Relevant legislation and standards include: Legislation · Regulatory Reform (Fire Safety) Order 2005 · Health and Safety at Work etc. Act 1974 · Environmental Protection Act 1990 · Hazardous Waste Regulations (as amended) Standards · BS 5306-3: Commissioning and Maintenance of Portable Fire Extinguishers · BS EN 3 Series: Portable Fire Extinguishers · BS 6643 Series: Cartridge Operated Portable Fire Extinguishers (where applicable) · Any updated or replacement standards introduced during the contract term shall apply automatically.",
+        "tenderSummary": "Relevant legislation and standards include: Legislation · Regulatory Reform (Fire Safety) Order 2005 · Health and Safety at Work etc. Act 1974 · Environmental Protection Act 1990 · Hazardous Waste Regulations (as amended) Standards · BS 5306-3: Commissioning and Maintenance of Portable Fire Extinguishers · BS EN 3 Series: Portable Fire Extinguishers · BS 6643 Series: Cartridge Operated Portable Fire Extinguishers (where applicable) · Any updated or replacement standards introduced during the contract term shall apply automatically.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-10-05 to 2029-10-05",
+        "url": "https://www.contractsfinder.service.gov.uk/Search",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "35000000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
         "id": "fts-088854-2026",
         "title": "Provision of Corporate and Professional Services to Big Life Schools Multi Academy Trust",
         "authority": "Big Life Schools",
@@ -207,6 +246,87 @@
           "80500000"
         ],
         "addedBuild": "2026-11-04T13:03:49.223Z-303c6337-9c3e-41b9-ba65-d38504e76f81",
+        "demo": false
+      },
+      {
+        "id": "fts-091388-2026",
+        "title": "Employee Benefits and Occupational Health Services",
+        "authority": "Government Commercial Agency",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "091388-2026",
+        "published": "2026-09-28",
+        "deadline": "2026-10-09",
+        "value": 1299500000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          14,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "This framework is for the provision of comprehensive employee benefits and occupational health services. The framework is structured into two main divisions: Lot 1 (Occupational Health and Related Services) and Lot 2 (Employee Benefits and Services). The objective is to provide Public Sector employers with access to high quality, flexible, and legally compliant services designed to support and protect the physical, mental, and financial wellbeing of their workforces. Under Lots 1.1 to Lots 1.4, services are structured to provide a consistent, baseline standard of occupational health and eyecare/ hearing solutions that may cover, but will not be limited to: - Managed Service Occupational Health and Employee Assistance Programmes (EAP) - Occupational Health Services - Employee Assistance Programmes (EAP) - Eyecare and Hearing Services (including DSE eyesight tests, spectacles, and hearing checks) Under Lots 2.1 to Lots 2.3, suppliers will be required to provide Buyers’ staff with access to a range of benefits, typically hosted via a secure, centrally branded Online Employee Benefits Platform that reflects the individual identity of each Buyer. Depending on the selected lot, this will include: - Employee discounts and automated cashback schemes - Reward and recognition (including physical/e vouchers and bespoke non financial e cards) - Technology and smartphone schemes (available as salary sacrifice, net pay deduction, or direct discount options) - Cycle to work schemes - Childcare vouchers / payroll giving - Wellbeing services (including financial wellbeing and education, bereavement services, dental cover, gym memberships, and online holistic wellbeing resources)",
+        "tenderSummary": "This framework is for the provision of comprehensive employee benefits and occupational health services. The framework is structured into two main divisions: Lot 1 (Occupational Health and Related Services) and Lot 2 (Employee Benefits and Services). The objective is to provide Public Sector employers with access to high quality, flexible, and legally compliant services designed to support and protect the physical, mental, and financial wellbeing of their workforces. Under Lots 1.1 to Lots 1.4, services are structured to provide a consistent, baseline standard of occupational health and eyecare/ hearing solutions that may cover, but will not be limited to: - Managed Service Occupational Health and Employee Assistance Programmes (EAP) - Occupational Health Services - Employee Assistance Programmes (EAP) - Eyecare and Hearing Services (including DSE eyesight tests, spectacles, and hearing checks) Under Lots 2.1 to Lots 2.3, suppliers will be required to provide Buyers’ staff with access to a range of benefits, typically hosted via a secure, centrally branded Online Employee Benefits Platform that reflects the individual identity of each Buyer. Depending on the selected lot, this will include: - Employee discounts and automated cashback schemes - Reward and recognition (including physical/e vouchers and bespoke non financial e cards) - Technology and smartphone schemes (available as salary sacrifice, net pay deduction, or direct discount options) - Cycle to work schemes - Childcare vouchers / payroll giving - Wellbeing services (including financial wellbeing and education, bereavement services, dental cover, gym memberships, and online holistic wellbeing resources)",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/091388-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "85100000, 85120000, 85147000, 85300000, 85312000, 85121270, 85141200, 85141220, 85312320, 85312300, 85312400, 79414000, 79630000, 75122000, 80500000, 80561000, 85140000, 48000000, 72260000, 85160000, 85312310, 98300000, 98370000, 85121000, 85142100, 85130000, 98000000, 92600000, 85121281, 75310000, 85121240, 33185000, 79211110, 66113000, 98330000, 79990000, 18530000, 30200000, 32000000, 34000000, 66000000, 75340000, 92000000, 80560000, 79633000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80560000",
+          "80561000"
+        ],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
+        "id": "fts-090559-2026",
+        "title": "Cleaning Services for Populo Living",
+        "authority": "Populo Living Limited",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "090559-2026",
+        "published": "2026-09-24",
+        "deadline": "2026-10-12",
+        "value": 1000000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          14,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Populo Living require a contractor for the following requirements; To deliver planned and reactive communal cleaning services across Populo Living’s residential properties, including stairwells, corridors, lifts, bin stores, entrances and surrounding external areas. Contractors must provide high-quality, resident-focused services, undertake regular inspections, report defects, hazards and anti-social behaviour, safely manage waste and sharps, and comply with strict health and safety, safeguarding, GDPR and performance requirements.",
+        "tenderSummary": "Populo Living require a contractor for the following requirements; To deliver planned and reactive communal cleaning services across Populo Living’s residential properties, including stairwells, corridors, lifts, bin stores, entrances and surrounding external areas. Contractors must provide high-quality, resident-focused services, undertake regular inspections, report defects, hazards and anti-social behaviour, safely manage waste and sharps, and comply with strict health and safety, safeguarding, GDPR and performance requirements.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/090559-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "90910000, 90911200",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
         "demo": false
       },
       {
@@ -408,6 +528,86 @@
         "demo": false
       },
       {
+        "id": "fts-091881-2026",
+        "title": "Fire Alarms, Intruder Alarms & Access Control Testing, Maintenance and Monitoring Services",
+        "authority": "Trowbridge Town Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "091881-2026",
+        "published": "2026-09-29",
+        "deadline": "2026-10-16",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Trowbridge Town Council (\"the Council\") invites tenders from competent and qualified contractors for the provision of testing, inspection, planned preventative maintenance, reactive maintenance and monitoring of the following systems: Fire alarm systems Intruder alarm systems Monitoring of fire and intruder alarms Controlled access (fob/code entry) systems Emergency lighting systems Portable fire extinguishers Annual fire risk assessments This service is required across seven Council sites (\"the Sites\") for an initial period of 3 years, with the option for the Council to extend for a further period of up to 2 years. The Council is committed to safeguarding the health, safety and welfare of residents, staff and visitors, and to maintaining full compliance with: BS 9999 - Fire safety in the design, management and use of buildings Approved Document B - Fire safety (Building Regulations) The Regulatory Reform (Fire Safety) Order 2005 BS 5266-1 - Emergency lighting",
+        "tenderSummary": "Trowbridge Town Council (\"the Council\") invites tenders from competent and qualified contractors for the provision of testing, inspection, planned preventative maintenance, reactive maintenance and monitoring of the following systems: Fire alarm systems Intruder alarm systems Monitoring of fire and intruder alarms Controlled access (fob/code entry) systems Emergency lighting systems Portable fire extinguishers Annual fire risk assessments This service is required across seven Council sites (\"the Sites\") for an initial period of 3 years, with the option for the Council to extend for a further period of up to 2 years. The Council is committed to safeguarding the health, safety and welfare of residents, staff and visitors, and to maintaining full compliance with: BS 9999 - Fire safety in the design, management and use of buildings Approved Document B - Fire safety (Building Regulations) The Regulatory Reform (Fire Safety) Order 2005 BS 5266-1 - Emergency lighting",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-22074",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK",
+        "cpv": "50710000",
+        "matchedKeywords": [
+          "safeguarding",
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
+        "id": "fts-091843-2026",
+        "title": "Fire Alarms, Intruder Alarms & Access Control Testing, Maintenance and Monitoring Services",
+        "authority": "Trowbridge Town Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "091843-2026",
+        "published": "2026-09-29",
+        "deadline": "2026-10-16",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Trowbridge Town Council (\"the Council\") invites tenders from competent and qualified contractors for the provision of testing, inspection, planned preventative maintenance, reactive maintenance and monitoring of the following systems: Fire alarm systems Intruder alarm systems Monitoring of fire and intruder alarms Controlled access (fob/code entry) systems Emergency lighting systems Portable fire extinguishers Annual fire risk assessments This service is required across seven Council sites (\"the Sites\") for an initial period of 3 years, with the option for the Council to extend for a further period of up to 2 years. The Council is committed to safeguarding the health, safety and welfare of residents, staff and visitors, and to maintaining full compliance with: BS 9999 - Fire safety in the design, management and use of buildings Approved Document B - Fire safety (Building Regulations) The Regulatory Reform (Fire Safety) Order 2005 BS 5266-1 - Emergency lighting",
+        "tenderSummary": "Trowbridge Town Council (\"the Council\") invites tenders from competent and qualified contractors for the provision of testing, inspection, planned preventative maintenance, reactive maintenance and monitoring of the following systems: Fire alarm systems Intruder alarm systems Monitoring of fire and intruder alarms Controlled access (fob/code entry) systems Emergency lighting systems Portable fire extinguishers Annual fire risk assessments This service is required across seven Council sites (\"the Sites\") for an initial period of 3 years, with the option for the Council to extend for a further period of up to 2 years. The Council is committed to safeguarding the health, safety and welfare of residents, staff and visitors, and to maintaining full compliance with: BS 9999 - Fire safety in the design, management and use of buildings Approved Document B - Fire safety (Building Regulations) The Regulatory Reform (Fire Safety) Order 2005 BS 5266-1 - Emergency lighting",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-22074",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK",
+        "cpv": "50710000",
+        "matchedKeywords": [
+          "safeguarding",
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
         "id": "cf-490c2177-bd1c-43b0-b35a-896eba9862dc-914635",
         "title": "Independent Evaluation of the Better Security, Better Care Programme (October 2025 to October 2028)",
         "authority": "Better Security Better Care",
@@ -444,6 +644,47 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:03:49.223Z-303c6337-9c3e-41b9-ba65-d38504e76f81",
+        "demo": false
+      },
+      {
+        "id": "fts-090605-2026",
+        "title": "BASIS FACTS Certification",
+        "authority": "Natural England",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "090605-2026",
+        "published": "2026-09-24",
+        "deadline": "2026-10-19",
+        "value": 16667,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "Catchment Sensitive Farming are looking for BASIS FACTS Certification course for up to 10 Farm Adviserson a existing Course for delivery between the 02/11/2026 and 31/03/2027.",
+        "tenderSummary": "Catchment Sensitive Farming are looking for BASIS FACTS Certification course for up to 10 Farm Adviserson a existing Course for delivery between the 02/11/2026 and 31/03/2027.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-23003",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "80510000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
         "demo": false
       },
       {
@@ -563,7 +804,8 @@
           "80510000"
         ],
         "addedBuild": "2026-11-04T13:03:49.223Z-303c6337-9c3e-41b9-ba65-d38504e76f81",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b"
       },
       {
         "id": "fts-089780-2026",
@@ -646,6 +888,88 @@
         "demo": false
       },
       {
+        "id": "fts-091682-2026",
+        "title": "Youth Services Framework",
+        "authority": "Birmingham City Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "091682-2026",
+        "published": "2026-09-29",
+        "deadline": "2026-10-22",
+        "value": 660000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The proposed procurement will establish a framework of providers to deliver a range of youth services interventions aimed at preventing and reducing serious violence. Services will focus on early intervention, targeted support and specialist provision targeted at safeguarding children and young people from harm. This will be an Open Framework under PA23.",
+        "tenderSummary": "The proposed procurement will establish a framework of providers to deliver a range of youth services interventions aimed at preventing and reducing serious violence. Services will focus on early intervention, targeted support and specialist provision targeted at safeguarding children and young people from harm. This will be an Open Framework under PA23.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/091682-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG31",
+        "cpv": "73220000, 75200000, 80310000, 85322000, 98000000, 98133110",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
+        "id": "fts-091678-2026",
+        "title": "Youth Services Framework",
+        "authority": "Birmingham City Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "091678-2026",
+        "published": "2026-09-29",
+        "deadline": "2026-10-22",
+        "value": 660000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The proposed procurement will establish a framework of providers to deliver a range of youth services interventions aimed at preventing and reducing serious violence. Services will focus on early intervention, targeted support and specialist provision targeted at safeguarding children and young people from harm. This will be an Open Framework under PA23.",
+        "tenderSummary": "The proposed procurement will establish a framework of providers to deliver a range of youth services interventions aimed at preventing and reducing serious violence. Services will focus on early intervention, targeted support and specialist provision targeted at safeguarding children and young people from harm. This will be an Open Framework under PA23.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/091678-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG31",
+        "cpv": "73220000, 75200000, 80310000, 85322000, 98000000, 98133110",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
         "id": "fts-089160-2026",
         "title": "Provision of Hospital Based Domestic Abuse Advocacy (HBDAA) Services",
         "authority": "Mayor's Office for Policing and Crime",
@@ -682,6 +1006,168 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:03:49.223Z-303c6337-9c3e-41b9-ba65-d38504e76f81",
+        "demo": false
+      },
+      {
+        "id": "fts-091184-2026",
+        "title": "Regulation 44",
+        "authority": "Bradford Children & Families Trust",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "091184-2026",
+        "published": "2026-09-25",
+        "deadline": "2026-10-23",
+        "value": 240000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Bradford Children and Families Trust (BCFT) is seeking to appoint a suitably experienced provider to deliver an Independent Visitor Service in accordance with Regulation 44 of the Children’s Homes (England) Regulations 2015. The service will provide independent monthly visits to BCFT’s registered children’s homes within the Bradford District. The current requirement covers nine registered children’s homes, equating to a minimum of 108 visits per year. The number of homes may change during the contract term in line with the Trust’s service requirements. The Independent Visitor will be required to assess the quality of care provided, consider whether children are effectively safeguarded, review how each home promotes children’s welfare and wellbeing, and provide independent scrutiny of leadership, management, practice, records and the physical environment. The successful provider will be expected to engage meaningfully with children and young people, staff, managers, families and relevant professionals, ensuring that children’s views, wishes, feelings and lived experiences are captured and reflected within Regulation 44 reporting. Visits may be announced or unannounced and should take place at varied times, including evenings, weekends and school holidays where appropriate. Following each visit, the provider will produce timely, evidence-based Regulation 44 reports that meet statutory and Ofsted requirements. Reports must identify strengths, areas for improvement, safeguarding concerns, emerging themes and recommended actions. The provider will also be expected to work collaboratively with BCFT to support continuous improvement, effective escalation, contract monitoring and quality assurance across the Trust’s residential provision. The anticipated contract term is three years, with an option to extend for a further twelve months, subject to satisfactory performance and ongoing service requirements. The maximum total contract value is £240,000 excluding VAT, inclusive of the optional extension period. The requirement is not divided into lots. BCFT intends to appoint a single provider to deliver the complete service. The procurement will be conducted as a below-threshold competitive tender process under the Procurement Act 2023. Full details of the service requirements, evaluation criteria, pricing requirements and contract terms are set out in the tender documentation.",
+        "tenderSummary": "Bradford Children and Families Trust (BCFT) is seeking to appoint a suitably experienced provider to deliver an Independent Visitor Service in accordance with Regulation 44 of the Children’s Homes (England) Regulations 2015. The service will provide independent monthly visits to BCFT’s registered children’s homes within the Bradford District. The current requirement covers nine registered children’s homes, equating to a minimum of 108 visits per year. The number of homes may change during the contract term in line with the Trust’s service requirements. The Independent Visitor will be required to assess the quality of care provided, consider whether children are effectively safeguarded, review how each home promotes children’s welfare and wellbeing, and provide independent scrutiny of leadership, management, practice, records and the physical environment. The successful provider will be expected to engage meaningfully with children and young people, staff, managers, families and relevant professionals, ensuring that children’s views, wishes, feelings and lived experiences are captured and reflected within Regulation 44 reporting. Visits may be announced or unannounced and should take place at varied times, including evenings, weekends and school holidays where appropriate. Following each visit, the provider will produce timely, evidence-based Regulation 44 reports that meet statutory and Ofsted requirements. Reports must identify strengths, areas for improvement, safeguarding concerns, emerging themes and recommended actions. The provider will also be expected to work collaboratively with BCFT to support continuous improvement, effective escalation, contract monitoring and quality assurance across the Trust’s residential provision. The anticipated contract term is three years, with an option to extend for a further twelve months, subject to satisfactory performance and ongoing service requirements. The maximum total contract value is £240,000 excluding VAT, inclusive of the optional extension period. The requirement is not divided into lots. BCFT intends to appoint a single provider to deliver the complete service. The procurement will be conducted as a below-threshold competitive tender process under the Procurement Act 2023. Full details of the service requirements, evaluation criteria, pricing requirements and contract terms are set out in the tender documentation.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/091184-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE",
+        "cpv": "85300000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
+        "id": "fts-092476-2026",
+        "title": "Multi-Disciplinary Consultancy Services Tranche 1",
+        "authority": "NHMF (NPC) LIMITED",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "092476-2026",
+        "published": "2026-09-30",
+        "deadline": "2026-10-26",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          14,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "NHMF Frameworx on behalf of NHMF (NPC) members wishes to appoint a number of Consultancy Services, to two Frameworks, one for Direct Awards, and one for Mini Competitions. The Frameworks are national covering England, Wales, Scotland and Northern Ireland with the ability to operate in specific geographical regions. This tranche of works will include lots for: Stock Condition Surveys Asset Management Consultancy (including Procurement consultancy, Strategy Support, Services reviews etc.) Energy Performance Retrofit Consultancy",
+        "tenderSummary": "NHMF Frameworx on behalf of NHMF (NPC) members wishes to appoint a number of Consultancy Services, to two Frameworks, one for Direct Awards, and one for Mini Competitions. The Frameworks are national covering England, Wales, Scotland and Northern Ireland with the ability to operate in specific geographical regions. This tranche of works will include lots for: Stock Condition Surveys Asset Management Consultancy (including Procurement consultancy, Strategy Support, Services reviews etc.) Energy Performance Retrofit Consultancy",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/092476-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "71250000, 71315000, 71631000, 71241000, 71315300, 71315400, 71315410, 71354200, 71355000, 71540000, 71621000, 72224000, 72263000, 77231400, 77231500, 79410000, 79421000, 79422000, 79994000, 80511000, 90711500, 90713000, 71315210, 71353000, 71354100, 71541000, 71314000, 71631300, 71240000, 71313000, 71314200, 71314300, 71315100, 71315200, 71530000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
+        "id": "fts-091598-2026",
+        "title": "Good Practice Training",
+        "authority": "ANIMAL AND PLANT HEALTH AGENCY",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "091598-2026",
+        "published": "2026-09-28",
+        "deadline": "2026-10-26",
+        "value": 152500,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          14,
+          14,
+          10,
+          14,
+          0
+        ],
+        "description": "APHA requires a supplier to deliver a range of Good Practice training via interactive workshops, where participants are active in both discussion and practice of the techniques/skills that are being explored. The inclusion of examples/scenarios are also requested to make learning as ‘real life’ as possible. Our evaluation of training has shown that our learners respond better to this blended approach. Training courses are to be tailored to animal health and animal scientist research and product needs, with the course content being designed to be relevant to these specific areas of work. All APHA attendees will require a certificate of attendance following the completion of each course. This requirement will need to be in place by December 2026. The tender will include two distinct, but related Lots concerning GxP Quality Training Courses, Lot 1 – GLP and GCPv Training Courses Lot 2 – GMP and GDP Training Courses Training courses required are: • Introduction to Good Laboratory Practice (GLP) • GLP Refresher • GLP Outline for Test Facility Managers • GLP Update for Study Directors and Principal Investigators • GLP Refresher Training – Archivist • Good Clinical Practice veterinary (GCPv) Refresher • Introduction to Good Manufacturing Practice (GMP) • GMP Refresher • Good Distribution Practice (GDP) Refresher",
+        "tenderSummary": "APHA requires a supplier to deliver a range of Good Practice training via interactive workshops, where participants are active in both discussion and practice of the techniques/skills that are being explored. The inclusion of examples/scenarios are also requested to make learning as ‘real life’ as possible. Our evaluation of training has shown that our learners respond better to this blended approach. Training courses are to be tailored to animal health and animal scientist research and product needs, with the course content being designed to be relevant to these specific areas of work. All APHA attendees will require a certificate of attendance following the completion of each course. This requirement will need to be in place by December 2026. The tender will include two distinct, but related Lots concerning GxP Quality Training Courses, Lot 1 – GLP and GCPv Training Courses Lot 2 – GMP and GDP Training Courses Training courses required are: • Introduction to Good Laboratory Practice (GLP) • GLP Refresher • GLP Outline for Test Facility Managers • GLP Update for Study Directors and Principal Investigators • GLP Refresher Training – Archivist • Good Clinical Practice veterinary (GCPv) Refresher • Introduction to Good Manufacturing Practice (GMP) • GMP Refresher • Good Distribution Practice (GDP) Refresher",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/091598-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "80510000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
+        "id": "fts-091358-2026",
+        "title": "Community Early Language Service",
+        "authority": "City of Bradford Metropolitan District Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "091358-2026",
+        "published": "2026-09-28",
+        "deadline": "2026-10-27",
+        "value": 3600000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "The City of Bradford Metropolitan District Council (the Authority) invites tenders for the delivery of the Community Early Language Service across Bradford District. The Service will support children from birth up to their sixth birthday and their parents and carers, with an enhanced focus on children aged two to three. It will improve speech, language and communication development, improve school readiness and narrow inequalities through prevention, early identification, early support, targeted intervention and workforce development. The Service forms part of Bradford's Talking Bradford pathway and Best Start Family Hub model and will be delivered in partnership with the Living Well Public Health Nursing Service, Family Hubs, speech and language therapy services, early years settings and voluntary and community organisations. The procurement is divided into three Lots. The Lots must operate as a single coherent Service with consistent pathways, tools, outcomes and messages. The Lot 2 Provider will lead cross-Lot integration while each Provider remains accountable for its own Lot. Suppliers may tender for one, more than one or all Lots. The Authority may award the Lots to different Suppliers. A separate Tender response and price must be completed for each Lot bid for, in accordance with the tender documents.",
+        "tenderSummary": "The City of Bradford Metropolitan District Council (the Authority) invites tenders for the delivery of the Community Early Language Service across Bradford District. The Service will support children from birth up to their sixth birthday and their parents and carers, with an enhanced focus on children aged two to three. It will improve speech, language and communication development, improve school readiness and narrow inequalities through prevention, early identification, early support, targeted intervention and workforce development. The Service forms part of Bradford's Talking Bradford pathway and Best Start Family Hub model and will be delivered in partnership with the Living Well Public Health Nursing Service, Family Hubs, speech and language therapy services, early years settings and voluntary and community organisations. The procurement is divided into three Lots. The Lots must operate as a single coherent Service with consistent pathways, tools, outcomes and messages. The Lot 2 Provider will lead cross-Lot integration while each Provider remains accountable for its own Lot. Suppliers may tender for one, more than one or all Lots. The Authority may award the Lots to different Suppliers. A separate Tender response and price must be completed for each Lot bid for, in accordance with the tender documents.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://ypo2.my.site.com/s/Welcome",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE41",
+        "cpv": "85312110, 85323000, 80511000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
         "demo": false
       },
       {
@@ -723,6 +1209,126 @@
           "80510000"
         ],
         "addedBuild": "2026-11-04T13:03:49.223Z-303c6337-9c3e-41b9-ba65-d38504e76f81",
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b"
+      },
+      {
+        "id": "fts-092325-2026",
+        "title": "Sussex Heritage Coast Visitor Management Plan",
+        "authority": "South Downs National Park Authority",
+        "category": "Mental health",
+        "source": "FTS",
+        "noticeId": "092325-2026",
+        "published": "2026-09-30",
+        "deadline": "2026-10-29",
+        "value": 80000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "The ambition is the development of a strategic Management Plan, formed from a partnership of public and private landowners, supported by other stakeholders, in the Seven Sisters, Beachy Head, Lullington Heath and Friston Forest area, loosely known as the Sussex Heritage Coast. The management plan seeks to identify the existing issues and opportunities for economic, environmental and social enhancement, including Public Health associated with suicide prevention and intervention, in the protected landscape between Seaford and Eastbourne. The scope of this work will be a stakeholder-agreed long term Strategic Vision document for the Sussex Heritage Coast area, along with a proposed delivery plan for the first five years. 3.3.2 This document will provide the strategic vision for all aspects of visitor experience and supporting local communities to maximise benefits on subjects, including; • Sustainable visitor management and dispersal • Sustainable transport, active travel and site connectivity, research and development for improving access for people in nature. • Supporting visitor economy growth • Identifying market challenges and opportunities for growth including technology and innovation • Embracing cultural heritage, artisan crafts and small enterprise • Coordinated marketing / comms to promote the area for nature and people • Shared approach to public safety e.g. suicide prevention, cliff safety, beach & river safety • Protecting and promoting nature recovery There will be three out deliverables for this project in line with the phases highted in section 4. These will be: Phase 1 Findings report presented at a stakeholder meeting. Phase 2 Draft themes report presented at a stakeholder meeting Findings report presented at a stakeholder meeting. Phase 3 Final document and delivery plan presented at a stakeholder meeting.",
+        "tenderSummary": "The ambition is the development of a strategic Management Plan, formed from a partnership of public and private landowners, supported by other stakeholders, in the Seven Sisters, Beachy Head, Lullington Heath and Friston Forest area, loosely known as the Sussex Heritage Coast. The management plan seeks to identify the existing issues and opportunities for economic, environmental and social enhancement, including Public Health associated with suicide prevention and intervention, in the protected landscape between Seaford and Eastbourne. The scope of this work will be a stakeholder-agreed long term Strategic Vision document for the Sussex Heritage Coast area, along with a proposed delivery plan for the first five years. 3.3.2 This document will provide the strategic vision for all aspects of visitor experience and supporting local communities to maximise benefits on subjects, including; • Sustainable visitor management and dispersal • Sustainable transport, active travel and site connectivity, research and development for improving access for people in nature. • Supporting visitor economy growth • Identifying market challenges and opportunities for growth including technology and innovation • Embracing cultural heritage, artisan crafts and small enterprise • Coordinated marketing / comms to promote the area for nature and people • Shared approach to public safety e.g. suicide prevention, cliff safety, beach & river safety • Protecting and promoting nature recovery There will be three out deliverables for this project in line with the phases highted in section 4. These will be: Phase 1 Findings report presented at a stakeholder meeting. Phase 2 Draft themes report presented at a stakeholder meeting Findings report presented at a stakeholder meeting. Phase 3 Final document and delivery plan presented at a stakeholder meeting.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://supplier.in-tend.co.uk/southdowns/home",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKC, UKD, UKE, UKF, UKG, UKH, UKI, UKJ, UKK",
+        "cpv": "73210000",
+        "matchedKeywords": [
+          "suicide prevention"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
+        "id": "fts-092485-2026",
+        "title": "For the provision of Aerodrome Rescue and Fire Fighting (ARFF) Services to the Joint Service Parachute Centre Weston on the Green (JSPCW)",
+        "authority": "Ministry of Defence",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "092485-2026",
+        "published": "2026-09-30",
+        "deadline": "2026-10-30",
+        "value": 443599,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "For the provision of Aerodrome Rescue and Fire Fighting (ARFF) Services to the Joint Service Parachute Centre Weston on the Green (JSPCW) 2 Gp JSPC(W) requires Aircraft Rescue and Firefighting (ARFF) provision on site during flying operations to enable Delivery of Tri-Service parachuting courses at RAF Weston on the Green under Civilian National Governing Body, British Skydiving (BS) who operate under Civil Air Authority (CAA) Regulations and Military Aviation Authority (MAA) Regulations primarily DSA02 Defence Fire Safety Regulations. The requirement is for a 3 year contract from 1 February 2027 until 31 January 2030 with 800 ARFF hours per year during the parachute season.",
+        "tenderSummary": "For the provision of Aerodrome Rescue and Fire Fighting (ARFF) Services to the Joint Service Parachute Centre Weston on the Green (JSPCW) 2 Gp JSPC(W) requires Aircraft Rescue and Firefighting (ARFF) provision on site during flying operations to enable Delivery of Tri-Service parachuting courses at RAF Weston on the Green under Civilian National Governing Body, British Skydiving (BS) who operate under Civil Air Authority (CAA) Regulations and Military Aviation Authority (MAA) Regulations primarily DSA02 Defence Fire Safety Regulations. The requirement is for a 3 year contract from 1 February 2027 until 31 January 2030 with 800 ARFF hours per year during the parachute season.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-23303",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "75251100",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
+        "id": "fts-090568-2026",
+        "title": "Ride Strive & Thrive Cycling",
+        "authority": "City of Doncaster Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "090568-2026",
+        "published": "2026-09-24",
+        "deadline": "2026-10-30",
+        "value": 150000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          14,
+          10,
+          14,
+          0
+        ],
+        "description": "Delivery of cycling training in locations around Doncaster as part of the RST pilot",
+        "tenderSummary": "Delivery of cycling training in locations around Doncaster as part of the RST pilot",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/090568-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE31",
+        "cpv": "80000000, 80500000, 80510000, 92000000, 98000000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
         "demo": false
       },
       {
@@ -768,6 +1374,125 @@
         "demo": false
       },
       {
+        "id": "fts-092012-2026",
+        "title": "Customer Care (Security) Services within Emergency Housing and Resettlement Service",
+        "authority": "BLACKPOOL COASTAL HOUSING LIMITED",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "092012-2026",
+        "published": "2026-09-29",
+        "deadline": "2026-11-04",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "This contract is not a security contract; it has a much wider scope. The Service Provider must have experience in dealing with vulnerable adults, families and young people with multi disadvantage and complex needs. They must have experience, competence and abilities to manage situations that may be sensitive and challenging. The Service Provider must provide officers that are able to respond to the needs of the services below and have the skills to communicate effectively, defuse situations and manage emergency situations swiftly and confidently. The Service Provider must be able to provide additional onsite support to officers within the appropriate timescales. Officers may be required to carry out welfare checks on individuals that require additional support/oversight. Officers may also be required to address issues with individuals that are challenging. William Lyons House is supported accommodation for 14 young people, there are 10 self-contained flats and 4 bedsit flats with a communal kitchen. There are also communal areas which can be accessed by the young people when BCH staff are on site. The building is a 2 story block with a rear car park and door entry system. The role of the customer care service is to maintain the security of the building, manage the front door, not allowing visitors within the agreed time periods, carry out building safety checks, monitor the CCTV, respond to any emergency situations and record building information within the appropriate record books. The Customer Care Officer will also be required to liaise with the young people, defuse any challenging situations and deal with the young people in a friendly and effective manner, again recording information within the required record books/incident reports. The Emergency Housing provision provides emergency accommodation for homeless families, couples and singles, with multi disadvantages and complex needs. Two buildings provide individual sleeping/living quarters with shared bathrooms, kitchens and communal corridors and one building provides fully self-contained accommodation. The buildings are 2 and 3 story blocks with a communal front door entry system. During the evenings, entry into Gorton St will be managed by the customer care service. The Customer Care Officer will carry out building safety checks, welfare checks, carry out any out of hours booking in of new residents, review CCTV, responding to any breach of rules as required within agreed procedures, deal with emergency situations including responding to fire alarm activations, responding to safeguarding concerns and record all information within the required record books. Security will also be required to carry out emergency admissions as set within the agreed admission procedures. Within our family emergency provision one customer care officer will be required to be based in one of the family provisions, Central or Clare St, they will be expected to visit the other family provision during each shift. The Customer Care Officer will carry out building safety checks, welfare checks, carry out any out of hours booking in of new residents, review CCTV, responding to any breach of rules as required within agreed procedures, deal with emergency situations including responding to fire alarm activations, responding to safeguarding concerns and record all information within the required record books. Customer Care Officers will also be required to carry out emergency admissions as set within the agreed admission procedures.",
+        "tenderSummary": "This contract is not a security contract; it has a much wider scope. The Service Provider must have experience in dealing with vulnerable adults, families and young people with multi disadvantage and complex needs. They must have experience, competence and abilities to manage situations that may be sensitive and challenging. The Service Provider must provide officers that are able to respond to the needs of the services below and have the skills to communicate effectively, defuse situations and manage emergency situations swiftly and confidently. The Service Provider must be able to provide additional onsite support to officers within the appropriate timescales. Officers may be required to carry out welfare checks on individuals that require additional support/oversight. Officers may also be required to address issues with individuals that are challenging. William Lyons House is supported accommodation for 14 young people, there are 10 self-contained flats and 4 bedsit flats with a communal kitchen. There are also communal areas which can be accessed by the young people when BCH staff are on site. The building is a 2 story block with a rear car park and door entry system. The role of the customer care service is to maintain the security of the building, manage the front door, not allowing visitors within the agreed time periods, carry out building safety checks, monitor the CCTV, respond to any emergency situations and record building information within the appropriate record books. The Customer Care Officer will also be required to liaise with the young people, defuse any challenging situations and deal with the young people in a friendly and effective manner, again recording information within the required record books/incident reports. The Emergency Housing provision provides emergency accommodation for homeless families, couples and singles, with multi disadvantages and complex needs. Two buildings provide individual sleeping/living quarters with shared bathrooms, kitchens and communal corridors and one building provides fully self-contained accommodation. The buildings are 2 and 3 story blocks with a communal front door entry system. During the evenings, entry into Gorton St will be managed by the customer care service. The Customer Care Officer will carry out building safety checks, welfare checks, carry out any out of hours booking in of new residents, review CCTV, responding to any breach of rules as required within agreed procedures, deal with emergency situations including responding to fire alarm activations, responding to safeguarding concerns and record all information within the required record books. Security will also be required to carry out emergency admissions as set within the agreed admission procedures. Within our family emergency provision one customer care officer will be required to be based in one of the family provisions, Central or Clare St, they will be expected to visit the other family provision during each shift. The Customer Care Officer will carry out building safety checks, welfare checks, carry out any out of hours booking in of new residents, review CCTV, responding to any breach of rules as required within agreed procedures, deal with emergency situations including responding to fire alarm activations, responding to safeguarding concerns and record all information within the required record books. Customer Care Officers will also be required to carry out emergency admissions as set within the agreed admission procedures.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/092012-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD42",
+        "cpv": "79342300, 79713000, 79715000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
+        "id": "fts-090958-2026",
+        "title": "Provision of Victim Support Services",
+        "authority": "The Police and Crime Commissioner for Warwickshire",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "090958-2026",
+        "published": "2026-09-25",
+        "deadline": "2026-11-05",
+        "value": 5708637.68,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The Police and Crime Commissioner (PCC) for Warwickshire invites tenders for the provision of Victim Support Services across Warwickshire. The PCC seeks to commission experienced providers to deliver high-quality, accessible and specialist support services for victims and survivors of crime including family members and friends where appropriate, enabling individuals to cope with and recover from the impact of crime, access appropriate support and exercise their rights under the Victims' Code. Services will contribute to the PCC's wider priorities of supporting victims and survivors, protecting vulnerable people, improving access to justice, reducing violence against women and girls, reducing inequalities in access to support and improving wellbeing and recovery outcomes. The requirement is divided into four lots: • Lot 1 – Multi Crime Victim Service • Lot 2 – Sexual Violence Support Service • Lot 3 – Child Exploitation Support Service • Lot 4 – Slavery and Exploitation Support Service Bidders may tender for a single lot or multiple lots. Across the four lots, the PCC is seeking services that provide appropriate specialist support according to the needs and circumstances of victims and survivors. Services will be expected to provide equitable access to support across Warwickshire, manage demand, capacity and risk effectively, and work collaboratively with relevant statutory, criminal justice, health, safeguarding and voluntary and community sector partners. The successful provider(s) will be expected to have relevant experience and expertise appropriate to the lot(s) for which they tender and to provide suitably skilled, trained and resilient workforces. Providers will be required to maintain robust safeguarding arrangements and deliver inclusive services capable of responding appropriately to vulnerability and the differing needs of individuals accessing support. The contracts will be awarded for an initial period of three (3) years, commencing 1 April 2027, with an option to extend for up to a further two (2) years, subject to funding availability. Funding is allocated separately to each lot and is subject to the applicable funding terms and conditions. Suppliers should note that some funding streams are confirmed for limited periods only and funding levels may change during the contract period. Any underspent funding must be returned to the Authority and/or relevant funding body in accordance with the applicable funding conditions. Full details of the funding arrangements for each lot are contained within the procurement documents. Contract values provided are indicative and dependent on VAT status of successful bidder(s). How to Register Full details of the service requirements, procurement process, conditions of participation, evaluation methodology, specification and contract terms and conditions and identified risks are contained within the procurement documents on the In-tend Bluelight portal https://sell2.in-tend.co.uk/blpd/home Please see Submission section below on how to register and respond. Please note that if you previously registered for the Preliminary Market Engagement, your details will not have been carried over and you will need to express your interest again for this tender on the In-tend portal. This procurement is being conducted using a competitive flexible procedure for the award of above-threshold Light Touch Contracts under the Procurement Act 2023. Preliminary market engagement has been carried out in relation to this procurement. The presentation slides and Q&A from the preliminary market engagement have been made available in the tender pack on In-tend for information purposes only. Where there is any conflict between the preliminary market engagement materials and the tender documents, the tender documents shall prevail. The Authority reserves the right to amend the procurement timetable or process where permitted by law, make a future direct award where permitted, manage conflicts of interest in accordance with applicable requirements and its governance procedures, and not to award a contract as a result of this procurement exercise. The Authority reserves the right to award a contract directly under Schedule 5, paragraph 8 of the Procurement Act 2023 if the competitive procedure does not result in an acceptable tender.",
+        "tenderSummary": "The Police and Crime Commissioner (PCC) for Warwickshire invites tenders for the provision of Victim Support Services across Warwickshire. The PCC seeks to commission experienced providers to deliver high-quality, accessible and specialist support services for victims and survivors of crime including family members and friends where appropriate, enabling individuals to cope with and recover from the impact of crime, access appropriate support and exercise their rights under the Victims' Code. Services will contribute to the PCC's wider priorities of supporting victims and survivors, protecting vulnerable people, improving access to justice, reducing violence against women and girls, reducing inequalities in access to support and improving wellbeing and recovery outcomes. The requirement is divided into four lots: • Lot 1 – Multi Crime Victim Service • Lot 2 – Sexual Violence Support Service • Lot 3 – Child Exploitation Support Service • Lot 4 – Slavery and Exploitation Support Service Bidders may tender for a single lot or multiple lots. Across the four lots, the PCC is seeking services that provide appropriate specialist support according to the needs and circumstances of victims and survivors. Services will be expected to provide equitable access to support across Warwickshire, manage demand, capacity and risk effectively, and work collaboratively with relevant statutory, criminal justice, health, safeguarding and voluntary and community sector partners. The successful provider(s) will be expected to have relevant experience and expertise appropriate to the lot(s) for which they tender and to provide suitably skilled, trained and resilient workforces. Providers will be required to maintain robust safeguarding arrangements and deliver inclusive services capable of responding appropriately to vulnerability and the differing needs of individuals accessing support. The contracts will be awarded for an initial period of three (3) years, commencing 1 April 2027, with an option to extend for up to a further two (2) years, subject to funding availability. Funding is allocated separately to each lot and is subject to the applicable funding terms and conditions. Suppliers should note that some funding streams are confirmed for limited periods only and funding levels may change during the contract period. Any underspent funding must be returned to the Authority and/or relevant funding body in accordance with the applicable funding conditions. Full details of the funding arrangements for each lot are contained within the procurement documents. Contract values provided are indicative and dependent on VAT status of successful bidder(s). How to Register Full details of the service requirements, procurement process, conditions of participation, evaluation methodology, specification and contract terms and conditions and identified risks are contained within the procurement documents on the In-tend Bluelight portal https://sell2.in-tend.co.uk/blpd/home Please see Submission section below on how to register and respond. Please note that if you previously registered for the Preliminary Market Engagement, your details will not have been carried over and you will need to express your interest again for this tender on the In-tend portal. This procurement is being conducted using a competitive flexible procedure for the award of above-threshold Light Touch Contracts under the Procurement Act 2023. Preliminary market engagement has been carried out in relation to this procurement. The presentation slides and Q&A from the preliminary market engagement have been made available in the tender pack on In-tend for information purposes only. Where there is any conflict between the preliminary market engagement materials and the tender documents, the tender documents shall prevail. The Authority reserves the right to amend the procurement timetable or process where permitted by law, make a future direct award where permitted, manage conflicts of interest in accordance with applicable requirements and its governance procedures, and not to award a contract as a result of this procurement exercise. The Authority reserves the right to award a contract directly under Schedule 5, paragraph 8 of the Procurement Act 2023 if the competitive procedure does not result in an acceptable tender.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/090958-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG13",
+        "cpv": "75200000, 98000000, 98133100, 85323000, 85310000, 85312000, 85320000, 85300000, 85000000, 85312300, 85312310, 85312320, 80310000, 80330000, 85322000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
+        "id": "fts-090894-2026",
+        "title": "Criminal Justice Related Drug and Alcohol Referral Service for Adults",
+        "authority": "The Police and Crime Commissioner for Warwickshire",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "090894-2026",
+        "published": "2026-09-25",
+        "deadline": "2026-11-05",
+        "value": 892616.67,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The Police and Crime Commissioner (PCC) for Warwickshire invites tenders for the provision of a Criminal Justice Related Drug and Alcohol Referral Service for Adults. The PCC seeks to commission an experienced provider to deliver an Arrest Referral Service across police custody settings in Warwickshire, together with associated substance misuse assessment, intervention and referral services. In addition, the provider will deliver a service within the Leamington Justice Centre courts' setting to offenders who have a history of substance use related problems, the provider will complete court requested suitability assessments for community sentences; and provide information to Court Probation Staff to inform Pre-Sentence Reports. The service will undertake holistic criminal justice substance misuse assessments for individuals in custody who test positive following a Drug Test on Arrest and those who voluntarily engage with the service. Assessments will consider drug and/or alcohol use alongside offending behaviour, health, safeguarding, vulnerabilities and wider social needs, with the aim of identifying appropriate treatment, support and risk management interventions. The service will also undertake suitability assessments for Community Sentence Treatment Requirements, including Drug Rehabilitation Requirements and Alcohol Treatment Requirements. The service will maximise opportunities to identify and engage individuals experiencing drug and/or alcohol misuse at a key point of intervention within the criminal justice system. It will provide early intervention, harm reduction advice, brief interventions, and effective pathways into community drug and alcohol treatment and wider support services. The successful provider will operate as a key partner within Warwickshire's multi-agency response to substance misuse and offending, working collaboratively with Warwickshire Police Custody, Probation, the commissioned community drug and alcohol treatment provider and other relevant statutory and community partners. The service will contribute to improved treatment engagement, improved criminal justice outcomes and the reduction of reoffending in Warwickshire. The PCC is seeking a provider with relevant experience and expertise in delivering substance misuse and/or criminal justice services, with the capability to provide an appropriately skilled and resilient workforce within police custody and criminal justice environments. The provider will be expected to demonstrate effective multi-agency working, strong safeguarding and risk management arrangements, and the ability to engage individuals with complex needs and support them into appropriate treatment and wider services. The requirement will be procured as a single contract and has not been divided into lots. The Authority considered whether to separate the custody and court-related elements of the service but determined that delivery through a single contract would provide continuity of service and straightforward, integrated referral pathways. The contract will be awarded for an initial period of three (3) years, commencing 1 April 2027, with an option to extend for up to a further two (2) years, subject to funding availability. The contract is funded through a fixed budget, subject to applicable funding terms and conditions. Funding levels may be subject to change during the contract period and any underspent funding must be returned to the Authority and/or relevant funding body. Contract values provided are indicative and dependent on VAT status of successful bidder(s). How to Register Full details of the service requirements, procurement process, conditions of participation, evaluation methodology, specification and contract terms and conditions and identified risks are contained within the procurement documents on the In-tend Bluelight portal https://sell2.in-tend.co.uk/blpd/home Please see Submission section below on how to register and respond. This procurement is being conducted using a competitive flexible procedure for the award of an above-threshold Light Touch Contract under the Procurement Act 2023. Preliminary market engagement has been carried out for this contract. We have made available the presentation slides and Q&A from the market engagement in the tender pack on In-tend for information purposes only. Where there is any conflict between the preliminary market engagement materials and the tender documents, the tender documents shall prevail. The Authority reserves the right to amend the procurement timetable or process where permitted by law, make a future direct award where permitted, manage conflicts of interest in accordance with applicable requirements and its governance procedures, and not to award a contract as a result of this procurement exercise. The Authority reserves the right to award the contract directly under Schedule 5, paragraph 8 of the Procurement Act if the competitive procedure does not result in an acceptable tender.",
+        "tenderSummary": "The Police and Crime Commissioner (PCC) for Warwickshire invites tenders for the provision of a Criminal Justice Related Drug and Alcohol Referral Service for Adults. The PCC seeks to commission an experienced provider to deliver an Arrest Referral Service across police custody settings in Warwickshire, together with associated substance misuse assessment, intervention and referral services. In addition, the provider will deliver a service within the Leamington Justice Centre courts' setting to offenders who have a history of substance use related problems, the provider will complete court requested suitability assessments for community sentences; and provide information to Court Probation Staff to inform Pre-Sentence Reports. The service will undertake holistic criminal justice substance misuse assessments for individuals in custody who test positive following a Drug Test on Arrest and those who voluntarily engage with the service. Assessments will consider drug and/or alcohol use alongside offending behaviour, health, safeguarding, vulnerabilities and wider social needs, with the aim of identifying appropriate treatment, support and risk management interventions. The service will also undertake suitability assessments for Community Sentence Treatment Requirements, including Drug Rehabilitation Requirements and Alcohol Treatment Requirements. The service will maximise opportunities to identify and engage individuals experiencing drug and/or alcohol misuse at a key point of intervention within the criminal justice system. It will provide early intervention, harm reduction advice, brief interventions, and effective pathways into community drug and alcohol treatment and wider support services. The successful provider will operate as a key partner within Warwickshire's multi-agency response to substance misuse and offending, working collaboratively with Warwickshire Police Custody, Probation, the commissioned community drug and alcohol treatment provider and other relevant statutory and community partners. The service will contribute to improved treatment engagement, improved criminal justice outcomes and the reduction of reoffending in Warwickshire. The PCC is seeking a provider with relevant experience and expertise in delivering substance misuse and/or criminal justice services, with the capability to provide an appropriately skilled and resilient workforce within police custody and criminal justice environments. The provider will be expected to demonstrate effective multi-agency working, strong safeguarding and risk management arrangements, and the ability to engage individuals with complex needs and support them into appropriate treatment and wider services. The requirement will be procured as a single contract and has not been divided into lots. The Authority considered whether to separate the custody and court-related elements of the service but determined that delivery through a single contract would provide continuity of service and straightforward, integrated referral pathways. The contract will be awarded for an initial period of three (3) years, commencing 1 April 2027, with an option to extend for up to a further two (2) years, subject to funding availability. The contract is funded through a fixed budget, subject to applicable funding terms and conditions. Funding levels may be subject to change during the contract period and any underspent funding must be returned to the Authority and/or relevant funding body. Contract values provided are indicative and dependent on VAT status of successful bidder(s). How to Register Full details of the service requirements, procurement process, conditions of participation, evaluation methodology, specification and contract terms and conditions and identified risks are contained within the procurement documents on the In-tend Bluelight portal https://sell2.in-tend.co.uk/blpd/home Please see Submission section below on how to register and respond. This procurement is being conducted using a competitive flexible procedure for the award of an above-threshold Light Touch Contract under the Procurement Act 2023. Preliminary market engagement has been carried out for this contract. We have made available the presentation slides and Q&A from the market engagement in the tender pack on In-tend for information purposes only. Where there is any conflict between the preliminary market engagement materials and the tender documents, the tender documents shall prevail. The Authority reserves the right to amend the procurement timetable or process where permitted by law, make a future direct award where permitted, manage conflicts of interest in accordance with applicable requirements and its governance procedures, and not to award a contract as a result of this procurement exercise. The Authority reserves the right to award the contract directly under Schedule 5, paragraph 8 of the Procurement Act if the competitive procedure does not result in an acceptable tender.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/090894-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG13",
+        "cpv": "33693300, 85000000, 85121270, 85310000, 85312000, 85300000, 85320000, 85312310, 85312300, 85322000, 85323000, 98133100, 98000000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+        "demo": false
+      },
+      {
         "id": "fts-088835-2026",
         "title": "Youth Services Provision - Invitation to Quote",
         "authority": "Woodley Town Council",
@@ -804,6 +1529,45 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:03:49.223Z-303c6337-9c3e-41b9-ba65-d38504e76f81",
+        "demo": false
+      },
+      {
+        "id": "fts-092526-2026",
+        "title": "Operating The Blackwood Miners’ Institute",
+        "authority": "Caerphilly County Borough Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "092526-2026",
+        "published": "2026-09-30",
+        "deadline": "2026-11-18",
+        "value": 1600000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Blackwood Miners' Institute (BMI) is a cultural landmark with a proud history. Caerphilly County Borough Council (CCBC) is seeking to appoint an external operator to lead the artistic, cultural, community and commercial activity of this Grade II listed historic venue Following a comprehensive review of the venue's future operating model, CCBC is now commencing a formal procurement process to identify a suitably experienced organisation to manage and develop Blackwood Miners' Institute. The Council is inviting applications from organisations with proven expertise in cultural, arts, heritage, entertainment and venue management, and a strong track record of delivering sustainable and community focused operations. The successful operator will be responsible for providing strategic leadership and operational management of the venue, ensuring the delivery of a high quality artistic and cultural programme, engaging local communities, maximising commercial opportunities and safeguarding the long term sustainability of the Institute. Through this tender opportunity, CCBC is seeking an operator that can demonstrate a clear vision for the future of Blackwood Miners' Institute, building upon its heritage and reputation while developing a vibrant, financially resilient, and inclusive cultural destination. Tenderers will be required to submit responses in accordance with the requirements set out within the procurement documentation. Submissions will be evaluated against the published criteria, including quality, financial sustainability, operational capability, and community impact. Following evaluation, CCBC intends to appoint a preferred operator and enter into a contractual agreement for the management and operation of Blackwood Miners' Institute. This opportunity represents a unique chance to shape the future of one of Wales' most significant cultural venues and to contribute to the continued cultural, social, and economic development of the local community. Full details can be found in the Initiation to Tender (ITT) Pack",
+        "tenderSummary": "Blackwood Miners' Institute (BMI) is a cultural landmark with a proud history. Caerphilly County Borough Council (CCBC) is seeking to appoint an external operator to lead the artistic, cultural, community and commercial activity of this Grade II listed historic venue Following a comprehensive review of the venue's future operating model, CCBC is now commencing a formal procurement process to identify a suitably experienced organisation to manage and develop Blackwood Miners' Institute. The Council is inviting applications from organisations with proven expertise in cultural, arts, heritage, entertainment and venue management, and a strong track record of delivering sustainable and community focused operations. The successful operator will be responsible for providing strategic leadership and operational management of the venue, ensuring the delivery of a high quality artistic and cultural programme, engaging local communities, maximising commercial opportunities and safeguarding the long term sustainability of the Institute. Through this tender opportunity, CCBC is seeking an operator that can demonstrate a clear vision for the future of Blackwood Miners' Institute, building upon its heritage and reputation while developing a vibrant, financially resilient, and inclusive cultural destination. Tenderers will be required to submit responses in accordance with the requirements set out within the procurement documentation. Submissions will be evaluated against the published criteria, including quality, financial sustainability, operational capability, and community impact. Following evaluation, CCBC intends to appoint a preferred operator and enter into a contractual agreement for the management and operation of Blackwood Miners' Institute. This opportunity represents a unique chance to shape the future of one of Wales' most significant cultural venues and to contribute to the continued cultural, social, and economic development of the local community. Full details can be found in the Initiation to Tender (ITT) Pack",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/092526-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL16",
+        "cpv": "70330000, 92520000, 92310000, 92320000, 92330000, 92340000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
         "demo": false
       },
       {
@@ -846,42 +1610,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-04T13:03:49.223Z"
+    "lastPartialUpdate": "2026-11-04T13:06:39.300Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-04T13:03:49.223Z-303c6337-9c3e-41b9-ba65-d38504e76f81",
-    "attemptedAt": "2026-11-04T13:03:49.223Z",
+    "attemptId": "2026-11-04T13:06:39.300Z-18d038d4-5357-4c52-99de-eb967e98a14b",
+    "attemptedAt": "2026-11-04T13:06:39.300Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-09-24T09:41:04.953Z",
-    "retrievedCount": 19,
-    "totalCount": 20,
+    "lastSuccessfulUpdate": "2026-10-01T09:41:04.953Z",
+    "retrievedCount": 21,
+    "totalCount": 39,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-09-24T09:41:04.953Z",
-        "lastSuccessfulUpdate": "2026-09-24T09:41:04.953Z",
-        "lastAttemptAt": "2026-11-04T13:03:49.223Z",
+        "watermark": "2026-10-01T09:41:04.953Z",
+        "lastSuccessfulUpdate": "2026-10-01T09:41:04.953Z",
+        "lastAttemptAt": "2026-11-04T13:06:39.300Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-09-16T09:41:04.953Z",
-          "to": "2026-09-24T09:41:04.953Z"
+          "from": "2026-09-23T09:41:04.953Z",
+          "to": "2026-10-01T09:41:04.953Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-09-24T09:41:04.953Z",
-        "lastSuccessfulUpdate": "2026-09-24T09:41:04.953Z",
-        "lastAttemptAt": "2026-11-04T13:03:49.223Z",
+        "watermark": "2026-10-01T09:41:04.953Z",
+        "lastSuccessfulUpdate": "2026-10-01T09:41:04.953Z",
+        "lastAttemptAt": "2026-11-04T13:06:39.300Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-09-16T09:41:04.953Z",
-          "to": "2026-09-24T09:41:04.953Z"
+          "from": "2026-09-23T09:41:04.953Z",
+          "to": "2026-10-01T09:41:04.953Z"
         }
       }
     }
