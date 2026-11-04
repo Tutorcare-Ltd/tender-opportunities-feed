@@ -48,6 +48,24 @@ test("long Retry-After defers rather than retrying early", async () => {
   assert.equal(t.calls.length, 1);
   assert.equal(t.waits.length, 0);
 });
+
+test('long cooldown survives a new run and does not re-request that source early',async()=>{
+ const t=transport([new Response('',{status:429,headers:{'Retry-After':'86400'}})]);
+ const first=await refreshState(seed(),{to,attemptId:'cooldown',fetchSource:async source=>source==='FTS'?requestAll(initialUrl,source,t.options):[]});
+ assert.equal(first.sourceState.FTS.retryNotBefore,'2026-10-29T08:17:00.000Z');
+ const calls=[];
+ const second=await refreshState(JSON.parse(JSON.stringify(first)),{to:new Date('2026-10-28T09:00:00Z'),attemptId:'early',fetchSource:async source=>{calls.push(source);return []}});
+ assert.deepEqual(calls,['Contracts Finder']);assert.equal(second.sourceState.FTS.watermark,seed().sourceState.FTS.watermark);
+ const recovered=await refreshState(second,{to:new Date('2026-10-29T08:17:01Z'),attemptId:'recovered',fetchSource:async()=>[]});
+ assert.equal(recovered.sourceState.FTS.retryNotBefore,null);assert.equal(recovered.health.status,'healthy');
+});
+
+test('backlogs use bounded windows and do not claim current freshness after a partial catch-up',async()=>{
+ const observed=[];
+ const next=await refreshState(seed(),{to:new Date('2026-11-20T08:17:00Z'),attemptId:'catchup',fetchSource:async(source,from,end)=>{observed.push([source,end.toISOString()]);return []}});
+ assert.deepEqual(observed,[['FTS','2026-10-30T08:17:00.000Z'],['Contracts Finder','2026-11-02T08:17:00.000Z']]);
+ assert.equal(next.snapshot.lastSuccessfulUpdate,'2026-10-30T08:17:00.000Z');
+});
 test("network failures retry; exhausted attempts do not sleep again", async () => {
   const t = transport([new Error("network"), json({ releases: [] })]);
   await requestAll(initialUrl, "FTS", t.options);

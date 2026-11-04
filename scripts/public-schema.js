@@ -23,6 +23,7 @@ function publicObject(value, schema) {
 const interval = value => { publicObject(value, intervalSchema); return true; };
 const sourceSchema = {
   watermark: string, lastAttemptAt: string, lastSuccessfulUpdate: nullable(string),
+  retryNotBefore: nullable(string),
   ok: boolean, error: nullable(string), interval
 };
 

@@ -20,30 +20,32 @@ export function validateState(state) {
   return state;
 }
 
-export async function refreshState(previous, { to = new Date(), attemptId, fetchSource } = {}) {
+export async function refreshState(previous, { to = new Date(), attemptId, fetchSource, maxWindowDays=7 } = {}) {
   previous = validateState(previous);
   if (!attemptId || typeof fetchSource !== "function" || !Number.isFinite(to.getTime())) throw new Error("Refresh requires an attempt ID, valid end time and source reader");
   const sourceState = structuredClone(previous.sourceState);
   const results = await Promise.all(SOURCE_NAMES.map(async source => {
     const cursor = new Date(sourceState[source].watermark);
     const from = new Date(cursor.getTime() - OVERLAP_HOURS * 3600000);
+    const windowTo = new Date(Math.min(to.getTime(),cursor.getTime()+maxWindowDays*86400000));
     try {
       if (cursor > to) throw new Error("Checkpoint is in the future");
-      const records = await fetchSource(source, from, to, attemptId);
+      if(Date.parse(sourceState[source].retryNotBefore)>to.getTime()) throw Object.assign(new Error('Rate-limit cooldown until '+sourceState[source].retryNotBefore),{retryNotBefore:sourceState[source].retryNotBefore});
+      const records = await fetchSource(source, from, windowTo, attemptId);
       if (!Array.isArray(records) || records.some(row => !row?.id || row.source !== source)) throw new Error("Invalid normalized source records");
-      return { source, ok: true, records: records.map(publicRecord), from: from.toISOString(), to: to.toISOString() };
+      return { source, ok: true, records: records.map(publicRecord), from: from.toISOString(), to: windowTo.toISOString() };
     } catch (error) {
-      return { source, ok: false, error: String(error.message || error), from: from.toISOString(), to: to.toISOString() };
+      return { source, ok: false, error: String(error.message || error), retryNotBefore:error.retryNotBefore||null, from: from.toISOString(), to: windowTo.toISOString() };
     }
   }));
   const map = new Map(previous.snapshot.records.map(row => [row.id, row]));
   let retrievedCount = 0;
   for (const result of results) {
     const { source, ok, error, from } = result;
-    sourceState[source] = { ...sourceState[source], lastAttemptAt: to.toISOString(), ok, error: error || null, interval: { from, to: to.toISOString() } };
+    sourceState[source] = { ...sourceState[source], lastAttemptAt: to.toISOString(), ok, error: error || null, retryNotBefore:result.retryNotBefore||null, interval: { from, to: result.to } };
     if (!ok) continue;
-    sourceState[source].watermark = to.toISOString();
-    sourceState[source].lastSuccessfulUpdate = to.toISOString();
+    sourceState[source].watermark = result.to;
+    sourceState[source].lastSuccessfulUpdate = result.to;
     retrievedCount += result.records.length;
     for (const row of result.records) {
       const old = map.get(row.id);
@@ -58,7 +60,7 @@ export async function refreshState(previous, { to = new Date(), attemptId, fetch
     ok: successful === SOURCE_NAMES.length,
     status: successful === 0 ? "failed" : successful === SOURCE_NAMES.length ? "healthy" : "degraded",
     degraded: successful !== SOURCE_NAMES.length,
-    lastSuccessfulUpdate: successful === SOURCE_NAMES.length ? to.toISOString() : previous.snapshot.lastSuccessfulUpdate ?? null,
+    lastSuccessfulUpdate: successful === SOURCE_NAMES.length ? new Date(Math.min(...results.map(r=>Date.parse(r.to)))).toISOString() : previous.snapshot.lastSuccessfulUpdate ?? null,
     retrievedCount, totalCount: records.length, sourceFailures: failures, sourceState
   };
   const snapshot = successful === 0 ? structuredClone(previous.snapshot) : {

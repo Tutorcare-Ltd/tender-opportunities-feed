@@ -48,8 +48,10 @@ export async function requestAll(initialUrl, source, {
       if (response.status === 429 || response.status >= 500) {
         const header = response.headers.get("retry-after");
         await response.body?.cancel();
-        if (attempt === attempts - 1) throw new Error(source + ": HTTP " + response.status + " after retries");
         const delay = retryDelay(header, now(), attempt, random);
+        const defer = message => Object.assign(new Error(message), {retryNotBefore: new Date(now()+delay).toISOString()});
+        if (attempt === attempts - 1) throw defer(source + ": HTTP " + response.status + " after retries");
+        if(now()+delay>=deadline) throw defer(source + ": retry exceeds run budget; checkpoint retained");
         log(source + ": HTTP " + response.status + "; Retry-After=" + JSON.stringify(header) + "; waiting " + delay + "ms");
         await pause(delay);
         continue;

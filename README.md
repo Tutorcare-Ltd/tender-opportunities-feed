@@ -75,3 +75,9 @@ Failures before a health payload can be safely constructed (invalid/missing dura
 - Do not delete state during rollback. Pause/disable v2 and restore code only through an approved rollback; reverting to the original workflow reintroduces the September-state defect.
 
 The PR test workflow only runs syntax checks and mocked tests. It has read-only repository permissions and no production secrets.
+
+## November rollout additions
+
+Retry-After cooldowns now persist in sourceState.retryNotBefore, including a delay longer than a run budget. Another run will not call that source until its cooldown expires. Catch-up queries complete at most seven days per source; a successful historical window is not marked current. A manual run can process up to eight windows, committing and publishing each one independently, and stops on any upstream failure. Scheduled runs retain one bounded window.
+
+The migration preserves the three public notices exported through the actual Hub /api/tender-feed on 4 November. Both sources start a conservative backfill at the retained snapshot interval.from (17 September 2026 09:41:04.953 UTC), with lastSuccessfulUpdate null because legacy partial success cannot establish per-source completion. This is a recovery baseline, not a claim of verified complete history. Staff browser storage is never exported.
