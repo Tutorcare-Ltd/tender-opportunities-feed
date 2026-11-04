@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-10-22T09:41:04.953Z",
-      "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
-      "lastAttemptAt": "2026-11-04T13:21:03.669Z",
+      "watermark": "2026-10-29T09:41:04.953Z",
+      "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
+      "lastAttemptAt": "2026-11-04T13:25:53.583Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-10-14T09:41:04.953Z",
-        "to": "2026-10-22T09:41:04.953Z"
+        "from": "2026-10-21T09:41:04.953Z",
+        "to": "2026-10-29T09:41:04.953Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-10-22T09:41:04.953Z",
-      "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
-      "lastAttemptAt": "2026-11-04T13:21:03.669Z",
+      "watermark": "2026-10-29T09:41:04.953Z",
+      "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
+      "lastAttemptAt": "2026-11-04T13:25:53.583Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-10-14T09:41:04.953Z",
-        "to": "2026-10-22T09:41:04.953Z"
+        "from": "2026-10-21T09:41:04.953Z",
+        "to": "2026-10-29T09:41:04.953Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
-    "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
+    "buildId": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+    "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
     "interval": {
-      "from": "2026-10-14T09:41:04.953Z",
-      "to": "2026-11-04T13:21:03.669Z"
+      "from": "2026-10-21T09:41:04.953Z",
+      "to": "2026-11-04T13:25:53.583Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 29,
-    "totalCount": 103,
+    "retrievedCount": 21,
+    "totalCount": 117,
     "sourceFailures": [],
     "records": [
       {
@@ -2010,6 +2010,86 @@
         "demo": false
       },
       {
+        "id": "fts-101275-2026",
+        "title": "ONGO Homes - Grounds Maintenance Services (Grass Cutting and Associated Grounds Maintenance Works)",
+        "authority": "Ongo Homes",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "101275-2026",
+        "published": "2026-10-26",
+        "deadline": "2026-11-02",
+        "value": 2175748.99,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Ongo Homes is seeking suitably experienced and qualified contractors to deliver grounds maintenance and estate caretaking services across its housing stock and communal land portfolio throughout North Lincolnshire and other designated locations. The contract comprises the provision of high-quality communal grounds maintenance services including grass cutting (Cut & Fly and Cut & Collect), Maintenance of landscaped areas, beds and planters. The successful contractor(s) will be required to deliver a customer-focused service that ensures all communal areas are maintained to a clean, safe, tidy and visually attractive standard, whilst complying with all relevant health and safety, environmental and safeguarding requirements. Contractors will be expected to provide programmed maintenance, performance monitoring, digital completion records, quality audits, and proactive reporting of defects and improvement opportunities.",
+        "tenderSummary": "Ongo Homes is seeking suitably experienced and qualified contractors to deliver grounds maintenance and estate caretaking services across its housing stock and communal land portfolio throughout North Lincolnshire and other designated locations. The contract comprises the provision of high-quality communal grounds maintenance services including grass cutting (Cut & Fly and Cut & Collect), Maintenance of landscaped areas, beds and planters. The successful contractor(s) will be required to deliver a customer-focused service that ensures all communal areas are maintained to a clean, safe, tidy and visually attractive standard, whilst complying with all relevant health and safety, environmental and safeguarding requirements. Contractors will be expected to provide programmed maintenance, performance monitoring, digital completion records, quality audits, and proactive reporting of defects and improvement opportunities.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/101275-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "77314000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
+        "id": "fts-099861-2026",
+        "title": "Framework for the Provision of Trailblazer Programme Support Services and Activities",
+        "authority": "City & County of Swansea",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "099861-2026",
+        "published": "2026-10-22",
+        "deadline": "2026-11-02",
+        "value": 190000,
+        "currency": "GBP",
+        "stage": "Recently closed",
+        "scores": [
+          8,
+          14,
+          10,
+          14,
+          0
+        ],
+        "description": "Swansea Council is establishing a Framework Agreement to commission suitable providers to deliver accessible, community-based activities and support as part of Swansea Council’s Trailblazer programme. Funding for this commission has been secured through the Welsh Government’s Trailblazer fund. The services will support economically inactive residents across Swansea to improve health, wellbeing, confidence, resilience, social connection and readiness to move closer to employment, training, volunteering or wider community participation. The programme will align with CFW+ and strengthen links with statutory, third sector, health, community and employer-based services to ensure participants can access appropriate local support and opportunities. The Framework is comprised of Four (4) Lots:- Lot 1: Physical and Emotional Health Lot 2: Education, Employability and Skill Building Lot 3: Creative and Cultural Provision Lot 4: Other Beneficial Provision",
+        "tenderSummary": "Swansea Council is establishing a Framework Agreement to commission suitable providers to deliver accessible, community-based activities and support as part of Swansea Council’s Trailblazer programme. Funding for this commission has been secured through the Welsh Government’s Trailblazer fund. The services will support economically inactive residents across Swansea to improve health, wellbeing, confidence, resilience, social connection and readiness to move closer to employment, training, volunteering or wider community participation. The programme will align with CFW+ and strengthen links with statutory, third sector, health, community and employer-based services to ensure participants can access appropriate local support and opportunities. The Framework is comprised of Four (4) Lots:- Lot 1: Physical and Emotional Health Lot 2: Education, Employability and Skill Building Lot 3: Creative and Cultural Provision Lot 4: Other Beneficial Provision",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://etenderwales.ukp.app.jaggaer.com/home.html",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL18",
+        "cpv": "80510000, 80570000, 98000000, 85312320, 85312300, 75200000, 80400000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
         "id": "fts-089857-2026",
         "title": "Approved Driving Instructors and Trainers Framework",
         "authority": "Norfolk County Council",
@@ -2208,6 +2288,48 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
+        "demo": false
+      },
+      {
+        "id": "fts-100477-2026",
+        "title": "Ethnic Minority Health and Wellbeing Services",
+        "authority": "Wirral Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "100477-2026",
+        "published": "2026-10-23",
+        "deadline": "2026-11-04",
+        "value": 900000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          14,
+          10,
+          10,
+          0
+        ],
+        "description": "The Council seeks to establish contracts for the delivery of community-based support services for ethnic minority communities. The procurement is divided into four Lots, with the detailed scope, service requirements, estimated values and delivery expectations set out within the Lot descriptions and procurement documents. Services are intended to improve accessibility, inclusion and outcomes for service users across the borough.",
+        "tenderSummary": "The Council seeks to establish contracts for the delivery of community-based support services for ethnic minority communities. The procurement is divided into four Lots, with the detailed scope, service requirements, estimated values and delivery expectations set out within the Lot descriptions and procurement documents. Services are intended to improve accessibility, inclusion and outcomes for service users across the borough.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/100477-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD74",
+        "cpv": "85323000, 85322000, 80561000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80560000",
+          "80561000"
+        ],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
         "demo": false
       },
       {
@@ -2645,7 +2767,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6"
       },
       {
         "id": "fts-098020-2026",
@@ -2723,6 +2846,45 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-100829-2026",
+        "title": "EEM0053 - Fire Safety, Fire Doors and Building Remediation Works Framework",
+        "authority": "EFFICIENCY EAST MIDLANDS LIMITED",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "100829-2026",
+        "published": "2026-10-26",
+        "deadline": "2026-11-09",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "EEM are conducting this tender exercise to procure a Fire Safety, Fire Doors and Building Remediation Framework to replace our existing Framework which will expire in November 2026. The Framework will provide EEM Members with a provision for Fire Safety, Fire Doors and Building Remediation Works, which will include the services described below to Residential and Non-Residential properties. The Framework will be split into the following Lots and geographical Sublots: Lot 1 - Fire Safety and Building Remediation Works: -Lot 1a - Fire Safety and Building Remediation Works - Midlands Coverage -Lot 1b - Fire Safety and Building Remediation Works - National Coverage Lot 2 - Fire Safety Consultancy -Lot 2a - Fire Safety Consultancy - Midlands Coverage -Lot 2b - Fire Safety Consultancy - National Coverage Lot 3 - Fire Doors (National Coverage) -Lot 3a.1 - Supply of Composite Fire Doors - National -Lot 3a.2 - Supply of Timber Fire Doors - National -Lot 3a.3 - Supply of Timber Internal Fire Doors - National -Lot 3b.1 - Supply and Installation of Composite Fire Doors - National -Lot 3b.2 - Supply and Installation of Timber Fire Doors - National -Lot 3b.3 - Supply and Installation of Timber Internal Fire Doors - National Lot 1 is being created to support Members by providing Fire Safety & Building Remediation Works. Lot 1a supports members by providing services across properties located across the Midlands. Lot 1b is being created to support Members by providing Fire Safety & Building Remediation Works for properties located across England and Wales. Lot 2 is being created to support Members by providing Fire Safety Consultancy. Lot 2a supports members by providing services across properties located across the Midlands. Lot 2b is being created to support Members by providing Fire Safety Consultancy for properties located across England and Wales. Lot 3 is being created to support Members by providing Fire Doors for properties located across England and Wales, split into sub Lots below: Supply of Fire Doors: Lot 3a.1 Supply of Composite Fire Doors Lot 3a.2 Supply of Timber Fire Doors Lot 3a.3 Supply of Timber Internal Fire Doors Supply and Installation of Fire Doors: Lot 3b.1 Supply and Installation of Composite Fire Doors Lot 3b.2 Supply and Installation of Timber Fire Doors Lot 3b.3 Supply and Installation of Timber Internal Fire Doors Where the contract notice states a maximum of suppliers to be appointed to the Framework, EEM reserves the right to appoint less than the numbers stated. The Framework is being procured by EEM on behalf of the organisations that have been accepted as authorised users. Authorised users are classed as any current company law member, any future company law members and any user that has been authorised access to the frameworks and other public procurement tools provided by EEM. EEM reserve the right to appoint 8 contractors to each of the below lots: - Lot 1a - Lot 1b - Lot 2a - Lot 2b -Lot 3a.1 -Lot 3a.2 -Lot 3a.3 -Lot 3b.1 -Lot 3b.2 -Lot 3b.3 In addition to the Contractors appointed to each lot, EEM reserves the right to appoint a 'Reserve Bidder' for each lot, either at the same time as, or at any time during, the award and pre framework commencement stage. The Reserve Bidder for each lot will normally be the next highest ranked bidder following completion of the evaluation process for each lot, provided that their submission has met the required minimum evaluation standards. For the avoidance of doubt, if EEM appointed all 8 Contractors to Lot 1a, 1b, Lot 2a, 2b, Lot 3a.1, a.2, a.3, Lot 3b.1, b.2 and b.3 then the 9th placed bidder for each lot may be appointed as the Reserve Bidder. If all 8 places on a particular lot are not filled, EEM still reserves the right to appoint Reserve Bidders on those lots. Following the appointment of Successful Contractors, in the event that the Successful Contractor: - Makes a material alteration to the Bid which formed the basis of its selection as Successful Contractor (whether as to price or any other aspect of its Bid); - Does not comply with the provisions of this document; - In the reasonable opinion of EEM fails to make satisfactory progress towards signature of the Framework Agreement; and - In the case of any of the above, fails to remedy the situation to the reasonable satisfaction of EEM within a defined time period having been served notice in writing by EEM; - EEM shall be entitled to de-select the Successful Contractor(s) and at the absolute discretion of EEM to exclude the Successful Contractor(s) from any further participation in the Procurement process or to introduce a further competitive stage in the Procurement process in which the Successful Bidder(s) may or may not (in the absolute discretion of EEM) be invited to tender. Under no circumstances will EEM or any of their respective advisors be liable for any costs or expenses incurred by the Successful Contractor and/or any of its Relevant Organisations due to or arising from. All Bidders must declare any relevant corporate relationships, including parent companies, subsidiaries, or associated entities, within their tender submission. Where more than one entity within a corporate group (including parent companies, subsidiaries, or entities under common ownership or control) intends to submit a Tender for this procurement exercise, EEM requires that those entities agree upon a single lead bidding entity (the \"Lead Bidder\"), with all other relevant corporate group members participating solely as named key sub-contractors to the Lead Bidder. Contractors (and/or subcontractors) are required to hold accreditations and qualifications as listed within the tender pack in order to be awarded a place on the Framework. This requirement ensures our Members can be confident they are appointing competent and compliant contractors. The call-off contract's to be awarded pursuant to the Framework Agreements to be entered at conclusion of the procurement exercise begun by publication of the Contract Notice may extend for a duration of up to five years beyond expiry of the four-year term of the Framework Agreement. Please note that the total potential framework value stated within this notice is in relation to the full 4-year framework and takes into consideration the lot structure, length of call off contracts and that the EEM membership may grow over the framework lifetime. The Framework is being procured by EEM on behalf of the organisations that have been accepted as authorised users Authorised User means EEM and any other contracting authority (as defined in Section 2 PA23) described in the Tender Notice that is also listed as an authorised user on EEM's website https://eem.org.uk/members/ Authorised users are classed as any current company law member, any future company law members and any user that has been authorised access to the frameworks and other public procurement tools provided by EEM. EEM is incorporated as a company limited by guarantee and is owned and governed by a small number of organisations who make up our 'Company Law Members', all of which are Contracting Authorities in their own right. The Framework Agreements being procured by the procurement exercise begun by publication of the Contract Notice will be entered by EEM as the Contracting Authority which will have undertaken and completed that procurement exercise. Any reference in the Contract Notice or tender documents to Contracting Authority is deemed to be and include a reference to EEM. The organisations entitled to access and use the Framework Agreements to be awarded at conclusion of the procurement exercise begun by publication of the Contract Notice are: Any current EEM Member - being an organisation which is a Company Law Member of EEM at the date of this Contract Notice and being one of the organisations who owns and governs EEM; Any Future Member of EEM, from time to time Company Law Members and the EEM Board may appoint additional organisations to become Company Law Members. All Future Members will also be Contracting Authorities in their own right; and A Framework User - being an organisation who has signed and agreed to the terms of accessing EEM Frameworks and who is authorised to access the frameworks and other public procurement tools provided by EEM. EEM frameworks may accessed by all publicly funded organisations. Frameworks can be used by any organisation that falls in to one or more of the categories listed below and can be identified through the links provided as users in accordance with the Public Contracts Regulations 2015 or the Procurement Act 2023. The list of potential framework users below is not exhaustive of all organisations who can utilise EEM services, access will be granted to any publicly funded organisation. Registered Social Landlords in England and Wales, including but not limited to: 1. Registered Social Landlords in England and Wales, including but not limited to https://www.gov.uk/government/publications/registered-providers-of-social-housing 2. Local Authorities, including but not limited to England and List of councils in Wales 3. National Health Service (NHS) bodies including NHS Trusts, foundation trusts, Integrated Care Boards or Partnerships, GP federations and other health and social care providers within England and Wales 4. All emergency services including Police Forces, fire and rescue departments and emergency medical services 5. All education establishments including but not limited to, schools maintained by local authorities, academy trusts, colleges, universities and other further education establishments. 6. Registered Charities with a relevant link to the core purpose and services provided by EEM 7. Central government departments and their agencies 8. Department of Health and Social Care (DHSC) 9. All other contracting authorities as defined in the Procurement Act 2023.",
+        "tenderSummary": "EEM are conducting this tender exercise to procure a Fire Safety, Fire Doors and Building Remediation Framework to replace our existing Framework which will expire in November 2026. The Framework will provide EEM Members with a provision for Fire Safety, Fire Doors and Building Remediation Works, which will include the services described below to Residential and Non-Residential properties. The Framework will be split into the following Lots and geographical Sublots: Lot 1 - Fire Safety and Building Remediation Works: -Lot 1a - Fire Safety and Building Remediation Works - Midlands Coverage -Lot 1b - Fire Safety and Building Remediation Works - National Coverage Lot 2 - Fire Safety Consultancy -Lot 2a - Fire Safety Consultancy - Midlands Coverage -Lot 2b - Fire Safety Consultancy - National Coverage Lot 3 - Fire Doors (National Coverage) -Lot 3a.1 - Supply of Composite Fire Doors - National -Lot 3a.2 - Supply of Timber Fire Doors - National -Lot 3a.3 - Supply of Timber Internal Fire Doors - National -Lot 3b.1 - Supply and Installation of Composite Fire Doors - National -Lot 3b.2 - Supply and Installation of Timber Fire Doors - National -Lot 3b.3 - Supply and Installation of Timber Internal Fire Doors - National Lot 1 is being created to support Members by providing Fire Safety & Building Remediation Works. Lot 1a supports members by providing services across properties located across the Midlands. Lot 1b is being created to support Members by providing Fire Safety & Building Remediation Works for properties located across England and Wales. Lot 2 is being created to support Members by providing Fire Safety Consultancy. Lot 2a supports members by providing services across properties located across the Midlands. Lot 2b is being created to support Members by providing Fire Safety Consultancy for properties located across England and Wales. Lot 3 is being created to support Members by providing Fire Doors for properties located across England and Wales, split into sub Lots below: Supply of Fire Doors: Lot 3a.1 Supply of Composite Fire Doors Lot 3a.2 Supply of Timber Fire Doors Lot 3a.3 Supply of Timber Internal Fire Doors Supply and Installation of Fire Doors: Lot 3b.1 Supply and Installation of Composite Fire Doors Lot 3b.2 Supply and Installation of Timber Fire Doors Lot 3b.3 Supply and Installation of Timber Internal Fire Doors Where the contract notice states a maximum of suppliers to be appointed to the Framework, EEM reserves the right to appoint less than the numbers stated. The Framework is being procured by EEM on behalf of the organisations that have been accepted as authorised users. Authorised users are classed as any current company law member, any future company law members and any user that has been authorised access to the frameworks and other public procurement tools provided by EEM. EEM reserve the right to appoint 8 contractors to each of the below lots: - Lot 1a - Lot 1b - Lot 2a - Lot 2b -Lot 3a.1 -Lot 3a.2 -Lot 3a.3 -Lot 3b.1 -Lot 3b.2 -Lot 3b.3 In addition to the Contractors appointed to each lot, EEM reserves the right to appoint a 'Reserve Bidder' for each lot, either at the same time as, or at any time during, the award and pre framework commencement stage. The Reserve Bidder for each lot will normally be the next highest ranked bidder following completion of the evaluation process for each lot, provided that their submission has met the required minimum evaluation standards. For the avoidance of doubt, if EEM appointed all 8 Contractors to Lot 1a, 1b, Lot 2a, 2b, Lot 3a.1, a.2, a.3, Lot 3b.1, b.2 and b.3 then the 9th placed bidder for each lot may be appointed as the Reserve Bidder. If all 8 places on a particular lot are not filled, EEM still reserves the right to appoint Reserve Bidders on those lots. Following the appointment of Successful Contractors, in the event that the Successful Contractor: - Makes a material alteration to the Bid which formed the basis of its selection as Successful Contractor (whether as to price or any other aspect of its Bid); - Does not comply with the provisions of this document; - In the reasonable opinion of EEM fails to make satisfactory progress towards signature of the Framework Agreement; and - In the case of any of the above, fails to remedy the situation to the reasonable satisfaction of EEM within a defined time period having been served notice in writing by EEM; - EEM shall be entitled to de-select the Successful Contractor(s) and at the absolute discretion of EEM to exclude the Successful Contractor(s) from any further participation in the Procurement process or to introduce a further competitive stage in the Procurement process in which the Successful Bidder(s) may or may not (in the absolute discretion of EEM) be invited to tender. Under no circumstances will EEM or any of their respective advisors be liable for any costs or expenses incurred by the Successful Contractor and/or any of its Relevant Organisations due to or arising from. All Bidders must declare any relevant corporate relationships, including parent companies, subsidiaries, or associated entities, within their tender submission. Where more than one entity within a corporate group (including parent companies, subsidiaries, or entities under common ownership or control) intends to submit a Tender for this procurement exercise, EEM requires that those entities agree upon a single lead bidding entity (the \"Lead Bidder\"), with all other relevant corporate group members participating solely as named key sub-contractors to the Lead Bidder. Contractors (and/or subcontractors) are required to hold accreditations and qualifications as listed within the tender pack in order to be awarded a place on the Framework. This requirement ensures our Members can be confident they are appointing competent and compliant contractors. The call-off contract's to be awarded pursuant to the Framework Agreements to be entered at conclusion of the procurement exercise begun by publication of the Contract Notice may extend for a duration of up to five years beyond expiry of the four-year term of the Framework Agreement. Please note that the total potential framework value stated within this notice is in relation to the full 4-year framework and takes into consideration the lot structure, length of call off contracts and that the EEM membership may grow over the framework lifetime. The Framework is being procured by EEM on behalf of the organisations that have been accepted as authorised users Authorised User means EEM and any other contracting authority (as defined in Section 2 PA23) described in the Tender Notice that is also listed as an authorised user on EEM's website https://eem.org.uk/members/ Authorised users are classed as any current company law member, any future company law members and any user that has been authorised access to the frameworks and other public procurement tools provided by EEM. EEM is incorporated as a company limited by guarantee and is owned and governed by a small number of organisations who make up our 'Company Law Members', all of which are Contracting Authorities in their own right. The Framework Agreements being procured by the procurement exercise begun by publication of the Contract Notice will be entered by EEM as the Contracting Authority which will have undertaken and completed that procurement exercise. Any reference in the Contract Notice or tender documents to Contracting Authority is deemed to be and include a reference to EEM. The organisations entitled to access and use the Framework Agreements to be awarded at conclusion of the procurement exercise begun by publication of the Contract Notice are: Any current EEM Member - being an organisation which is a Company Law Member of EEM at the date of this Contract Notice and being one of the organisations who owns and governs EEM; Any Future Member of EEM, from time to time Company Law Members and the EEM Board may appoint additional organisations to become Company Law Members. All Future Members will also be Contracting Authorities in their own right; and A Framework User - being an organisation who has signed and agreed to the terms of accessing EEM Frameworks and who is authorised to access the frameworks and other public procurement tools provided by EEM. EEM frameworks may accessed by all publicly funded organisations. Frameworks can be used by any organisation that falls in to one or more of the categories listed below and can be identified through the links provided as users in accordance with the Public Contracts Regulations 2015 or the Procurement Act 2023. The list of potential framework users below is not exhaustive of all organisations who can utilise EEM services, access will be granted to any publicly funded organisation. Registered Social Landlords in England and Wales, including but not limited to: 1. Registered Social Landlords in England and Wales, including but not limited to https://www.gov.uk/government/publications/registered-providers-of-social-housing 2. Local Authorities, including but not limited to England and List of councils in Wales 3. National Health Service (NHS) bodies including NHS Trusts, foundation trusts, Integrated Care Boards or Partnerships, GP federations and other health and social care providers within England and Wales 4. All emergency services including Police Forces, fire and rescue departments and emergency medical services 5. All education establishments including but not limited to, schools maintained by local authorities, academy trusts, colleges, universities and other further education establishments. 6. Registered Charities with a relevant link to the core purpose and services provided by EEM 7. Central government departments and their agencies 8. Department of Health and Social Care (DHSC) 9. All other contracting authorities as defined in the Procurement Act 2023.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/100829-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKF, UKG, UKC, UKD, UKE, UKH, UKI, UKJ, UKK, UKL",
+        "cpv": "44221220, 45343000, 45400000, 51700000, 71251000, 71315200, 71315400, 75251110, 71315300, 35113300, 45421100",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
         "demo": false
       },
       {
@@ -3134,7 +3296,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6"
       },
       {
         "id": "fts-099616-2026",
@@ -3173,7 +3336,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6"
       },
       {
         "id": "fts-099183-2026",
@@ -3375,6 +3539,48 @@
         "demo": false
       },
       {
+        "id": "fts-101389-2026",
+        "title": "Appointment of a Service Provider to Develop the Social Supermarket Network and Deliver a Community Growing and Food Skills Programme Supported by PEACEPLUS",
+        "authority": "Armagh City Banbridge and Craigavon Borough Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "101389-2026",
+        "published": "2026-10-27",
+        "deadline": "2026-11-18",
+        "value": 165000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          14,
+          0
+        ],
+        "description": "The purpose of this tender is to establish a coordinated and sustainable service across multiple social supermarket locations and partner organisations. The Contractor shall deliver two complementary workstreams in line with the objectives under Theme 1Building Peaceful and Thriving Communities: Workstream 1 Development of a sustainable food supply network for participating social supermarkets. Workstream 2 Delivery of a community growing and food skills programme across five participating locations. Building on this local network, the project will address immediate needs associated with food poverty and food insecurity while helping participants develop a more positive and sustainable relationship with food. Delivery will include practical activity focused on health and nutrition, cooking and eating well on a budget, community growing and shared meals. Participants will be supported to make informed dietary choice, gain the confidence, skills and knowledge to purchase, grow and prepare food that meets their needs and reduce barriers relating to cost, choice and access.",
+        "tenderSummary": "The purpose of this tender is to establish a coordinated and sustainable service across multiple social supermarket locations and partner organisations. The Contractor shall deliver two complementary workstreams in line with the objectives under Theme 1Building Peaceful and Thriving Communities: Workstream 1 Development of a sustainable food supply network for participating social supermarkets. Workstream 2 Delivery of a community growing and food skills programme across five participating locations. Building on this local network, the project will address immediate needs associated with food poverty and food insecurity while helping participants develop a more positive and sustainable relationship with food. Delivery will include practical activity focused on health and nutrition, cooking and eating well on a budget, community growing and shared meals. Participants will be supported to make informed dietary choice, gain the confidence, skills and knowledge to purchase, grow and prepare food that meets their needs and reduce barriers relating to cost, choice and access.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/101389-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85322000, 79411000, 98000000, 80561000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80560000",
+          "80561000"
+        ],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
         "id": "cf-ecd27e50-1bd9-489a-ad12-72730a1a95cc-917035",
         "title": "CA18527 - Danes Educational Trust",
         "authority": "Danes Educational Trust",
@@ -3533,6 +3739,45 @@
         "demo": false
       },
       {
+        "id": "fts-100062-2026",
+        "title": "Missing Children and Independent Return Home Conversation Service",
+        "authority": "Buckinghamshire Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "100062-2026",
+        "published": "2026-10-22",
+        "deadline": "2026-11-19",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Buckinghamshire Council is seeking to recommission its Missing Children and Independent Return Home Conversation Service. Statutory guidance requires children who have been reported missing to be offered an independent Return Home Conversation following their return, with the conversation normally taking place within 72 hours of the child returning home or to their care setting. The Service will provide independent Return Home Conversations for eligible Buckinghamshire children and young people aged 10 to 17 inclusive following a missing episode, including Buckinghamshire children looked after who are placed outside the county. The Service will identify safeguarding concerns, exploitation, unmet needs and factors contributing to missing behaviour, and support the identification and implementation of actions to improve safety and reduce repeat missing episodes. It will also provide Missing Interventions for children experiencing repeat or persistent missing episodes, emerging vulnerabilities or unmet needs. The Provider will work within a multi-agency framework and use information gathered through service delivery to inform safeguarding, prevention, contextual safeguarding, disruption activity, strategic insight and partnership responses. The Provider will be responsible for delivering or securing out-of-county Return Home Conversations, including directly delivering conversations where appropriate and managing and quality assuring any subcontracted or host local authority arrangements. The Contract will have an initial term of three years, with the option to extend for up to two further one-year periods, giving a maximum potential Contract term of five years.",
+        "tenderSummary": "Buckinghamshire Council is seeking to recommission its Missing Children and Independent Return Home Conversation Service. Statutory guidance requires children who have been reported missing to be offered an independent Return Home Conversation following their return, with the conversation normally taking place within 72 hours of the child returning home or to their care setting. The Service will provide independent Return Home Conversations for eligible Buckinghamshire children and young people aged 10 to 17 inclusive following a missing episode, including Buckinghamshire children looked after who are placed outside the county. The Service will identify safeguarding concerns, exploitation, unmet needs and factors contributing to missing behaviour, and support the identification and implementation of actions to improve safety and reduce repeat missing episodes. It will also provide Missing Interventions for children experiencing repeat or persistent missing episodes, emerging vulnerabilities or unmet needs. The Provider will work within a multi-agency framework and use information gathered through service delivery to inform safeguarding, prevention, contextual safeguarding, disruption activity, strategic insight and partnership responses. The Provider will be responsible for delivering or securing out-of-county Return Home Conversations, including directly delivering conversations where appropriate and managing and quality assuring any subcontracted or host local authority arrangements. The Contract will have an initial term of three years, with the option to extend for up to two further one-year periods, giving a maximum potential Contract term of five years.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/100062-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85311300, 85300000, 85310000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
         "id": "fts-092987-2026",
         "title": "Regional Care Cooperative - Supported Accommodation",
         "authority": "Greater Manchester Combined Authority",
@@ -3650,6 +3895,47 @@
         "demo": false
       },
       {
+        "id": "fts-101410-2026",
+        "title": "Training First Aid at Work",
+        "authority": "Belfast Health & Social Care Trust",
+        "category": "First aid",
+        "source": "FTS",
+        "noticeId": "101410-2026",
+        "published": "2026-10-27",
+        "deadline": "2026-11-23",
+        "value": 1084386,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "This is a Tender for First Aid at Work Training for Health and Social Care Northern Ireland (HSCNI).",
+        "tenderSummary": "This is a Tender for First Aid at Work Training for Health and Social Care Northern Ireland (HSCNI).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://etendersni.gov.uk/epps",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKN",
+        "cpv": "80000000",
+        "matchedKeywords": [
+          "first aid"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
         "id": "fts-099209-2026",
         "title": "Fire Door Replacements",
         "authority": "Royal Borough of Greenwich",
@@ -3686,6 +3972,84 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "cf-15b9ff68-2745-41d1-8b7c-fab59581460d-919283",
+        "title": "Oakengates Carnival and Parade - Organisation and Delivery",
+        "authority": "Oakengates Town Council",
+        "category": "First aid",
+        "source": "Contracts Finder",
+        "noticeId": "15b9ff68-2745-41d1-8b7c-fab59581460d-919283",
+        "published": "2026-10-27",
+        "deadline": "2026-11-24",
+        "value": 1,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Oakengates Town Council is looking to appoint a qualified and experienced event management company to organise and deliver a carnival and parade in Oakengates, Telford in the Summer of 2027 (date to be agreed). Under the direction of the Council, the successful bidder will be responsible, for the following: • Event Planning and Coordination: develop a comprehensive plan for the carnival, including timelines, logistics, and contingency plans. • Entertainment and Activities: arrange for a diverse range of entertainment options, including live performances, games, and interactive activities. • Vendor Management: coordinate with food and merchandise vendors to ensure a wide variety of offerings. • Marketing and Promotion: develop and execute a marketing strategy to promote the event and attract attendees. • Health and Safety: ensure all health and safety regulations are met, including crowd control, first aid, and emergency procedures. • Income Generation - identify potential income generating opportunities to support the cost of the event. • Post-Event Evaluation: provide a detailed report on the event's success, including attendance figures, feedback and recommendations for future events. Interested companies are required to submit the following: • Company Profile: a brief overview of the company, including relevant experience and qualifications. • Proposed Plan: a detailed proposal outlining the approach to organising and delivering the carnival and parade. • Budget: a comprehensive budget breakdown, including all anticipated costs. • Insurance: evidence of public liability • References: contact information for at least two previous clients who can attest to the company's capabilities. Late submissions will not be considered and Oakengates Town Council reserves the right to accept or reject any or all bids. All costs incurred in the preparation of the bid are the responsibility of the bidding company. Prospective contractors must not contact Councillors or staff to encourage or support their tender outside the prescribed process. Written tenders must be received by Oakengates Town Council in a sealed envelope marked 'Oakengates Town Council - Carnival Tender' and addressed to the Town Clerk, by 5pm on Tuesday 24 November 2026 and should be sent to: Oakengates Town Council The Wakes, Theatre Square Telford, TF2 6EP If you require any further information, please contact Oakengates Town Council by: Email: townclerk@oakengates-tc.gov.uk, or telephone: 01952 567500",
+        "tenderSummary": "Oakengates Town Council is looking to appoint a qualified and experienced event management company to organise and deliver a carnival and parade in Oakengates, Telford in the Summer of 2027 (date to be agreed). Under the direction of the Council, the successful bidder will be responsible, for the following: • Event Planning and Coordination: develop a comprehensive plan for the carnival, including timelines, logistics, and contingency plans. • Entertainment and Activities: arrange for a diverse range of entertainment options, including live performances, games, and interactive activities. • Vendor Management: coordinate with food and merchandise vendors to ensure a wide variety of offerings. • Marketing and Promotion: develop and execute a marketing strategy to promote the event and attract attendees. • Health and Safety: ensure all health and safety regulations are met, including crowd control, first aid, and emergency procedures. • Income Generation - identify potential income generating opportunities to support the cost of the event. • Post-Event Evaluation: provide a detailed report on the event's success, including attendance figures, feedback and recommendations for future events. Interested companies are required to submit the following: • Company Profile: a brief overview of the company, including relevant experience and qualifications. • Proposed Plan: a detailed proposal outlining the approach to organising and delivering the carnival and parade. • Budget: a comprehensive budget breakdown, including all anticipated costs. • Insurance: evidence of public liability • References: contact information for at least two previous clients who can attest to the company's capabilities. Late submissions will not be considered and Oakengates Town Council reserves the right to accept or reject any or all bids. All costs incurred in the preparation of the bid are the responsibility of the bidding company. Prospective contractors must not contact Councillors or staff to encourage or support their tender outside the prescribed process. Written tenders must be received by Oakengates Town Council in a sealed envelope marked 'Oakengates Town Council - Carnival Tender' and addressed to the Town Clerk, by 5pm on Tuesday 24 November 2026 and should be sent to: Oakengates Town Council The Wakes, Theatre Square Telford, TF2 6EP If you require any further information, please contact Oakengates Town Council by: Email: townclerk@oakengates-tc.gov.uk, or telephone: 01952 567500",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-12-07 to 2027-09-30",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/15b9ff68-2745-41d1-8b7c-fab59581460d",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "TF2 6EP",
+        "cpv": "79953000",
+        "matchedKeywords": [
+          "first aid"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
+        "id": "fts-100773-2026",
+        "title": "Provision of Private, Safe, and Secure Transportation for Patients within Mental Health and Learning Disabilities Service Group.",
+        "authority": "Swansea Bay University Health Board",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "100773-2026",
+        "published": "2026-10-23",
+        "deadline": "2026-11-26",
+        "value": 623602,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Provision of Specialist Mental Health and Learning Disabilities Patient Transport Services for Swansea Bay University Health Board. The procurement seeks to establish a multi-supplier contractual arrangement for the safe, secure, dignified, and responsive transportation of patients requiring planned and unplanned transfers between healthcare facilities, specialist placements, community settings, courts, and other approved locations. The service will support patients with varying levels of clinical, behavioural, safeguarding, and mobility needs, ensuring continuity of care, compliance with statutory obligations, and value-for-money service delivery across the Health Board. This procurement exercise is being carried out via Bravo E-tendering Portal. Bravo E-tendering Project Code: project_63640. ITT Code: itt_128039.",
+        "tenderSummary": "Provision of Specialist Mental Health and Learning Disabilities Patient Transport Services for Swansea Bay University Health Board. The procurement seeks to establish a multi-supplier contractual arrangement for the safe, secure, dignified, and responsive transportation of patients requiring planned and unplanned transfers between healthcare facilities, specialist placements, community settings, courts, and other approved locations. The service will support patients with varying levels of clinical, behavioural, safeguarding, and mobility needs, ensuring continuity of care, compliance with statutory obligations, and value-for-money service delivery across the Health Board. This procurement exercise is being carried out via Bravo E-tendering Portal. Bravo E-tendering Project Code: project_63640. ITT Code: itt_128039.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/100773-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL",
+        "cpv": "85143000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
         "demo": false
       },
       {
@@ -3767,6 +4131,47 @@
         "demo": false
       },
       {
+        "id": "fts-101304-2026",
+        "title": "Swiftwater and Flood Boat Rescue Operator Training",
+        "authority": "South Yorkshire Fire and Rescue Authority",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "101304-2026",
+        "published": "2026-10-27",
+        "deadline": "2026-11-27",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "South Yorkshire Fire and Rescue (SYFR) requires a suitably qualified and competent training provider to deliver Swiftwater and Flood Rescue Boat Operator training to operational firefighters. Training will be required for initial acquisition, annual Continuing Professional Development (CPD), and periodic recertification or reassessment. All training must meet the relevant Department for Environment, Food and Rural Affairs (DEFRA) Module 4 Boat Operator requirements and reflect current national guidance and recognised good practice for fire and rescue service water and flood rescue operations. All training, assessment and certification delivered under this contract must comply with the current National Fire Chiefs Council (NFCC) Fire and Rescue Service Rescue Boat Code and relevant DEFRA Module 4 requirements, including any subsequent revisions, amendments or replacement guidance introduced during the contract period.",
+        "tenderSummary": "South Yorkshire Fire and Rescue (SYFR) requires a suitably qualified and competent training provider to deliver Swiftwater and Flood Rescue Boat Operator training to operational firefighters. Training will be required for initial acquisition, annual Continuing Professional Development (CPD), and periodic recertification or reassessment. All training must meet the relevant Department for Environment, Food and Rural Affairs (DEFRA) Module 4 Boat Operator requirements and reflect current national guidance and recognised good practice for fire and rescue service water and flood rescue operations. All training, assessment and certification delivered under this contract must comply with the current National Fire Chiefs Council (NFCC) Fire and Rescue Service Rescue Boat Code and relevant DEFRA Module 4 requirements, including any subsequent revisions, amendments or replacement guidance introduced during the contract period.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/101304-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "80550000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80550000"
+        ],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
         "id": "fts-099739-2026",
         "title": "WSTLAT Provision of Supply Agency Services",
         "authority": "Westcountry Schools Trust",
@@ -3803,7 +4208,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6"
       },
       {
         "id": "fts-099580-2026",
@@ -3842,7 +4248,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6"
       },
       {
         "id": "fts-097714-2026",
@@ -3886,6 +4293,45 @@
         "demo": false
       },
       {
+        "id": "fts-101456-2026",
+        "title": "Fire remedial works and other related services",
+        "authority": "HOMES IN SOMERSET LIMITED",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "101456-2026",
+        "published": "2026-10-27",
+        "deadline": "2026-12-01",
+        "value": 2000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Homes in Somerset is seeking a suitably accredited fire safety specialist contractor to undertake fire safety repairs to existing fire doors in accordance with the specifications . This may include other fire safety remedial works, for example, compartmentation works and installation of fire safety signage.",
+        "tenderSummary": "Homes in Somerset is seeking a suitably accredited fire safety specialist contractor to undertake fire safety repairs to existing fire doors in accordance with the specifications . This may include other fire safety remedial works, for example, compartmentation works and installation of fire safety signage.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-24707",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK23",
+        "cpv": "44221220, 45343000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
         "id": "fts-099469-2026",
         "title": "London's Violence Reduction Unit - Pan London Tertiary Service",
         "authority": "Mayor's Office For Policing And Crime",
@@ -3922,7 +4368,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6"
       },
       {
         "id": "fts-098220-2026",
@@ -3964,6 +4411,45 @@
         "demo": false
       },
       {
+        "id": "fts-102070-2026",
+        "title": "First Aid and Paramedic Services",
+        "authority": "Liverpool Experience Campus Ltd",
+        "category": "First aid",
+        "source": "FTS",
+        "noticeId": "102070-2026",
+        "published": "2026-10-28",
+        "deadline": "2026-12-04",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Liverpool Experience Campus (LEX) is looking for suitably qualified suppliers of event first aid and paramedic services for events that are held on Campus across the M&S Bank Arena, the Auditorium, Conference Centre and Exhibition Centre Liverpool. The aim for this service is to ensure that there is an appropriate level of medical, first aid and ambulance provision at an event to keep attendees safe and minimise the impact on local NHS services. The supplier will be required to: • Undertake a medical, ambulance and first aid assessment • Produce a medical staffing plan prior to each event to ensure that staff are deployed appropriately • Provide medical provision for the full duration of each event, including build up and derig Further information can be found within the tender documentation, which is available via Delta eSourcing Portal. LEX is looking to award an initial 2-year contract with the option to extend for a further 2-year period. Extension will be at the sole discretion of LEX. The contract has been valued at approximately £100,000 per year and therefore is valued at £400,000 for the entire contract including optional extensions. The contract start date will be approximately Thursday 1st April 2027. However, the exact start date will need to be flexible depending on LEX event bookings scheduled during this Easter holiday time. For example, if there is an event that covers the Easter school holidays and ends on Sunday 4th April 2027, then this contract will commence on Monday 5th April 2027. The exact start date will be confirmed to the successful tenderer either on contract award or event confirmation – whichever is sooner. Tenderers are invited to attend an individual tenderer’s tour of the Liverpool Experience Campus operations to view the site and operational areas that are currently used for first aid and paramedic services to assist in tender preparation. These site visits will be available at the sole discretion of LEX between the dates of Tuesday 3rd and Friday 13th November 2026 and will be allocated on a first come, first served basis. Tenderers are required to contact the procurement team as soon as possible via the Delta eSourcing Portal messaging facility to arrange this. Any requests received after Friday 13th November 2026 may not be considered by LEX due to operational and security constraints. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Liverpool:-Paramedical-services./3F848ZF9QJ To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/3F848ZF9QJ",
+        "tenderSummary": "Liverpool Experience Campus (LEX) is looking for suitably qualified suppliers of event first aid and paramedic services for events that are held on Campus across the M&S Bank Arena, the Auditorium, Conference Centre and Exhibition Centre Liverpool. The aim for this service is to ensure that there is an appropriate level of medical, first aid and ambulance provision at an event to keep attendees safe and minimise the impact on local NHS services. The supplier will be required to: • Undertake a medical, ambulance and first aid assessment • Produce a medical staffing plan prior to each event to ensure that staff are deployed appropriately • Provide medical provision for the full duration of each event, including build up and derig Further information can be found within the tender documentation, which is available via Delta eSourcing Portal. LEX is looking to award an initial 2-year contract with the option to extend for a further 2-year period. Extension will be at the sole discretion of LEX. The contract has been valued at approximately £100,000 per year and therefore is valued at £400,000 for the entire contract including optional extensions. The contract start date will be approximately Thursday 1st April 2027. However, the exact start date will need to be flexible depending on LEX event bookings scheduled during this Easter holiday time. For example, if there is an event that covers the Easter school holidays and ends on Sunday 4th April 2027, then this contract will commence on Monday 5th April 2027. The exact start date will be confirmed to the successful tenderer either on contract award or event confirmation – whichever is sooner. Tenderers are invited to attend an individual tenderer’s tour of the Liverpool Experience Campus operations to view the site and operational areas that are currently used for first aid and paramedic services to assist in tender preparation. These site visits will be available at the sole discretion of LEX between the dates of Tuesday 3rd and Friday 13th November 2026 and will be allocated on a first come, first served basis. Tenderers are required to contact the procurement team as soon as possible via the Delta eSourcing Portal messaging facility to arrange this. Any requests received after Friday 13th November 2026 may not be considered by LEX due to operational and security constraints. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Liverpool:-Paramedical-services./3F848ZF9QJ To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/3F848ZF9QJ",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/102070-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD72",
+        "cpv": "85142000",
+        "matchedKeywords": [
+          "first aid"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
         "id": "fts-098200-2026",
         "title": "Gwelliannau i / Improvement works to the ‘Materials Recovery Facility’ (MRF) Ystâd Ddiwydiannol Cibyn, Caernarfon, Gwynedd, LL55 2BD",
         "authority": "Cyngor Gwynedd",
@@ -4000,6 +4486,47 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false
+      },
+      {
+        "id": "fts-101327-2026",
+        "title": "Youth Services Framework",
+        "authority": "Birmingham City Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "101327-2026",
+        "published": "2026-10-27",
+        "deadline": "2026-12-10",
+        "value": 660000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The proposed procurement will establish a framework of providers to deliver a range of youth services interventions aimed at preventing and reducing serious violence. Services will focus on early intervention, targeted support and specialist provision targeted at safeguarding children and young people from harm. This will be an Open Framework under PA23.",
+        "tenderSummary": "The proposed procurement will establish a framework of providers to deliver a range of youth services interventions aimed at preventing and reducing serious violence. Services will focus on early intervention, targeted support and specialist provision targeted at safeguarding children and young people from harm. This will be an Open Framework under PA23.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/101327-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG31",
+        "cpv": "73220000, 75200000, 80310000, 85322000, 98000000, 98133110",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
         "demo": false
       },
       {
@@ -4164,45 +4691,85 @@
           "80550000"
         ],
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
+        "demo": false,
+        "updatedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6"
+      },
+      {
+        "id": "fts-102062-2026",
+        "title": "Passive Fire Safety Remedial works",
+        "authority": "Southern Housing",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "102062-2026",
+        "published": "2026-10-28",
+        "deadline": "2027-01-11",
+        "value": 140000000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The contract supports the delivery of passive fire protection works across our housing stock, including fire stopping, fire door repairs and replacements, glazing and fire compartmentation works. The service primarily relates to planned and remedial works arising from Fire Risk Assessments (FRAs) and fire door inspections, alongside a smaller volume of reactive works and specialist surveys. The re-procurement aims to deliver a more robust, compliant and efficient service that supports Southern Housing's fire safety strategy and long-term regulatory obligations. The proposed contract term is 5 years, with extension options of 2 + 2 + 1 years.",
+        "tenderSummary": "The contract supports the delivery of passive fire protection works across our housing stock, including fire stopping, fire door repairs and replacements, glazing and fire compartmentation works. The service primarily relates to planned and remedial works arising from Fire Risk Assessments (FRAs) and fire door inspections, alongside a smaller volume of reactive works and specialist surveys. The re-procurement aims to deliver a more robust, compliant and efficient service that supports Southern Housing's fire safety strategy and long-term regulatory obligations. The proposed contract term is 5 years, with extension options of 2 + 2 + 1 years.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/102062-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKF, UKG, UKJ4, UKJ21, UKJ22, UKJ27, UKJ28, UKJ3, UKI3, UKI7, UKJ25, UKJ26, UKI4, UKI6",
+        "cpv": "45343000, 50000000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-04T13:21:03.669Z"
+    "lastPartialUpdate": "2026-11-04T13:25:53.583Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
-    "attemptedAt": "2026-11-04T13:21:03.669Z",
+    "attemptId": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+    "attemptedAt": "2026-11-04T13:25:53.583Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
-    "retrievedCount": 29,
-    "totalCount": 103,
+    "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
+    "retrievedCount": 21,
+    "totalCount": 117,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-10-22T09:41:04.953Z",
-        "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
-        "lastAttemptAt": "2026-11-04T13:21:03.669Z",
+        "watermark": "2026-10-29T09:41:04.953Z",
+        "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
+        "lastAttemptAt": "2026-11-04T13:25:53.583Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-10-14T09:41:04.953Z",
-          "to": "2026-10-22T09:41:04.953Z"
+          "from": "2026-10-21T09:41:04.953Z",
+          "to": "2026-10-29T09:41:04.953Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-10-22T09:41:04.953Z",
-        "lastSuccessfulUpdate": "2026-10-22T09:41:04.953Z",
-        "lastAttemptAt": "2026-11-04T13:21:03.669Z",
+        "watermark": "2026-10-29T09:41:04.953Z",
+        "lastSuccessfulUpdate": "2026-10-29T09:41:04.953Z",
+        "lastAttemptAt": "2026-11-04T13:25:53.583Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-10-14T09:41:04.953Z",
-          "to": "2026-10-22T09:41:04.953Z"
+          "from": "2026-10-21T09:41:04.953Z",
+          "to": "2026-10-29T09:41:04.953Z"
         }
       }
     }
