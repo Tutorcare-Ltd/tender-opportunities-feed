@@ -42,6 +42,11 @@ test("429 waits fully, then succeeds with a valid empty page", async () => {
   assert.deepEqual(await requestAll(initialUrl, "FTS", t.options), []);
   assert.deepEqual(t.waits, [120000]);
 });
+test('the entire transport is bounded even if fetch or body handling ignores abort',async()=>{
+ for(const fetchImpl of [()=>new Promise(()=>{}),async()=>({ok:true,status:200,json:()=>new Promise(()=>{})}),async()=>({status:429,headers:new Headers(),body:{cancel:()=>new Promise(()=>{})}})]){
+  await assert.rejects(requestAll(initialUrl,'FTS',{fetchImpl,budgetMs:10,log:()=>{}}),/request budget exhausted/);
+ }
+});
 test("long Retry-After defers rather than retrying early", async () => {
   const t = transport([new Response("", { status: 429, headers: { "Retry-After": "900" } })]);
   await assert.rejects(requestAll(initialUrl, "FTS", t.options), /exceeds run budget/);
