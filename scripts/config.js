@@ -7,7 +7,10 @@ export const KEYWORDS = [
   "mental health first aid",
   "suicide prevention",
   "fire safety",
-  "resuscitation"
+  "resuscitation",
+  "organisational development",
+  "skills",
+  "workforce"
 ];
 
 export const SOURCES = {
