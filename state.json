@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-04T16:16:55.685Z",
-      "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
-      "lastAttemptAt": "2026-11-04T16:16:55.685Z",
+      "watermark": "2026-11-05T16:27:29.184Z",
+      "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
+      "lastAttemptAt": "2026-11-05T16:27:29.184Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-03T13:30:44.767Z",
-        "to": "2026-11-04T16:16:55.685Z"
+        "from": "2026-11-03T16:16:55.685Z",
+        "to": "2026-11-05T16:27:29.184Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-04T16:16:55.685Z",
-      "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
-      "lastAttemptAt": "2026-11-04T16:16:55.685Z",
+      "watermark": "2026-11-05T16:27:29.184Z",
+      "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
+      "lastAttemptAt": "2026-11-05T16:27:29.184Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-03T13:30:44.767Z",
-        "to": "2026-11-04T16:16:55.685Z"
+        "from": "2026-11-03T16:16:55.685Z",
+        "to": "2026-11-05T16:27:29.184Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e",
-    "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
+    "buildId": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+    "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
     "interval": {
-      "from": "2026-11-03T13:30:44.767Z",
-      "to": "2026-11-04T16:16:55.685Z"
+      "from": "2026-11-03T16:16:55.685Z",
+      "to": "2026-11-05T16:27:29.184Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 4,
-    "totalCount": 131,
+    "retrievedCount": 16,
+    "totalCount": 143,
     "sourceFailures": [],
     "records": [
       {
@@ -136,7 +136,7 @@
         "stage": "Recently closed",
         "scores": [
           8,
-          14,
+          18,
           10,
           14,
           0
@@ -342,7 +342,7 @@
         "stage": "Recently closed",
         "scores": [
           14,
-          14,
+          18,
           10,
           6,
           0
@@ -1459,7 +1459,7 @@
         "stage": "Recently closed",
         "scores": [
           14,
-          14,
+          18,
           10,
           14,
           0
@@ -1539,7 +1539,7 @@
         "stage": "Recently closed",
         "scores": [
           8,
-          14,
+          18,
           10,
           6,
           0
@@ -1580,7 +1580,7 @@
         "stage": "Recently closed",
         "scores": [
           14,
-          14,
+          18,
           10,
           6,
           0
@@ -3007,6 +3007,46 @@
         "demo": false
       },
       {
+        "id": "fts-104963-2026",
+        "title": "Maintenance of the National Competency Framework for Data Professionals",
+        "authority": "NHS England",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "104963-2026",
+        "published": "2026-11-05",
+        "deadline": "2026-11-10",
+        "value": 80000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "NHS England is seeking a supplier to provide ongoing maintenance, administration and operational support for the National Competency Framework (NCF) for Data and Analytics Professionals. The NCF is a nationally adopted framework that defines the knowledge, skills and behaviours required across the health and care system and supports workforce capability development, career progression, professional standards and associated workforce products. The appointed supplier will provide day-to-day support to ensure the framework remains current, accessible and effective for existing and prospective users. Activities are expected to include framework maintenance and updates, stakeholder engagement, adopter support, communications, reporting, governance administration and the management of queries and feedback from users. The supplier will also support the promotion and adoption of the framework across NHS organisations and the wider health and care sector. This requirement will provide interim support while NHS England considers the future operating model for the framework, helping to safeguard the continued use, relevance and value of this national workforce asset. Through the delivery of this service, the supplier will support NHS England's wider ambition to build a sustainable, capable and recognised Digital, Data and Technology (DDaT) workforce and enable the continued development of workforce capability across the health and care system.",
+        "tenderSummary": "NHS England is seeking a supplier to provide ongoing maintenance, administration and operational support for the National Competency Framework (NCF) for Data and Analytics Professionals. The NCF is a nationally adopted framework that defines the knowledge, skills and behaviours required across the health and care system and supports workforce capability development, career progression, professional standards and associated workforce products. The appointed supplier will provide day-to-day support to ensure the framework remains current, accessible and effective for existing and prospective users. Activities are expected to include framework maintenance and updates, stakeholder engagement, adopter support, communications, reporting, governance administration and the management of queries and feedback from users. The supplier will also support the promotion and adoption of the framework across NHS organisations and the wider health and care sector. This requirement will provide interim support while NHS England considers the future operating model for the framework, helping to safeguard the continued use, relevance and value of this national workforce asset. Through the delivery of this service, the supplier will support NHS England's wider ambition to build a sustainable, capable and recognised Digital, Data and Technology (DDaT) workforce and enable the continued development of workforce capability across the health and care system.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/104963-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85100000",
+        "matchedKeywords": [
+          "skills",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
+      },
+      {
         "id": "fts-096205-2026",
         "title": "HIV Anti-Stigma Training Programme-HIV Opt out Testing for Blood Borne Viruses programme",
         "authority": "NHS England",
@@ -3231,7 +3271,7 @@
         "stage": "Open",
         "scores": [
           14,
-          14,
+          18,
           10,
           14,
           0
@@ -3538,7 +3578,7 @@
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
         "demo": false,
-        "updatedBuild": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e"
+        "updatedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58"
       },
       {
         "id": "fts-103128-2026",
@@ -3595,7 +3635,7 @@
         "stage": "Open",
         "scores": [
           8,
-          14,
+          18,
           10,
           14,
           0
@@ -3754,7 +3794,7 @@
         "stage": "Open",
         "scores": [
           14,
-          14,
+          18,
           10,
           14,
           0
@@ -4058,6 +4098,47 @@
         "demo": false
       },
       {
+        "id": "fts-105233-2026",
+        "title": "Provision of Experts at Hand Outreach Services",
+        "authority": "Medway Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105233-2026",
+        "published": "2026-11-05",
+        "deadline": "2026-11-20",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Medway Council is seeking to commission providers to deliver the Experts at Hand Partnership, a key element of the Council's SEND and Inclusion Reform Programme. The overarching aim of the programme is to increase the confidence, knowledge and capability of mainstream schools, settings and practitioners to meet the needs of children and young people with SEND through access to specialist expertise, workforce development, collaboration and system-wide improvement. The programme is founded on the principle that specialist expertise should be shared across the system to build sustainable capacity, strengthen inclusive practice and improve outcomes for children and young people. Delivery may include: •Consultation and coaching for schools and settings. •Workforce development, training and professional learning opportunities. •SEND leadership development and support for SENDCOs. •Communities of Practice and peer-to-peer learning. •Inclusion reviews and support for the implementation of Ordinarily Available Provision (OAP). •Development of resources, tools and practical guidance to support inclusive practice. •Parent, carer and stakeholder engagement activities. •Co-production and participation opportunities to inform service development. Delivery will be organised through the following specialist Lots: Lot 1 – Special School Inclusion Expertise •Special school outreach and inclusion support. •SENDCO development and coaching. •Inclusion reviews and curriculum adaptation. •Building mainstream workforce confidence in supporting children and young people with complex SEND. Lot 2 – Alternative Provision and SEMH Expertise •SEMH consultation and workforce development. •Attendance, engagement and reintegration support. •Relational practice and trauma-informed approaches. •Building capacity to meet the needs of children and young people at risk of exclusion. Lot 3 – Specialist SEND Expertise •Access to specialist SEND knowledge and guidance. •Specialist consultation and training. •Support in meeting the needs of children and young people with low-incidence and complex needs. •Development of specialist resources and practical advice. Lot 4 – Leadership Development, Training and Communities of Practice •SEND leadership development. •SENDCO workforce development. •Establishment and facilitation of Communities of Practice. •Promoting collaboration, professional learning and system leadership. Lot 5 – Parent, Carer and System Co-production •Parent and carer engagement. •Co-production activities and events. •Development of co-produced resources. •Ensuring lived experience informs service design, delivery and evaluation. The programme will play a key role in strengthening the local SEND system through: •Sharing specialist expertise across education, health and care partners. •Building workforce confidence and capability. •Supporting earlier intervention and inclusive practice within mainstream settings. •Promoting partnership working and system-wide collaboration. •Developing sustainable networks that continue beyond periods of direct support. •Reducing reliance on specialist escalation through strengthened local capacity. The Council intends to appoint one or more providers across each Lot and is seeking organisations with the expertise, capacity and commitment to work collaboratively as part of the Experts at Hand Partnership, delivering high-quality support that contributes to sustainable improvements in inclusion, workforce capability and outcomes for children and young people with SEND across Medway. For more information about this opportunity, please visit the eSourcing portal at: https://www.kentbusinessportal.org.uk/tenders/UK-UK-Chatham:-Education-and-training-services./MXG435U4EA To respond to this opportunity, please click here: https://www.kentbusinessportal.org.uk/respond/MXG435U4EA",
+        "tenderSummary": "Medway Council is seeking to commission providers to deliver the Experts at Hand Partnership, a key element of the Council's SEND and Inclusion Reform Programme. The overarching aim of the programme is to increase the confidence, knowledge and capability of mainstream schools, settings and practitioners to meet the needs of children and young people with SEND through access to specialist expertise, workforce development, collaboration and system-wide improvement. The programme is founded on the principle that specialist expertise should be shared across the system to build sustainable capacity, strengthen inclusive practice and improve outcomes for children and young people. Delivery may include: •Consultation and coaching for schools and settings. •Workforce development, training and professional learning opportunities. •SEND leadership development and support for SENDCOs. •Communities of Practice and peer-to-peer learning. •Inclusion reviews and support for the implementation of Ordinarily Available Provision (OAP). •Development of resources, tools and practical guidance to support inclusive practice. •Parent, carer and stakeholder engagement activities. •Co-production and participation opportunities to inform service development. Delivery will be organised through the following specialist Lots: Lot 1 – Special School Inclusion Expertise •Special school outreach and inclusion support. •SENDCO development and coaching. •Inclusion reviews and curriculum adaptation. •Building mainstream workforce confidence in supporting children and young people with complex SEND. Lot 2 – Alternative Provision and SEMH Expertise •SEMH consultation and workforce development. •Attendance, engagement and reintegration support. •Relational practice and trauma-informed approaches. •Building capacity to meet the needs of children and young people at risk of exclusion. Lot 3 – Specialist SEND Expertise •Access to specialist SEND knowledge and guidance. •Specialist consultation and training. •Support in meeting the needs of children and young people with low-incidence and complex needs. •Development of specialist resources and practical advice. Lot 4 – Leadership Development, Training and Communities of Practice •SEND leadership development. •SENDCO workforce development. •Establishment and facilitation of Communities of Practice. •Promoting collaboration, professional learning and system leadership. Lot 5 – Parent, Carer and System Co-production •Parent and carer engagement. •Co-production activities and events. •Development of co-produced resources. •Ensuring lived experience informs service design, delivery and evaluation. The programme will play a key role in strengthening the local SEND system through: •Sharing specialist expertise across education, health and care partners. •Building workforce confidence and capability. •Supporting earlier intervention and inclusive practice within mainstream settings. •Promoting partnership working and system-wide collaboration. •Developing sustainable networks that continue beyond periods of direct support. •Reducing reliance on specialist escalation through strengthened local capacity. The Council intends to appoint one or more providers across each Lot and is seeking organisations with the expertise, capacity and commitment to work collaboratively as part of the Experts at Hand Partnership, delivering high-quality support that contributes to sustainable improvements in inclusion, workforce capability and outcomes for children and young people with SEND across Medway. For more information about this opportunity, please visit the eSourcing portal at: https://www.kentbusinessportal.org.uk/tenders/UK-UK-Chatham:-Education-and-training-services./MXG435U4EA To respond to this opportunity, please click here: https://www.kentbusinessportal.org.uk/respond/MXG435U4EA",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105233-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ41",
+        "cpv": "80000000, 80340000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
+      },
+      {
         "id": "fts-099085-2026",
         "title": "The Harlington Refurbishment And Remodelling",
         "authority": "Fleet Town Council",
@@ -4253,7 +4334,7 @@
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
         "demo": false,
-        "updatedBuild": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e"
+        "updatedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58"
       },
       {
         "id": "fts-099209-2026",
@@ -4448,7 +4529,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58"
       },
       {
         "id": "fts-096003-2026",
@@ -4808,6 +4890,84 @@
         "demo": false
       },
       {
+        "id": "fts-105135-2026",
+        "title": "QMS Strategic Partner",
+        "authority": "Mid and South Essex NHS Foundation Trust",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105135-2026",
+        "published": "2026-11-05",
+        "deadline": "2026-12-01",
+        "value": 3000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Mid and South Essex NHS Foundation Trust is seeking a Strategic Improvement Partner to support the co-design, implementation and embedding of an organisation-wide Quality Management System (QMS), including improvement capability, leadership development and sustainable skills transfer.",
+        "tenderSummary": "Mid and South Essex NHS Foundation Trust is seeking a Strategic Improvement Partner to support the co-design, implementation and embedding of an organisation-wide Quality Management System (QMS), including improvement capability, leadership development and sustainable skills transfer.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105135-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKH, UKI5, UKH3, UKH34, UKH35, UKH36, UKH37, UKH12, UKH2, UKH23, UKH14",
+        "cpv": "79411000, 79421000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
+      },
+      {
+        "id": "fts-105082-2026",
+        "title": "Acquisition, Hire and Servicing and Repair of Manual Handling Equipment",
+        "authority": "Ministry of Justice",
+        "category": "Manual handling",
+        "source": "FTS",
+        "noticeId": "105082-2026",
+        "published": "2026-11-05",
+        "deadline": "2026-12-01",
+        "value": 1837340,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Provision of Manual Handling Equipment for public prisions across England and Wales. These contracts will cover a range of manual handling equipment typically used within our operations such as forklifts, mobile elevating work platforms (MEWPS), pallet trucks, tugs and an option to hire equipment. This equipment supports a range of operational activities across the MoJ estate such as stores management, maintenance, and waste processing.",
+        "tenderSummary": "Provision of Manual Handling Equipment for public prisions across England and Wales. These contracts will cover a range of manual handling equipment typically used within our operations such as forklifts, mobile elevating work platforms (MEWPS), pallet trucks, tugs and an option to hire equipment. This equipment supports a range of operational activities across the MoJ estate such as stores management, maintenance, and waste processing.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105082-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "42415110, 42415100, 42418900",
+        "matchedKeywords": [
+          "manual handling"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
+      },
+      {
         "id": "fts-099469-2026",
         "title": "London's Violence Reduction Unit - Pan London Tertiary Service",
         "authority": "Mayor's Office For Policing And Crime",
@@ -4846,6 +5006,46 @@
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
         "demo": false,
         "updatedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6"
+      },
+      {
+        "id": "fts-105240-2026",
+        "title": "Employment Readiness and Progression Support Service - Portsmouth 2026",
+        "authority": "Portsmouth City Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105240-2026",
+        "published": "2026-11-05",
+        "deadline": "2026-12-03",
+        "value": 470000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Portsmouth City Council ('the Council') is inviting tenders from suitably qualified Providers to provide a specialist Employment Readiness and Progression Support Service for adults aged 18 and over who have a learning disability and/or are autistic or self-identify as neurodivergent. The Contract will commence on 1 April 2027 for an initial term of two years. The Council may, at its sole discretion, extend the Contract for one or more further periods, provided that the total Contract term does not exceed five years from the Contract Commencement Date. The Council has identified an indicative budget of approximately £80,000 per annum excluding VAT for delivery of the Service and is seeking proposals that demonstrate how the best possible outcomes can be achieved within the available funding. The successful Provider will be required to deliver the Services in accordance with the Contract, Specification, submitted Tender and any agreed mobilisation arrangements. Background information The Council currently commissions a specialist employment support service for adults with a learning disability. Through service review, preliminary market engagement and wider employment pathway development work, the Council has identified an opportunity to remodel the service to create a clearer progression route towards employment for adults with a learning disability and autistic and neurodivergent adults. The Council recognises that many individuals who aspire to paid employment require additional support before they are ready to engage successfully with employment-focused programmes. People may require support to build confidence, independence, work-related routines, practical skills, travel confidence, workplace understanding and relevant experience before progressing towards employment opportunities. The employment support landscape has also evolved through the introduction and expansion of programmes such as Connect to Work. The Council considers that specialist work-readiness support and employment-placement support perform distinct functions within an individual's employment journey and can be most effective when delivered as part of a coordinated pathway. The recommissioned service therefore represents a shift towards a dedicated Employment Readiness and Progression Support Service. The Council's objective is to establish a service that helps individuals identify and overcome barriers to employment, develop skills and confidence, access meaningful development opportunities and progress towards paid employment through appropriate pathways and partnerships. The Council also wishes to strengthen co-production, employer engagement and partnership working to improve employment opportunities and outcomes for people with learning disabilities and autistic and neurodivergent adults. The successful Provider will play a key role in supporting this ambition through collaborative working with individuals, employers, stakeholders and partner organisations. Specification The Council is seeking a Provider to deliver a specialist Employment Readiness and Progression Support Service for adults aged 18 and over who have a learning disability and/or are autistic or self-identify as neurodivergent. The service is intended for individuals who aspire to paid employment but who require additional support to develop their readiness for employment and progression towards appropriate employment opportunities. The successful Provider will deliver an accessible, strengths-based and person-centred service that supports individuals to identify aspirations, understand and overcome barriers, develop practical skills and confidence, and progress towards meaningful employment outcomes. The primary purpose of the service is to prepare individuals for progression towards employment through personalised work-readiness support, skills development, employer engagement and structured progression planning. The successful Provider will be expected to: • undertake strengths-based assessments and develop co-produced employment readiness and progression plans • provide tailored individual and group-based support • support confidence building, independence, communication, workplace behaviours, travel skills, routine development and self-advocacy • facilitate access to volunteering, work experience, work tasters, workplace visits and other purposeful development opportunities • develop and maintain relationships with employers and promote inclusive employment opportunities • support individuals to identify and address barriers that may affect progression towards employment • support the appropriate use of Personal Budgets, Direct Payments and Individual Service Funds where additional support is required to help achieve employment-related outcomes • establish effective referral, progression and transition arrangements with Connect to Work and other relevant services • embed co-production and lived experience in the design, delivery, review and continuous improvement of the service • collect and report performance and outcome information in accordance with the Specification A key objective of the service is to increase access to employment-related opportunities through effective employer engagement, partnership working and progression planning. The Provider will be expected to work collaboratively with employers, community organisations and relevant stakeholders to support sustainable progression towards employment. The successful Provider will also be required to mobilise the service prior to the Contract Commencement Date. Mobilisation activities are expected to include implementation planning, stakeholder engagement, referral pathway development, workforce mobilisation, governance arrangements, performance reporting arrangements and any other activities necessary to ensure the service is fully operational from the commencement date. The Service must be delivered in accordance with the core service principles set out within the Specification, including strengths-based practice, person-centred support, co-production, inclusion and progression towards meaningful employment outcomes. As the remodelled service differs materially from the current service model, the Provider will be required to establish baseline information relating to demand, activity, outcomes, employer engagement and service performance during the first contract year. This information will inform the future development of contractual Key Performance Indicators and associated targets. Full details of the service requirements are set out within the Specification. The Council has identified an indicative core service budget of £80,000 per annum excluding VAT for delivery of the Services. In addition, the Council has identified an indicative allowance of £8,000 per annum excluding VAT for expenditure through Personal Budgets and/or Individual Service Funds to support employment-related outcomes in accordance with the Specification. For procurement planning, tendering and evaluation purposes, the maximum total value of the Contract, including the Initial Contract Term and all available Extension Periods, is £467,203.95 exclusive of VAT. This value has been calculated using: • an indicative annual core service value of £80,000 in Contract Year 1; • an indicative annual Personal Budget and Individual Service Fund allowance of £8,000 in Contract Year 1; • an illustrative annual uplift of 3% in each subsequent Contract Year; and • the assumption that the Initial Contract Term and all available Extension Periods are exercised. The Maximum Total Value stated above has been calculated solely for procurement planning, tendering and evaluation purposes. The Council acknowledges that actual expenditure during the Contract term may differ from these estimates. In particular, actual inflationary adjustments, approved expenditure through Personal Budgets or Individual Service Funds, changes in service demand, funding arrangements or other operational requirements may result in the total Contract expenditure exceeding the Maximum Total Value stated above. Contract Duration The contract will commence on 1 April 2027 and will have an initial term of two years. Subject to satisfactory performance, continued service need and the availability of funding, following expiry of the initial term, the Council may, at its sole discretion, extend the Contract for one or more further periods, provided that the total Contract term does not exceed five (5) years from the Contract Commencement Date. TUPE The Council considers it likely that the Transfer of Undertakings (Protection of Employment) Regulations 2006 (\"TUPE\") will apply to the Services. However, it is the responsibility of each Provider to obtain its own legal advice and satisfy itself as to the applicability and potential implications of TUPE. The Council will make available any TUPE information it holds, subject to the Provider first entering into a Non-Disclosure Agreement (\"NDA\"). Any information provided pursuant to the NDA must be treated as confidential and used solely for the purposes of preparing and submitting a Tender. Procurement Procedure and programme The Council is conducting a competitive procurement process for this below-threshold contract. This procurement timetable is indicative and, while the council does not intend to depart from it, it reserves the right to do so at any time. Contract notice published on FTS - 5 November 2026 Procurement documents available on In-tend - 5 November 2026 Deadline for requests for clarification - 26 November 2026 @ 17:00 Tender return deadline - 3 December 2026 @ 17:00 Evaluation of tenders completed - 15 January 2027 Notify Providers of the outcome and issue evaluation feedback - 21 January 2027 Contract award - 22 January 2027 Mobilisation - 23 January 2027 to 31 March 2027 Start of Contract - 1 April 2027",
+        "tenderSummary": "Portsmouth City Council ('the Council') is inviting tenders from suitably qualified Providers to provide a specialist Employment Readiness and Progression Support Service for adults aged 18 and over who have a learning disability and/or are autistic or self-identify as neurodivergent. The Contract will commence on 1 April 2027 for an initial term of two years. The Council may, at its sole discretion, extend the Contract for one or more further periods, provided that the total Contract term does not exceed five years from the Contract Commencement Date. The Council has identified an indicative budget of approximately £80,000 per annum excluding VAT for delivery of the Service and is seeking proposals that demonstrate how the best possible outcomes can be achieved within the available funding. The successful Provider will be required to deliver the Services in accordance with the Contract, Specification, submitted Tender and any agreed mobilisation arrangements. Background information The Council currently commissions a specialist employment support service for adults with a learning disability. Through service review, preliminary market engagement and wider employment pathway development work, the Council has identified an opportunity to remodel the service to create a clearer progression route towards employment for adults with a learning disability and autistic and neurodivergent adults. The Council recognises that many individuals who aspire to paid employment require additional support before they are ready to engage successfully with employment-focused programmes. People may require support to build confidence, independence, work-related routines, practical skills, travel confidence, workplace understanding and relevant experience before progressing towards employment opportunities. The employment support landscape has also evolved through the introduction and expansion of programmes such as Connect to Work. The Council considers that specialist work-readiness support and employment-placement support perform distinct functions within an individual's employment journey and can be most effective when delivered as part of a coordinated pathway. The recommissioned service therefore represents a shift towards a dedicated Employment Readiness and Progression Support Service. The Council's objective is to establish a service that helps individuals identify and overcome barriers to employment, develop skills and confidence, access meaningful development opportunities and progress towards paid employment through appropriate pathways and partnerships. The Council also wishes to strengthen co-production, employer engagement and partnership working to improve employment opportunities and outcomes for people with learning disabilities and autistic and neurodivergent adults. The successful Provider will play a key role in supporting this ambition through collaborative working with individuals, employers, stakeholders and partner organisations. Specification The Council is seeking a Provider to deliver a specialist Employment Readiness and Progression Support Service for adults aged 18 and over who have a learning disability and/or are autistic or self-identify as neurodivergent. The service is intended for individuals who aspire to paid employment but who require additional support to develop their readiness for employment and progression towards appropriate employment opportunities. The successful Provider will deliver an accessible, strengths-based and person-centred service that supports individuals to identify aspirations, understand and overcome barriers, develop practical skills and confidence, and progress towards meaningful employment outcomes. The primary purpose of the service is to prepare individuals for progression towards employment through personalised work-readiness support, skills development, employer engagement and structured progression planning. The successful Provider will be expected to: • undertake strengths-based assessments and develop co-produced employment readiness and progression plans • provide tailored individual and group-based support • support confidence building, independence, communication, workplace behaviours, travel skills, routine development and self-advocacy • facilitate access to volunteering, work experience, work tasters, workplace visits and other purposeful development opportunities • develop and maintain relationships with employers and promote inclusive employment opportunities • support individuals to identify and address barriers that may affect progression towards employment • support the appropriate use of Personal Budgets, Direct Payments and Individual Service Funds where additional support is required to help achieve employment-related outcomes • establish effective referral, progression and transition arrangements with Connect to Work and other relevant services • embed co-production and lived experience in the design, delivery, review and continuous improvement of the service • collect and report performance and outcome information in accordance with the Specification A key objective of the service is to increase access to employment-related opportunities through effective employer engagement, partnership working and progression planning. The Provider will be expected to work collaboratively with employers, community organisations and relevant stakeholders to support sustainable progression towards employment. The successful Provider will also be required to mobilise the service prior to the Contract Commencement Date. Mobilisation activities are expected to include implementation planning, stakeholder engagement, referral pathway development, workforce mobilisation, governance arrangements, performance reporting arrangements and any other activities necessary to ensure the service is fully operational from the commencement date. The Service must be delivered in accordance with the core service principles set out within the Specification, including strengths-based practice, person-centred support, co-production, inclusion and progression towards meaningful employment outcomes. As the remodelled service differs materially from the current service model, the Provider will be required to establish baseline information relating to demand, activity, outcomes, employer engagement and service performance during the first contract year. This information will inform the future development of contractual Key Performance Indicators and associated targets. Full details of the service requirements are set out within the Specification. The Council has identified an indicative core service budget of £80,000 per annum excluding VAT for delivery of the Services. In addition, the Council has identified an indicative allowance of £8,000 per annum excluding VAT for expenditure through Personal Budgets and/or Individual Service Funds to support employment-related outcomes in accordance with the Specification. For procurement planning, tendering and evaluation purposes, the maximum total value of the Contract, including the Initial Contract Term and all available Extension Periods, is £467,203.95 exclusive of VAT. This value has been calculated using: • an indicative annual core service value of £80,000 in Contract Year 1; • an indicative annual Personal Budget and Individual Service Fund allowance of £8,000 in Contract Year 1; • an illustrative annual uplift of 3% in each subsequent Contract Year; and • the assumption that the Initial Contract Term and all available Extension Periods are exercised. The Maximum Total Value stated above has been calculated solely for procurement planning, tendering and evaluation purposes. The Council acknowledges that actual expenditure during the Contract term may differ from these estimates. In particular, actual inflationary adjustments, approved expenditure through Personal Budgets or Individual Service Funds, changes in service demand, funding arrangements or other operational requirements may result in the total Contract expenditure exceeding the Maximum Total Value stated above. Contract Duration The contract will commence on 1 April 2027 and will have an initial term of two years. Subject to satisfactory performance, continued service need and the availability of funding, following expiry of the initial term, the Council may, at its sole discretion, extend the Contract for one or more further periods, provided that the total Contract term does not exceed five (5) years from the Contract Commencement Date. TUPE The Council considers it likely that the Transfer of Undertakings (Protection of Employment) Regulations 2006 (\"TUPE\") will apply to the Services. However, it is the responsibility of each Provider to obtain its own legal advice and satisfy itself as to the applicability and potential implications of TUPE. The Council will make available any TUPE information it holds, subject to the Provider first entering into a Non-Disclosure Agreement (\"NDA\"). Any information provided pursuant to the NDA must be treated as confidential and used solely for the purposes of preparing and submitting a Tender. Procurement Procedure and programme The Council is conducting a competitive procurement process for this below-threshold contract. This procurement timetable is indicative and, while the council does not intend to depart from it, it reserves the right to do so at any time. Contract notice published on FTS - 5 November 2026 Procurement documents available on In-tend - 5 November 2026 Deadline for requests for clarification - 26 November 2026 @ 17:00 Tender return deadline - 3 December 2026 @ 17:00 Evaluation of tenders completed - 15 January 2027 Notify Providers of the outcome and issue evaluation feedback - 21 January 2027 Contract award - 22 January 2027 Mobilisation - 23 January 2027 to 31 March 2027 Start of Contract - 1 April 2027",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105240-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ31, UKJ35",
+        "cpv": "79611000, 85000000",
+        "matchedKeywords": [
+          "skills",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
       },
       {
         "id": "fts-098220-2026",
@@ -4959,12 +5159,132 @@
         "location": "UKE41, UKE4",
         "cpv": "85312400, 85311100, 85311200, 85311300",
         "matchedKeywords": [
-          "safeguarding"
+          "safeguarding",
+          "workforce"
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
         "demo": false,
-        "updatedBuild": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e"
+        "updatedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58"
+      },
+      {
+        "id": "fts-105309-2026",
+        "title": "Outsourced Security Services",
+        "authority": "Solihull College and University Centre",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "105309-2026",
+        "published": "2026-11-05",
+        "deadline": "2026-12-04",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The College’s existing contract for Outsourced Security Services across all campuses expires on 31 May 2027 and has no further extension available. To ensure continuity of provision, a value for money assessment and compliance with the Procurement Act 2023 and College Financial Regulations, the requirement is being competitively tendered. SCUC is looking for a reliable, safeguarding-led security partner to work alongside the College’s in-house Security Team, delivering a robust and seamless security and concierge service across all campuses from 01.06.2027. Continuity of approved officers, prompt cover at short notice and a dependable out of hours response are central to this requirement. Please refer to the Guidance document in the tender pack available for download free of charge from https://supplier.in-tend.co.uk/educationportal/home",
+        "tenderSummary": "The College’s existing contract for Outsourced Security Services across all campuses expires on 31 May 2027 and has no further extension available. To ensure continuity of provision, a value for money assessment and compliance with the Procurement Act 2023 and College Financial Regulations, the requirement is being competitively tendered. SCUC is looking for a reliable, safeguarding-led security partner to work alongside the College’s in-house Security Team, delivering a robust and seamless security and concierge service across all campuses from 01.06.2027. Continuity of approved officers, prompt cover at short notice and a dependable out of hours response are central to this requirement. Please refer to the Guidance document in the tender pack available for download free of charge from https://supplier.in-tend.co.uk/educationportal/home",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://supplier.in-tend.co.uk/educationportal/home",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "75241000, 79710000, 79711000, 79713000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
+      },
+      {
+        "id": "fts-104679-2026",
+        "title": "System Adnoddau Dynol Chwaraeon Cymru / Sport Wales Human Resources System",
+        "authority": "Sport Wales",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "104679-2026",
+        "published": "2026-11-04",
+        "deadline": "2026-12-04",
+        "value": 225000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Mae Chwaraeon Cymru yn chwilio am blatfform Adnoddau Dynol modern, sy'n canolbwyntio ar y defnyddiwr, i gefnogi cylch bywyd llawn cyflogeion, o recriwtio hyd at gyflogaeth, datblygu a rheoli'r gweithlu. Mae Chwaraeon Cymru yn dymuno caffael datrysiadau sy'n cyflawni’r canlynol: • Darparu profiad defnyddiwr modern a greddfol. • Bodloni Safonau'r Gymraeg drwy allu dwyieithog gwirioneddol yn hytrach na throshaenau cyfieithu peirianyddol. • Cydymffurfio â deddfwriaeth hygyrchedd a gofynion WCAG. • Lleihau gweinyddiaeth faniwal a dyblygu. • Gwella adrodd a gwybodaeth am y gweithlu. • Integreiddio'n effeithiol gydag ecosystem ddigidol ehangach Chwaraeon Cymru. • Cefnogi twf sefydliadol a gwella gwasanaethau yn y dyfodol. Sport Wales is seeking a modern, user-centred Human Resources platform to support the full employee lifecycle, from recruitment through to employment, development and workforce management. Sport Wales wishes to procure solutions that: • Deliver a modern and intuitive user experience • Meet Welsh Language Standards through genuine bilingual capability rather than machine translation overlays • Comply with accessibility legislation and WCAG requirements. • Reduce manual administration and duplication • Improve reporting and workforce insight • Integrate effectively with Sport Wales' wider digital ecosystem • Support future organisational growth and service improvement.",
+        "tenderSummary": "Mae Chwaraeon Cymru yn chwilio am blatfform Adnoddau Dynol modern, sy'n canolbwyntio ar y defnyddiwr, i gefnogi cylch bywyd llawn cyflogeion, o recriwtio hyd at gyflogaeth, datblygu a rheoli'r gweithlu. Mae Chwaraeon Cymru yn dymuno caffael datrysiadau sy'n cyflawni’r canlynol: • Darparu profiad defnyddiwr modern a greddfol. • Bodloni Safonau'r Gymraeg drwy allu dwyieithog gwirioneddol yn hytrach na throshaenau cyfieithu peirianyddol. • Cydymffurfio â deddfwriaeth hygyrchedd a gofynion WCAG. • Lleihau gweinyddiaeth faniwal a dyblygu. • Gwella adrodd a gwybodaeth am y gweithlu. • Integreiddio'n effeithiol gydag ecosystem ddigidol ehangach Chwaraeon Cymru. • Cefnogi twf sefydliadol a gwella gwasanaethau yn y dyfodol. Sport Wales is seeking a modern, user-centred Human Resources platform to support the full employee lifecycle, from recruitment through to employment, development and workforce management. Sport Wales wishes to procure solutions that: • Deliver a modern and intuitive user experience • Meet Welsh Language Standards through genuine bilingual capability rather than machine translation overlays • Comply with accessibility legislation and WCAG requirements. • Reduce manual administration and duplication • Improve reporting and workforce insight • Integrate effectively with Sport Wales' wider digital ecosystem • Support future organisational growth and service improvement.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sell2wales.gov.wales/Assets/NoticeBuilder_FileDownload.aspx?id=385552",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL",
+        "cpv": "48000000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
+      },
+      {
+        "id": "fts-104917-2026",
+        "title": "National Education and Training for NHS Talking Therapies for Anxiety and Depression - Core",
+        "authority": "NHS England",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "104917-2026",
+        "published": "2026-11-04",
+        "deadline": "2026-12-07",
+        "value": 125264006,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "NHS England is seeking to enter into contracts with partner organisation(s) for the provision of training places for NHS Talking Therapies, supporting workforce replacement and expansion in line with relevant policy developments and workforce requirements. Tenderers may submit tenders for one or more Lots and, where applicable, for one or more Geographic Footprints within a Lot, subject to the requirements set out in the Invitation to Tender (ITT). Further details of the Lots, Geographic Footprints and applicable requirements are set out in the ITT. The maximum estimated aggregate value of the Contracts, including all extension and learner run-through provisions, is £125,264,012 exclusive of VAT. This comprises an anticipated value of £72,119,924 exclusive of VAT for the initial three-year term, £33,681,222 exclusive of VAT for the optional 12-month extension period, and £19,462,865 exclusive of VAT for the subsequent 12-month learner run-through period. Payment will be based on the applicable cost per learner in accordance with the pricing mechanism set out in the ITT and Contract. The cost per learner will be inclusive of all costs associated with delivering the Services, subject to the terms of the Contract. Active learner numbers will be verified quarterly through the National School of Healthcare Science to support accurate payment. The initial contract term will be three years. The Contracting Authority may, at its discretion and in accordance with the Contract, extend the period during which new learners may be enrolled for a further 12 months. A further period of up to 12 months will apply to enable learners enrolled during the extension period to complete their training. The deadline for submission of completed tenders is 12:00 noon on Monday 7th December 2026. Late submissions will not be accepted. Late submissions will not be accepted therefore, please submit in good time prior to the deadline date and time. All communications should be made via the messaging function on the e-Tendering portal during the tender exercise. The Contracting Authority requests that all communications are channelled through the e-portal system and not with the Contracting Authority itself other than as expressly permitted within this ITT. Further information relating to this project can be found at NHSE e-tendering portal at the link below. All clarification questions and submission bids must be received via this portal only. Registration is free of charge. https://health-family-contract-search.secure.force.com/?SearchType=Projects",
+        "tenderSummary": "NHS England is seeking to enter into contracts with partner organisation(s) for the provision of training places for NHS Talking Therapies, supporting workforce replacement and expansion in line with relevant policy developments and workforce requirements. Tenderers may submit tenders for one or more Lots and, where applicable, for one or more Geographic Footprints within a Lot, subject to the requirements set out in the Invitation to Tender (ITT). Further details of the Lots, Geographic Footprints and applicable requirements are set out in the ITT. The maximum estimated aggregate value of the Contracts, including all extension and learner run-through provisions, is £125,264,012 exclusive of VAT. This comprises an anticipated value of £72,119,924 exclusive of VAT for the initial three-year term, £33,681,222 exclusive of VAT for the optional 12-month extension period, and £19,462,865 exclusive of VAT for the subsequent 12-month learner run-through period. Payment will be based on the applicable cost per learner in accordance with the pricing mechanism set out in the ITT and Contract. The cost per learner will be inclusive of all costs associated with delivering the Services, subject to the terms of the Contract. Active learner numbers will be verified quarterly through the National School of Healthcare Science to support accurate payment. The initial contract term will be three years. The Contracting Authority may, at its discretion and in accordance with the Contract, extend the period during which new learners may be enrolled for a further 12 months. A further period of up to 12 months will apply to enable learners enrolled during the extension period to complete their training. The deadline for submission of completed tenders is 12:00 noon on Monday 7th December 2026. Late submissions will not be accepted. Late submissions will not be accepted therefore, please submit in good time prior to the deadline date and time. All communications should be made via the messaging function on the e-Tendering portal during the tender exercise. The Contracting Authority requests that all communications are channelled through the e-portal system and not with the Contracting Authority itself other than as expressly permitted within this ITT. Further information relating to this project can be found at NHSE e-tendering portal at the link below. All clarification questions and submission bids must be received via this portal only. Registration is free of charge. https://health-family-contract-search.secure.force.com/?SearchType=Projects",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/104917-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "80000000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
       },
       {
         "id": "fts-098200-2026",
@@ -5212,6 +5532,86 @@
         "updatedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6"
       },
       {
+        "id": "fts-105109-2026",
+        "title": "Shropshire 0-25 Public Health Nursing Service (PHNS)",
+        "authority": "Shropshire Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "105109-2026",
+        "published": "2026-11-05",
+        "deadline": "2026-12-21",
+        "value": 25296852,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The Authority is seeking a provider to deliver an integrated 0-19 (up to 25 where appropriate) Healthy Child Programme, encompassing Health Visiting, School Nursing and Family Nurse Partnership services across Shropshire. The service will support children, young people and families through a community-based, preventative model that promotes positive health and wellbeing outcomes, reduces inequalities and responds to local need through population health management and local intelligence. The Provider will be expected to work collaboratively with health, social care, education and wider stakeholders to deliver joined-up, neighbourhood-based services. Delivery will be supported by a multidisciplinary workforce comprising qualified clinical and non-clinical staff, with Qualified Public Health Nurses providing professional leadership, clinical oversight and safeguarding expertise. This procurement is being undertaken in accordance with the Health Care Services (Provider Selection Regime) Regulations 2023 using the Competitive Process",
+        "tenderSummary": "The Authority is seeking a provider to deliver an integrated 0-19 (up to 25 where appropriate) Healthy Child Programme, encompassing Health Visiting, School Nursing and Family Nurse Partnership services across Shropshire. The service will support children, young people and families through a community-based, preventative model that promotes positive health and wellbeing outcomes, reduces inequalities and responds to local need through population health management and local intelligence. The Provider will be expected to work collaboratively with health, social care, education and wider stakeholders to deliver joined-up, neighbourhood-based services. Delivery will be supported by a multidisciplinary workforce comprising qualified clinical and non-clinical staff, with Qualified Public Health Nurses providing professional leadership, clinical oversight and safeguarding expertise. This procurement is being undertaken in accordance with the Health Care Services (Provider Selection Regime) Regulations 2023 using the Competitive Process",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105109-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG22",
+        "cpv": "85100000, 85323000, 85141200",
+        "matchedKeywords": [
+          "safeguarding",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
+      },
+      {
+        "id": "cf-24d33f16-5423-43b8-9aec-68e19200e363-920665",
+        "title": "Shropshire 0-25 Public Health Nursing Service (PHNS)",
+        "authority": "Shropshire Council",
+        "category": "Safeguarding",
+        "source": "Contracts Finder",
+        "noticeId": "24d33f16-5423-43b8-9aec-68e19200e363-920665",
+        "published": "2026-11-05",
+        "deadline": "2026-12-21",
+        "value": 25296852,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The Authority is seeking a provider to deliver an integrated 0-19 (up to 25 where appropriate) Healthy Child Programme, encompassing Health Visiting, School Nursing and Family Nurse Partnership services across Shropshire. The service will support children, young people and families through a community-based, preventative model that promotes positive health and wellbeing outcomes, reduces inequalities and responds to local need through population health management and local intelligence. The Provider will be expected to work collaboratively with health, social care, education and wider stakeholders to deliver joined-up, neighbourhood-based services. Delivery will be supported by a multidisciplinary workforce comprising qualified clinical and non-clinical staff, with Qualified Public Health Nurses providing professional leadership, clinical oversight and safeguarding expertise. This procurement is being undertaken in accordance with the Health Care Services (Provider Selection Regime) Regulations 2023 using the Competitive Process",
+        "tenderSummary": "The Authority is seeking a provider to deliver an integrated 0-19 (up to 25 where appropriate) Healthy Child Programme, encompassing Health Visiting, School Nursing and Family Nurse Partnership services across Shropshire. The service will support children, young people and families through a community-based, preventative model that promotes positive health and wellbeing outcomes, reduces inequalities and responds to local need through population health management and local intelligence. The Provider will be expected to work collaboratively with health, social care, education and wider stakeholders to deliver joined-up, neighbourhood-based services. Delivery will be supported by a multidisciplinary workforce comprising qualified clinical and non-clinical staff, with Qualified Public Health Nurses providing professional leadership, clinical oversight and safeguarding expertise. This procurement is being undertaken in accordance with the Health Care Services (Provider Selection Regime) Regulations 2023 using the Competitive Process",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2027-09-30 to 2034-09-30",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/24d33f16-5423-43b8-9aec-68e19200e363",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "West Midlands",
+        "cpv": "85100000",
+        "matchedKeywords": [
+          "safeguarding",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
+      },
+      {
         "id": "fts-102062-2026",
         "title": "Passive Fire Safety Remedial works",
         "authority": "Southern Housing",
@@ -5250,6 +5650,84 @@
         "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
         "demo": false,
         "updatedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add"
+      },
+      {
+        "id": "fts-104440-2026",
+        "title": "Provision of a Finance Solution and Associated Services to the Northern Ireland Assembly Commission",
+        "authority": "Northern Ireland Assembly Commission",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "104440-2026",
+        "published": "2026-11-03",
+        "deadline": "2027-01-29",
+        "value": 1100000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          8,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "Purpose of this Notice This Planned Procurement Notice relates to requirements that were the subject of a preliminary market engagement exercise undertaken by the Northern Ireland Assembly Commission (Assembly Commission) under Find a Tender Service reference 2026/S 000-080852. The engagement considered replacement solutions for HR, payroll and finance functions. Following engagement, the Assembly Commission intends to conduct separate procurements for HR & payroll and for finance solutions. This notice provides advance information to help potential suppliers assess the opportunity, identify any delivery partners and plan bid and demonstration resources. The Assembly Commission intends to rely on this notice as a qualifying planned procurement notice under section 15(3) of the Procurement Act 2023 to enable a reduced tendering period were permitted by section 54. This notice is not a call for competition; the tender notice and associated procurement documents will explain how to participate. Scope of Requirement The Assembly Commission intends to undertake two separate procurements for the provision, implementation and ongoing support of a modern human resources and payroll solution and a finance solution. The procurement forms part of the Assembly Commission's wider objective to modernise corporate systems and processes, improve user experience, strengthen organisational reporting and support data-driven decision making. Following completion of preliminary market engagement, the Assembly Commission intends to adopt a best-of-breed approach, procuring specialist solutions capable of operating within an integrated corporate services environment. The requirement is therefore not anticipated to comprise a single Enterprise Resource Planning (ERP) solution. Solutions should support an integrated user experience, effective data sharing, enhanced reporting and analytics, workflow automation, robust governance and security controls, and future scalability. The Assembly Commission is seeking solutions that support the delivery of: •Human Resources, including workforce administration, employee and manager self-service, recruitment, onboarding, learning, performance management and workforce reporting. •Payroll, including payroll administration, statutory compliance, reporting and integration with workforce data. •Finance, including financial accounting, budgeting, accounts payable and receivable, procurement-to-pay processes and financial reporting. This planned procurement notice relates to the finance solution requirement only. A separate planned procurement notice is expected to be issued for the HR and payroll solution requirement. The Assembly Commission is not currently seeking to procure a single combined HR, payroll and finance ERP solution through this notice. The two separate contracts are expected to include software provision, implementation and configuration services, data migration, integration, training and ongoing support and maintenance. Outline Requirement – Finance Solution The Assembly Commission intends to procure a modern finance solution to support the delivery of its finance, accounting, budgeting, payment, reporting and financial control functions. This will be a separate procurement from the planned HR, payroll and pensions solution procurement. The system should have the technical capability to integrate with other best of breed applications such as finance and procurement and in doing so support integrated reporting. The system must ensure data is exchanged securely. The finance system is expected to support, as a minimum, core financial management and accounting functionality, including general ledger, chart of accounts, budgeting and forecasting, accounts payable, purchase-to-pay, accounts receivable, income management, banking, reconciliations, VAT, fixed assets, financial reporting and audit trails. The system should support robust financial governance, delegated authority controls, budgetary control, segregation of duties, workflow approvals, management information and statutory/accounting reporting requirements. The Assembly Commission is also likely to require functionality to support specific finance processes within a parliamentary context, including payments and claims relating to Assembly Members and political parties, supplier management, payment processing, expenditure reporting, commitments, accruals and financial analysis across relevant organisational, project, contract, Member, constituency and party dimensions. The solution will need to support secure access for authorised finance, procurement, budget-holder and other relevant users, with appropriate role-based permissions, auditability, reporting, document attachment, workflow, integration and data-retention capability. The Assembly Commission expects the solution to be capable of interfacing with relevant corporate systems and external services, including HR/payroll, banking, procurement/e-procurement, identity management, reporting tools and other systems where required. Associated services are expected to include system configuration, data migration and validation, integration, testing, user training, transition and go-live support, and ongoing maintenance and support, including updates to reflect applicable legislative changes. Detailed scope, functional and technical requirements, implementation arrangements and service levels will be set out in the tender documentation. At this stage, the Assembly Commission is seeking to provide advance notice to the market of the intended standalone finance solution procurement and to allow potential suppliers sufficient time to consider their capability, delivery model and interest in the opportunity. Estimated Value The Assembly Commission is currently finalising the business case for this project, but early estimates for the 8 year contract which will cover licensing, implementation, support and maintenance and training is £1.1M exclusive of VAT. This early estimate is anticipated to cover implementation, support, maintenance and licensing for the finance solution. This will be subject to change pending business case approval. The Tender Notice will set out the final approved budget value. Procurement Approach The Assembly Commission intends to conduct this procurement using the Competitive Flexible Procedure. The Assembly Commission anticipates conducting a three-stage competitive flexible procedure without a separate request-to-participate stage. Stage 1 will require an initial tender submission comprising evidence relating to conditions of participation and relevant previous experience, together with a high-level description of the proposed solution and its compliance with mandatory requirements. Stages 1 and 2 will provide opportunities for suppliers to receive feedback before submitting their final tenders. Initial written responses and demonstrations will be reviewed but will not be formally scored, and these stages will not be used to shortlist suppliers, subject to applicable exclusion requirements and the published rules of the procedure. All suppliers submitting a Stage 1 response will be invited to take part in Stage 2. Suppliers may choose to refine their written responses and demonstration material in light of the feedback received. Repeat live demonstrations are not anticipated. Suppliers will instead be required to provide their final demonstration material in a recorded format, such as a video or screencast, for assessment alongside their final written responses after the Stage 3 deadline. The tender documentation will explain the feedback arrangements, permitted revisions and submission requirements. The Assembly Commission intends to rely on a qualifying planned procurement notice to permit a reduced tendering period under section 54(4) of the Procurement Act 2023. Indicative Evaluation Approach The Assembly Commission currently anticipates that tenders will be evaluated on the basis of the Most Advantageous Tender (MAT) using the following indicative weightings: •Quality: 60% •Cost: 30% •Social Value: 10% We have not yet finalised the criteria or associated weightings, but to help suppliers plan we are considering the following criteria: Stage 1 •Conditions of participation •Supplier’s previous experience of successfully delivering a similar service provision •Supplier’s proposed delivery team •Supplier’s proposed solution Stage 2 •Supplier demonstration of two specific scenarios Stage 3 •Implementation, migration and transition •Business continuity and disaster recovery •Contract management •Social value •Costs The stages above indicate when information will initially be requested, rather than separate evaluation or elimination stages. A single formal assessment of the final submissions will take place after the Stage 3 deadline, including assessment against conditions of participation, mandatory requirements and the published award criteria. The final evaluation methodology, award criteria and procurement process will be detailed within the procurement documentation. The Assembly Commission reserves the right to refine aspects of the requirement, procurement documentation and evaluation methodology during the Competitive Flexible Procedure in accordance with the Procurement Act 2023.",
+        "tenderSummary": "Purpose of this Notice This Planned Procurement Notice relates to requirements that were the subject of a preliminary market engagement exercise undertaken by the Northern Ireland Assembly Commission (Assembly Commission) under Find a Tender Service reference 2026/S 000-080852. The engagement considered replacement solutions for HR, payroll and finance functions. Following engagement, the Assembly Commission intends to conduct separate procurements for HR & payroll and for finance solutions. This notice provides advance information to help potential suppliers assess the opportunity, identify any delivery partners and plan bid and demonstration resources. The Assembly Commission intends to rely on this notice as a qualifying planned procurement notice under section 15(3) of the Procurement Act 2023 to enable a reduced tendering period were permitted by section 54. This notice is not a call for competition; the tender notice and associated procurement documents will explain how to participate. Scope of Requirement The Assembly Commission intends to undertake two separate procurements for the provision, implementation and ongoing support of a modern human resources and payroll solution and a finance solution. The procurement forms part of the Assembly Commission's wider objective to modernise corporate systems and processes, improve user experience, strengthen organisational reporting and support data-driven decision making. Following completion of preliminary market engagement, the Assembly Commission intends to adopt a best-of-breed approach, procuring specialist solutions capable of operating within an integrated corporate services environment. The requirement is therefore not anticipated to comprise a single Enterprise Resource Planning (ERP) solution. Solutions should support an integrated user experience, effective data sharing, enhanced reporting and analytics, workflow automation, robust governance and security controls, and future scalability. The Assembly Commission is seeking solutions that support the delivery of: •Human Resources, including workforce administration, employee and manager self-service, recruitment, onboarding, learning, performance management and workforce reporting. •Payroll, including payroll administration, statutory compliance, reporting and integration with workforce data. •Finance, including financial accounting, budgeting, accounts payable and receivable, procurement-to-pay processes and financial reporting. This planned procurement notice relates to the finance solution requirement only. A separate planned procurement notice is expected to be issued for the HR and payroll solution requirement. The Assembly Commission is not currently seeking to procure a single combined HR, payroll and finance ERP solution through this notice. The two separate contracts are expected to include software provision, implementation and configuration services, data migration, integration, training and ongoing support and maintenance. Outline Requirement – Finance Solution The Assembly Commission intends to procure a modern finance solution to support the delivery of its finance, accounting, budgeting, payment, reporting and financial control functions. This will be a separate procurement from the planned HR, payroll and pensions solution procurement. The system should have the technical capability to integrate with other best of breed applications such as finance and procurement and in doing so support integrated reporting. The system must ensure data is exchanged securely. The finance system is expected to support, as a minimum, core financial management and accounting functionality, including general ledger, chart of accounts, budgeting and forecasting, accounts payable, purchase-to-pay, accounts receivable, income management, banking, reconciliations, VAT, fixed assets, financial reporting and audit trails. The system should support robust financial governance, delegated authority controls, budgetary control, segregation of duties, workflow approvals, management information and statutory/accounting reporting requirements. The Assembly Commission is also likely to require functionality to support specific finance processes within a parliamentary context, including payments and claims relating to Assembly Members and political parties, supplier management, payment processing, expenditure reporting, commitments, accruals and financial analysis across relevant organisational, project, contract, Member, constituency and party dimensions. The solution will need to support secure access for authorised finance, procurement, budget-holder and other relevant users, with appropriate role-based permissions, auditability, reporting, document attachment, workflow, integration and data-retention capability. The Assembly Commission expects the solution to be capable of interfacing with relevant corporate systems and external services, including HR/payroll, banking, procurement/e-procurement, identity management, reporting tools and other systems where required. Associated services are expected to include system configuration, data migration and validation, integration, testing, user training, transition and go-live support, and ongoing maintenance and support, including updates to reflect applicable legislative changes. Detailed scope, functional and technical requirements, implementation arrangements and service levels will be set out in the tender documentation. At this stage, the Assembly Commission is seeking to provide advance notice to the market of the intended standalone finance solution procurement and to allow potential suppliers sufficient time to consider their capability, delivery model and interest in the opportunity. Estimated Value The Assembly Commission is currently finalising the business case for this project, but early estimates for the 8 year contract which will cover licensing, implementation, support and maintenance and training is £1.1M exclusive of VAT. This early estimate is anticipated to cover implementation, support, maintenance and licensing for the finance solution. This will be subject to change pending business case approval. The Tender Notice will set out the final approved budget value. Procurement Approach The Assembly Commission intends to conduct this procurement using the Competitive Flexible Procedure. The Assembly Commission anticipates conducting a three-stage competitive flexible procedure without a separate request-to-participate stage. Stage 1 will require an initial tender submission comprising evidence relating to conditions of participation and relevant previous experience, together with a high-level description of the proposed solution and its compliance with mandatory requirements. Stages 1 and 2 will provide opportunities for suppliers to receive feedback before submitting their final tenders. Initial written responses and demonstrations will be reviewed but will not be formally scored, and these stages will not be used to shortlist suppliers, subject to applicable exclusion requirements and the published rules of the procedure. All suppliers submitting a Stage 1 response will be invited to take part in Stage 2. Suppliers may choose to refine their written responses and demonstration material in light of the feedback received. Repeat live demonstrations are not anticipated. Suppliers will instead be required to provide their final demonstration material in a recorded format, such as a video or screencast, for assessment alongside their final written responses after the Stage 3 deadline. The tender documentation will explain the feedback arrangements, permitted revisions and submission requirements. The Assembly Commission intends to rely on a qualifying planned procurement notice to permit a reduced tendering period under section 54(4) of the Procurement Act 2023. Indicative Evaluation Approach The Assembly Commission currently anticipates that tenders will be evaluated on the basis of the Most Advantageous Tender (MAT) using the following indicative weightings: •Quality: 60% •Cost: 30% •Social Value: 10% We have not yet finalised the criteria or associated weightings, but to help suppliers plan we are considering the following criteria: Stage 1 •Conditions of participation •Supplier’s previous experience of successfully delivering a similar service provision •Supplier’s proposed delivery team •Supplier’s proposed solution Stage 2 •Supplier demonstration of two specific scenarios Stage 3 •Implementation, migration and transition •Business continuity and disaster recovery •Contract management •Social value •Costs The stages above indicate when information will initially be requested, rather than separate evaluation or elimination stages. A single formal assessment of the final submissions will take place after the Stage 3 deadline, including assessment against conditions of participation, mandatory requirements and the published award criteria. The final evaluation methodology, award criteria and procurement process will be detailed within the procurement documentation. The Assembly Commission reserves the right to refine aspects of the requirement, procurement documentation and evaluation methodology during the Competitive Flexible Procedure in accordance with the Procurement Act 2023.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-25121",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKN06",
+        "cpv": "48440000, 72268000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
+      },
+      {
+        "id": "fts-104439-2026",
+        "title": "Provision of a Human Resources and Payroll Solution and Associated Services to the Northern Ireland Assembly Commission",
+        "authority": "Northern Ireland Assembly Commission",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "104439-2026",
+        "published": "2026-11-03",
+        "deadline": "2027-01-29",
+        "value": 1400000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          8,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "Purpose of this Notice This Planned Procurement Notice relates to requirements that were the subject of a preliminary market engagement exercise undertaken by the Northern Ireland Assembly Commission (Assembly Commission) under Find a Tender Service reference 2026/S 000-080852. The engagement considered replacement solutions for HR, payroll and finance functions. Following engagement, the Assembly Commission intends to conduct separate procurements for HR & payroll and for finance solutions. This notice provides advance information to help potential suppliers assess the opportunity, identify any delivery partners and plan bid and demonstration resources. The Assembly Commission intends to rely on this notice as a qualifying planned procurement notice under section 15(3) of the Procurement Act 2023 to enable a reduced tendering period were permitted by section 54. This notice is not a call for competition; the tender notice and associated procurement documents will explain how to participate. Scope of Requirement The Assembly Commission intends to undertake two separate procurements for the provision, implementation and ongoing support of a modern human resources and payroll solution and a finance solution. The procurement forms part of the Assembly Commission's wider objective to modernise corporate systems and processes, improve user experience, strengthen organisational reporting and support data-driven decision making. Following completion of preliminary market engagement, the Assembly Commission intends to adopt a best-of-breed approach, procuring specialist solutions capable of operating within an integrated corporate services environment. The requirement is therefore not anticipated to comprise a single Enterprise Resource Planning (ERP) solution. Solutions should support an integrated user experience, effective data sharing, enhanced reporting and analytics, workflow automation, robust governance and security controls, and future scalability. The Assembly Commission is seeking solutions that support the delivery of: •Human resources, including workforce administration, employee and manager self-service, recruitment, onboarding, learning, performance management and workforce reporting. •Payroll, including payroll administration, statutory compliance, reporting and integration with workforce data. •Finance, including financial accounting, budgeting, accounts payable and receivable, procurement-to-pay processes and financial reporting. This planned procurement notice relates to the HR and payroll an solution requirement only. A separate planned procurement notice is expected to be issued for the finance solution requirement. The Assembly Commission is not currently seeking to procure a single combined HR, payroll and finance ERP solution through this notice. The two separate contracts are expected to include software provision, implementation and configuration services, data migration, integration, training and ongoing support and maintenance. Outline Requirement – HR & Payroll Solution The Northern Ireland Assembly Commission intends to procure a modern HR, payroll and pensions solution and associated implementation and support services. This will be a separate procurement from the planned finance system procurement. The system should have the technical capability to integrate with other best of breed applications such as finance and procurement and in doing so support integrated reporting. The system must ensure data is exchanged securely. The anticipated HR solution scope includes the management of core personnel records and the end-to-end employee lifecycle. Solutions must support delivery of services such as - vacancy management, recruitment and onboarding, absence and leave management, learning and development, employee-relations case management, and employee and manager self-service. This is not an exhaustive list. The system should reduce duplicated data entry and manual processing and provide authorised users with timely, secure access to accurate information. Payroll functionality is expected to support multiple, independently controlled payrolls and pay groups, including payroll bureau arrangements for different employing bodies. It will need to accommodate individuals holding multiple or concurrent employment contracts, potentially with different employers, pay arrangements, pension schemes and leave entitlements. The anticipated scope includes configurable pay grades, allowances and deductions, statutory and occupational pay calculations, retrospective adjustments, payment outputs, HMRC submissions, reconciliations and payroll reporting. The requirement includes support for pension-related administration, employee and employer contributions, reporting and secure data exchange with relevant pension scheme administrators and providers. This is expected to cover Northern Ireland Civil Service pension arrangements, the Assembly Members’ Pension Scheme and pension schemes applicable to Members’ support staff and Party staff. Payroll processing numbers are estimated at 600 direct employees and 600 non-direct employees and payroll administrators are estimated at 30. The system will need to accommodate the Assembly Commission’s parliamentary operating context, including relevant HR, payroll or pension records and processes for Assembly Commission staff, Assembly Members, Members’ support staff, Party staff, Policing Board staff and pensioners, as applicable. Appropriate separation of records and access permissions will be required to reflect the different employing bodies and user groups. The system should provide secure, accessible self-service functionality, including access to payslips and P60s, permitted updates to personal information, leave requests and relevant approval workflows. Reporting capabilities should support operational management, workforce information, payroll and pension reporting, and Northern Ireland equality-monitoring requirements. Role-based access, confidentiality controls, audit trails, document management and records retention will be required throughout. Associated services are expected to include system configuration, data migration and validation, integration, testing, user training, transition and go-live support, and ongoing maintenance and support, including updates to reflect applicable legislative changes. Detailed scope, functional and technical requirements, implementation arrangements and service levels will be set out in the tender documentation. Estimated Value The Assembly Commission is currently finalising the business case for this project, but early estimates for the 8 year contract which will cover licensing, implementation, support and maintenance and training is £1.4M exclusive of VAT. This early estimate is anticipated to cover implementation, support, maintenance and licensing for the HR and payroll solution. This will be subject to change pending business case approval. The Tender Notice will set out the final approved budget value. Procurement Approach The Assembly Commission intends to conduct this procurement using the Competitive Flexible Procedure. The Assembly Commission anticipates conducting a three-stage competitive flexible procedure without a separate request-to-participate stage. Stage 1 will require an initial tender submission comprising evidence relating to conditions of participation and relevant previous experience, together with a high-level description of the proposed solution and its compliance with mandatory requirements. Stages 1 and 2 will provide opportunities for suppliers to receive feedback before submitting their final tenders. Initial written responses and demonstrations will be reviewed but will not be formally scored, and these stages will not be used to shortlist suppliers, subject to applicable exclusion requirements and the published rules of the procedure. All suppliers submitting a Stage 1 response will be invited to take part in Stage 2. Suppliers may choose to refine their written responses and demonstration material in light of the feedback received. Repeat live demonstrations are not anticipated. Suppliers will instead be required to provide their final demonstration material in a recorded format, such as a video or screencast, for assessment alongside their final written responses after the Stage 3 deadline. The tender documentation will explain the feedback arrangements, permitted revisions and submission requirements. The Assembly Commission intends to rely on a qualifying planned procurement notice to permit a reduced tendering period under section 54(4) of the Procurement Act 2023. Indicative Evaluation Approach The Assembly Commission currently anticipates that tenders will be evaluated on the basis of the Most Advantageous Tender (MAT) using the following indicative weightings: •Quality: 60% •Cost: 30% •Social Value: 10% We have not yet finalised the criteria or associated weightings, but to help suppliers plan we are considering the following criteria: Stage 1 •Conditions of participation •Supplier’s previous experience of successfully delivering a similar service provision •Supplier’s proposed delivery team •Supplier’s proposed solution Stage 2 •Supplier demonstration of two specific scenarios Stage 3 •Implementation, migration and transition •Business continuity and disaster recovery •Contract management •Social value •Costs The stages above indicate when information will initially be requested, rather than separate evaluation or elimination stages. A single formal assessment of the final submissions will take place after the Stage 3 deadline, including assessment against conditions of participation, mandatory requirements and the published award criteria. The final evaluation methodology, award criteria and procurement process will be detailed within the procurement documentation.",
+        "tenderSummary": "Purpose of this Notice This Planned Procurement Notice relates to requirements that were the subject of a preliminary market engagement exercise undertaken by the Northern Ireland Assembly Commission (Assembly Commission) under Find a Tender Service reference 2026/S 000-080852. The engagement considered replacement solutions for HR, payroll and finance functions. Following engagement, the Assembly Commission intends to conduct separate procurements for HR & payroll and for finance solutions. This notice provides advance information to help potential suppliers assess the opportunity, identify any delivery partners and plan bid and demonstration resources. The Assembly Commission intends to rely on this notice as a qualifying planned procurement notice under section 15(3) of the Procurement Act 2023 to enable a reduced tendering period were permitted by section 54. This notice is not a call for competition; the tender notice and associated procurement documents will explain how to participate. Scope of Requirement The Assembly Commission intends to undertake two separate procurements for the provision, implementation and ongoing support of a modern human resources and payroll solution and a finance solution. The procurement forms part of the Assembly Commission's wider objective to modernise corporate systems and processes, improve user experience, strengthen organisational reporting and support data-driven decision making. Following completion of preliminary market engagement, the Assembly Commission intends to adopt a best-of-breed approach, procuring specialist solutions capable of operating within an integrated corporate services environment. The requirement is therefore not anticipated to comprise a single Enterprise Resource Planning (ERP) solution. Solutions should support an integrated user experience, effective data sharing, enhanced reporting and analytics, workflow automation, robust governance and security controls, and future scalability. The Assembly Commission is seeking solutions that support the delivery of: •Human resources, including workforce administration, employee and manager self-service, recruitment, onboarding, learning, performance management and workforce reporting. •Payroll, including payroll administration, statutory compliance, reporting and integration with workforce data. •Finance, including financial accounting, budgeting, accounts payable and receivable, procurement-to-pay processes and financial reporting. This planned procurement notice relates to the HR and payroll an solution requirement only. A separate planned procurement notice is expected to be issued for the finance solution requirement. The Assembly Commission is not currently seeking to procure a single combined HR, payroll and finance ERP solution through this notice. The two separate contracts are expected to include software provision, implementation and configuration services, data migration, integration, training and ongoing support and maintenance. Outline Requirement – HR & Payroll Solution The Northern Ireland Assembly Commission intends to procure a modern HR, payroll and pensions solution and associated implementation and support services. This will be a separate procurement from the planned finance system procurement. The system should have the technical capability to integrate with other best of breed applications such as finance and procurement and in doing so support integrated reporting. The system must ensure data is exchanged securely. The anticipated HR solution scope includes the management of core personnel records and the end-to-end employee lifecycle. Solutions must support delivery of services such as - vacancy management, recruitment and onboarding, absence and leave management, learning and development, employee-relations case management, and employee and manager self-service. This is not an exhaustive list. The system should reduce duplicated data entry and manual processing and provide authorised users with timely, secure access to accurate information. Payroll functionality is expected to support multiple, independently controlled payrolls and pay groups, including payroll bureau arrangements for different employing bodies. It will need to accommodate individuals holding multiple or concurrent employment contracts, potentially with different employers, pay arrangements, pension schemes and leave entitlements. The anticipated scope includes configurable pay grades, allowances and deductions, statutory and occupational pay calculations, retrospective adjustments, payment outputs, HMRC submissions, reconciliations and payroll reporting. The requirement includes support for pension-related administration, employee and employer contributions, reporting and secure data exchange with relevant pension scheme administrators and providers. This is expected to cover Northern Ireland Civil Service pension arrangements, the Assembly Members’ Pension Scheme and pension schemes applicable to Members’ support staff and Party staff. Payroll processing numbers are estimated at 600 direct employees and 600 non-direct employees and payroll administrators are estimated at 30. The system will need to accommodate the Assembly Commission’s parliamentary operating context, including relevant HR, payroll or pension records and processes for Assembly Commission staff, Assembly Members, Members’ support staff, Party staff, Policing Board staff and pensioners, as applicable. Appropriate separation of records and access permissions will be required to reflect the different employing bodies and user groups. The system should provide secure, accessible self-service functionality, including access to payslips and P60s, permitted updates to personal information, leave requests and relevant approval workflows. Reporting capabilities should support operational management, workforce information, payroll and pension reporting, and Northern Ireland equality-monitoring requirements. Role-based access, confidentiality controls, audit trails, document management and records retention will be required throughout. Associated services are expected to include system configuration, data migration and validation, integration, testing, user training, transition and go-live support, and ongoing maintenance and support, including updates to reflect applicable legislative changes. Detailed scope, functional and technical requirements, implementation arrangements and service levels will be set out in the tender documentation. Estimated Value The Assembly Commission is currently finalising the business case for this project, but early estimates for the 8 year contract which will cover licensing, implementation, support and maintenance and training is £1.4M exclusive of VAT. This early estimate is anticipated to cover implementation, support, maintenance and licensing for the HR and payroll solution. This will be subject to change pending business case approval. The Tender Notice will set out the final approved budget value. Procurement Approach The Assembly Commission intends to conduct this procurement using the Competitive Flexible Procedure. The Assembly Commission anticipates conducting a three-stage competitive flexible procedure without a separate request-to-participate stage. Stage 1 will require an initial tender submission comprising evidence relating to conditions of participation and relevant previous experience, together with a high-level description of the proposed solution and its compliance with mandatory requirements. Stages 1 and 2 will provide opportunities for suppliers to receive feedback before submitting their final tenders. Initial written responses and demonstrations will be reviewed but will not be formally scored, and these stages will not be used to shortlist suppliers, subject to applicable exclusion requirements and the published rules of the procedure. All suppliers submitting a Stage 1 response will be invited to take part in Stage 2. Suppliers may choose to refine their written responses and demonstration material in light of the feedback received. Repeat live demonstrations are not anticipated. Suppliers will instead be required to provide their final demonstration material in a recorded format, such as a video or screencast, for assessment alongside their final written responses after the Stage 3 deadline. The tender documentation will explain the feedback arrangements, permitted revisions and submission requirements. The Assembly Commission intends to rely on a qualifying planned procurement notice to permit a reduced tendering period under section 54(4) of the Procurement Act 2023. Indicative Evaluation Approach The Assembly Commission currently anticipates that tenders will be evaluated on the basis of the Most Advantageous Tender (MAT) using the following indicative weightings: •Quality: 60% •Cost: 30% •Social Value: 10% We have not yet finalised the criteria or associated weightings, but to help suppliers plan we are considering the following criteria: Stage 1 •Conditions of participation •Supplier’s previous experience of successfully delivering a similar service provision •Supplier’s proposed delivery team •Supplier’s proposed solution Stage 2 •Supplier demonstration of two specific scenarios Stage 3 •Implementation, migration and transition •Business continuity and disaster recovery •Contract management •Social value •Costs The stages above indicate when information will initially be requested, rather than separate evaluation or elimination stages. A single formal assessment of the final submissions will take place after the Stage 3 deadline, including assessment against conditions of participation, mandatory requirements and the published award criteria. The final evaluation methodology, award criteria and procurement process will be detailed within the procurement documentation.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-25120",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKN06",
+        "cpv": "79631000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
       },
       {
         "id": "cf-e92582f5-95e5-461d-8a9f-675c50df724a-920293",
@@ -5291,42 +5769,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-04T16:16:55.685Z"
+    "lastPartialUpdate": "2026-11-05T16:27:29.184Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e",
-    "attemptedAt": "2026-11-04T16:16:55.685Z",
+    "attemptId": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+    "attemptedAt": "2026-11-05T16:27:29.184Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
-    "retrievedCount": 4,
-    "totalCount": 131,
+    "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
+    "retrievedCount": 16,
+    "totalCount": 143,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-04T16:16:55.685Z",
-        "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
-        "lastAttemptAt": "2026-11-04T16:16:55.685Z",
+        "watermark": "2026-11-05T16:27:29.184Z",
+        "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
+        "lastAttemptAt": "2026-11-05T16:27:29.184Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-03T13:30:44.767Z",
-          "to": "2026-11-04T16:16:55.685Z"
+          "from": "2026-11-03T16:16:55.685Z",
+          "to": "2026-11-05T16:27:29.184Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-04T16:16:55.685Z",
-        "lastSuccessfulUpdate": "2026-11-04T16:16:55.685Z",
-        "lastAttemptAt": "2026-11-04T16:16:55.685Z",
+        "watermark": "2026-11-05T16:27:29.184Z",
+        "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
+        "lastAttemptAt": "2026-11-05T16:27:29.184Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-03T13:30:44.767Z",
-          "to": "2026-11-04T16:16:55.685Z"
+          "from": "2026-11-03T16:16:55.685Z",
+          "to": "2026-11-05T16:27:29.184Z"
         }
       }
     }
