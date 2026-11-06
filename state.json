@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-05T16:27:29.184Z",
-      "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
-      "lastAttemptAt": "2026-11-05T16:27:29.184Z",
+      "watermark": "2026-11-06T15:54:30.401Z",
+      "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
+      "lastAttemptAt": "2026-11-06T15:54:30.401Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-03T16:16:55.685Z",
-        "to": "2026-11-05T16:27:29.184Z"
+        "from": "2026-11-04T16:27:29.184Z",
+        "to": "2026-11-06T15:54:30.401Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-05T16:27:29.184Z",
-      "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
-      "lastAttemptAt": "2026-11-05T16:27:29.184Z",
+      "watermark": "2026-11-06T15:54:30.401Z",
+      "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
+      "lastAttemptAt": "2026-11-06T15:54:30.401Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-03T16:16:55.685Z",
-        "to": "2026-11-05T16:27:29.184Z"
+        "from": "2026-11-04T16:27:29.184Z",
+        "to": "2026-11-06T15:54:30.401Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
-    "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
+    "buildId": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
+    "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
     "interval": {
-      "from": "2026-11-03T16:16:55.685Z",
-      "to": "2026-11-05T16:27:29.184Z"
+      "from": "2026-11-04T16:27:29.184Z",
+      "to": "2026-11-06T15:54:30.401Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 16,
-    "totalCount": 143,
+    "retrievedCount": 13,
+    "totalCount": 147,
     "sourceFailures": [],
     "records": [
       {
@@ -3044,7 +3044,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
       },
       {
         "id": "fts-096205-2026",
@@ -4020,6 +4021,48 @@
         "demo": false
       },
       {
+        "id": "fts-105426-2026",
+        "title": "TRAUMA-INFORMED WORKFORCE DEVELOPMENT, ORGANISATIONAL CHANGE AND IMPACT EVALUATION",
+        "authority": "BIRMINGHAM CHILDREN'S TRUST COMMUNITY INTEREST COMPANY",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105426-2026",
+        "published": "2026-11-05",
+        "deadline": "2026-11-19",
+        "value": 90000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Birmingham Children's Trust seeks to appoint a suitable qualified provider to deliver an Organisation-wide trauma-informed workforce development, leadership and evaluation programme. The requirement includes developing internal educators and champions, advanced training for frontline practitioners, leadership and management development, programme evaluation, organisational maturity assessment, knowledge transfer and sustainability planning. There may be an opportunity for an optional specialist facilitator training may also be commissioned. The services will primarily be delivered to Birmingham Children's Trust employees and services operating within the Birmingham geographic area, using an agreed combination of in-person and virtual delivery. The objective is to strengthen trauma-informed knowledge and practice, embed trauma-responsive approaches across the organisations, build sustainable internal capability and provide evidence of the programme's impact on practice and organisational maturity.",
+        "tenderSummary": "Birmingham Children's Trust seeks to appoint a suitable qualified provider to deliver an Organisation-wide trauma-informed workforce development, leadership and evaluation programme. The requirement includes developing internal educators and champions, advanced training for frontline practitioners, leadership and management development, programme evaluation, organisational maturity assessment, knowledge transfer and sustainability planning. There may be an opportunity for an optional specialist facilitator training may also be commissioned. The services will primarily be delivered to Birmingham Children's Trust employees and services operating within the Birmingham geographic area, using an agreed combination of in-person and virtual delivery. The objective is to strengthen trauma-informed knowledge and practice, embed trauma-responsive approaches across the organisations, build sustainable internal capability and provide evidence of the programme's impact on practice and organisational maturity.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://supplier.in-tend.co.uk/birminghamcc/home",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKC, UKD, UKE, UKF, UKG, UKH, UKI, UKJ, UKK",
+        "cpv": "80500000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
+        "demo": false
+      },
+      {
         "id": "fts-092987-2026",
         "title": "Regional Care Cooperative - Supported Accommodation",
         "authority": "Greater Manchester Combined Authority",
@@ -4136,7 +4179,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
       },
       {
         "id": "fts-099085-2026",
@@ -4691,6 +4735,84 @@
         "demo": false
       },
       {
+        "id": "fts-105421-2026",
+        "title": "Specialist Safe, Supported Accommodation for Young Women Aged 16 to 25 Affected by Abuse",
+        "authority": "Sheffield City Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105421-2026",
+        "published": "2026-11-05",
+        "deadline": "2026-11-27",
+        "value": 1632000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "Sheffield City Council is commissioning a service to provide safe, supported accommodation for young women aged 16 to 25 affected by abuse, including all forms of sexual abuse and domestic abuse. The Council wishes to commission a service that provides a safe, stable and nurturing home (short to medium term) for vulnerable young women, alongside compassionate, trauma-informed therapy and support. The purpose of the service is to create the conditions in which young women and their children are supported to recover from their experiences of abuse and are then able to move on to live independent lives in the community. Young women will be safer and will be able to exercise choice, maintain stable accommodation, develop practical and relational skills, and will be supported to build a future for themselves and, where relevant, their children.",
+        "tenderSummary": "Sheffield City Council is commissioning a service to provide safe, supported accommodation for young women aged 16 to 25 affected by abuse, including all forms of sexual abuse and domestic abuse. The Council wishes to commission a service that provides a safe, stable and nurturing home (short to medium term) for vulnerable young women, alongside compassionate, trauma-informed therapy and support. The purpose of the service is to create the conditions in which young women and their children are supported to recover from their experiences of abuse and are then able to move on to live independent lives in the community. Young women will be safer and will be able to exercise choice, maintain stable accommodation, develop practical and relational skills, and will be supported to build a future for themselves and, where relevant, their children.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105421-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE32",
+        "cpv": "85311000, 85300000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
+        "demo": false
+      },
+      {
+        "id": "cf-90d317a4-0657-495a-a9ea-57e035554822-920775",
+        "title": "Activity & Interpretation Plan Consultant",
+        "authority": "Thetford Town Council",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "90d317a4-0657-495a-a9ea-57e035554822-920775",
+        "published": "2026-11-06",
+        "deadline": "2026-11-27",
+        "value": 25000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "The appointed consultant will prepare a comprehensive Activity & Interpretation Plan which demonstrates how people will engage with St Peter's Church and the wider heritage of Thetford through: • Learning; • Volunteering; • Skills development; • Community engagement; • Interpretation; • Participation; • Events; • Training; • Outreach activities. The consultant shall ensure that the Activity & Interpretation Plan is fully aligned with NLHF requirements and capable of supporting a successful Delivery Phase application. The Activity Plan shall identify opportunities for community involvement, volunteering, learning, training, events and wider public engagement, together with recommendations for sustainable delivery and long-term legacy. The Interpretation Plan shall identify and communicate the key heritage themes, stories and significance of St Peter's Church, establish target audiences, and develop recommendations for accessible and engaging interpretation that supports the project's vision and outcomes. The Consultant shall ensure that both plans are fully integrated and aligned with the requirements of the National Lottery Heritage Fund and other funding stakeholders, providing a practical framework for implementation during the Delivery Phase.",
+        "tenderSummary": "The appointed consultant will prepare a comprehensive Activity & Interpretation Plan which demonstrates how people will engage with St Peter's Church and the wider heritage of Thetford through: • Learning; • Volunteering; • Skills development; • Community engagement; • Interpretation; • Participation; • Events; • Training; • Outreach activities. The consultant shall ensure that the Activity & Interpretation Plan is fully aligned with NLHF requirements and capable of supporting a successful Delivery Phase application. The Activity Plan shall identify opportunities for community involvement, volunteering, learning, training, events and wider public engagement, together with recommendations for sustainable delivery and long-term legacy. The Interpretation Plan shall identify and communicate the key heritage themes, stories and significance of St Peter's Church, establish target audiences, and develop recommendations for accessible and engaging interpretation that supports the project's vision and outcomes. The Consultant shall ensure that both plans are fully integrated and aligned with the requirements of the National Lottery Heritage Fund and other funding stakeholders, providing a practical framework for implementation during the Delivery Phase.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-12-14 to 2027-07-14",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/90d317a4-0657-495a-a9ea-57e035554822",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "IP24 2DS",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
+        "demo": false
+      },
+      {
         "id": "fts-099739-2026",
         "title": "WSTLAT Provision of Supply Agency Services",
         "authority": "Westcountry Schools Trust",
@@ -4926,7 +5048,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
       },
       {
         "id": "fts-105082-2026",
@@ -4965,7 +5088,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
       },
       {
         "id": "fts-099469-2026",
@@ -5045,6 +5169,46 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false,
+        "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
+      },
+      {
+        "id": "fts-105473-2026",
+        "title": "Proc-26-201 Wraparound Care Business Opportunity with License to Occupy",
+        "authority": "Wrexham County Borough Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "105473-2026",
+        "published": "2026-11-05",
+        "deadline": "2026-12-03",
+        "value": 35500,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "UK4 - Tender Notice Wraparound Care Business Opportunity with License to Occupy WCBC on Behalf of St Marys Catholic Primary School invites tenders for Wraparound Care Business Opportunity with License to Occupy. St Mary's Catholic Primary School is a thriving Catholic primary school committed to: Providing a nurturing environment rooted in its Catholic tradition and values The wellbeing, safety and holistic development of every child The principles and purposes of the Curriculum for Wales The Governing Body invites submissions from Care Inspectorate Wales (CIW) registered providers, or providers willing to apply for CIW registration, to establish and operate a wraparound childcare provision on the school site. The provision will be independently run and managed but must operate in close partnership with the school and its governing body. The successful provider will establish a high‑quality childcare service that: Supports families through flexible, affordable wraparound care Promotes children’s wellbeing, play, learning and development Operates in a manner that is respectful of and sensitive to the ethos, values and wider community of the school. Includes opportunities that support children's wellbeing, creativity, social development and play. Operates with the highest standards of safeguarding, transparency and governance",
+        "tenderSummary": "UK4 - Tender Notice Wraparound Care Business Opportunity with License to Occupy WCBC on Behalf of St Marys Catholic Primary School invites tenders for Wraparound Care Business Opportunity with License to Occupy. St Mary's Catholic Primary School is a thriving Catholic primary school committed to: Providing a nurturing environment rooted in its Catholic tradition and values The wellbeing, safety and holistic development of every child The principles and purposes of the Curriculum for Wales The Governing Body invites submissions from Care Inspectorate Wales (CIW) registered providers, or providers willing to apply for CIW registration, to establish and operate a wraparound childcare provision on the school site. The provision will be independently run and managed but must operate in close partnership with the school and its governing body. The successful provider will establish a high‑quality childcare service that: Supports families through flexible, affordable wraparound care Promotes children’s wellbeing, play, learning and development Operates in a manner that is respectful of and sensitive to the ethos, values and wider community of the school. Includes opportunities that support children's wellbeing, creativity, social development and play. Operates with the highest standards of safeguarding, transparency and governance",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105473-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL23",
+        "cpv": "85312110",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
         "demo": false
       },
       {
@@ -5204,7 +5368,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
       },
       {
         "id": "fts-104679-2026",
@@ -5284,7 +5449,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
       },
       {
         "id": "fts-098200-2026",
@@ -5569,7 +5735,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
       },
       {
         "id": "cf-24d33f16-5423-43b8-9aec-68e19200e363-920665",
@@ -5609,7 +5776,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
       },
       {
         "id": "fts-102062-2026",
@@ -5769,42 +5937,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-05T16:27:29.184Z"
+    "lastPartialUpdate": "2026-11-06T15:54:30.401Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
-    "attemptedAt": "2026-11-05T16:27:29.184Z",
+    "attemptId": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
+    "attemptedAt": "2026-11-06T15:54:30.401Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
-    "retrievedCount": 16,
-    "totalCount": 143,
+    "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
+    "retrievedCount": 13,
+    "totalCount": 147,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-05T16:27:29.184Z",
-        "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
-        "lastAttemptAt": "2026-11-05T16:27:29.184Z",
+        "watermark": "2026-11-06T15:54:30.401Z",
+        "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
+        "lastAttemptAt": "2026-11-06T15:54:30.401Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-03T16:16:55.685Z",
-          "to": "2026-11-05T16:27:29.184Z"
+          "from": "2026-11-04T16:27:29.184Z",
+          "to": "2026-11-06T15:54:30.401Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-05T16:27:29.184Z",
-        "lastSuccessfulUpdate": "2026-11-05T16:27:29.184Z",
-        "lastAttemptAt": "2026-11-05T16:27:29.184Z",
+        "watermark": "2026-11-06T15:54:30.401Z",
+        "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
+        "lastAttemptAt": "2026-11-06T15:54:30.401Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-03T16:16:55.685Z",
-          "to": "2026-11-05T16:27:29.184Z"
+          "from": "2026-11-04T16:27:29.184Z",
+          "to": "2026-11-06T15:54:30.401Z"
         }
       }
     }
