@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-06T15:54:30.401Z",
-      "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
-      "lastAttemptAt": "2026-11-06T15:54:30.401Z",
+      "watermark": "2026-11-09T18:45:47.077Z",
+      "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
+      "lastAttemptAt": "2026-11-09T18:45:47.077Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-04T16:27:29.184Z",
-        "to": "2026-11-06T15:54:30.401Z"
+        "from": "2026-11-05T15:54:30.401Z",
+        "to": "2026-11-09T18:45:47.077Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-06T15:54:30.401Z",
-      "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
-      "lastAttemptAt": "2026-11-06T15:54:30.401Z",
+      "watermark": "2026-11-09T18:45:47.077Z",
+      "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
+      "lastAttemptAt": "2026-11-09T18:45:47.077Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-04T16:27:29.184Z",
-        "to": "2026-11-06T15:54:30.401Z"
+        "from": "2026-11-05T15:54:30.401Z",
+        "to": "2026-11-09T18:45:47.077Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
-    "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
+    "buildId": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+    "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
     "interval": {
-      "from": "2026-11-04T16:27:29.184Z",
-      "to": "2026-11-06T15:54:30.401Z"
+      "from": "2026-11-05T15:54:30.401Z",
+      "to": "2026-11-09T18:45:47.077Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 13,
-    "totalCount": 147,
+    "retrievedCount": 26,
+    "totalCount": 169,
     "sourceFailures": [],
     "records": [
       {
@@ -4060,7 +4060,8 @@
           "80500000"
         ],
         "addedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698"
       },
       {
         "id": "fts-092987-2026",
@@ -4181,6 +4182,45 @@
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
         "demo": false,
         "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
+      },
+      {
+        "id": "cf-cbc8d975-376f-4c40-b602-3b8a9b2435cc-920703",
+        "title": "Lead Designer, Architect, Conservation Architect, CDM Principal Designer and Building Safety Act Principal Designer",
+        "authority": "Thetford Town Council",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "cbc8d975-376f-4c40-b602-3b8a9b2435cc-920703",
+        "published": "2026-11-09",
+        "deadline": "2026-11-20",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Below is a summary please refer to the Job pack for detailed information Thetford Town Council is seeking to appoint a single consultant practice to undertake the roles of: • Lead Designer; • Architect; • Conservation Architect; • Principal Designer (CDM Regulations); • Principal Designer (Building Safety Act). The successful consultant shall lead and coordinate the design for the Development Phase and prepare the project design for submission of the NLHF Delivery Phase Application. The consultant will work closely with the Project Manager, Quantity Surveyor, Structural Engineer and specialist advisers to prepare a robust and fully costed proposal capable of supporting a successful National Lottery Heritage Fund Delivery Phase application. The NLHF Delivery Phase application will be managed by the Client Team and appointed Project Manager, however, the Architect may be required to attend NLHF meetings and workshops from time to time as reasonably requested by the Client or Project Manager. Equality, Inclusion & Environmental Sustainability The project is shaped by NLHF's investment principles and Thetford's identity as a richly diverse town. Commissioned work should demonstrate: • Inclusive engagement with communities underserved by heritage; • Barrier-free access to heritage learning and opportunities; • Environmentally responsible design, including re-use and carbon impact; • Contribution to a sustainable operating model rooted in community need. Project Objectives The project objectives are to: • Remove the building from the Heritage at Risk Register; • Secure the long-term conservation of the historic fabric; • Deliver inclusive and accessible community facilities; • Support learning, heritage interpretation and skills development; • Improve environmental sustainability; • Create a financially sustainable operational model and future for the site; • Support regeneration within Thetford town centre. All submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "tenderSummary": "Below is a summary please refer to the Job pack for detailed information Thetford Town Council is seeking to appoint a single consultant practice to undertake the roles of: • Lead Designer; • Architect; • Conservation Architect; • Principal Designer (CDM Regulations); • Principal Designer (Building Safety Act). The successful consultant shall lead and coordinate the design for the Development Phase and prepare the project design for submission of the NLHF Delivery Phase Application. The consultant will work closely with the Project Manager, Quantity Surveyor, Structural Engineer and specialist advisers to prepare a robust and fully costed proposal capable of supporting a successful National Lottery Heritage Fund Delivery Phase application. The NLHF Delivery Phase application will be managed by the Client Team and appointed Project Manager, however, the Architect may be required to attend NLHF meetings and workshops from time to time as reasonably requested by the Client or Project Manager. Equality, Inclusion & Environmental Sustainability The project is shaped by NLHF's investment principles and Thetford's identity as a richly diverse town. Commissioned work should demonstrate: • Inclusive engagement with communities underserved by heritage; • Barrier-free access to heritage learning and opportunities; • Environmentally responsible design, including re-use and carbon impact; • Contribution to a sustainable operating model rooted in community need. Project Objectives The project objectives are to: • Remove the building from the Heritage at Risk Register; • Secure the long-term conservation of the historic fabric; • Deliver inclusive and accessible community facilities; • Support learning, heritage interpretation and skills development; • Improve environmental sustainability; • Create a financially sustainable operational model and future for the site; • Support regeneration within Thetford town centre. All submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-12-14 to 2027-09-14",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/cbc8d975-376f-4c40-b602-3b8a9b2435cc",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "IP24 2DS",
+        "cpv": "71210000, 71221000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
       },
       {
         "id": "fts-099085-2026",
@@ -4379,6 +4419,45 @@
         "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
         "demo": false,
         "updatedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58"
+      },
+      {
+        "id": "fts-105513-2026",
+        "title": "Replacement of Corporate Telephony and Contact Centre Environment",
+        "authority": "Link Group",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105513-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-11-23",
+        "value": 1500000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "Link Group is seeking to appoint a suitably qualified supplier to provide, implement and support a modern, secure and resilient corporate telephony and Contact Centre as a Service (CCaaS) solution. The contract will include cloud telephony, omnichannel contact handling, intelligent routing, workforce management, call recording, quality management, reporting and analytics, PCI-compliant payment handling, integration capabilities, migration, implementation, training and ongoing support. The solution will support customer-facing and colleague-facing services across Link Group and will be delivered through a phased approach.",
+        "tenderSummary": "Link Group is seeking to appoint a suitably qualified supplier to provide, implement and support a modern, secure and resilient corporate telephony and Contact Centre as a Service (CCaaS) solution. The contract will include cloud telephony, omnichannel contact handling, intelligent routing, workforce management, call recording, quality management, reporting and analytics, PCI-compliant payment handling, integration capabilities, migration, implementation, training and ongoing support. The solution will support customer-facing and colleague-facing services across Link Group and will be delivered through a phased approach.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105513-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKM75",
+        "cpv": "64210000, 32500000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
       },
       {
         "id": "fts-099209-2026",
@@ -4771,7 +4850,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698"
       },
       {
         "id": "cf-90d317a4-0657-495a-a9ea-57e035554822-920775",
@@ -4810,6 +4890,129 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
+        "demo": false,
+        "updatedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698"
+      },
+      {
+        "id": "fts-105797-2026",
+        "title": "Heritage Window Installation – Athens, Greece",
+        "authority": "FCDO Services",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105797-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-11-27",
+        "value": 300000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "FCDO Services is seeking Proposals from Contractors to install heritage doors and windows at the HMA Residence in Athens, Greece. The Contractor’s response should demonstrate understanding of the works information detailed within Volume 1. The Contractor shall make available to the Authority experienced labour resource with appropriate skills, qualifications and experience in heritage refurbishments needed to successfully implement the various services that are required.",
+        "tenderSummary": "FCDO Services is seeking Proposals from Contractors to install heritage doors and windows at the HMA Residence in Athens, Greece. The Contractor’s response should demonstrate understanding of the works information detailed within Volume 1. The Contractor shall make available to the Authority experienced labour resource with appropriate skills, qualifications and experience in heritage refurbishments needed to successfully implement the various services that are required.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105797-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "EL",
+        "cpv": "45421100",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-105700-2026",
+        "title": "Gambling Harm Training",
+        "authority": "City of York Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105700-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-11-27",
+        "value": 28500,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "A provider is sought to design and deliver training to increase awareness of gambling-related harms. The purpose of the training is to enable staff to identify, respond to and signpost individuals who may be experiencing gambling harms. The training needs to be suitable for a range of workforce groups; mainly from public sector and VCS organisations. The training needs to be suitable for staff groups who will not have previously received gambling harm awareness training but are likely to currently be working with people experiencing gambling harm. The training forms part of a wider public health approach to preventing and reducing gambling-related harms and improving access to support services within York. The provider needs to demonstrate a good understanding of the types of onward signposting available for staff groups working in York. The maximum value of this contract is £28,500 across 36 months. The initial contract period is valued at £9,500 for an initial period of 12 months, with the option of two contract extensions at the local authority's discretion - these extensions would each be of 12 months duration each, with and a value of £9,500 per year.",
+        "tenderSummary": "A provider is sought to design and deliver training to increase awareness of gambling-related harms. The purpose of the training is to enable staff to identify, respond to and signpost individuals who may be experiencing gambling harms. The training needs to be suitable for a range of workforce groups; mainly from public sector and VCS organisations. The training needs to be suitable for staff groups who will not have previously received gambling harm awareness training but are likely to currently be working with people experiencing gambling harm. The training forms part of a wider public health approach to preventing and reducing gambling-related harms and improving access to support services within York. The provider needs to demonstrate a good understanding of the types of onward signposting available for staff groups working in York. The maximum value of this contract is £28,500 across 36 months. The initial contract period is valued at £9,500 for an initial period of 12 months, with the option of two contract extensions at the local authority's discretion - these extensions would each be of 12 months duration each, with and a value of £9,500 per year.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105700-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE21",
+        "cpv": "80561000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80560000",
+          "80561000"
+        ],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "cf-90d317a4-0657-495a-a9ea-57e035554822-920947",
+        "title": "Activity & Interpretation Plan Consultant",
+        "authority": "Thetford Town Council",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "90d317a4-0657-495a-a9ea-57e035554822-920947",
+        "published": "2026-11-09",
+        "deadline": "2026-11-27",
+        "value": 25000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "The appointed consultant will prepare a comprehensive Activity & Interpretation Plan which demonstrates how people will engage with St Peter's Church and the wider heritage of Thetford through: • Learning; • Volunteering; • Skills development; • Community engagement; • Interpretation; • Participation; • Events; • Training; • Outreach activities. The consultant shall ensure that the Activity & Interpretation Plan is fully aligned with NLHF requirements and capable of supporting a successful Delivery Phase application. The Activity Plan shall identify opportunities for community involvement, volunteering, learning, training, events and wider public engagement, together with recommendations for sustainable delivery and long-term legacy. The Interpretation Plan shall identify and communicate the key heritage themes, stories and significance of St Peter's Church, establish target audiences, and develop recommendations for accessible and engaging interpretation that supports the project's vision and outcomes. The Consultant shall ensure that both plans are fully integrated and aligned with the requirements of the National Lottery Heritage Fund and other funding stakeholders, providing a practical framework for implementation during the Delivery Phase. All Submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "tenderSummary": "The appointed consultant will prepare a comprehensive Activity & Interpretation Plan which demonstrates how people will engage with St Peter's Church and the wider heritage of Thetford through: • Learning; • Volunteering; • Skills development; • Community engagement; • Interpretation; • Participation; • Events; • Training; • Outreach activities. The consultant shall ensure that the Activity & Interpretation Plan is fully aligned with NLHF requirements and capable of supporting a successful Delivery Phase application. The Activity Plan shall identify opportunities for community involvement, volunteering, learning, training, events and wider public engagement, together with recommendations for sustainable delivery and long-term legacy. The Interpretation Plan shall identify and communicate the key heritage themes, stories and significance of St Peter's Church, establish target audiences, and develop recommendations for accessible and engaging interpretation that supports the project's vision and outcomes. The Consultant shall ensure that both plans are fully integrated and aligned with the requirements of the National Lottery Heritage Fund and other funding stakeholders, providing a practical framework for implementation during the Delivery Phase. All Submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-12-14 to 2027-07-14",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/90d317a4-0657-495a-a9ea-57e035554822",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "IP24 2DS",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
         "demo": false
       },
       {
@@ -4970,6 +5173,93 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add",
+        "demo": false
+      },
+      {
+        "id": "fts-106150-2026",
+        "title": "Adult Skills and Employment Programme Framework Refreshs",
+        "authority": "Lincolnshire County Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "106150-2026",
+        "published": "2026-11-09",
+        "deadline": "2026-11-30",
+        "value": 87000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "This framework refresh is seeking to appoint additional providers to the Adult Skills and Employment Programmes Framework 2025-2029. The purpose of this refresh is to admit additional Providers to the Framework to support the future delivery of adult skills, employability, learner engagement and associated support services across Greater Lincolnshire. Further Competitions will be held annually ahead of each new academic year and occasionally as additional requirements are identified. Lot No: 1 Non Accredited Learning Delivery of non-accredited adult learning programmes, including employability and progression-focused provision, community learning, and engagement activities Lot No: 2 Accredited Skills Programmes Delivery of accredited adult skills programmes, including Entry Level to Level 2 qualifications, Level 3 vocational and technical qualifications, Higher Technical Qualifications, and core skills such as English, math’s, and digital skills Lot No: 3 Other Programmes Delivery of specialised and innovative adult skills programmes, including Skills Bootcamps and sector-focused training aligned to local economic and workforce priorities.",
+        "tenderSummary": "This framework refresh is seeking to appoint additional providers to the Adult Skills and Employment Programmes Framework 2025-2029. The purpose of this refresh is to admit additional Providers to the Framework to support the future delivery of adult skills, employability, learner engagement and associated support services across Greater Lincolnshire. Further Competitions will be held annually ahead of each new academic year and occasionally as additional requirements are identified. Lot No: 1 Non Accredited Learning Delivery of non-accredited adult learning programmes, including employability and progression-focused provision, community learning, and engagement activities Lot No: 2 Accredited Skills Programmes Delivery of accredited adult skills programmes, including Entry Level to Level 2 qualifications, Level 3 vocational and technical qualifications, Higher Technical Qualifications, and core skills such as English, math’s, and digital skills Lot No: 3 Other Programmes Delivery of specialised and innovative adult skills programmes, including Skills Bootcamps and sector-focused training aligned to local economic and workforce priorities.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/106150-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKF3",
+        "cpv": "80500000, 80400000",
+        "matchedKeywords": [
+          "skills",
+          "workforce"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-105632-2026",
+        "title": "Gambling Harm Training",
+        "authority": "City of York Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105632-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-11-30",
+        "value": 28500,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "A provider is sought to design and deliver training to increase awareness of gambling-related harms. The purpose of the training is to enable staff to identify, respond to and signpost individuals who may be experiencing gambling harms. The training needs to be suitable for a range of workforce groups; mainly from public sector and VCS organisations. The training needs to be suitable for staff groups who will not have previously received gambling harm awareness training but are likely to currently be working with people experiencing gambling harm. The training forms part of a wider public health approach to preventing and reducing gambling-related harms and improving access to support services within York. The provider needs to demonstrate a good understanding of the types of onward signposting available for staff groups working in York. The maximum value of this contract is £28,500 across 36 months. The initial contract period is valued at £9,500 for an initial period of 12 months, with the option of two contract extensions at the local authority's discretion - these extensions would each be of 12 months duration each, with and a value of £9,500 per year.",
+        "tenderSummary": "A provider is sought to design and deliver training to increase awareness of gambling-related harms. The purpose of the training is to enable staff to identify, respond to and signpost individuals who may be experiencing gambling harms. The training needs to be suitable for a range of workforce groups; mainly from public sector and VCS organisations. The training needs to be suitable for staff groups who will not have previously received gambling harm awareness training but are likely to currently be working with people experiencing gambling harm. The training forms part of a wider public health approach to preventing and reducing gambling-related harms and improving access to support services within York. The provider needs to demonstrate a good understanding of the types of onward signposting available for staff groups working in York. The maximum value of this contract is £28,500 across 36 months. The initial contract period is valued at £9,500 for an initial period of 12 months, with the option of two contract extensions at the local authority's discretion - these extensions would each be of 12 months duration each, with and a value of £9,500 per year.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105632-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE21",
+        "cpv": "80561000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80560000",
+          "80561000"
+        ],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
         "demo": false
       },
       {
@@ -5209,7 +5499,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698"
       },
       {
         "id": "fts-098220-2026",
@@ -5411,6 +5702,164 @@
         "demo": false
       },
       {
+        "id": "fts-106021-2026",
+        "title": "The Provision of a Mental Health Crisis Text Support Service on behalf of NHS Cheshire and Merseyside Integrated Care Board",
+        "authority": "NHS CHESHIRE AND MERSEYSIDE INTEGRATED CARE BOARD",
+        "category": "Mental health",
+        "source": "FTS",
+        "noticeId": "106021-2026",
+        "published": "2026-11-09",
+        "deadline": "2026-12-04",
+        "value": 1400000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "NHS Cheshire and Merseyside is seeking to engage with the market regarding the provision of an all-age, 24-hour, 7 days a week/ 365 days a year Mental Health Crisis Text Service across Cheshire and Merseyside. The service will provide immediate, accessible and inclusive text-based support for individuals experiencing a mental health crisis and will operate 24 hours a day, 365 days a year. The service is intended to be fully integrated with NHS 111 (Mental Health Option) and local crisis response pathways, ensuring seamless access to urgent mental health support and onward referral where required. The service has been developed in line with NHS England guidance on urgent and emergency mental health care and supports the objectives of the NHS Long Term Plan, the Urgent and Emergency Care Recovery Plan, and national suicide prevention priorities. It aims to improve access to crisis support for people who may experience barriers to traditional services, including those affected by stigma, communication difficulties, disability, sensory needs, or geographical isolation across the region's diverse urban and rural communities. The term of the contract is 2 years, with the option to extend for 2 further periods of up to one year each. The extension options are not guaranteed and will be subject to ongoing service requirements, satisfactory performance, available funding and approval by the Authority. The maximum total contract value, including both potential extensions, is £1,400,000 ex VAT. The ITT deadline date is set as 12pm 4th December 2026, the opportunity can be found within the following link https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110030967?anId=ANONYMOUS",
+        "tenderSummary": "NHS Cheshire and Merseyside is seeking to engage with the market regarding the provision of an all-age, 24-hour, 7 days a week/ 365 days a year Mental Health Crisis Text Service across Cheshire and Merseyside. The service will provide immediate, accessible and inclusive text-based support for individuals experiencing a mental health crisis and will operate 24 hours a day, 365 days a year. The service is intended to be fully integrated with NHS 111 (Mental Health Option) and local crisis response pathways, ensuring seamless access to urgent mental health support and onward referral where required. The service has been developed in line with NHS England guidance on urgent and emergency mental health care and supports the objectives of the NHS Long Term Plan, the Urgent and Emergency Care Recovery Plan, and national suicide prevention priorities. It aims to improve access to crisis support for people who may experience barriers to traditional services, including those affected by stigma, communication difficulties, disability, sensory needs, or geographical isolation across the region's diverse urban and rural communities. The term of the contract is 2 years, with the option to extend for 2 further periods of up to one year each. The extension options are not guaranteed and will be subject to ongoing service requirements, satisfactory performance, available funding and approval by the Authority. The maximum total contract value, including both potential extensions, is £1,400,000 ex VAT. The ITT deadline date is set as 12pm 4th December 2026, the opportunity can be found within the following link https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110030967?anId=ANONYMOUS",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/106021-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD6, UKD7",
+        "cpv": "85100000, 79430000, 85121270, 85323000",
+        "matchedKeywords": [
+          "suicide prevention"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-105951-2026",
+        "title": "T192- Professional Development Programme",
+        "authority": "NI Water and its subsidiaries",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105951-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-12-04",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "This contract is for professional development services. Please refer to specification for further details.",
+        "tenderSummary": "This contract is for professional development services. Please refer to specification for further details.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105951-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "80000000, 80500000, 80400000, 80510000, 80570000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-105503-2026",
+        "title": "JHG - Window Cleaning Contract (Lot 1- North, Lot 2 - Tameside, Lot 3 - Midlands)",
+        "authority": "Jigsaw Homes Group",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105503-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-12-04",
+        "value": 200000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Jigsaw Homes Group has three operational areas which are as follows; • Jigsaw Homes North (Lancashire/Merseyside/Cheshire/Greater M/cr) • Jigsaw Homes Midlands (East Midlands) • Jigsaw Homes Tameside (Greater Manchester) The service provider shall be required to have the skills, knowledge, experience and qualifications necessary to deliver an effective programme of Window Cleaning, report on the findings and recommend all appropriate actions and produce a completion certificate to properties owned and managed by Jigsaw Homes Group (JHG) including; • communal (& public) areas to residential properties; • JHG owned commercial properties; • new build properties (from developer handover onwards); • Any other buildings for which JHG have a responsibility for. This service is currently managed by a couple of contractors throughout the North, Tameside & Midlands regions. It is our intention to outsource the whole of the Asset Management Communal Window Cleaning Service and split it into three Lots. The first, Lot 1 – North which covers parts of Greater Manchester, Lancashire, Cheshire & Merseyside, the second, Lot 2 – Tameside area and the third, Lot 3 – Midlands. Bidders can apply for one Lot, two or all three Lots. The initial contract for 2 years with an option of an additional two year to a total of four years and consists of the following number per Lot; • Lot 1 – North • Lot 2 – Tameside • Lot 3 - Midlands JHG intends to enter into a Contract, please refer to Section 8 – Terms of Agreement for further details. The successful Contractor(s) will be expected to mobilise to our timescale and be operational by 1st April 2027, please refer to Section 1.10 the Tender Process Summary below for more details. The initial contract period runs until 31st March 2029 and if successful an extension of a year based on performance and by mutual agreement.",
+        "tenderSummary": "Jigsaw Homes Group has three operational areas which are as follows; • Jigsaw Homes North (Lancashire/Merseyside/Cheshire/Greater M/cr) • Jigsaw Homes Midlands (East Midlands) • Jigsaw Homes Tameside (Greater Manchester) The service provider shall be required to have the skills, knowledge, experience and qualifications necessary to deliver an effective programme of Window Cleaning, report on the findings and recommend all appropriate actions and produce a completion certificate to properties owned and managed by Jigsaw Homes Group (JHG) including; • communal (& public) areas to residential properties; • JHG owned commercial properties; • new build properties (from developer handover onwards); • Any other buildings for which JHG have a responsibility for. This service is currently managed by a couple of contractors throughout the North, Tameside & Midlands regions. It is our intention to outsource the whole of the Asset Management Communal Window Cleaning Service and split it into three Lots. The first, Lot 1 – North which covers parts of Greater Manchester, Lancashire, Cheshire & Merseyside, the second, Lot 2 – Tameside area and the third, Lot 3 – Midlands. Bidders can apply for one Lot, two or all three Lots. The initial contract for 2 years with an option of an additional two year to a total of four years and consists of the following number per Lot; • Lot 1 – North • Lot 2 – Tameside • Lot 3 - Midlands JHG intends to enter into a Contract, please refer to Section 8 – Terms of Agreement for further details. The successful Contractor(s) will be expected to mobilise to our timescale and be operational by 1st April 2027, please refer to Section 1.10 the Tender Process Summary below for more details. The initial contract period runs until 31st March 2029 and if successful an extension of a year based on performance and by mutual agreement.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.mytenders.co.uk/Authority/NoticeBuilder/NoticeBuilder_FileDownload.aspx?id=656828",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD, UKF",
+        "cpv": "90911000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-105498-2026",
+        "title": "Newark Market Place Refurbishment",
+        "authority": "Newark And Sherwood District Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105498-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-12-04",
+        "value": 1150000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "Nottinghamshire County Council (the Council) is seeking tenders, on behalf of Newark & Sherwood District Council (the Council) (NSDC) , NSDC are seeking to form a contract with one Contractor. The works comprise of the following: • Replacement of existing lighting within the Market Place • Installation of new pop up electrical power points within the Market Place • Repair and maintenance of the existing porphyry setts within the Market Place • Replacement of existing stone with new York Stone to create a new alfresco dining area • Localised repair works as required The contractor shall allow for all labour, materials, plant, access equipment, testing, certification, waste disposal, protection, temporary works, attendance and supervision necessary to complete the works. Under the Procurement Act 2023, this contract is designated Regulated Below Threshold -Works procurement and, in accordance with PPN Action Note 005 (Feb 2025) is being reserved for Nottinghamshire, Lincolnshire and Leicestershire bidders. This reservation has been approved in order to: • Support local recruitment, training and skills which is likely to generate demonstrable economic benefits within the local area, e.g. local supply chain spend, employment etc • Market analysis indicates there are an adequate number of local contractors able to deliver the requirements and the reservation will not unduly reduce competition or increase risk. • Ensure a responsive service in the case of emergency works. Bidders are required to be local as defined below and evidence of the eligibility of the successful bidder will be required prior to contract signature: 1.2.1 Eligibility Requirement An organisation which is based or established within the designated area and carries out substantive business operations from that location. Term Definition Designated Area The County of Nottinghamshire, Leicestershire and Lincolnshire. Substantive Business Operations A demonstrable and ongoing business presence within the area, evidenced by business premises, employees, management, operational activities, or service delivery undertaken from that location. A registered office alone does not constitute substantive business operations. Evidence which may be required shall include: o Business premises owned or leased within the area; o Employees based within the area; o Operational depots, workshops, warehouses, or offices within the area; o Local management or administrative functions; o Delivery of services from the local location; o Business rates, utility bills, lease agreements, or other documentary evidence demonstrating an established operational presence.",
+        "tenderSummary": "Nottinghamshire County Council (the Council) is seeking tenders, on behalf of Newark & Sherwood District Council (the Council) (NSDC) , NSDC are seeking to form a contract with one Contractor. The works comprise of the following: • Replacement of existing lighting within the Market Place • Installation of new pop up electrical power points within the Market Place • Repair and maintenance of the existing porphyry setts within the Market Place • Replacement of existing stone with new York Stone to create a new alfresco dining area • Localised repair works as required The contractor shall allow for all labour, materials, plant, access equipment, testing, certification, waste disposal, protection, temporary works, attendance and supervision necessary to complete the works. Under the Procurement Act 2023, this contract is designated Regulated Below Threshold -Works procurement and, in accordance with PPN Action Note 005 (Feb 2025) is being reserved for Nottinghamshire, Lincolnshire and Leicestershire bidders. This reservation has been approved in order to: • Support local recruitment, training and skills which is likely to generate demonstrable economic benefits within the local area, e.g. local supply chain spend, employment etc • Market analysis indicates there are an adequate number of local contractors able to deliver the requirements and the reservation will not unduly reduce competition or increase risk. • Ensure a responsive service in the case of emergency works. Bidders are required to be local as defined below and evidence of the eligibility of the successful bidder will be required prior to contract signature: 1.2.1 Eligibility Requirement An organisation which is based or established within the designated area and carries out substantive business operations from that location. Term Definition Designated Area The County of Nottinghamshire, Leicestershire and Lincolnshire. Substantive Business Operations A demonstrable and ongoing business presence within the area, evidenced by business premises, employees, management, operational activities, or service delivery undertaken from that location. A registered office alone does not constitute substantive business operations. Evidence which may be required shall include: o Business premises owned or leased within the area; o Employees based within the area; o Operational depots, workshops, warehouses, or offices within the area; o Local management or administrative functions; o Delivery of services from the local location; o Business rates, utility bills, lease agreements, or other documentary evidence demonstrating an established operational presence.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sourceeastmidlands.org/homepage",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKF1",
+        "cpv": "45000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
         "id": "fts-104917-2026",
         "title": "National Education and Training for NHS Talking Therapies for Anxiety and Depression - Core",
         "authority": "NHS England",
@@ -5451,6 +5900,210 @@
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
         "demo": false,
         "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
+      },
+      {
+        "id": "fts-106333-2026",
+        "title": "Development of a Pay and Reward Strategy for the Food Standards Agency",
+        "authority": "Food Standards Agency",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "106333-2026",
+        "published": "2026-11-09",
+        "deadline": "2026-12-07",
+        "value": 45000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "The Food Standards Agency (FSA) is an independent Government department working across England, Wales and Northern Ireland to protect public health and consumers wider interest in food. We make sure food is safe and what it says it is. The Agency employs approximately 1,600 staff across a diverse range of professions and specialisms, including policy, science, digital, operational delivery, veterinary and inspection functions. Delivery of the Agency's strategic objectives depends upon attracting, developing, motivating and retaining a highly skilled, engaged and sustainable workforce. The Agency has recently completed a Strategic Workforce Planning exercise which identified future workforce requirements, critical capability needs, workforce risks and opportunities over the short, medium and longer term. The Agency now wishes to commission specialist support to develop a comprehensive Pay and Reward Strategy that aligns with workforce planning outcomes and supports future organisational priorities. The resulting strategy should support workforce sustainability, organisational performance and employee engagement, whilst recognising the operating constraints of the Civil Service pay framework and the need to demonstrate value for money. Budget: ********The Authority's estimated budget for this requirement is £45,000 (exclusive of VAT). This figure is provided for guidance purposes only and does not represent a maximum or minimum contract value. Tenders submitted above or below the estimated budget will not be automatically excluded and will be considered as part of the evaluation process. Tenderers must provide a clear and proportionate justification for their proposed costs, demonstrating how they represent value for money and support delivery of the requirements set out in the Specification.********",
+        "tenderSummary": "The Food Standards Agency (FSA) is an independent Government department working across England, Wales and Northern Ireland to protect public health and consumers wider interest in food. We make sure food is safe and what it says it is. The Agency employs approximately 1,600 staff across a diverse range of professions and specialisms, including policy, science, digital, operational delivery, veterinary and inspection functions. Delivery of the Agency's strategic objectives depends upon attracting, developing, motivating and retaining a highly skilled, engaged and sustainable workforce. The Agency has recently completed a Strategic Workforce Planning exercise which identified future workforce requirements, critical capability needs, workforce risks and opportunities over the short, medium and longer term. The Agency now wishes to commission specialist support to develop a comprehensive Pay and Reward Strategy that aligns with workforce planning outcomes and supports future organisational priorities. The resulting strategy should support workforce sustainability, organisational performance and employee engagement, whilst recognising the operating constraints of the Civil Service pay framework and the need to demonstrate value for money. Budget: ********The Authority's estimated budget for this requirement is £45,000 (exclusive of VAT). This figure is provided for guidance purposes only and does not represent a maximum or minimum contract value. Tenders submitted above or below the estimated budget will not be automatically excluded and will be considered as part of the evaluation process. Tenderers must provide a clear and proportionate justification for their proposed costs, demonstrating how they represent value for money and support delivery of the requirements set out in the Specification.********",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/106333-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "79414000, 79400000, 79410000, 79411000, 73210000, 79633000, 75131100, 73220000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-105950-2026",
+        "title": "Repairs, Maintenance and Installations of Mechanical, Electrical and Domestic Heating Systems",
+        "authority": "Westminster City Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "105950-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-12-07",
+        "value": 65622818,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Westminster City Council is undertaking a comprehensive re-procurement programme for its housing repairs, maintenance and works contracts, currently delivered through a portfolio of Term Partnering Contracts (TPCs). The Programme forms part of the Council's wider strategic approach to the management, maintenance and improvement of its housing portfolio and is being delivered through a multi-tranche procurement programme supported by a Strategic Alliance model. The Council manages approximately 21,000 homes across the City, including a significant number of high-rise residential buildings, listed properties and buildings located within conservation areas. As part of Tranche 2 of the programme, the Council is seeking to appoint suitably qualified and experienced providers to deliver comprehensive mechanical, electrical and domestic heating maintenance, repair, replacement and installation services across its housing portfolio. The Mechanical contract is expected to include the planned preventative maintenance, inspection, testing, repair, renewal and replacement of communal mechanical assets and systems, including communal heating and district heat network infrastructure, boiler houses, mechanical ventilation systems, cold water storage tanks and pumps, sewage and stormwater pumping stations, controls and associated plant. The scope is also anticipated to include water hygiene management, legionella compliance activities, 24/7 emergency response services, and support for the Council’s Building Safety Act and Golden Thread obligations. The Council is additionally exploring the potential inclusion of broader heat network maintenance, repair and operational services and welcomes feedback from organisations with relevant experience in this area. The Electrical contract is expected to cover the inspection, testing, maintenance, repair, renewal and installation of electrical systems and associated infrastructure, including landlord and communal electrical installations, fixed wire testing, emergency lighting, landlord distribution systems, street and estate lighting, security and alarm systems, fire safety interfaces and low-carbon technologies such as solar PV, battery storage and electric vehicle charging infrastructure. The Domestic Heating contract is expected to include the servicing, maintenance, repair, replacement and renewal of domestic heating systems, including gas safety inspections, boiler and heating system replacements, associated pipework, controls, alarms and statutory compliance activities. Across all three service provisions, the Council expects providers to deliver safe, compliant, reliable and resident-focused services in accordance with all applicable legislative, regulatory and industry requirements. Based on current assumptions, the estimated values for each contract opportunity are: - Mechanical: £31,079,483 (excluding VAT), £37,295,379 (including VAT) - Electrical: £18,046,747 (excluding VAT), £21,656,096 (including VAT) - Domestic Heating: £9,426,595 (excluding VAT), £11,311,913 (including VAT) - District Heating Networks: £13,500,000 (excluding VAT) £ 16,200,000 (including VAT) (may form part of the Mechanical contract subject to the outcomes of the PME process) These figures are indicative only and remain subject to further refinement. The final estimated contract values will be stated within the Tender Notice or Notices (as relevant) to be published.",
+        "tenderSummary": "Westminster City Council is undertaking a comprehensive re-procurement programme for its housing repairs, maintenance and works contracts, currently delivered through a portfolio of Term Partnering Contracts (TPCs). The Programme forms part of the Council's wider strategic approach to the management, maintenance and improvement of its housing portfolio and is being delivered through a multi-tranche procurement programme supported by a Strategic Alliance model. The Council manages approximately 21,000 homes across the City, including a significant number of high-rise residential buildings, listed properties and buildings located within conservation areas. As part of Tranche 2 of the programme, the Council is seeking to appoint suitably qualified and experienced providers to deliver comprehensive mechanical, electrical and domestic heating maintenance, repair, replacement and installation services across its housing portfolio. The Mechanical contract is expected to include the planned preventative maintenance, inspection, testing, repair, renewal and replacement of communal mechanical assets and systems, including communal heating and district heat network infrastructure, boiler houses, mechanical ventilation systems, cold water storage tanks and pumps, sewage and stormwater pumping stations, controls and associated plant. The scope is also anticipated to include water hygiene management, legionella compliance activities, 24/7 emergency response services, and support for the Council’s Building Safety Act and Golden Thread obligations. The Council is additionally exploring the potential inclusion of broader heat network maintenance, repair and operational services and welcomes feedback from organisations with relevant experience in this area. The Electrical contract is expected to cover the inspection, testing, maintenance, repair, renewal and installation of electrical systems and associated infrastructure, including landlord and communal electrical installations, fixed wire testing, emergency lighting, landlord distribution systems, street and estate lighting, security and alarm systems, fire safety interfaces and low-carbon technologies such as solar PV, battery storage and electric vehicle charging infrastructure. The Domestic Heating contract is expected to include the servicing, maintenance, repair, replacement and renewal of domestic heating systems, including gas safety inspections, boiler and heating system replacements, associated pipework, controls, alarms and statutory compliance activities. Across all three service provisions, the Council expects providers to deliver safe, compliant, reliable and resident-focused services in accordance with all applicable legislative, regulatory and industry requirements. Based on current assumptions, the estimated values for each contract opportunity are: - Mechanical: £31,079,483 (excluding VAT), £37,295,379 (including VAT) - Electrical: £18,046,747 (excluding VAT), £21,656,096 (including VAT) - Domestic Heating: £9,426,595 (excluding VAT), £11,311,913 (including VAT) - District Heating Networks: £13,500,000 (excluding VAT) £ 16,200,000 (including VAT) (may form part of the Mechanical contract subject to the outcomes of the PME process) These figures are indicative only and remain subject to further refinement. The final estimated contract values will be stated within the Tender Notice or Notices (as relevant) to be published.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105950-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "50712000, 45351000, 45315000, 50720000, 45331100, 45331110, 50532000, 45310000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-105581-2026",
+        "title": "De-escalation and restricted intervention practice",
+        "authority": "Norfolk County Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105581-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-12-07",
+        "value": 150000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "One of the key responsibilities of NCC is to ensure training is delivered to a consistently high standard and to evaluate the effectiveness of the training. Norfolk County Council has 7 residential children’s homes, 7 CWD homes, 1 x in reach team and 2 No Wrong Door hubs, all of whom require de-escalation and restricted physical intervention practice training. The nature of the placements within these homes means that staff are at risk of confrontational and distressed behaviours, and they need the skills to de-escalate a situation, and in a worst-case scenario undertake a physical intervention with a child or young person aged 5-18 years old. This is in line with Ofsted Protection of Children Quality Standard 9, and NCC residential policies. The Children’s homes require all new staff to undertake a full course in de-escalation and restricted intervention practice techniques, with an annual refresher training for all staff. There may be times when service specific training is required, which will include specific behaviours that are being experienced within the individual home.",
+        "tenderSummary": "One of the key responsibilities of NCC is to ensure training is delivered to a consistently high standard and to evaluate the effectiveness of the training. Norfolk County Council has 7 residential children’s homes, 7 CWD homes, 1 x in reach team and 2 No Wrong Door hubs, all of whom require de-escalation and restricted physical intervention practice training. The nature of the placements within these homes means that staff are at risk of confrontational and distressed behaviours, and they need the skills to de-escalate a situation, and in a worst-case scenario undertake a physical intervention with a child or young person aged 5-18 years old. This is in line with Ofsted Protection of Children Quality Standard 9, and NCC residential policies. The Children’s homes require all new staff to undertake a full course in de-escalation and restricted intervention practice techniques, with an annual refresher training for all staff. There may be times when service specific training is required, which will include specific behaviours that are being experienced within the individual home.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105581-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKH15, UKH16, UKH17",
+        "cpv": "80500000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-105671-2026",
+        "title": "Procurement of Learning Management System (LMS)",
+        "authority": "Yeovil Town Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "105671-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-12-08",
+        "value": 140000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Yeovil Town Council is seeking to procure a secure, accessible and scalable cloud-based Learning Management System (LMS), including implementation, configuration, ongoing support, maintenance and account management, to support approximately 200 users comprising employees, elected members, temporary staff, volunteers and other authorised users. The system must provide a centralised platform for delivering, assigning, managing and monitoring mandatory compliance training, employee and councillor development, role-specific learning and Council-specific training content. It must include a comprehensive course library covering subjects such as Health and Safety, Fire Safety, Data Protection and GDPR, Cyber Security, Equality, Diversity and Inclusion, Safeguarding, Information Governance and governance training for elected members. The procurement includes the supply of the LMS as a Software as a Service (SaaS) solution, user licences, implementation and configuration, user setup and data migration support, administrator training, content management and authoring tools, reporting dashboards, automated notifications, policy acknowledgement functionality and integration with Microsoft 365, including Microsoft Entra ID Single Sign-On, Outlook and Microsoft Teams. The supplier must also provide helpdesk and technical support, platform maintenance and upgrades, account management, annual service reviews, performance reporting and agreed Service Level Agreement commitments. The system must comply with UK GDPR, meet WCAG 2.2 AA accessibility requirements, provide a minimum of 99.9% monthly availability and maintain appropriate information security, backup and disaster recovery arrangements. The initial contract term will be three years, with the option for two further extensions of 24 months each, giving a maximum potential contract duration of seven years. The contract is scheduled to commence on 1 February 2027, with implementation and configuration during February and March 2027 and a target go-live date of 1 April 2027. Suppliers must provide a full breakdown of implementation costs, annual licensing, support, maintenance and content library costs, together with any optional charges for additional users, bespoke content, consultancy and integrations. All prices must be exclusive of VAT and remain fixed throughout the initial three-year contract term.",
+        "tenderSummary": "Yeovil Town Council is seeking to procure a secure, accessible and scalable cloud-based Learning Management System (LMS), including implementation, configuration, ongoing support, maintenance and account management, to support approximately 200 users comprising employees, elected members, temporary staff, volunteers and other authorised users. The system must provide a centralised platform for delivering, assigning, managing and monitoring mandatory compliance training, employee and councillor development, role-specific learning and Council-specific training content. It must include a comprehensive course library covering subjects such as Health and Safety, Fire Safety, Data Protection and GDPR, Cyber Security, Equality, Diversity and Inclusion, Safeguarding, Information Governance and governance training for elected members. The procurement includes the supply of the LMS as a Software as a Service (SaaS) solution, user licences, implementation and configuration, user setup and data migration support, administrator training, content management and authoring tools, reporting dashboards, automated notifications, policy acknowledgement functionality and integration with Microsoft 365, including Microsoft Entra ID Single Sign-On, Outlook and Microsoft Teams. The supplier must also provide helpdesk and technical support, platform maintenance and upgrades, account management, annual service reviews, performance reporting and agreed Service Level Agreement commitments. The system must comply with UK GDPR, meet WCAG 2.2 AA accessibility requirements, provide a minimum of 99.9% monthly availability and maintain appropriate information security, backup and disaster recovery arrangements. The initial contract term will be three years, with the option for two further extensions of 24 months each, giving a maximum potential contract duration of seven years. The contract is scheduled to commence on 1 February 2027, with implementation and configuration during February and March 2027 and a target go-live date of 1 April 2027. Suppliers must provide a full breakdown of implementation costs, annual licensing, support, maintenance and content library costs, together with any optional charges for additional users, bespoke content, consultancy and integrations. All prices must be exclusive of VAT and remain fixed throughout the initial three-year contract term.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-25334",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "48190000, 48931000, 80420000",
+        "matchedKeywords": [
+          "safeguarding",
+          "fire safety"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-106015-2026",
+        "title": "Open Framework for Specialist Support and Therapies for Children and Young People with SEND",
+        "authority": "London Borough of Hounslow",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "106015-2026",
+        "published": "2026-11-09",
+        "deadline": "2026-12-09",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The London Borough of Hounslow is seeking experienced providers for an open framework to provide Specialist Support and Therapies for Children and Young People with SEND. This open framework is established by the London Borough of Hounslow for use by the Authority, named Local Authorities and Educational Institutions, including all maintained schools, academies, free schools, special schools, pupil referral units, alternative provision settings, further education colleges, specialist post-16 institutions and other educational establishments within Greater London and the additional geographical areas specified in this notice. The Framework provides a compliant, quality-assured route for the Authority, schools, education settings, out of borough settings and other authorised Customers to purchase support from NHS, independent, voluntary and community sector and public service Providers. The open framework supports Section F delivery and may support assessment, advice, early intervention, graduated response, consultation, workforce development and AP outreach where an authorised call-off is made. It does not transfer or dilute any statutory duty held by the Authority, an education setting, an ICB, the NHS or another public body. • The Framework provides a compliant, quality-assured route for the Authority, schools, education settings, out of borough settings and other authorised Customers to purchase support from NHS, independent, voluntary and community sector and public service Providers. • The Framework supports Section F delivery and may support assessment, advice, early intervention, graduated response, consultation, workforce development and AP outreach where an authorised call-off is made. It does not transfer or dilute any statutory duty held by the Authority, an education setting, an ICB, the NHS or another public body. Hounslow is a diverse and mobile borough. The February 2025 SEND and AP Strategic Improvement Plan records a population of about 291,000, 188 languages, 79 schools serving around 48,000 pupils and more than 5,000 in-year school admissions. The same baseline records 3,100 active EHCPs in January 2024, equal to 4.5% of the school population, and SEN Support at 14.5% in 2023/24. • Demand is variable across the academic year and is affected by EHCP activity, annual reviews, statutory assessment, transitions, mid-year admissions, placement change, AP and attendance pressures, tribunal activity, out of borough placements and national SEND reform. No historic or forecast figure is a guaranteed call-off volume. • The Framework supports the SEND and AP Strategic Improvement Plan, One Hounslow needs-led funding, the developing Experts at Hand model and the requirement to strengthen oversight of therapy funding allocated to education settings. • The Framework principles are: Child-centred - The child's voice, aspirations, communication and lived experience shape plans, delivery and review. Timely and flexible -Customers can access suitable capacity, specialisms and delivery models without avoidable delay. Inclusive and preventative -Support strengthens participation, early intervention and mainstream inclusion without weakening statutory provision. Choice and continuity -Call-offs can consider need, family preference, continuity, location, capacity, quality and value. Transparent and comparable -Common standards, maximum prices and evidence requirements reduce unjustified variation and duplicate payment. Sustainable market -The open structure supports SMEs, sole practitioners, VCS, NHS and larger Providers through proportionate requirements. One system - Education, health, care and commissioned services work together with clear responsibilities and escalation routes. • Providers must comply with all legislation, statutory guidance, professional requirements and local procedures in force during the Framework and each call-off. References below include any successor or updated requirement.  Children Act 1989 and Children Act 2004.  Education Act 1996, including section 19, and Education Act 2002, including safeguarding duties.  Children and Families Act 2014, SEND Regulations 2014 and SEND Code of Practice.  Equality Act 2010, Human Rights Act 1998 and Mental Capacity Act 2005 where applicable.  Data Protection Act 2018, UK GDPR, common law confidentiality and records management requirements.  Health and Safety at Work etc. Act 1974 and associated regulations.  Procurement Act 2023 and Procurement Regulations 2024 where relevant to Framework and call-off awards.  Working Together to Safeguard Children 2026 and Keeping Children Safe in Education 2026.  DfE guidance on arranging AP, school attendance and non-school AP standards.  HCPC, RCSLT, RCOT, BPS, DECP, NICE and other competent-body requirements applicable to the ordered service. Appointment to the open framework gives no guaranteed work, expenditure, volume or exclusivity for any of the 4 lots. For further details please refer to the suite of tender documents available on the following link",
+        "tenderSummary": "The London Borough of Hounslow is seeking experienced providers for an open framework to provide Specialist Support and Therapies for Children and Young People with SEND. This open framework is established by the London Borough of Hounslow for use by the Authority, named Local Authorities and Educational Institutions, including all maintained schools, academies, free schools, special schools, pupil referral units, alternative provision settings, further education colleges, specialist post-16 institutions and other educational establishments within Greater London and the additional geographical areas specified in this notice. The Framework provides a compliant, quality-assured route for the Authority, schools, education settings, out of borough settings and other authorised Customers to purchase support from NHS, independent, voluntary and community sector and public service Providers. The open framework supports Section F delivery and may support assessment, advice, early intervention, graduated response, consultation, workforce development and AP outreach where an authorised call-off is made. It does not transfer or dilute any statutory duty held by the Authority, an education setting, an ICB, the NHS or another public body. • The Framework provides a compliant, quality-assured route for the Authority, schools, education settings, out of borough settings and other authorised Customers to purchase support from NHS, independent, voluntary and community sector and public service Providers. • The Framework supports Section F delivery and may support assessment, advice, early intervention, graduated response, consultation, workforce development and AP outreach where an authorised call-off is made. It does not transfer or dilute any statutory duty held by the Authority, an education setting, an ICB, the NHS or another public body. Hounslow is a diverse and mobile borough. The February 2025 SEND and AP Strategic Improvement Plan records a population of about 291,000, 188 languages, 79 schools serving around 48,000 pupils and more than 5,000 in-year school admissions. The same baseline records 3,100 active EHCPs in January 2024, equal to 4.5% of the school population, and SEN Support at 14.5% in 2023/24. • Demand is variable across the academic year and is affected by EHCP activity, annual reviews, statutory assessment, transitions, mid-year admissions, placement change, AP and attendance pressures, tribunal activity, out of borough placements and national SEND reform. No historic or forecast figure is a guaranteed call-off volume. • The Framework supports the SEND and AP Strategic Improvement Plan, One Hounslow needs-led funding, the developing Experts at Hand model and the requirement to strengthen oversight of therapy funding allocated to education settings. • The Framework principles are: Child-centred - The child's voice, aspirations, communication and lived experience shape plans, delivery and review. Timely and flexible -Customers can access suitable capacity, specialisms and delivery models without avoidable delay. Inclusive and preventative -Support strengthens participation, early intervention and mainstream inclusion without weakening statutory provision. Choice and continuity -Call-offs can consider need, family preference, continuity, location, capacity, quality and value. Transparent and comparable -Common standards, maximum prices and evidence requirements reduce unjustified variation and duplicate payment. Sustainable market -The open structure supports SMEs, sole practitioners, VCS, NHS and larger Providers through proportionate requirements. One system - Education, health, care and commissioned services work together with clear responsibilities and escalation routes. • Providers must comply with all legislation, statutory guidance, professional requirements and local procedures in force during the Framework and each call-off. References below include any successor or updated requirement.  Children Act 1989 and Children Act 2004.  Education Act 1996, including section 19, and Education Act 2002, including safeguarding duties.  Children and Families Act 2014, SEND Regulations 2014 and SEND Code of Practice.  Equality Act 2010, Human Rights Act 1998 and Mental Capacity Act 2005 where applicable.  Data Protection Act 2018, UK GDPR, common law confidentiality and records management requirements.  Health and Safety at Work etc. Act 1974 and associated regulations.  Procurement Act 2023 and Procurement Regulations 2024 where relevant to Framework and call-off awards.  Working Together to Safeguard Children 2026 and Keeping Children Safe in Education 2026.  DfE guidance on arranging AP, school attendance and non-school AP standards.  HCPC, RCSLT, RCOT, BPS, DECP, NICE and other competent-body requirements applicable to the ordered service. Appointment to the open framework gives no guaranteed work, expenditure, volume or exclusivity for any of the 4 lots. For further details please refer to the suite of tender documents available on the following link",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/106015-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD1, UKF1, UKG12, UKG24, UKH23, UKH3, UKI, UKJ1, UKJ2, UKJ3, UKJ4, UKK25, UKL22",
+        "cpv": "80000000, 85000000",
+        "matchedKeywords": [
+          "safeguarding",
+          "workforce"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
       },
       {
         "id": "fts-098200-2026",
@@ -5533,6 +6186,163 @@
         "demo": false
       },
       {
+        "id": "fts-106121-2026",
+        "title": "Autism Specialist Support at Medina Road",
+        "authority": "Thurrock Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "106121-2026",
+        "published": "2026-11-09",
+        "deadline": "2026-12-11",
+        "value": 1300000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "Thurrock Council seeks to commission a specialist provider to deliver a support service for autistic adults living at the Autism Specialist Supported Housing Development at 28 Medina Road. The service aims to support autistic people to live independently within their local community, achieve personal goals, promote wellbeing and reduce the need for out-of-area placements. The successful Provider will deliver person-centred support that promotes independence, choice and control, enabling residents to develop and maintain the skills and confidence required for everyday living and community participation.",
+        "tenderSummary": "Thurrock Council seeks to commission a specialist provider to deliver a support service for autistic adults living at the Autism Specialist Supported Housing Development at 28 Medina Road. The service aims to support autistic people to live independently within their local community, achieve personal goals, promote wellbeing and reduce the need for out-of-area placements. The successful Provider will deliver person-centred support that promotes independence, choice and control, enabling residents to develop and maintain the skills and confidence required for everyday living and community participation.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/106121-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85300000, 85310000, 85311200, 98000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-105656-2026",
+        "title": "Tender for building improvement works at The Ryefields Centre, Ross-On-Wye",
+        "authority": "Herefordshire Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "105656-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-12-11",
+        "value": 1500000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Herefordshire Council is seeking to appoint a suitably qualified and experienced contractor to deliver improvement and refurbishment works at the Ryefield Centre, Ross on Wye. The project will support the provision of additional educational accommodation for pupils with additional educational needs. The works include, but are not limited to: Replacement of existing pitched and flat roof systems. Replacement of external windows. Damp remediation and associated building fabric repairs. Localised refurbishment and adaptation of part of the existing accommodation to create facilities for an additional educational needs school. Associated mechanical, electrical, fire safety, drainage and building works required to deliver a fully operational education facility. Contractor-designed elements as identified within the tender documentation. The project will be undertaken within a partially occupied building, with part of the existing centre remaining operational throughout the construction period. The successful contractor will be required to manage the works to minimise disruption to building users and maintain appropriate standards of health and safety, safeguarding and site security.",
+        "tenderSummary": "Herefordshire Council is seeking to appoint a suitably qualified and experienced contractor to deliver improvement and refurbishment works at the Ryefield Centre, Ross on Wye. The project will support the provision of additional educational accommodation for pupils with additional educational needs. The works include, but are not limited to: Replacement of existing pitched and flat roof systems. Replacement of external windows. Damp remediation and associated building fabric repairs. Localised refurbishment and adaptation of part of the existing accommodation to create facilities for an additional educational needs school. Associated mechanical, electrical, fire safety, drainage and building works required to deliver a fully operational education facility. Contractor-designed elements as identified within the tender documentation. The project will be undertaken within a partially occupied building, with part of the existing centre remaining operational throughout the construction period. The successful contractor will be required to manage the works to minimise disruption to building users and maintain appropriate standards of health and safety, safeguarding and site security.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105656-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG11",
+        "cpv": "45000000",
+        "matchedKeywords": [
+          "safeguarding",
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-105624-2026",
+        "title": "Provision of Marketing Services",
+        "authority": "Luton Sixth Form College",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "105624-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-12-11",
+        "value": 230400,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Luton Sixth Form College is seeking to appoint an experienced and innovative marketing agency to provide strategic and operational marketing services. The successful supplier will act as an extension of the internal team to support the College in achieving its strategic objectives through effective student recruitment activity, brand development, digital marketing, content creation, and campaign management. The scope of services includes, but is not limited to: Strategic marketing planning, market research, brand development and positioning. Student recruitment campaigns, including open event marketing, application generation, conversion and enrolment activity. Digital marketing services, including social media management, paid advertising, SEO, email marketing and content planning. Creative services, including campaign development, graphic design, print production and promotional materials. Alumni engagement and communications. Content creation, including photography, videography, case studies, website content and social media assets. Campaign reporting, analytics, ROI measurement and performance monitoring. Crisis communications and reputational support where required. The College is seeking a supplier with demonstrable experience delivering comparable services within the education sector, public sector or similarly complex organisations. Suppliers must demonstrate strong digital marketing capability, expertise in student recruitment, robust account management arrangements, and appropriate safeguarding, information security and data protection controls. The proposed contract will commence on 15 January 2027 for an initial term of one year, with the option to extend for up to two further periods of one year each, subject to satisfactory performance and business need. The estimated total contract value across the maximum term is £230,400 excluding VAT. The contract will be awarded to the supplier submitting the Most Advantageous Tender (MAT), evaluated on the basis of 40% price and 60% quality",
+        "tenderSummary": "Luton Sixth Form College is seeking to appoint an experienced and innovative marketing agency to provide strategic and operational marketing services. The successful supplier will act as an extension of the internal team to support the College in achieving its strategic objectives through effective student recruitment activity, brand development, digital marketing, content creation, and campaign management. The scope of services includes, but is not limited to: Strategic marketing planning, market research, brand development and positioning. Student recruitment campaigns, including open event marketing, application generation, conversion and enrolment activity. Digital marketing services, including social media management, paid advertising, SEO, email marketing and content planning. Creative services, including campaign development, graphic design, print production and promotional materials. Alumni engagement and communications. Content creation, including photography, videography, case studies, website content and social media assets. Campaign reporting, analytics, ROI measurement and performance monitoring. Crisis communications and reputational support where required. The College is seeking a supplier with demonstrable experience delivering comparable services within the education sector, public sector or similarly complex organisations. Suppliers must demonstrate strong digital marketing capability, expertise in student recruitment, robust account management arrangements, and appropriate safeguarding, information security and data protection controls. The proposed contract will commence on 15 January 2027 for an initial term of one year, with the option to extend for up to two further periods of one year each, subject to satisfactory performance and business need. The estimated total contract value across the maximum term is £230,400 excluding VAT. The contract will be awarded to the supplier submitting the Most Advantageous Tender (MAT), evaluated on the basis of 40% price and 60% quality",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://lutonsfc.ac.uk/",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "79340000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-105549-2026",
+        "title": "The Provision of Global Mobility/Shadow Payroll/Immigration and Staff Support Services",
+        "authority": "University of Bath",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105549-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-12-11",
+        "value": 1500000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "The University of Bath (University) currently has a small but growing international workforce of around 20 staff on long term overseas assignments and currently operates overseas payrolls in 6 countries. In addition, we are currently exploring overseas partnerships with other institutions which may double the number of University staff working overseas on a short and long term basis. The overseas partnerships are currently focused on providing Transnational Education (TNE) in China (including Hainan, Shaanxi & Beijing), India and other countries. The University wishes to enter into a contract with a Supplier who can provide a comprehensive global mobility, shadow payroll, immigration and staff support service. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Bath:-Financial-consultancy-services./358CQAF298 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/358CQAF298",
+        "tenderSummary": "The University of Bath (University) currently has a small but growing international workforce of around 20 staff on long term overseas assignments and currently operates overseas payrolls in 6 countries. In addition, we are currently exploring overseas partnerships with other institutions which may double the number of University staff working overseas on a short and long term basis. The overseas partnerships are currently focused on providing Transnational Education (TNE) in China (including Hainan, Shaanxi & Beijing), India and other countries. The University wishes to enter into a contract with a Supplier who can provide a comprehensive global mobility, shadow payroll, immigration and staff support service. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Bath:-Financial-consultancy-services./358CQAF298 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/358CQAF298",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105549-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK12",
+        "cpv": "66171000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
         "id": "fts-093865-2026",
         "title": "Direct Payment Support Service",
         "authority": "Newcastle City Council",
@@ -5569,6 +6379,47 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
+        "demo": false
+      },
+      {
+        "id": "fts-105842-2026",
+        "title": "Somerset Health and Social Care Training, Workforce Development and Innovation Open Framework",
+        "authority": "Somerset NHS Foundation Trust",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "105842-2026",
+        "published": "2026-11-06",
+        "deadline": "2026-12-16",
+        "value": 5000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Somerset Health and Care Academy (“the Academy”) is a strategic partnership established through a contractual joint venture between Somerset Council (SC), Somerset NHS Foundation Trust (SFT), and NHS Somerset Integrated Care Board (ICB). The purpose of the Academy is to establish a high-quality, flexible and scalable provider base to deliver training, workforce development, and innovation services aligned to system-wide workforce priorities, with a particular focus on providing high quality social care training programmes. SFT is running this procurement on behalf of the Academy.",
+        "tenderSummary": "Somerset Health and Care Academy (“the Academy”) is a strategic partnership established through a contractual joint venture between Somerset Council (SC), Somerset NHS Foundation Trust (SFT), and NHS Somerset Integrated Care Board (ICB). The purpose of the Academy is to establish a high-quality, flexible and scalable provider base to deliver training, workforce development, and innovation services aligned to system-wide workforce priorities, with a particular focus on providing high quality social care training programmes. SFT is running this procurement on behalf of the Academy.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/105842-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK23",
+        "cpv": "80000000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
         "demo": false
       },
       {
@@ -5820,6 +6671,45 @@
         "updatedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add"
       },
       {
+        "id": "fts-105654-2026",
+        "title": "Multi-Supplier Framework Agreement for the Provision of Agency Staff and Recruitment Services",
+        "authority": "The Sheffield College",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "105654-2026",
+        "published": "2026-11-06",
+        "deadline": "2027-01-15",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The Sheffield College is seeking to establish a multi-supplier framework agreement for the provision of temporary agency workers and recruitment services across a range of academic, curriculum support, business support, technical, professional and specialist roles. The framework will provide a compliant route for the engagement of temporary agency workers and the recruitment of permanent and fixed-term employees where required. Services may include temporary staffing, permanent recruitment, executive search, candidate sourcing, advertising, screening, safeguarding checks and associated recruitment support services. The framework is anticipated to commence on 1st April 2027 for an initial period of two (2) years, with the option to extend for up to a further twenty-four (24) months at the College's discretion. The maximum framework term shall not exceed four (4) years. The estimated annual value of the framework is approximately £950,000, with an estimated total value of £3,800,000 inclusive of all extension options. The College does not guarantee any minimum level of spend under the framework.",
+        "tenderSummary": "The Sheffield College is seeking to establish a multi-supplier framework agreement for the provision of temporary agency workers and recruitment services across a range of academic, curriculum support, business support, technical, professional and specialist roles. The framework will provide a compliant route for the engagement of temporary agency workers and the recruitment of permanent and fixed-term employees where required. Services may include temporary staffing, permanent recruitment, executive search, candidate sourcing, advertising, screening, safeguarding checks and associated recruitment support services. The framework is anticipated to commence on 1st April 2027 for an initial period of two (2) years, with the option to extend for up to a further twenty-four (24) months at the College's discretion. The maximum framework term shall not exceed four (4) years. The estimated annual value of the framework is approximately £950,000, with an estimated total value of £3,800,000 inclusive of all extension options. The College does not guarantee any minimum level of spend under the framework.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-25331",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "79600000, 79610000, 79620000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
         "id": "fts-104440-2026",
         "title": "Provision of a Finance Solution and Associated Services to the Northern Ireland Assembly Commission",
         "authority": "Northern Ireland Assembly Commission",
@@ -5937,42 +6827,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-06T15:54:30.401Z"
+    "lastPartialUpdate": "2026-11-09T18:45:47.077Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
-    "attemptedAt": "2026-11-06T15:54:30.401Z",
+    "attemptId": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+    "attemptedAt": "2026-11-09T18:45:47.077Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
-    "retrievedCount": 13,
-    "totalCount": 147,
+    "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
+    "retrievedCount": 26,
+    "totalCount": 169,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-06T15:54:30.401Z",
-        "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
-        "lastAttemptAt": "2026-11-06T15:54:30.401Z",
+        "watermark": "2026-11-09T18:45:47.077Z",
+        "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
+        "lastAttemptAt": "2026-11-09T18:45:47.077Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-04T16:27:29.184Z",
-          "to": "2026-11-06T15:54:30.401Z"
+          "from": "2026-11-05T15:54:30.401Z",
+          "to": "2026-11-09T18:45:47.077Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-06T15:54:30.401Z",
-        "lastSuccessfulUpdate": "2026-11-06T15:54:30.401Z",
-        "lastAttemptAt": "2026-11-06T15:54:30.401Z",
+        "watermark": "2026-11-09T18:45:47.077Z",
+        "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
+        "lastAttemptAt": "2026-11-09T18:45:47.077Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-04T16:27:29.184Z",
-          "to": "2026-11-06T15:54:30.401Z"
+          "from": "2026-11-05T15:54:30.401Z",
+          "to": "2026-11-09T18:45:47.077Z"
         }
       }
     }
