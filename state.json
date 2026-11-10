@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-09T18:45:47.077Z",
-      "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
-      "lastAttemptAt": "2026-11-09T18:45:47.077Z",
+      "watermark": "2026-11-10T16:24:50.988Z",
+      "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
+      "lastAttemptAt": "2026-11-10T16:24:50.988Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-05T15:54:30.401Z",
-        "to": "2026-11-09T18:45:47.077Z"
+        "from": "2026-11-08T18:45:47.077Z",
+        "to": "2026-11-10T16:24:50.988Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-09T18:45:47.077Z",
-      "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
-      "lastAttemptAt": "2026-11-09T18:45:47.077Z",
+      "watermark": "2026-11-10T16:24:50.988Z",
+      "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
+      "lastAttemptAt": "2026-11-10T16:24:50.988Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-05T15:54:30.401Z",
-        "to": "2026-11-09T18:45:47.077Z"
+        "from": "2026-11-08T18:45:47.077Z",
+        "to": "2026-11-10T16:24:50.988Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
-    "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
+    "buildId": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
+    "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
     "interval": {
-      "from": "2026-11-05T15:54:30.401Z",
-      "to": "2026-11-09T18:45:47.077Z"
+      "from": "2026-11-08T18:45:47.077Z",
+      "to": "2026-11-10T16:24:50.988Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 26,
-    "totalCount": 169,
+    "retrievedCount": 12,
+    "totalCount": 174,
     "sourceFailures": [],
     "records": [
       {
@@ -4220,6 +4220,46 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false,
+        "updatedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1"
+      },
+      {
+        "id": "cf-cbc8d975-376f-4c40-b602-3b8a9b2435cc-921153",
+        "title": "Lead Designer, Architect, Conservation Architect, CDM Principal Designer and Building Safety Act Principal Designer",
+        "authority": "Thetford Town Council",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "cbc8d975-376f-4c40-b602-3b8a9b2435cc-921153",
+        "published": "2026-11-10",
+        "deadline": "2026-11-20",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Below is a summary please refer to the Job pack for detailed information Thetford Town Council is seeking to appoint a single consultant practice to undertake the roles of: • Lead Designer; • Architect; • Conservation Architect; • Principal Designer (CDM Regulations); • Principal Designer (Building Safety Act). The successful consultant shall lead and coordinate the design for the Development Phase and prepare the project design for submission of the NLHF Delivery Phase Application. The consultant will work closely with the Project Manager, Quantity Surveyor, Structural Engineer and specialist advisers to prepare a robust and fully costed proposal capable of supporting a successful National Lottery Heritage Fund Delivery Phase application. The NLHF Delivery Phase application will be managed by the Client Team and appointed Project Manager, however, the Architect may be required to attend NLHF meetings and workshops from time to time as reasonably requested by the Client or Project Manager. Equality, Inclusion & Environmental Sustainability The project is shaped by NLHF's investment principles and Thetford's identity as a richly diverse town. Commissioned work should demonstrate: • Inclusive engagement with communities underserved by heritage; • Barrier-free access to heritage learning and opportunities; • Environmentally responsible design, including re-use and carbon impact; • Contribution to a sustainable operating model rooted in community need. Project Objectives The project objectives are to: • Remove the building from the Heritage at Risk Register; • Secure the long-term conservation of the historic fabric; • Deliver inclusive and accessible community facilities; • Support learning, heritage interpretation and skills development; • Improve environmental sustainability; • Create a financially sustainable operational model and future for the site; • Support regeneration within Thetford town centre. All submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "tenderSummary": "Below is a summary please refer to the Job pack for detailed information Thetford Town Council is seeking to appoint a single consultant practice to undertake the roles of: • Lead Designer; • Architect; • Conservation Architect; • Principal Designer (CDM Regulations); • Principal Designer (Building Safety Act). The successful consultant shall lead and coordinate the design for the Development Phase and prepare the project design for submission of the NLHF Delivery Phase Application. The consultant will work closely with the Project Manager, Quantity Surveyor, Structural Engineer and specialist advisers to prepare a robust and fully costed proposal capable of supporting a successful National Lottery Heritage Fund Delivery Phase application. The NLHF Delivery Phase application will be managed by the Client Team and appointed Project Manager, however, the Architect may be required to attend NLHF meetings and workshops from time to time as reasonably requested by the Client or Project Manager. Equality, Inclusion & Environmental Sustainability The project is shaped by NLHF's investment principles and Thetford's identity as a richly diverse town. Commissioned work should demonstrate: • Inclusive engagement with communities underserved by heritage; • Barrier-free access to heritage learning and opportunities; • Environmentally responsible design, including re-use and carbon impact; • Contribution to a sustainable operating model rooted in community need. Project Objectives The project objectives are to: • Remove the building from the Heritage at Risk Register; • Secure the long-term conservation of the historic fabric; • Deliver inclusive and accessible community facilities; • Support learning, heritage interpretation and skills development; • Improve environmental sustainability; • Create a financially sustainable operational model and future for the site; • Support regeneration within Thetford town centre. All submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-12-14 to 2027-09-14",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/cbc8d975-376f-4c40-b602-3b8a9b2435cc",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "IP24 2DS",
+        "cpv": "71210000, 71221000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
         "demo": false
       },
       {
@@ -4457,6 +4497,47 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-106456-2026",
+        "title": "Elt Capacity Building and Materials Development Consultancy",
+        "authority": "BRITISH COUNCIL(THE)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "106456-2026",
+        "published": "2026-11-10",
+        "deadline": "2026-11-23",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The British Council invites proposals from qualified consultancy providers to deliver technical expertise training mentoring and quality assurance support for English Language Teaching Elt inspectors and Ministry representatives under the Skills for Success programme",
+        "tenderSummary": "The British Council invites proposals from qualified consultancy providers to deliver technical expertise training mentoring and quality assurance support for English Language Teaching Elt inspectors and Ministry representatives under the Skills for Success programme",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-25458",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "TN",
+        "cpv": "80000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
         "demo": false
       },
       {
@@ -5013,7 +5094,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1"
       },
       {
         "id": "fts-099739-2026",
@@ -5216,7 +5298,8 @@
           "80500000"
         ],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1"
       },
       {
         "id": "fts-105632-2026",
@@ -5260,6 +5343,47 @@
           "80561000"
         ],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-106838-2026",
+        "title": "ACE 1128 ITQ Youth Voice Sector Insight and Evidence",
+        "authority": "The Arts Council of England",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "106838-2026",
+        "published": "2026-11-10",
+        "deadline": "2026-11-30",
+        "value": 20833.33,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Arts Council England (ACE), the national development agency for creativity and culture, are seeking a suitably qualified supplier to undertake a research and mapping exercise to establish a baseline understanding of youth voice practice across the arts and cultural sector in England. The purpose of this commission is to build a robust evidence base on youth voice practice across the sector, identifying strengths, gaps, challenges and opportunities. Findings will inform future organisational development, sector support activity and potential investment priorities relating to youth voice. ACE is seeking a supplier to design and deliver an appropriate research methodology combining desk research, evidence review and quantitative data collection. This will include a sector-wide survey of arts and cultural organisations, with sector professionals and practitioners responding on behalf of their organisations. Additional qualitative research methods are welcomed where considered feasible within the available budget and timescale. The successful supplier will be required to produce outputs that are accessible and understandable to young people aged 14 and above. Further details on the requirements are provided within the ITQ, which can be requested via email from Abir.Tobji@artscouncil.org.uk All correspondence in relation to this quotation (including clarifications and submissions) should be address to: Abir Tobji, Senior Manager, Youth Engagement. Email: Abir.Tobji@artscouncil.org.uk",
+        "tenderSummary": "Arts Council England (ACE), the national development agency for creativity and culture, are seeking a suitably qualified supplier to undertake a research and mapping exercise to establish a baseline understanding of youth voice practice across the arts and cultural sector in England. The purpose of this commission is to build a robust evidence base on youth voice practice across the sector, identifying strengths, gaps, challenges and opportunities. Findings will inform future organisational development, sector support activity and potential investment priorities relating to youth voice. ACE is seeking a supplier to design and deliver an appropriate research methodology combining desk research, evidence review and quantitative data collection. This will include a sector-wide survey of arts and cultural organisations, with sector professionals and practitioners responding on behalf of their organisations. Additional qualitative research methods are welcomed where considered feasible within the available budget and timescale. The successful supplier will be required to produce outputs that are accessible and understandable to young people aged 14 and above. Further details on the requirements are provided within the ITQ, which can be requested via email from Abir.Tobji@artscouncil.org.uk All correspondence in relation to this quotation (including clarifications and submissions) should be address to: Abir Tobji, Senior Manager, Youth Engagement. Email: Abir.Tobji@artscouncil.org.uk",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/106838-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "73000000, 73200000, 73210000, 73300000, 73220000, 79419000, 80000000, 98133110",
+        "matchedKeywords": [
+          "organisational development"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
         "demo": false
       },
       {
@@ -5420,6 +5544,46 @@
         "addedBuild": "2026-11-04T13:21:03.669Z-27e9596c-f4d8-47d8-ae16-366dabd03919",
         "demo": false,
         "updatedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6"
+      },
+      {
+        "id": "fts-106495-2026",
+        "title": "London's Violence Reduction Unit - Pan London Tertiary Service",
+        "authority": "Mayor's Office For Policing And Crime",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "106495-2026",
+        "published": "2026-11-10",
+        "deadline": "2026-12-02",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "About the VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. Project Background The VRU takes a public health approach to violence reduction, recognising that prevention requires action at different stages. Primary prevention seeks to change the conditions that make violence more likely, strengthening protective factors before violence occurs. Secondary prevention responds when risk or violence is emerging, aiming to interrupt risk and prevent escalation. Tertiary prevention focuses on reducing the harm caused by violence, supporting recovery and reducing the likelihood of further violence. These approaches are complementary, forming part of a wider response to violence and exploitation. Children and young people affected by violence and exploitation can experience complex and interconnected needs, alongside significant barriers to accessing support. These may include safeguarding concerns, trauma, mental health needs, housing instability, disrupted relationships and difficulties accessing education, employment and other opportunities. Tertiary provision is therefore essential to provide tailored, coordinated support that addresses immediate safeguarding concerns, helps young people recover and improve their circumstances, and reduces the risk of further harm. The Violence and Exploitation Support Service (VESS) launched in June 2024 to provide specialist support to young people across London who have been affected by violence and exploitation. Management of the VESS contract transferred from the Mayor’s Office for Police and Crime (MOPAC) to the VRU in October 2025, with the contract due to expire in June 2027. VESS has made an important contribution to the VRU’s wider approach to tertiary provision, reinforcing the value of trusted relationships between practitioners and young people, flexible and personalised support, and a multidisciplinary approach connecting young people to specialist services, including mental health, housing, education, employment and safeguarding. This experience, alongside the VRU’s established expertise in violence reduction and wider evidence base, provides a strong foundation for the development of the new Tertiary Service. As VESS is due to end in June 2027, the VRU is commissioning a new Tertiary Service to provide specialist support to young people experiencing the highest levels of harm, vulnerability, violence and exploitation. Description of the service The London Violence Reduction Unit (VRU) will appoint a provider to deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The VRU Tertiary Service forms part of the VRU’s wider public health approach to violence reduction. It is intended to provide specialist support to young people who are already affected by, or at significant risk of, serious violence and exploitation, where intensive and coordinated, intervention is required to address their needs and reduce the risk of further harm. The Service will deliver intensive, relationship-based one-to-one support that responds to immediate safeguarding concerns and the wider factors contributing to violence, exploitation and vulnerability. Practitioners will build trusted relationships with young people who may have experienced significant trauma, have difficulty engaging with services or have developed distrust towards professionals. Support will be tailored to each young person’s circumstances, needs, risks and aspirations. This includes responding to immediate concerns while addressing longer-term factors affecting safety, stability and wellbeing. The Provider will coordinate support across multiple areas of need and help young people access relevant specialist interventions and wider services. The Provider will work collaboratively with statutory, voluntary and community sector partners to support identification and referral, coordinate interventions, address barriers to accessing support and strengthen pathways between the VRU’s wider tertiary provision and other relevant services. The Service will operate within a consistent pan-London framework, supported by strong local integration and partnerships. The Provider will understand local systems and community contexts in which young people experience violence and exploitation, while ensuring that young people can access a consistent standard of support across London. The service is expected to: - Identify, engage and support young people aged 11-25 who are experiencing the highest levels of violence, exploitation, harm and vulnerability. - Deliver intensive, relationship-based support through named practitioners who build trusted, consistent and sustained relationships with young people. - Improve young people's safety, wellbeing, stability and resilience by addressing immediate safeguarding concerns and underlying drivers of harm. - Provide tailored, needs-led interventions that respond to each young person's individual circumstances, strengths, risks, and aspirations. - Support young people to access, navigate, and engage with relevant statutory, voluntary, and community services through advocacy and system navigation. - Improve access to specialist support, including housing, education, training and employment, family support, mental health services, and other interventions relevant to need. - Strengthen multi-agency partnerships, information sharing, and coordinated responses across local systems. - Promote culturally competent, gender-responsive, and trauma-informed approaches that reflect young people's identities, experiences, and needs. - Embed lived experience, cultural competence, reflective practice and trauma-informed principles throughout service delivery. - Strengthen local safeguarding and violence reduction responses through the sharing of intelligence, learning, emerging risks and contextual safeguarding insights. - Operate as a connected pan-London service that shares effective practice, learning and intelligence across borough boundaries. - Support wider system improvement by informing more effective local and pan-London responses to violence and exploitation through learning from service delivery. Target Audience The Service is intended for London-based young people aged 11 to 25 who are most impacted by violence and exploitation. Support young people who demonstrate indicators of: - Established harm: Violence or exploitation is currently occurring or has occurred repeatedly. - Entrenched circumstances: The young person is experiencing persistent violence or exploitation that has not been effectively addressed through existing services or previous interventions. - Multiple and interconnected risks: Violence or exploitation is linked to factors such as housing instability, family circumstances, harmful peer influences, trauma, substance use, education, or involvement with the justice system. - Escalating or significant contextual risk: The young person is exposed to harm through relationships, peer networks, locations, institutions, online spaces or wider environments that require specialist intervention and coordinated support. This risk may be increasing in frequency, severity or impact. Examples of young people who may be appropriate for the Service include, but are not limited to: - Young people with missing episodes linked to violence, exploitation or criminal activity. - Young people who are being exploited into, or are actively involved with, harmful peer groups, gangs or organised criminal networks. - Young people whose risks have persisted or escalated despite previous interventions or support arrangements. - Young people demonstrating escalating patterns of offending, exploitation, vulnerability or harm. - Young people experiencing violence and exploitation alongside housing insecurity, homelessness, family breakdown, trauma, poor mental health, neurodiversity, substance use or disengagement from education, training or employment. Scope of Delivery The Provider will deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The Provider delivering the Service must demonstrate the following: - Credible and effective youth work - Advocacy and systems navigation - Safeguarding and transitional safeguarding - Multi-agency partnership working and local systems integration - Specialist intervention and needs-led support - Reflective practice, learning and service development The Provider will demonstrate experience of working with young people affected by violence and exploitation who present with high levels of risk, harm and vulnerability. The Provider will deliver a clear organisational approach to engaging and supporting this cohort. They must evidence how their approach enables them to build trust, sustain long term engagement, and achieve positive outcomes in relation to safety, wellbeing, stability and reduced vulnerability to violence and exploitation. Practitioners must demonstrate credibility, authenticity, professional curiosity and appropriate boundaries, supported by training, supervision and ongoing workforce development. The service is expected to work closely with local authorities, criminal justice system, education providers, health services, community VCS organisations, and other VRU tertiary programmes.",
+        "tenderSummary": "About the VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. Project Background The VRU takes a public health approach to violence reduction, recognising that prevention requires action at different stages. Primary prevention seeks to change the conditions that make violence more likely, strengthening protective factors before violence occurs. Secondary prevention responds when risk or violence is emerging, aiming to interrupt risk and prevent escalation. Tertiary prevention focuses on reducing the harm caused by violence, supporting recovery and reducing the likelihood of further violence. These approaches are complementary, forming part of a wider response to violence and exploitation. Children and young people affected by violence and exploitation can experience complex and interconnected needs, alongside significant barriers to accessing support. These may include safeguarding concerns, trauma, mental health needs, housing instability, disrupted relationships and difficulties accessing education, employment and other opportunities. Tertiary provision is therefore essential to provide tailored, coordinated support that addresses immediate safeguarding concerns, helps young people recover and improve their circumstances, and reduces the risk of further harm. The Violence and Exploitation Support Service (VESS) launched in June 2024 to provide specialist support to young people across London who have been affected by violence and exploitation. Management of the VESS contract transferred from the Mayor’s Office for Police and Crime (MOPAC) to the VRU in October 2025, with the contract due to expire in June 2027. VESS has made an important contribution to the VRU’s wider approach to tertiary provision, reinforcing the value of trusted relationships between practitioners and young people, flexible and personalised support, and a multidisciplinary approach connecting young people to specialist services, including mental health, housing, education, employment and safeguarding. This experience, alongside the VRU’s established expertise in violence reduction and wider evidence base, provides a strong foundation for the development of the new Tertiary Service. As VESS is due to end in June 2027, the VRU is commissioning a new Tertiary Service to provide specialist support to young people experiencing the highest levels of harm, vulnerability, violence and exploitation. Description of the service The London Violence Reduction Unit (VRU) will appoint a provider to deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The VRU Tertiary Service forms part of the VRU’s wider public health approach to violence reduction. It is intended to provide specialist support to young people who are already affected by, or at significant risk of, serious violence and exploitation, where intensive and coordinated, intervention is required to address their needs and reduce the risk of further harm. The Service will deliver intensive, relationship-based one-to-one support that responds to immediate safeguarding concerns and the wider factors contributing to violence, exploitation and vulnerability. Practitioners will build trusted relationships with young people who may have experienced significant trauma, have difficulty engaging with services or have developed distrust towards professionals. Support will be tailored to each young person’s circumstances, needs, risks and aspirations. This includes responding to immediate concerns while addressing longer-term factors affecting safety, stability and wellbeing. The Provider will coordinate support across multiple areas of need and help young people access relevant specialist interventions and wider services. The Provider will work collaboratively with statutory, voluntary and community sector partners to support identification and referral, coordinate interventions, address barriers to accessing support and strengthen pathways between the VRU’s wider tertiary provision and other relevant services. The Service will operate within a consistent pan-London framework, supported by strong local integration and partnerships. The Provider will understand local systems and community contexts in which young people experience violence and exploitation, while ensuring that young people can access a consistent standard of support across London. The service is expected to: - Identify, engage and support young people aged 11-25 who are experiencing the highest levels of violence, exploitation, harm and vulnerability. - Deliver intensive, relationship-based support through named practitioners who build trusted, consistent and sustained relationships with young people. - Improve young people's safety, wellbeing, stability and resilience by addressing immediate safeguarding concerns and underlying drivers of harm. - Provide tailored, needs-led interventions that respond to each young person's individual circumstances, strengths, risks, and aspirations. - Support young people to access, navigate, and engage with relevant statutory, voluntary, and community services through advocacy and system navigation. - Improve access to specialist support, including housing, education, training and employment, family support, mental health services, and other interventions relevant to need. - Strengthen multi-agency partnerships, information sharing, and coordinated responses across local systems. - Promote culturally competent, gender-responsive, and trauma-informed approaches that reflect young people's identities, experiences, and needs. - Embed lived experience, cultural competence, reflective practice and trauma-informed principles throughout service delivery. - Strengthen local safeguarding and violence reduction responses through the sharing of intelligence, learning, emerging risks and contextual safeguarding insights. - Operate as a connected pan-London service that shares effective practice, learning and intelligence across borough boundaries. - Support wider system improvement by informing more effective local and pan-London responses to violence and exploitation through learning from service delivery. Target Audience The Service is intended for London-based young people aged 11 to 25 who are most impacted by violence and exploitation. Support young people who demonstrate indicators of: - Established harm: Violence or exploitation is currently occurring or has occurred repeatedly. - Entrenched circumstances: The young person is experiencing persistent violence or exploitation that has not been effectively addressed through existing services or previous interventions. - Multiple and interconnected risks: Violence or exploitation is linked to factors such as housing instability, family circumstances, harmful peer influences, trauma, substance use, education, or involvement with the justice system. - Escalating or significant contextual risk: The young person is exposed to harm through relationships, peer networks, locations, institutions, online spaces or wider environments that require specialist intervention and coordinated support. This risk may be increasing in frequency, severity or impact. Examples of young people who may be appropriate for the Service include, but are not limited to: - Young people with missing episodes linked to violence, exploitation or criminal activity. - Young people who are being exploited into, or are actively involved with, harmful peer groups, gangs or organised criminal networks. - Young people whose risks have persisted or escalated despite previous interventions or support arrangements. - Young people demonstrating escalating patterns of offending, exploitation, vulnerability or harm. - Young people experiencing violence and exploitation alongside housing insecurity, homelessness, family breakdown, trauma, poor mental health, neurodiversity, substance use or disengagement from education, training or employment. Scope of Delivery The Provider will deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The Provider delivering the Service must demonstrate the following: - Credible and effective youth work - Advocacy and systems navigation - Safeguarding and transitional safeguarding - Multi-agency partnership working and local systems integration - Specialist intervention and needs-led support - Reflective practice, learning and service development The Provider will demonstrate experience of working with young people affected by violence and exploitation who present with high levels of risk, harm and vulnerability. The Provider will deliver a clear organisational approach to engaging and supporting this cohort. They must evidence how their approach enables them to build trust, sustain long term engagement, and achieve positive outcomes in relation to safety, wellbeing, stability and reduced vulnerability to violence and exploitation. Practitioners must demonstrate credibility, authenticity, professional curiosity and appropriate boundaries, supported by training, supervision and ongoing workforce development. The service is expected to work closely with local authorities, criminal justice system, education providers, health services, community VCS organisations, and other VRU tertiary programmes.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/106495-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85000000",
+        "matchedKeywords": [
+          "safeguarding",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
+        "demo": false
       },
       {
         "id": "fts-105240-2026",
@@ -5738,7 +5902,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1"
       },
       {
         "id": "fts-105951-2026",
@@ -5938,7 +6103,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1"
       },
       {
         "id": "fts-105950-2026",
@@ -6103,7 +6269,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1"
       },
       {
         "id": "fts-098200-2026",
@@ -6222,7 +6389,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1"
       },
       {
         "id": "fts-105656-2026",
@@ -6631,6 +6799,45 @@
         "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
       },
       {
+        "id": "fts-106845-2026",
+        "title": "Cheshire East Carer Service",
+        "authority": "Cheshire East Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "106845-2026",
+        "published": "2026-11-10",
+        "deadline": "2027-01-06",
+        "value": 4627000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Cheshire East Council is recommissioning its support offer for carers across the borough. The service will support adult carers who provide unpaid care and support to family members, friends and neighbours living within Cheshire East. Under the Care Act 2014, the Local Authority has a statutory responsibility to identify, assess need and support carers. The Council recognises the vital contribution unpaid carers make to sustaining families, communities, health services and social care and is committed to ensuring carers are recognised, valued and supported as equal partners in care. The final scope of the procurement will be confirmed following market engagement and completion of the service design process. It is anticipated the contract will include: provision of accessible information, advice and guidance; early identification and engagement; flexible preventative support; promoting wellbeing, training and skills development; peer and community support; digital innovation; co-production; and targeted interventions for carers facing additional barriers or inequalities.",
+        "tenderSummary": "Cheshire East Council is recommissioning its support offer for carers across the borough. The service will support adult carers who provide unpaid care and support to family members, friends and neighbours living within Cheshire East. Under the Care Act 2014, the Local Authority has a statutory responsibility to identify, assess need and support carers. The Council recognises the vital contribution unpaid carers make to sustaining families, communities, health services and social care and is committed to ensuring carers are recognised, valued and supported as equal partners in care. The final scope of the procurement will be confirmed following market engagement and completion of the service design process. It is anticipated the contract will include: provision of accessible information, advice and guidance; early identification and engagement; flexible preventative support; promoting wellbeing, training and skills development; peer and community support; digital innovation; co-production; and targeted interventions for carers facing additional barriers or inequalities.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-24240",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD62",
+        "cpv": "85000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
+        "demo": false
+      },
+      {
         "id": "fts-102062-2026",
         "title": "Passive Fire Safety Remedial works",
         "authority": "Southern Housing",
@@ -6827,42 +7034,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-09T18:45:47.077Z"
+    "lastPartialUpdate": "2026-11-10T16:24:50.988Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
-    "attemptedAt": "2026-11-09T18:45:47.077Z",
+    "attemptId": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
+    "attemptedAt": "2026-11-10T16:24:50.988Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
-    "retrievedCount": 26,
-    "totalCount": 169,
+    "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
+    "retrievedCount": 12,
+    "totalCount": 174,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-09T18:45:47.077Z",
-        "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
-        "lastAttemptAt": "2026-11-09T18:45:47.077Z",
+        "watermark": "2026-11-10T16:24:50.988Z",
+        "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
+        "lastAttemptAt": "2026-11-10T16:24:50.988Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-05T15:54:30.401Z",
-          "to": "2026-11-09T18:45:47.077Z"
+          "from": "2026-11-08T18:45:47.077Z",
+          "to": "2026-11-10T16:24:50.988Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-09T18:45:47.077Z",
-        "lastSuccessfulUpdate": "2026-11-09T18:45:47.077Z",
-        "lastAttemptAt": "2026-11-09T18:45:47.077Z",
+        "watermark": "2026-11-10T16:24:50.988Z",
+        "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
+        "lastAttemptAt": "2026-11-10T16:24:50.988Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-05T15:54:30.401Z",
-          "to": "2026-11-09T18:45:47.077Z"
+          "from": "2026-11-08T18:45:47.077Z",
+          "to": "2026-11-10T16:24:50.988Z"
         }
       }
     }
