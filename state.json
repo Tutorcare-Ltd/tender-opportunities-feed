@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-10T16:24:50.988Z",
-      "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
-      "lastAttemptAt": "2026-11-10T16:24:50.988Z",
+      "watermark": "2026-11-11T16:08:42.282Z",
+      "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
+      "lastAttemptAt": "2026-11-11T16:08:42.282Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-08T18:45:47.077Z",
-        "to": "2026-11-10T16:24:50.988Z"
+        "from": "2026-11-09T16:24:50.988Z",
+        "to": "2026-11-11T16:08:42.282Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-10T16:24:50.988Z",
-      "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
-      "lastAttemptAt": "2026-11-10T16:24:50.988Z",
+      "watermark": "2026-11-11T16:08:42.282Z",
+      "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
+      "lastAttemptAt": "2026-11-11T16:08:42.282Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-08T18:45:47.077Z",
-        "to": "2026-11-10T16:24:50.988Z"
+        "from": "2026-11-09T16:24:50.988Z",
+        "to": "2026-11-11T16:08:42.282Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
-    "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
+    "buildId": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+    "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
     "interval": {
-      "from": "2026-11-08T18:45:47.077Z",
-      "to": "2026-11-10T16:24:50.988Z"
+      "from": "2026-11-09T16:24:50.988Z",
+      "to": "2026-11-11T16:08:42.282Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 12,
-    "totalCount": 174,
+    "retrievedCount": 14,
+    "totalCount": 183,
     "sourceFailures": [],
     "records": [
       {
@@ -3824,6 +3824,45 @@
         "demo": false
       },
       {
+        "id": "fts-107123-2026",
+        "title": "Framework Agreement for DNA, Drug and Alcohol Testing Services",
+        "authority": "City & County of Swansea",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "107123-2026",
+        "published": "2026-11-11",
+        "deadline": "2026-11-18",
+        "value": 700000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Swansea Council is seeking to establish a Framework Agreement for the provision of accredited testing services to support safeguarding, social care, legal proceedings and associated statutory functions. The Framework will comprise two Lots: Lot 1 Drug and Alcohol Testing Services Lot 2 DNA Testing Services",
+        "tenderSummary": "Swansea Council is seeking to establish a Framework Agreement for the provision of accredited testing services to support safeguarding, social care, legal proceedings and associated statutory functions. The Framework will comprise two Lots: Lot 1 Drug and Alcohol Testing Services Lot 2 DNA Testing Services",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/107123-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL18",
+        "cpv": "85145000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false
+      },
+      {
         "id": "cf-ecd27e50-1bd9-489a-ad12-72730a1a95cc-917035",
         "title": "CA18527 - Danes Educational Trust",
         "authority": "Danes Educational Trust",
@@ -4260,7 +4299,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b"
       },
       {
         "id": "fts-099085-2026",
@@ -4538,7 +4578,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b"
       },
       {
         "id": "fts-099209-2026",
@@ -4735,6 +4776,45 @@
         "addedBuild": "2026-11-04T16:16:55.685Z-e476f0a7-1755-4195-b771-3659d6341a7e",
         "demo": false,
         "updatedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58"
+      },
+      {
+        "id": "fts-107007-2026",
+        "title": "Provision of Private, Safe, and Secure Transportation for Patients within Mental Health and Learning Disabilities Service Group.",
+        "authority": "Swansea Bay University Health Board",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "107007-2026",
+        "published": "2026-11-11",
+        "deadline": "2026-11-26",
+        "value": 623602,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Provision of Specialist Mental Health and Learning Disabilities Patient Transport Services for Swansea Bay University Health Board. The procurement seeks to establish a multi-supplier contractual arrangement for the safe, secure, dignified, and responsive transportation of patients requiring planned and unplanned transfers between healthcare facilities, specialist placements, community settings, courts, and other approved locations. The service will support patients with varying levels of clinical, behavioural, safeguarding, and mobility needs, ensuring continuity of care, compliance with statutory obligations, and value-for-money service delivery across the Health Board. This procurement exercise is being carried out via Bravo E-tendering Portal. Bravo E-tendering Project Code: project_63640. ITT Code: itt_128039.",
+        "tenderSummary": "Provision of Specialist Mental Health and Learning Disabilities Patient Transport Services for Swansea Bay University Health Board. The procurement seeks to establish a multi-supplier contractual arrangement for the safe, secure, dignified, and responsive transportation of patients requiring planned and unplanned transfers between healthcare facilities, specialist placements, community settings, courts, and other approved locations. The service will support patients with varying levels of clinical, behavioural, safeguarding, and mobility needs, ensuring continuity of care, compliance with statutory obligations, and value-for-money service delivery across the Health Board. This procurement exercise is being carried out via Bravo E-tendering Portal. Bravo E-tendering Project Code: project_63640. ITT Code: itt_128039.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/107007-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL",
+        "cpv": "85143000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false
       },
       {
         "id": "fts-096003-2026",
@@ -5098,6 +5178,45 @@
         "updatedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1"
       },
       {
+        "id": "fts-106861-2026",
+        "title": "Contract for the Execution of Fire Safety Works",
+        "authority": "City & County of Swansea",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "106861-2026",
+        "published": "2026-11-10",
+        "deadline": "2026-11-27",
+        "value": 1400000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Swansea Council intends to Carry out Fire Safety Works to various properties around Swansea. Clyne Court Blocks 1, 2 & 3. Swansea. SA2 8JD. Griffith John Street Blocks 1 & 2. Swansea. SA1 2BS. Matthew Street. Swansea. SA1 1PY. Rheidol Court. Swansea. SA6 7LH. Jeffreys Court. Swansea. SA5 7EP. Gloucester House. Swansea. SA1 1RW. Conway Court Blocks 1, 2 & 3. Swansea. SA5 7BB. Maes Y Efail. Swansea. SA4 4AE. Cartersford Place. Swansea. SA3 5LH. Heol Y Wern Blocks 1 & 2. Swansea. SA4 6JE. Llanllienwen Close Blocks 1, 2, 3, 4, 5, 6, 7 & 8. Swansea. SA6 6LY. Plas Melyn. Swansea.SA5 5JQ. Waverley Close. Swansea. SA6 5LS",
+        "tenderSummary": "Swansea Council intends to Carry out Fire Safety Works to various properties around Swansea. Clyne Court Blocks 1, 2 & 3. Swansea. SA2 8JD. Griffith John Street Blocks 1 & 2. Swansea. SA1 2BS. Matthew Street. Swansea. SA1 1PY. Rheidol Court. Swansea. SA6 7LH. Jeffreys Court. Swansea. SA5 7EP. Gloucester House. Swansea. SA1 1RW. Conway Court Blocks 1, 2 & 3. Swansea. SA5 7BB. Maes Y Efail. Swansea. SA4 4AE. Cartersford Place. Swansea. SA3 5LH. Heol Y Wern Blocks 1 & 2. Swansea. SA4 6JE. Llanllienwen Close Blocks 1, 2, 3, 4, 5, 6, 7 & 8. Swansea. SA6 6LY. Plas Melyn. Swansea.SA5 5JQ. Waverley Close. Swansea. SA6 5LS",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://etenderwales.bravosolution.co.uk/",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL18",
+        "cpv": "45343100, 45343000, 45000000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false
+      },
+      {
         "id": "fts-099739-2026",
         "title": "WSTLAT Provision of Supply Agency Services",
         "authority": "Westcountry Schools Trust",
@@ -5384,7 +5503,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b"
       },
       {
         "id": "fts-101456-2026",
@@ -5583,7 +5703,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b"
       },
       {
         "id": "fts-105240-2026",
@@ -6188,6 +6309,84 @@
         "demo": false
       },
       {
+        "id": "fts-106937-2026",
+        "title": "Abbey Remains Project - Tender for Archaeological Consultant",
+        "authority": "Tavistock Town Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "106937-2026",
+        "published": "2026-11-11",
+        "deadline": "2026-12-07",
+        "value": 24000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Tavistock Town Council as Client and Accountable Body invites tenders from consultants with the relevant skills and capability to carry out planning and execution of archaeological excavations (CIfA standards), associated reporting writing, handling of finds and digital archiving of the areas shown on drawings Figure 2 and Figure 3. Due to the time sensitivities relating to the overall wider project deliverables, on appointment, contractors are required to apply for the necessary consents to enable the excavation works to take place, which includes one scheduled monument application for the two sites, presenting a robust and focussed archaeological project design and Written Scheme of Investigation that poses the relevant research questions and provides clear justification for the works taking place under SMC. This will include full sections on human remains, archaeological science and proposals for post-excavation analysis. After the consultant has liaised with Historic England (site meeting with project team has already occurred with Historic England in August 2026), the target is to ensure that the SMC is submitted no later than end January 2027. The appointed consultant will also assist the client with the Faculty application relating to Abbey Cloisters Ruin excavation. As part of the National Lottery Heritage Fund grant conditions, when considering pricing the works an appropriate allowance should be made for working closely with volunteers, as it is the intention to deliver this project with a community engagement approach, pertaining to volunteers under supervision carrying out actual digging and on-site curation. The consultant should allow for contacting sector specialists and statutory bodies as part of a desk top exercise to ascertain what previous equivalent survey work exists which will inform the works programme. In addition, the project team has commissioned a Ground Penetrating Radar Survey and the report should be available for the end of 2026, which will inform the strategy relating to the SMC application regarding the findings, especially within the Abbey Cloisters Ruin area. On completion of the excavation works, the contractor will produce a written report which is suitable to inform next steps with regards to providing valuable insight to the research team and interpretation consultants. It should also be in an appropriate format for public perusal as the results will feed into a wider interpretation programme, both digital and physical. As a minimum the report should include: title page, summary of project background, executive summary of results, description and illustration of site locations, methodology, plans and reports of all documentary and other research, description of the results, interpretation of the results, summary and location of project archives, site layout plans, plans showing locations of excavations, detailed plans of areas where archaeological features are recognised along with adequate OD spot height information, section drawings of deposits and features, site matrices where appropriate, photographical records, consideration of evidence in wider context, summary table and descriptive text showing features, classes and number of artefacts recovered and soil and stonework profiles for interpretation and confidence rating. The consultant must allow for the costs of data archiving, within 6 months of completion of the report, including completing the online OASIS entry and depositing the digital archive with the Archaeological Data Service.",
+        "tenderSummary": "Tavistock Town Council as Client and Accountable Body invites tenders from consultants with the relevant skills and capability to carry out planning and execution of archaeological excavations (CIfA standards), associated reporting writing, handling of finds and digital archiving of the areas shown on drawings Figure 2 and Figure 3. Due to the time sensitivities relating to the overall wider project deliverables, on appointment, contractors are required to apply for the necessary consents to enable the excavation works to take place, which includes one scheduled monument application for the two sites, presenting a robust and focussed archaeological project design and Written Scheme of Investigation that poses the relevant research questions and provides clear justification for the works taking place under SMC. This will include full sections on human remains, archaeological science and proposals for post-excavation analysis. After the consultant has liaised with Historic England (site meeting with project team has already occurred with Historic England in August 2026), the target is to ensure that the SMC is submitted no later than end January 2027. The appointed consultant will also assist the client with the Faculty application relating to Abbey Cloisters Ruin excavation. As part of the National Lottery Heritage Fund grant conditions, when considering pricing the works an appropriate allowance should be made for working closely with volunteers, as it is the intention to deliver this project with a community engagement approach, pertaining to volunteers under supervision carrying out actual digging and on-site curation. The consultant should allow for contacting sector specialists and statutory bodies as part of a desk top exercise to ascertain what previous equivalent survey work exists which will inform the works programme. In addition, the project team has commissioned a Ground Penetrating Radar Survey and the report should be available for the end of 2026, which will inform the strategy relating to the SMC application regarding the findings, especially within the Abbey Cloisters Ruin area. On completion of the excavation works, the contractor will produce a written report which is suitable to inform next steps with regards to providing valuable insight to the research team and interpretation consultants. It should also be in an appropriate format for public perusal as the results will feed into a wider interpretation programme, both digital and physical. As a minimum the report should include: title page, summary of project background, executive summary of results, description and illustration of site locations, methodology, plans and reports of all documentary and other research, description of the results, interpretation of the results, summary and location of project archives, site layout plans, plans showing locations of excavations, detailed plans of areas where archaeological features are recognised along with adequate OD spot height information, section drawings of deposits and features, site matrices where appropriate, photographical records, consideration of evidence in wider context, summary table and descriptive text showing features, classes and number of artefacts recovered and soil and stonework profiles for interpretation and confidence rating. The consultant must allow for the costs of data archiving, within 6 months of completion of the report, including completing the online OASIS entry and depositing the digital archive with the Archaeological Data Service.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-25505",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "98300000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false
+      },
+      {
+        "id": "fts-106932-2026",
+        "title": "Abbey Remains Project - Tender for Archaeological Consultant",
+        "authority": "Tavistock Town Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "106932-2026",
+        "published": "2026-11-11",
+        "deadline": "2026-12-07",
+        "value": 24000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Tavistock Town Council as Client and Accountable Body invites tenders from consultants with the relevant skills and capability to carry out planning and execution of archaeological excavations (CIfA standards), associated reporting writing, handling of finds and digital archiving of the areas shown on drawings Figure 2 and Figure 3. Due to the time sensitivities relating to the overall wider project deliverables, on appointment, contractors are required to apply for the necessary consents to enable the excavation works to take place, which includes one scheduled monument application for the two sites, presenting a robust and focussed archaeological project design and Written Scheme of Investigation that poses the relevant research questions and provides clear justification for the works taking place under SMC. This will include full sections on human remains, archaeological science and proposals for post-excavation analysis. After the consultant has liaised with Historic England (site meeting with project team has already occurred with Historic England in August 2026), the target is to ensure that the SMC is submitted no later than end January 2027. The appointed consultant will also assist the client with the Faculty application relating to Abbey Cloisters Ruin excavation. As part of the National Lottery Heritage Fund grant conditions, when considering pricing the works an appropriate allowance should be made for working closely with volunteers, as it is the intention to deliver this project with a community engagement approach, pertaining to volunteers under supervision carrying out actual digging and on-site curation. The consultant should allow for contacting sector specialists and statutory bodies as part of a desk top exercise to ascertain what previous equivalent survey work exists which will inform the works programme. In addition, the project team has commissioned a Ground Penetrating Radar Survey and the report should be available for the end of 2026, which will inform the strategy relating to the SMC application regarding the findings, especially within the Abbey Cloisters Ruin area. On completion of the excavation works, the contractor will produce a written report which is suitable to inform next steps with regards to providing valuable insight to the research team and interpretation consultants. It should also be in an appropriate format for public perusal as the results will feed into a wider interpretation programme, both digital and physical. As a minimum the report should include: title page, summary of project background, executive summary of results, description and illustration of site locations, methodology, plans and reports of all documentary and other research, description of the results, interpretation of the results, summary and location of project archives, site layout plans, plans showing locations of excavations, detailed plans of areas where archaeological features are recognised along with adequate OD spot height information, section drawings of deposits and features, site matrices where appropriate, photographical records, consideration of evidence in wider context, summary table and descriptive text showing features, classes and number of artefacts recovered and soil and stonework profiles for interpretation and confidence rating. The consultant must allow for the costs of data archiving, within 6 months of completion of the report, including completing the online OASIS entry and depositing the digital archive with the Archaeological Data Service.",
+        "tenderSummary": "Tavistock Town Council as Client and Accountable Body invites tenders from consultants with the relevant skills and capability to carry out planning and execution of archaeological excavations (CIfA standards), associated reporting writing, handling of finds and digital archiving of the areas shown on drawings Figure 2 and Figure 3. Due to the time sensitivities relating to the overall wider project deliverables, on appointment, contractors are required to apply for the necessary consents to enable the excavation works to take place, which includes one scheduled monument application for the two sites, presenting a robust and focussed archaeological project design and Written Scheme of Investigation that poses the relevant research questions and provides clear justification for the works taking place under SMC. This will include full sections on human remains, archaeological science and proposals for post-excavation analysis. After the consultant has liaised with Historic England (site meeting with project team has already occurred with Historic England in August 2026), the target is to ensure that the SMC is submitted no later than end January 2027. The appointed consultant will also assist the client with the Faculty application relating to Abbey Cloisters Ruin excavation. As part of the National Lottery Heritage Fund grant conditions, when considering pricing the works an appropriate allowance should be made for working closely with volunteers, as it is the intention to deliver this project with a community engagement approach, pertaining to volunteers under supervision carrying out actual digging and on-site curation. The consultant should allow for contacting sector specialists and statutory bodies as part of a desk top exercise to ascertain what previous equivalent survey work exists which will inform the works programme. In addition, the project team has commissioned a Ground Penetrating Radar Survey and the report should be available for the end of 2026, which will inform the strategy relating to the SMC application regarding the findings, especially within the Abbey Cloisters Ruin area. On completion of the excavation works, the contractor will produce a written report which is suitable to inform next steps with regards to providing valuable insight to the research team and interpretation consultants. It should also be in an appropriate format for public perusal as the results will feed into a wider interpretation programme, both digital and physical. As a minimum the report should include: title page, summary of project background, executive summary of results, description and illustration of site locations, methodology, plans and reports of all documentary and other research, description of the results, interpretation of the results, summary and location of project archives, site layout plans, plans showing locations of excavations, detailed plans of areas where archaeological features are recognised along with adequate OD spot height information, section drawings of deposits and features, site matrices where appropriate, photographical records, consideration of evidence in wider context, summary table and descriptive text showing features, classes and number of artefacts recovered and soil and stonework profiles for interpretation and confidence rating. The consultant must allow for the costs of data archiving, within 6 months of completion of the report, including completing the online OASIS entry and depositing the digital archive with the Archaeological Data Service.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-25505",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "71600000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false
+      },
+      {
         "id": "fts-105671-2026",
         "title": "Procurement of Learning Management System (LMS)",
         "authority": "Yeovil Town Council",
@@ -6511,6 +6710,87 @@
         "demo": false
       },
       {
+        "id": "fts-106921-2026",
+        "title": "Tender for building improvement works at The Ryefields Centre, Ross-On-Wye",
+        "authority": "Herefordshire Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "106921-2026",
+        "published": "2026-11-11",
+        "deadline": "2026-12-11",
+        "value": 1500000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Herefordshire Council is seeking to appoint a suitably qualified and experienced contractor to deliver improvement and refurbishment works at the Ryefield Centre, Ross on Wye. The project will support the provision of additional educational accommodation for pupils with additional educational needs. The works include, but are not limited to: Replacement of existing pitched and flat roof systems. Replacement of external windows. Damp remediation and associated building fabric repairs. Localised refurbishment and adaptation of part of the existing accommodation to create facilities for an additional educational needs school. Associated mechanical, electrical, fire safety, drainage and building works required to deliver a fully operational education facility. Contractor-designed elements as identified within the tender documentation. The project will be undertaken within a partially occupied building, with part of the existing centre remaining operational throughout the construction period. The successful contractor will be required to manage the works to minimise disruption to building users and maintain appropriate standards of health and safety, safeguarding and site security.",
+        "tenderSummary": "Herefordshire Council is seeking to appoint a suitably qualified and experienced contractor to deliver improvement and refurbishment works at the Ryefield Centre, Ross on Wye. The project will support the provision of additional educational accommodation for pupils with additional educational needs. The works include, but are not limited to: Replacement of existing pitched and flat roof systems. Replacement of external windows. Damp remediation and associated building fabric repairs. Localised refurbishment and adaptation of part of the existing accommodation to create facilities for an additional educational needs school. Associated mechanical, electrical, fire safety, drainage and building works required to deliver a fully operational education facility. Contractor-designed elements as identified within the tender documentation. The project will be undertaken within a partially occupied building, with part of the existing centre remaining operational throughout the construction period. The successful contractor will be required to manage the works to minimise disruption to building users and maintain appropriate standards of health and safety, safeguarding and site security.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/106921-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG11",
+        "cpv": "45000000",
+        "matchedKeywords": [
+          "safeguarding",
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false
+      },
+      {
+        "id": "fts-107232-2026",
+        "title": "P660 Westminster City Council - Cycle Training and Services",
+        "authority": "Westminster City Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "107232-2026",
+        "published": "2026-11-11",
+        "deadline": "2026-12-14",
+        "value": 2300000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "Westminster City Council (WCC) have a requriement to re-procure cycling training and services. The current contract is due to expire in May 2027. WCC are looking for comprehensive cycle training and services which meet, and aim to exceed, nationally recognised standards. Delivering high quality services to serve residents and visitors of the City, and to overcome any cycling barriers to all ages and abilities to encourage active travel. It must be noted that the advertised total estimate of £2,300,000 (exc. VAT) within the relevant documents represents the maximum potential value of the arrangement over its term and should not be interpreted as a commitment by the Council to spend that amount. The figure has been included to provide sufficient flexibility to accommodate future funding opportunities and changes in service delivery requirements. The Council does not guarantee any match funding or minimum level or volume of services and may flex, reduce, suspend or cease requirements in line with available funding. This opportunity and all tender documents are accessible via our City of Westminster Procurement and Contracts portal (\"the Portal\"), please visit https://wcc.ukp.app.jaggaer.com and register your account, then search for P660 Westminster City Council - Cycle Training and Services / ITT_30814 Please submit via the Portal by 10am (UK Time) on 14th December 2026.",
+        "tenderSummary": "Westminster City Council (WCC) have a requriement to re-procure cycling training and services. The current contract is due to expire in May 2027. WCC are looking for comprehensive cycle training and services which meet, and aim to exceed, nationally recognised standards. Delivering high quality services to serve residents and visitors of the City, and to overcome any cycling barriers to all ages and abilities to encourage active travel. It must be noted that the advertised total estimate of £2,300,000 (exc. VAT) within the relevant documents represents the maximum potential value of the arrangement over its term and should not be interpreted as a commitment by the Council to spend that amount. The figure has been included to provide sufficient flexibility to accommodate future funding opportunities and changes in service delivery requirements. The Council does not guarantee any match funding or minimum level or volume of services and may flex, reduce, suspend or cease requirements in line with available funding. This opportunity and all tender documents are accessible via our City of Westminster Procurement and Contracts portal (\"the Portal\"), please visit https://wcc.ukp.app.jaggaer.com and register your account, then search for P660 Westminster City Council - Cycle Training and Services / ITT_30814 Please submit via the Portal by 10am (UK Time) on 14th December 2026.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/107232-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKI32",
+        "cpv": "80000000, 63712000, 80500000, 80510000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false
+      },
+      {
         "id": "fts-093865-2026",
         "title": "Direct Payment Support Service",
         "authority": "Newcastle City Council",
@@ -6547,6 +6827,45 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-04T13:11:28.722Z-dfd93836-a1be-4c5e-b984-11612e8d20fb",
+        "demo": false
+      },
+      {
+        "id": "fts-106848-2026",
+        "title": "Rathfern Primary School - Cleaning Tender Apr27",
+        "authority": "Educo",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "106848-2026",
+        "published": "2026-11-10",
+        "deadline": "2026-12-15",
+        "value": 280000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Educo Consultancy & Facilities Management are completing a competitive tendering procedure for the cleaning services on behalf of the Rathfern Primary School in the London Borough of Lewisham. Educo are seeking sufficiently experienced contract cleaning companies to formally express their interest and engage in the Tendering process, by completing and submitting the required responses to key sections within the SQ uploaded at this stage. Educo requires any Contractor to have a clear safeguarding policy that includes an overarching declaration that the organisation acknowledges its duty of care and is committed to protecting all individuals from harm, regardless of age, disability, race, religion, sex, or sexual orientation. The School require the appointed contractor to be fully responsible for the cleaning of the school buildings during term time and for deep cleans to be carried out during the school holidays. The School is therefore seeking an experienced professional Contractor that operates high standards throughout, to include staff welfare and environmental conservation as the school views this as a necessity in delivering a consistent quality service, and this will be a key component in the final evaluation of the tender process.",
+        "tenderSummary": "Educo Consultancy & Facilities Management are completing a competitive tendering procedure for the cleaning services on behalf of the Rathfern Primary School in the London Borough of Lewisham. Educo are seeking sufficiently experienced contract cleaning companies to formally express their interest and engage in the Tendering process, by completing and submitting the required responses to key sections within the SQ uploaded at this stage. Educo requires any Contractor to have a clear safeguarding policy that includes an overarching declaration that the organisation acknowledges its duty of care and is committed to protecting all individuals from harm, regardless of age, disability, race, religion, sex, or sexual orientation. The School require the appointed contractor to be fully responsible for the cleaning of the school buildings during term time and for deep cleans to be carried out during the school holidays. The School is therefore seeking an experienced professional Contractor that operates high standards throughout, to include staff welfare and environmental conservation as the school views this as a necessity in delivering a consistent quality service, and this will be a key component in the final evaluation of the tender process.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.mytenders.co.uk/Authority/NoticeBuilder/NoticeBuilder_FileDownload.aspx?id=657353",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKI44",
+        "cpv": "90919300",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
         "demo": false
       },
       {
@@ -6835,7 +7154,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b"
       },
       {
         "id": "fts-102062-2026",
@@ -6995,6 +7315,45 @@
         "demo": false
       },
       {
+        "id": "fts-107124-2026",
+        "title": "Maintenance and Replacement of Compressors and Driers across the London Underground Estate",
+        "authority": "Transport for London",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "107124-2026",
+        "published": "2026-11-11",
+        "deadline": "2027-02-08",
+        "value": 4100000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The purpose of this Planned Procurement notice is to notify the market of a future- tender for the Maintenance and Replacement of Compressors and Driers across the London Underground Estate. The proposed service will be delivered through a single-supplier model under a consolidated contract, providing a consistent and integrated approach to the management of these safety-critical assets. The future contract will provide maintenance and statutory compliance services for compressed air systems and pressure vessel assets across London Underground, excluding Power Assets. The services will support compressed air and pressure vessel assets associated with: • Rolling Stock maintenance facilities • Signalling infrastructure • Fire safety systems • Depot tooling and workshop equipment • Manufacturing facilities • Station smoke extraction systems • Effluent ejectors • Train cleaning systems The scope includes: • Planned Maintenance: Scheduled inspections, servicing, and performance checks to maintain asset reliability, availability, and statutory compliance. • Fault Response: Reactive support and emergency attendance in response to equipment failures, alarms, and operational incidents. • Fault Rectification: Diagnosis and repair of faults, including component replacement, system reinstatement, and verification testing. • Critical Spares Management: Supply and management of essential spare parts required to maintain asset availability and support rapid fault recovery. • Statutory Examinations: Delivery of inspections, Written Schemes of Examination, and certification activities required under the Pressure Systems Safety Regulations (PSSR).",
+        "tenderSummary": "The purpose of this Planned Procurement notice is to notify the market of a future- tender for the Maintenance and Replacement of Compressors and Driers across the London Underground Estate. The proposed service will be delivered through a single-supplier model under a consolidated contract, providing a consistent and integrated approach to the management of these safety-critical assets. The future contract will provide maintenance and statutory compliance services for compressed air systems and pressure vessel assets across London Underground, excluding Power Assets. The services will support compressed air and pressure vessel assets associated with: • Rolling Stock maintenance facilities • Signalling infrastructure • Fire safety systems • Depot tooling and workshop equipment • Manufacturing facilities • Station smoke extraction systems • Effluent ejectors • Train cleaning systems The scope includes: • Planned Maintenance: Scheduled inspections, servicing, and performance checks to maintain asset reliability, availability, and statutory compliance. • Fault Response: Reactive support and emergency attendance in response to equipment failures, alarms, and operational incidents. • Fault Rectification: Diagnosis and repair of faults, including component replacement, system reinstatement, and verification testing. • Critical Spares Management: Supply and management of essential spare parts required to maintain asset availability and support rapid fault recovery. • Statutory Examinations: Delivery of inspections, Written Schemes of Examination, and certification activities required under the Pressure Systems Safety Regulations (PSSR).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/107124-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKI",
+        "cpv": "39721321, 42123400",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false
+      },
+      {
         "id": "cf-e92582f5-95e5-461d-8a9f-675c50df724a-920293",
         "title": "Fire safety works and curtain walling - Bicton - Accommodation blocks",
         "authority": "Cornwall College",
@@ -7034,42 +7393,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-10T16:24:50.988Z"
+    "lastPartialUpdate": "2026-11-11T16:08:42.282Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
-    "attemptedAt": "2026-11-10T16:24:50.988Z",
+    "attemptId": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+    "attemptedAt": "2026-11-11T16:08:42.282Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
-    "retrievedCount": 12,
-    "totalCount": 174,
+    "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
+    "retrievedCount": 14,
+    "totalCount": 183,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-10T16:24:50.988Z",
-        "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
-        "lastAttemptAt": "2026-11-10T16:24:50.988Z",
+        "watermark": "2026-11-11T16:08:42.282Z",
+        "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
+        "lastAttemptAt": "2026-11-11T16:08:42.282Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-08T18:45:47.077Z",
-          "to": "2026-11-10T16:24:50.988Z"
+          "from": "2026-11-09T16:24:50.988Z",
+          "to": "2026-11-11T16:08:42.282Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-10T16:24:50.988Z",
-        "lastSuccessfulUpdate": "2026-11-10T16:24:50.988Z",
-        "lastAttemptAt": "2026-11-10T16:24:50.988Z",
+        "watermark": "2026-11-11T16:08:42.282Z",
+        "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
+        "lastAttemptAt": "2026-11-11T16:08:42.282Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-08T18:45:47.077Z",
-          "to": "2026-11-10T16:24:50.988Z"
+          "from": "2026-11-09T16:24:50.988Z",
+          "to": "2026-11-11T16:08:42.282Z"
         }
       }
     }
