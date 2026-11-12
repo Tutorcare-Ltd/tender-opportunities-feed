@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-11T16:08:42.282Z",
-      "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
-      "lastAttemptAt": "2026-11-11T16:08:42.282Z",
+      "watermark": "2026-11-12T16:47:03.023Z",
+      "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
+      "lastAttemptAt": "2026-11-12T16:47:03.023Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-09T16:24:50.988Z",
-        "to": "2026-11-11T16:08:42.282Z"
+        "from": "2026-11-10T16:08:42.282Z",
+        "to": "2026-11-12T16:47:03.023Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-11T16:08:42.282Z",
-      "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
-      "lastAttemptAt": "2026-11-11T16:08:42.282Z",
+      "watermark": "2026-11-12T16:47:03.023Z",
+      "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
+      "lastAttemptAt": "2026-11-12T16:47:03.023Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-09T16:24:50.988Z",
-        "to": "2026-11-11T16:08:42.282Z"
+        "from": "2026-11-10T16:08:42.282Z",
+        "to": "2026-11-12T16:47:03.023Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
-    "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
+    "buildId": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
+    "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
     "interval": {
-      "from": "2026-11-09T16:24:50.988Z",
-      "to": "2026-11-11T16:08:42.282Z"
+      "from": "2026-11-10T16:08:42.282Z",
+      "to": "2026-11-12T16:47:03.023Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 14,
-    "totalCount": 183,
+    "retrievedCount": 19,
+    "totalCount": 191,
     "sourceFailures": [],
     "records": [
       {
@@ -3860,7 +3860,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
         "id": "cf-ecd27e50-1bd9-489a-ad12-72730a1a95cc-917035",
@@ -4103,6 +4104,45 @@
         "updatedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698"
       },
       {
+        "id": "fts-107610-2026",
+        "title": "Missing Children and Independent Return Home Conversation Service",
+        "authority": "Buckinghamshire Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "107610-2026",
+        "published": "2026-11-12",
+        "deadline": "2026-11-19",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Buckinghamshire Council is seeking to recommission its Missing Children and Independent Return Home Conversation Service. Statutory guidance requires children who have been reported missing to be offered an independent Return Home Conversation following their return, with the conversation normally taking place within 72 hours of the child returning home or to their care setting. The Service will provide independent Return Home Conversations for eligible Buckinghamshire children and young people aged 10 to 17 inclusive following a missing episode, including Buckinghamshire children looked after who are placed outside the county. The Service will identify safeguarding concerns, exploitation, unmet needs and factors contributing to missing behaviour, and support the identification and implementation of actions to improve safety and reduce repeat missing episodes. It will also provide Missing Interventions for children experiencing repeat or persistent missing episodes, emerging vulnerabilities or unmet needs. The Provider will work within a multi-agency framework and use information gathered through service delivery to inform safeguarding, prevention, contextual safeguarding, disruption activity, strategic insight and partnership responses. The Provider will be responsible for delivering or securing out-of-county Return Home Conversations, including directly delivering conversations where appropriate and managing and quality assuring any subcontracted or host local authority arrangements. The Contract will have an initial term of three years, with the option to extend for up to two further one-year periods, giving a maximum potential Contract term of five years. The Council has amended the Terms and Conditions issued as part of the tender documents. The revised changes have been uploaded as a clarification on the Intend portal to replace the previous version. All other procurement documents remained unchanged.",
+        "tenderSummary": "Buckinghamshire Council is seeking to recommission its Missing Children and Independent Return Home Conversation Service. Statutory guidance requires children who have been reported missing to be offered an independent Return Home Conversation following their return, with the conversation normally taking place within 72 hours of the child returning home or to their care setting. The Service will provide independent Return Home Conversations for eligible Buckinghamshire children and young people aged 10 to 17 inclusive following a missing episode, including Buckinghamshire children looked after who are placed outside the county. The Service will identify safeguarding concerns, exploitation, unmet needs and factors contributing to missing behaviour, and support the identification and implementation of actions to improve safety and reduce repeat missing episodes. It will also provide Missing Interventions for children experiencing repeat or persistent missing episodes, emerging vulnerabilities or unmet needs. The Provider will work within a multi-agency framework and use information gathered through service delivery to inform safeguarding, prevention, contextual safeguarding, disruption activity, strategic insight and partnership responses. The Provider will be responsible for delivering or securing out-of-county Return Home Conversations, including directly delivering conversations where appropriate and managing and quality assuring any subcontracted or host local authority arrangements. The Contract will have an initial term of three years, with the option to extend for up to two further one-year periods, giving a maximum potential Contract term of five years. The Council has amended the Terms and Conditions issued as part of the tender documents. The revised changes have been uploaded as a clarification on the Intend portal to replace the previous version. All other procurement documents remained unchanged.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/107610-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85311300, 85300000, 85310000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
+        "demo": false
+      },
+      {
         "id": "fts-092987-2026",
         "title": "Regional Care Cooperative - Supported Accommodation",
         "authority": "Greater Manchester Combined Authority",
@@ -4301,6 +4341,45 @@
         "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
         "demo": false,
         "updatedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b"
+      },
+      {
+        "id": "cf-cbc8d975-376f-4c40-b602-3b8a9b2435cc-921317",
+        "title": "Lead Designer, Architect, Conservation Architect, CDM Principal Designer and Building Safety Act Principal Designer",
+        "authority": "Thetford Town Council",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "cbc8d975-376f-4c40-b602-3b8a9b2435cc-921317",
+        "published": "2026-11-11",
+        "deadline": "2026-11-20",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Below is a summary please refer to the Job pack for detailed information Thetford Town Council is seeking to appoint a single consultant practice to undertake the roles of: • Lead Designer; • Architect; • Conservation Architect; • Principal Designer (CDM Regulations); • Principal Designer (Building Safety Act). The successful consultant shall lead and coordinate the design for the Development Phase and prepare the project design for submission of the NLHF Delivery Phase Application. The consultant will work closely with the Project Manager, Quantity Surveyor, Structural Engineer and specialist advisers to prepare a robust and fully costed proposal capable of supporting a successful National Lottery Heritage Fund Delivery Phase application. The NLHF Delivery Phase application will be managed by the Client Team and appointed Project Manager, however, the Architect may be required to attend NLHF meetings and workshops from time to time as reasonably requested by the Client or Project Manager. Equality, Inclusion & Environmental Sustainability The project is shaped by NLHF's investment principles and Thetford's identity as a richly diverse town. Commissioned work should demonstrate: • Inclusive engagement with communities underserved by heritage; • Barrier-free access to heritage learning and opportunities; • Environmentally responsible design, including re-use and carbon impact; • Contribution to a sustainable operating model rooted in community need. Project Objectives The project objectives are to: • Remove the building from the Heritage at Risk Register; • Secure the long-term conservation of the historic fabric; • Deliver inclusive and accessible community facilities; • Support learning, heritage interpretation and skills development; • Improve environmental sustainability; • Create a financially sustainable operational model and future for the site; • Support regeneration within Thetford town centre. All submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "tenderSummary": "Below is a summary please refer to the Job pack for detailed information Thetford Town Council is seeking to appoint a single consultant practice to undertake the roles of: • Lead Designer; • Architect; • Conservation Architect; • Principal Designer (CDM Regulations); • Principal Designer (Building Safety Act). The successful consultant shall lead and coordinate the design for the Development Phase and prepare the project design for submission of the NLHF Delivery Phase Application. The consultant will work closely with the Project Manager, Quantity Surveyor, Structural Engineer and specialist advisers to prepare a robust and fully costed proposal capable of supporting a successful National Lottery Heritage Fund Delivery Phase application. The NLHF Delivery Phase application will be managed by the Client Team and appointed Project Manager, however, the Architect may be required to attend NLHF meetings and workshops from time to time as reasonably requested by the Client or Project Manager. Equality, Inclusion & Environmental Sustainability The project is shaped by NLHF's investment principles and Thetford's identity as a richly diverse town. Commissioned work should demonstrate: • Inclusive engagement with communities underserved by heritage; • Barrier-free access to heritage learning and opportunities; • Environmentally responsible design, including re-use and carbon impact; • Contribution to a sustainable operating model rooted in community need. Project Objectives The project objectives are to: • Remove the building from the Heritage at Risk Register; • Secure the long-term conservation of the historic fabric; • Deliver inclusive and accessible community facilities; • Support learning, heritage interpretation and skills development; • Improve environmental sustainability; • Create a financially sustainable operational model and future for the site; • Support regeneration within Thetford town centre. All submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-12-14 to 2027-09-14",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/cbc8d975-376f-4c40-b602-3b8a9b2435cc",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "IP24 2DS",
+        "cpv": "71210000, 71221000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
+        "demo": false
       },
       {
         "id": "fts-099085-2026",
@@ -4814,6 +4893,85 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false,
+        "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
+      },
+      {
+        "id": "fts-107733-2026",
+        "title": "Conwy County Leisure Facilities CCTV Supply and Install",
+        "authority": "Conwy County Borough Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "107733-2026",
+        "published": "2026-11-12",
+        "deadline": "2026-11-26",
+        "value": 100000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "tenderSummary": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sell2wales.gov.wales/Assets/NoticeBuilder_FileDownload.aspx?id=385689",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL13",
+        "cpv": "32231000, 32234000, 32235000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
+        "demo": false
+      },
+      {
+        "id": "fts-107612-2026",
+        "title": "Conwy County Leisure Facilities CCTV Supply and Install",
+        "authority": "Conwy County Borough Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "107612-2026",
+        "published": "2026-11-12",
+        "deadline": "2026-11-26",
+        "value": 100000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "tenderSummary": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sell2wales.gov.wales/Assets/NoticeBuilder_FileDownload.aspx?id=385689",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL13",
+        "cpv": "32231000, 32234000, 32235000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
         "demo": false
       },
       {
@@ -5214,6 +5372,46 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false,
+        "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
+      },
+      {
+        "id": "cf-90d317a4-0657-495a-a9ea-57e035554822-921422",
+        "title": "Activity & Interpretation Plan Consultant",
+        "authority": "Thetford Town Council",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "90d317a4-0657-495a-a9ea-57e035554822-921422",
+        "published": "2026-11-12",
+        "deadline": "2026-11-27",
+        "value": 25000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "The appointed consultant will prepare a comprehensive Activity & Interpretation Plan which demonstrates how people will engage with St Peter's Church and the wider heritage of Thetford through: • Learning; • Volunteering; • Skills development; • Community engagement; • Interpretation; • Participation; • Events; • Training; • Outreach activities. The consultant shall ensure that the Activity & Interpretation Plan is fully aligned with NLHF requirements and capable of supporting a successful Delivery Phase application. The Activity Plan shall identify opportunities for community involvement, volunteering, learning, training, events and wider public engagement, together with recommendations for sustainable delivery and long-term legacy. The Interpretation Plan shall identify and communicate the key heritage themes, stories and significance of St Peter's Church, establish target audiences, and develop recommendations for accessible and engaging interpretation that supports the project's vision and outcomes. The Consultant shall ensure that both plans are fully integrated and aligned with the requirements of the National Lottery Heritage Fund and other funding stakeholders, providing a practical framework for implementation during the Delivery Phase. All Submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "tenderSummary": "The appointed consultant will prepare a comprehensive Activity & Interpretation Plan which demonstrates how people will engage with St Peter's Church and the wider heritage of Thetford through: • Learning; • Volunteering; • Skills development; • Community engagement; • Interpretation; • Participation; • Events; • Training; • Outreach activities. The consultant shall ensure that the Activity & Interpretation Plan is fully aligned with NLHF requirements and capable of supporting a successful Delivery Phase application. The Activity Plan shall identify opportunities for community involvement, volunteering, learning, training, events and wider public engagement, together with recommendations for sustainable delivery and long-term legacy. The Interpretation Plan shall identify and communicate the key heritage themes, stories and significance of St Peter's Church, establish target audiences, and develop recommendations for accessible and engaging interpretation that supports the project's vision and outcomes. The Consultant shall ensure that both plans are fully integrated and aligned with the requirements of the National Lottery Heritage Fund and other funding stakeholders, providing a practical framework for implementation during the Delivery Phase. All Submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-12-14 to 2027-07-14",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/90d317a4-0657-495a-a9ea-57e035554822",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "IP24 2DS",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
         "demo": false
       },
       {
@@ -5504,7 +5702,7 @@
         ],
         "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
         "demo": false,
-        "updatedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b"
+        "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
         "id": "fts-101456-2026",
@@ -6345,7 +6543,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
         "id": "fts-106932-2026",
@@ -6384,6 +6583,49 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false,
+        "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
+      },
+      {
+        "id": "fts-107257-2026",
+        "title": "Provision of Adult Cycle Programme",
+        "authority": "Lancashire County Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "107257-2026",
+        "published": "2026-11-11",
+        "deadline": "2026-12-07",
+        "value": 800000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "Lancashire County Council is seeking to appoint providers to deliver an Adult Cycle Programme across Lancashire. The programme is designed to increase participation in cycling among adults aged 16 years and over by addressing barriers such as confidence, skills, and access to equipment. The successful provider/s will be expected to deliver adult cycling activities and interventions. The activities are divided into Lots and districts.",
+        "tenderSummary": "Lancashire County Council is seeking to appoint providers to deliver an Adult Cycle Programme across Lancashire. The programme is designed to increase participation in cycling among adults aged 16 years and over by addressing barriers such as confidence, skills, and access to equipment. The successful provider/s will be expected to deliver adult cycling activities and interventions. The activities are divided into Lots and districts.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/107257-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD44, UKD45, UKD46, UKD47",
+        "cpv": "80500000, 92600000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
         "demo": false
       },
       {
@@ -6426,6 +6668,53 @@
           "80000000"
         ],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-107335-2026",
+        "title": "Mandatory Training for students enrolled on Healthcare programmes Framework Agreement",
+        "authority": "University of Greenwich",
+        "category": "First aid",
+        "source": "FTS",
+        "noticeId": "107335-2026",
+        "published": "2026-11-11",
+        "deadline": "2026-12-08",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The University of Greenwich and the University of Kent successfully completed their merger on 3 August 2026, to create the new London and South East University Group - to be known as LASE. LASE is seeking to establish a Framework Agreement for the provision of additional resource, on an as-needed basis, to deliver mandatory training for students enrolled on healthcare programmes. The Framework is divided into two lots: Lot 1 – Resuscitation / Basic Life Support (BLS) Training and Moving and Handling Training Lot 2 – Conflict Resolution Training and Breakaway Training One Provider will be appointed to each Lot. The framework is being designed to supply services to LASE member institutions, and those of its subsidiaries and eligible partner institution the Kent and Medway Medical School, which is a partnership between Canterbury Christ Church University and the University of Kent. The first call-off contract will be awarded at the same time as the Framework Agreement. To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/2WM3TEYUJP If suppliers experience any issues accessing this opportunity, they should contact the Delta Helpdesk for assistance quoting the Reference Number: 1060034026 and the Access Code: 2WM3TEYUJP. The Delta Helpdesk operates Monday to Friday, 8:00 am to 6:00 pm (GMT), excluding bank holidays. You can contact the Helpdesk by calling +44 800 923 9236. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-London:-Training-services./2WM3TEYUJP To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/2WM3TEYUJP",
+        "tenderSummary": "The University of Greenwich and the University of Kent successfully completed their merger on 3 August 2026, to create the new London and South East University Group - to be known as LASE. LASE is seeking to establish a Framework Agreement for the provision of additional resource, on an as-needed basis, to deliver mandatory training for students enrolled on healthcare programmes. The Framework is divided into two lots: Lot 1 – Resuscitation / Basic Life Support (BLS) Training and Moving and Handling Training Lot 2 – Conflict Resolution Training and Breakaway Training One Provider will be appointed to each Lot. The framework is being designed to supply services to LASE member institutions, and those of its subsidiaries and eligible partner institution the Kent and Medway Medical School, which is a partnership between Canterbury Christ Church University and the University of Kent. The first call-off contract will be awarded at the same time as the Framework Agreement. To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/2WM3TEYUJP If suppliers experience any issues accessing this opportunity, they should contact the Delta Helpdesk for assistance quoting the Reference Number: 1060034026 and the Access Code: 2WM3TEYUJP. The Delta Helpdesk operates Monday to Friday, 8:00 am to 6:00 pm (GMT), excluding bank holidays. You can contact the Helpdesk by calling +44 800 923 9236. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-London:-Training-services./2WM3TEYUJP To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/2WM3TEYUJP",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/107335-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ",
+        "cpv": "80500000, 80510000, 80521000, 80550000, 80560000, 80561000, 80562000",
+        "matchedKeywords": [
+          "resuscitation"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000",
+          "80550000",
+          "80560000",
+          "80561000",
+          "80562000"
+        ],
+        "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
         "demo": false
       },
       {
@@ -6747,7 +7036,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
         "id": "fts-107232-2026",
@@ -6788,6 +7078,47 @@
           "80510000"
         ],
         "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
+        "demo": false,
+        "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
+      },
+      {
+        "id": "fts-107729-2026",
+        "title": "Community Health Improvement and Lifestyle Service",
+        "authority": "NHS Coventry and Warwickshire Integrated Care Board",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "107729-2026",
+        "published": "2026-11-12",
+        "deadline": "2026-12-14",
+        "value": 3750888,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "NHS Coventry and Warwickshire Integrated Care Board (referred to as the Commissioner) are inviting suitably qualified and experienced suppliers to express their interest in delivering a Community Health Improvement and Lifestyle Service. The aim of the service is: For a Lead Provider to deliver an integrated Community Health Improvement and Lifestyle Service for adults aged 16 years and over who are registered with a GP in Coventry and Warwickshire. The objectives of the service are to: • Collaborate to deliver an integrated pathway The Provider will work in partnership with primary care, Tier 3 services, public health, VCFSE organisations and the separately commissioned digital platform to ensure a seamless, joined-up weight management pathway for patients. • Reduce inequalities and improve equity The Provider will work in collaboration with the ICB to use Population Health Management (PHM) models to proactively identify and engage underserved populations, delivering targeted, culturally appropriate interventions in priority communities to reduce inequalities in access, experience and outcomes. • Prevent deterioration through early identification The Service will support early identification and timely intervention for individuals living with, or at risk of obesity-related conditions or complications, to prevent the acquisition of further conditions or exacerbations and in some cases reverse or improve the management of pre-existing conditions. • Deliver care in the right place at the right time The Provider will deliver accessible, community-based care, ensuring timely assessment, intervention and escalation based on clinical need, with services delivered as close to home as possible. • Support recovery, participation and independence The Service will empower individuals to achieve and sustain healthy weight through personalised care planning, behaviour change support and development of long-term self-management skills. • Build system capability and confidence The Provider will contribute to workforce development and system learning by supporting training, sharing best practice and strengthening local capability to deliver effective weight management interventions. • Use digital and data to improve care and outcomes The Provider will utilise the ICB-commissioned digital platform and population health data to support patient identification, care coordination, monitoring and reporting, ensuring data-driven improvement in service delivery and outcomes. The contract will be for a period of 3 years. Please refer to the procurement documentation for further details. To register your interest and access the procurement documentation and submit a bid, please follow this link, https://atamis-1928.my.site.com/s/Welcome, and search for: Project Reference: C485290 Project Name: Community Health Improvement and Lifestyle Service",
+        "tenderSummary": "NHS Coventry and Warwickshire Integrated Care Board (referred to as the Commissioner) are inviting suitably qualified and experienced suppliers to express their interest in delivering a Community Health Improvement and Lifestyle Service. The aim of the service is: For a Lead Provider to deliver an integrated Community Health Improvement and Lifestyle Service for adults aged 16 years and over who are registered with a GP in Coventry and Warwickshire. The objectives of the service are to: • Collaborate to deliver an integrated pathway The Provider will work in partnership with primary care, Tier 3 services, public health, VCFSE organisations and the separately commissioned digital platform to ensure a seamless, joined-up weight management pathway for patients. • Reduce inequalities and improve equity The Provider will work in collaboration with the ICB to use Population Health Management (PHM) models to proactively identify and engage underserved populations, delivering targeted, culturally appropriate interventions in priority communities to reduce inequalities in access, experience and outcomes. • Prevent deterioration through early identification The Service will support early identification and timely intervention for individuals living with, or at risk of obesity-related conditions or complications, to prevent the acquisition of further conditions or exacerbations and in some cases reverse or improve the management of pre-existing conditions. • Deliver care in the right place at the right time The Provider will deliver accessible, community-based care, ensuring timely assessment, intervention and escalation based on clinical need, with services delivered as close to home as possible. • Support recovery, participation and independence The Service will empower individuals to achieve and sustain healthy weight through personalised care planning, behaviour change support and development of long-term self-management skills. • Build system capability and confidence The Provider will contribute to workforce development and system learning by supporting training, sharing best practice and strengthening local capability to deliver effective weight management interventions. • Use digital and data to improve care and outcomes The Provider will utilise the ICB-commissioned digital platform and population health data to support patient identification, care coordination, monitoring and reporting, ensuring data-driven improvement in service delivery and outcomes. The contract will be for a period of 3 years. Please refer to the procurement documentation for further details. To register your interest and access the procurement documentation and submit a bid, please follow this link, https://atamis-1928.my.site.com/s/Welcome, and search for: Project Reference: C485290 Project Name: Community Health Improvement and Lifestyle Service",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/107729-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG33, UKG13",
+        "cpv": "98334000",
+        "matchedKeywords": [
+          "skills",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
         "demo": false
       },
       {
@@ -6866,7 +7197,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
         "id": "fts-105842-2026",
@@ -7155,7 +7487,7 @@
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1",
         "demo": false,
-        "updatedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b"
+        "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
         "id": "fts-102062-2026",
@@ -7351,7 +7683,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
         "id": "cf-e92582f5-95e5-461d-8a9f-675c50df724a-920293",
@@ -7393,42 +7726,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-11T16:08:42.282Z"
+    "lastPartialUpdate": "2026-11-12T16:47:03.023Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
-    "attemptedAt": "2026-11-11T16:08:42.282Z",
+    "attemptId": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
+    "attemptedAt": "2026-11-12T16:47:03.023Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
-    "retrievedCount": 14,
-    "totalCount": 183,
+    "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
+    "retrievedCount": 19,
+    "totalCount": 191,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-11T16:08:42.282Z",
-        "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
-        "lastAttemptAt": "2026-11-11T16:08:42.282Z",
+        "watermark": "2026-11-12T16:47:03.023Z",
+        "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
+        "lastAttemptAt": "2026-11-12T16:47:03.023Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-09T16:24:50.988Z",
-          "to": "2026-11-11T16:08:42.282Z"
+          "from": "2026-11-10T16:08:42.282Z",
+          "to": "2026-11-12T16:47:03.023Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-11T16:08:42.282Z",
-        "lastSuccessfulUpdate": "2026-11-11T16:08:42.282Z",
-        "lastAttemptAt": "2026-11-11T16:08:42.282Z",
+        "watermark": "2026-11-12T16:47:03.023Z",
+        "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
+        "lastAttemptAt": "2026-11-12T16:47:03.023Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-09T16:24:50.988Z",
-          "to": "2026-11-11T16:08:42.282Z"
+          "from": "2026-11-10T16:08:42.282Z",
+          "to": "2026-11-12T16:47:03.023Z"
         }
       }
     }
