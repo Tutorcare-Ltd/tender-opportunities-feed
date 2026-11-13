@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-12T16:47:03.023Z",
-      "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
-      "lastAttemptAt": "2026-11-12T16:47:03.023Z",
+      "watermark": "2026-11-13T16:19:29.894Z",
+      "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
+      "lastAttemptAt": "2026-11-13T16:19:29.894Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-10T16:08:42.282Z",
-        "to": "2026-11-12T16:47:03.023Z"
+        "from": "2026-11-11T16:47:03.023Z",
+        "to": "2026-11-13T16:19:29.894Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-12T16:47:03.023Z",
-      "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
-      "lastAttemptAt": "2026-11-12T16:47:03.023Z",
+      "watermark": "2026-11-13T16:19:29.894Z",
+      "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
+      "lastAttemptAt": "2026-11-13T16:19:29.894Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-10T16:08:42.282Z",
-        "to": "2026-11-12T16:47:03.023Z"
+        "from": "2026-11-11T16:47:03.023Z",
+        "to": "2026-11-13T16:19:29.894Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
-    "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
+    "buildId": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
+    "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
     "interval": {
-      "from": "2026-11-10T16:08:42.282Z",
-      "to": "2026-11-12T16:47:03.023Z"
+      "from": "2026-11-11T16:47:03.023Z",
+      "to": "2026-11-13T16:19:29.894Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 19,
-    "totalCount": 191,
+    "retrievedCount": 14,
+    "totalCount": 199,
     "sourceFailures": [],
     "records": [
       {
@@ -4140,7 +4140,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e"
       },
       {
         "id": "fts-092987-2026",
@@ -4933,7 +4934,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e"
       },
       {
         "id": "fts-107612-2026",
@@ -4972,7 +4974,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e"
       },
       {
         "id": "fts-096003-2026",
@@ -5412,7 +5415,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e"
       },
       {
         "id": "fts-099739-2026",
@@ -6344,6 +6348,46 @@
         "demo": false
       },
       {
+        "id": "fts-108058-2026",
+        "title": "Planning and Scoping Partners in Care & Health Continuous Improvement Programme",
+        "authority": "Improvement and Development Agency for Local Government (IDeA)",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "108058-2026",
+        "published": "2026-11-13",
+        "deadline": "2026-12-04",
+        "value": 125000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "To undertake a scoping, mapping, and review of approaches of key elements of the PCH Continuous Improvement programme to inform the programme in 2027-28 and 2028-29. This project is funded in whole or in part by grant funding provided by the Department of Health and Social Care (DHSC) to the Improvement and Development Agency for Local Government (IDeA). The award of this contract and any payments under it are conditional upon IDeA maintaining in force a Grant Funding Agreement with DHSC covering the relevant Funding Period. In the event that: • the Grant Funding Agreement is not executed, • funding is reduced, withheld, suspended, or terminated, or • IDeA is required by DHSC to vary or terminate delivery of the relevant Funded Activities. IDeA reserves the right to vary, suspend or terminate this contract on written notice without liability beyond payment for services properly delivered up to the date of termination. By submitting the bid, the Supplier acknowledges that this project forms part of the Funded Activities delivered under a Grant Funding Agreement between IDeA and DHSC. The Supplier must familiarise themselves with the special conditions attached to the Purchase Order Terms and Conditions for the delivery of the work The IDeA as Partners in Care and Health (PCH) helps councils to improve the way they deliver adult social care and public health services and helps Government understand the challenges faced by the sector. The programme is a trusted network for developing and sharing best practice, developing tools and techniques, providing support, and building connections. It is offered to councils without charge. As referenced above the LGA / IDeA were awarded a 3-year grant, for the period April 2026 to March 2029, from DHSC to provide continuous improvement support to councils in England with Adult Social Care responsibilities. The programme comprises the following elements • Care and Health and Improvement Advisers (CHIAs) – 0.5 FTE for each of nine Regions • Research, data and intelligence • Support to Councils rated ‘Requires Improvement’ and Inadequate’ post CQC assessment • Continuous Improvement programme, comprising the following elements: • Leadership o CQC assurance o Local Government Reorganisation o Finance & resources o Digital o Elected member support • Working with People o Working age adults o Co-production & care equity o Mental Health o Professional practice o Safeguarding o Unpaid carers • Providing Support o Market oversight and intelligence o Commissioning o Housing o Workforce The prospectus for the 2026-27 can be found here Improvement and support offer 2026/27 - prospectus | Local Government Association The review to be commissioned covers the scoping and planning for the continuous improvement elements of this programme.",
+        "tenderSummary": "To undertake a scoping, mapping, and review of approaches of key elements of the PCH Continuous Improvement programme to inform the programme in 2027-28 and 2028-29. This project is funded in whole or in part by grant funding provided by the Department of Health and Social Care (DHSC) to the Improvement and Development Agency for Local Government (IDeA). The award of this contract and any payments under it are conditional upon IDeA maintaining in force a Grant Funding Agreement with DHSC covering the relevant Funding Period. In the event that: • the Grant Funding Agreement is not executed, • funding is reduced, withheld, suspended, or terminated, or • IDeA is required by DHSC to vary or terminate delivery of the relevant Funded Activities. IDeA reserves the right to vary, suspend or terminate this contract on written notice without liability beyond payment for services properly delivered up to the date of termination. By submitting the bid, the Supplier acknowledges that this project forms part of the Funded Activities delivered under a Grant Funding Agreement between IDeA and DHSC. The Supplier must familiarise themselves with the special conditions attached to the Purchase Order Terms and Conditions for the delivery of the work The IDeA as Partners in Care and Health (PCH) helps councils to improve the way they deliver adult social care and public health services and helps Government understand the challenges faced by the sector. The programme is a trusted network for developing and sharing best practice, developing tools and techniques, providing support, and building connections. It is offered to councils without charge. As referenced above the LGA / IDeA were awarded a 3-year grant, for the period April 2026 to March 2029, from DHSC to provide continuous improvement support to councils in England with Adult Social Care responsibilities. The programme comprises the following elements • Care and Health and Improvement Advisers (CHIAs) – 0.5 FTE for each of nine Regions • Research, data and intelligence • Support to Councils rated ‘Requires Improvement’ and Inadequate’ post CQC assessment • Continuous Improvement programme, comprising the following elements: • Leadership o CQC assurance o Local Government Reorganisation o Finance & resources o Digital o Elected member support • Working with People o Working age adults o Co-production & care equity o Mental Health o Professional practice o Safeguarding o Unpaid carers • Providing Support o Market oversight and intelligence o Commissioning o Housing o Workforce The prospectus for the 2026-27 can be found here Improvement and support offer 2026/27 - prospectus | Local Government Association The review to be commissioned covers the scoping and planning for the continuous improvement elements of this programme.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108058-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "85300000, 85100000",
+        "matchedKeywords": [
+          "safeguarding",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
+        "demo": false
+      },
+      {
         "id": "fts-104917-2026",
         "title": "National Education and Training for NHS Talking Therapies for Anxiety and Depression - Core",
         "authority": "NHS England",
@@ -6715,6 +6759,46 @@
           "80562000"
         ],
         "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
+        "demo": false,
+        "updatedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e"
+      },
+      {
+        "id": "fts-108145-2026",
+        "title": "Crisis Resilience Fund Eligibility & Resilience Services",
+        "authority": "Hampshire County Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "108145-2026",
+        "published": "2026-11-13",
+        "deadline": "2026-12-08",
+        "value": 4308000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The service will provide an independent, third‑party eligibility checking function for the Department for Work and Pensions (DWP) Crisis and Resilience Fund (CRF). The Provider will assess applications for Crisis Payments against national DWP guidance and locally agreed criteria, verify evidence proportionately, apply discretionary judgement where appropriate, and provide auditable eligibility decisions to support lawful, timely, and dignified crisis support. Alongside this the provider will be responsible for the delivery of financial resilience and capability services in line with DWP criteria. Hampshire County Council is therefore commissioning a specialist third-party organisation to carry out eligibility checking on its behalf, ensuring: • Compliance with DWP guidance • Fair, consistent decision-making • Proportionate checks that do not delay crisis support • Robust audit and assurance arrangements Alongside this the specialist third-party organisation will be required to deliver: • Deliver financial resilience/capability and wellbeing support • Build individual, and community, skills and confidence in financial resilience • Support vulnerable people early to reduce the need for further crisis support • Strengthen links to wider community resilience services • Work with partners to report outcomes for DWP monitoring",
+        "tenderSummary": "The service will provide an independent, third‑party eligibility checking function for the Department for Work and Pensions (DWP) Crisis and Resilience Fund (CRF). The Provider will assess applications for Crisis Payments against national DWP guidance and locally agreed criteria, verify evidence proportionately, apply discretionary judgement where appropriate, and provide auditable eligibility decisions to support lawful, timely, and dignified crisis support. Alongside this the provider will be responsible for the delivery of financial resilience and capability services in line with DWP criteria. Hampshire County Council is therefore commissioning a specialist third-party organisation to carry out eligibility checking on its behalf, ensuring: • Compliance with DWP guidance • Fair, consistent decision-making • Proportionate checks that do not delay crisis support • Robust audit and assurance arrangements Alongside this the specialist third-party organisation will be required to deliver: • Deliver financial resilience/capability and wellbeing support • Build individual, and community, skills and confidence in financial resilience • Support vulnerable people early to reduce the need for further crisis support • Strengthen links to wider community resilience services • Work with partners to report outcomes for DWP monitoring",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108145-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ3",
+        "cpv": "85312310, 75310000, 75200000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
         "demo": false
       },
       {
@@ -7119,7 +7203,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e"
       },
       {
         "id": "fts-093865-2026",
@@ -7199,6 +7284,49 @@
         "addedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b",
         "demo": false,
         "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
+      },
+      {
+        "id": "fts-108009-2026",
+        "title": "SWAST-5005-COR Level 3 Recognition of Prior Learning Certification",
+        "authority": "South Western Ambulance Service NHS Foundation Trust",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "108009-2026",
+        "published": "2026-11-13",
+        "deadline": "2026-12-15",
+        "value": 60000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "South Western Ambulance Service NHS Foundation Trust (“the Trust”) is seeking to appoint a suitably qualified and experienced provider to design, deliver and administer a Recognition of Prior Learning (RPL) assessment and accreditation pathway for eligible members of the Trust’s workforce. The requirement is intended to enable eligible learners who have completed the Trust’s internal Emergency Ambulance Associate (EAA) development programme and associated mandatory training to have their existing learning, experience and current competence appropriately recognised towards achievement of the Level 3 Diploma in Ambulance Emergency and Urgent Care Support (RQF). The successful provider will be required to deliver an end-to-end RPL service, including mapping the Trust’s existing EAA programme against the relevant qualification requirements; reviewing existing learner evidence; determining the extent to which learning outcomes and assessment criteria can be satisfied through RPL and Recognition of Current Competence (RCC); undertaking learner registration and assessment; identifying and addressing any residual learning or assessment gaps; completing internal quality assurance and relevant awarding organisation processes; and confirming qualification achievement. The service must maximise the appropriate use of existing learning, workplace experience and evidence, minimising unnecessary duplication of learning and assessment while maintaining the standards and requirements of the relevant awarding organisation. The Trust has identified a maximum anticipated requirement of up to 1,625 learners across existing and future eligible workforce cohorts during the contract period. Actual volumes may vary and the Trust does not guarantee that the maximum anticipated volume will be achieved. Interested suppliers should review the procurement documents available via the Trust’s e-tendering portal and submit their tender response in accordance with the published procurement timetable.",
+        "tenderSummary": "South Western Ambulance Service NHS Foundation Trust (“the Trust”) is seeking to appoint a suitably qualified and experienced provider to design, deliver and administer a Recognition of Prior Learning (RPL) assessment and accreditation pathway for eligible members of the Trust’s workforce. The requirement is intended to enable eligible learners who have completed the Trust’s internal Emergency Ambulance Associate (EAA) development programme and associated mandatory training to have their existing learning, experience and current competence appropriately recognised towards achievement of the Level 3 Diploma in Ambulance Emergency and Urgent Care Support (RQF). The successful provider will be required to deliver an end-to-end RPL service, including mapping the Trust’s existing EAA programme against the relevant qualification requirements; reviewing existing learner evidence; determining the extent to which learning outcomes and assessment criteria can be satisfied through RPL and Recognition of Current Competence (RCC); undertaking learner registration and assessment; identifying and addressing any residual learning or assessment gaps; completing internal quality assurance and relevant awarding organisation processes; and confirming qualification achievement. The service must maximise the appropriate use of existing learning, workplace experience and evidence, minimising unnecessary duplication of learning and assessment while maintaining the standards and requirements of the relevant awarding organisation. The Trust has identified a maximum anticipated requirement of up to 1,625 learners across existing and future eligible workforce cohorts during the contract period. Actual volumes may vary and the Trust does not guarantee that the maximum anticipated volume will be achieved. Interested suppliers should review the procurement documents available via the Trust’s e-tendering portal and submit their tender response in accordance with the published procurement timetable.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108009-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK",
+        "cpv": "80510000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
+        "demo": false
       },
       {
         "id": "fts-105842-2026",
@@ -7450,6 +7578,47 @@
         "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
       },
       {
+        "id": "fts-107837-2026",
+        "title": "Provision of a Uk Based Professional Development and Executive Education Programme for the Libyan National Audit Bureau",
+        "authority": "British Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "107837-2026",
+        "published": "2026-11-13",
+        "deadline": "2027-01-05",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "The British Council is seeking to appoint a suitably qualified supplier to design coordinate and deliver a Uk based professional development programme for National Audit Bureau NaB staff from Libya as per the mentioned infomration in the tender documents",
+        "tenderSummary": "The British Council is seeking to appoint a suitably qualified supplier to design coordinate and deliver a Uk based professional development programme for National Audit Bureau NaB staff from Libya as per the mentioned infomration in the tender documents",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-25406",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "LY, UK",
+        "cpv": "80511000, 80521000, 80531200, 80580000, 80570000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
+        "demo": false
+      },
+      {
         "id": "fts-106845-2026",
         "title": "Cheshire East Carer Service",
         "authority": "Cheshire East Council",
@@ -7490,6 +7659,125 @@
         "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
+        "id": "fts-107858-2026",
+        "title": "Go! London Young Entrepreneurs",
+        "authority": "Greater London Authority (GLA)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "107858-2026",
+        "published": "2026-11-13",
+        "deadline": "2027-01-06",
+        "value": 700000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "Transport for London (TfL) is procuring on behalf of the Greater London Authority (GLA), and invites suitably qualified suppliers to participate in, a Competitive Open Procedure for the delivery of services under the Go! London Young Entrepreneurs programme. The appointed supplier will be responsible for designing and delivering a programme that supports young people to explore entrepreneurship (social enterprises), develop enterprise knowledge and skills, and gain experience that contributes to their future education, training, employment, and business aspirations. The service provider will be expected to work collaboratively with the Greater London Authority and key programme stakeholders to: • Design and deliver the Go! London Young Entrepreneurs Programme. • Recruit, engage, and support eligible participants. • Deliver programme activities that develop entrepreneurial knowledge, skills, and confidence. • Provide appropriate mentoring, guidance, and support to participants. • Facilitate engagement with , entrepreneurs, enterprise organisations, sport sector and other relevant stakeholders where required. • Monitor programme delivery and participant outcomes. • Provide contract management information, performance reporting, and evaluation data as specified within the procurement documentation. Co-ordination of referrals, property nominations and allocations Full details of the service requirements, deliverables, performance measures, and reporting obligations are contained within the procurement documentation. Please note that the initial contract that will be shared as part of this tender is in draft form and there will be amendments made to it. The final contract will be available on SAP Ariba no later than 20 November 2026. This version will be the contract bidders will be required to accept as per of their tender submission.",
+        "tenderSummary": "Transport for London (TfL) is procuring on behalf of the Greater London Authority (GLA), and invites suitably qualified suppliers to participate in, a Competitive Open Procedure for the delivery of services under the Go! London Young Entrepreneurs programme. The appointed supplier will be responsible for designing and delivering a programme that supports young people to explore entrepreneurship (social enterprises), develop enterprise knowledge and skills, and gain experience that contributes to their future education, training, employment, and business aspirations. The service provider will be expected to work collaboratively with the Greater London Authority and key programme stakeholders to: • Design and deliver the Go! London Young Entrepreneurs Programme. • Recruit, engage, and support eligible participants. • Deliver programme activities that develop entrepreneurial knowledge, skills, and confidence. • Provide appropriate mentoring, guidance, and support to participants. • Facilitate engagement with , entrepreneurs, enterprise organisations, sport sector and other relevant stakeholders where required. • Monitor programme delivery and participant outcomes. • Provide contract management information, performance reporting, and evaluation data as specified within the procurement documentation. Co-ordination of referrals, property nominations and allocations Full details of the service requirements, deliverables, performance measures, and reporting obligations are contained within the procurement documentation. Please note that the initial contract that will be shared as part of this tender is in draft form and there will be amendments made to it. The final contract will be available on SAP Ariba no later than 20 November 2026. This version will be the contract bidders will be required to accept as per of their tender submission.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/107858-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "80310000, 85300000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
+        "demo": false
+      },
+      {
+        "id": "fts-107882-2026",
+        "title": "Management of Sports Facilities for Community use",
+        "authority": "Loxford Schools Trust",
+        "category": "First aid",
+        "source": "FTS",
+        "noticeId": "107882-2026",
+        "published": "2026-11-13",
+        "deadline": "2027-01-08",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Purpose of the tender The specification sets out the arrangements for the management, operation and community use of the sports facilities situated at Cecil Jones Academy (\"the Facilities\"), Southend on Sea. The parties acknowledge that the Facilities have been developed to support: o Community participation in sport and physical activity; o Health, wellbeing and social inclusion; o Access to high-quality sporting facilities for local residents, clubs and community organisations; o The long-term protection, maintenance and enhancement of the Facilities. The Trust's primary objective is the delivery of community benefit. The Trust does not require the Facilities to generate a commercial profit. Any operating surplus generated through community use shall be reinvested into the maintenance, improvement and sustainability of the Facilities. 2. Facilities in scope o Full-size 3G Artificial Grass Pitch; o Outdoor Tennis/Netball Courts; o Sprint Track and Long Jump Facility; o Changing accommodation associated with the outdoor facilities o Spectator areas; o Car parking for community users, comprising 61 spaces including 5 accessible bays o Ancillary facilities used in connection with Community Use, namely the toilets, male and female, and first aid provision within the changing accommodation, floodlighting serving the 3G pitch and courts, and the access routes between the car park, changing accommodation and outdoor facilities.",
+        "tenderSummary": "Purpose of the tender The specification sets out the arrangements for the management, operation and community use of the sports facilities situated at Cecil Jones Academy (\"the Facilities\"), Southend on Sea. The parties acknowledge that the Facilities have been developed to support: o Community participation in sport and physical activity; o Health, wellbeing and social inclusion; o Access to high-quality sporting facilities for local residents, clubs and community organisations; o The long-term protection, maintenance and enhancement of the Facilities. The Trust's primary objective is the delivery of community benefit. The Trust does not require the Facilities to generate a commercial profit. Any operating surplus generated through community use shall be reinvested into the maintenance, improvement and sustainability of the Facilities. 2. Facilities in scope o Full-size 3G Artificial Grass Pitch; o Outdoor Tennis/Netball Courts; o Sprint Track and Long Jump Facility; o Changing accommodation associated with the outdoor facilities o Spectator areas; o Car parking for community users, comprising 61 spaces including 5 accessible bays o Ancillary facilities used in connection with Community Use, namely the toilets, male and female, and first aid provision within the changing accommodation, floodlighting serving the 3G pitch and courts, and the access routes between the car park, changing accommodation and outdoor facilities.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/107882-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "92610000",
+        "matchedKeywords": [
+          "first aid"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
+        "demo": false
+      },
+      {
+        "id": "cf-d81a6809-0f8d-4780-bb96-3d6f573fb6e9-921493",
+        "title": "CA18665 - Management of Sports Facilities for Community use",
+        "authority": "Loxford Schools Trust",
+        "category": "First aid",
+        "source": "Contracts Finder",
+        "noticeId": "d81a6809-0f8d-4780-bb96-3d6f573fb6e9-921493",
+        "published": "2026-11-13",
+        "deadline": "2027-01-08",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Purpose of the tender The specification sets out the arrangements for the management, operation and community use of the sports facilities situated at Cecil Jones Academy (\"the Facilities\"), Southend on Sea. The parties acknowledge that the Facilities have been developed to support: o Community participation in sport and physical activity; o Health, wellbeing and social inclusion; o Access to high-quality sporting facilities for local residents, clubs and community organisations; o The long-term protection, maintenance and enhancement of the Facilities. The Trust's primary objective is the delivery of community benefit. The Trust does not require the Facilities to generate a commercial profit. Any operating surplus generated through community use shall be reinvested into the maintenance, improvement and sustainability of the Facilities. 2. Facilities in scope o Full-size 3G Artificial Grass Pitch; o Outdoor Tennis/Netball Courts; o Sprint Track and Long Jump Facility; o Changing accommodation associated with the outdoor facilities o Spectator areas; o Car parking for community users, comprising 61 spaces including 5 accessible bays o Ancillary facilities used in connection with Community Use, namely the toilets, male and female, and first aid provision within the changing accommodation, floodlighting serving the 3G pitch and courts, and the access routes between the car park, changing accommodation and outdoor facilities. To access this competition: Registered: Login to https://suppliers.multiquote.com and view the opportunity CA18665. Not registered: Visit https://suppliers.multiquote.com then register and quote CA18665 as the reason for registration. Any queries please contact MultiQuote on 020 3920 8054.",
+        "tenderSummary": "Purpose of the tender The specification sets out the arrangements for the management, operation and community use of the sports facilities situated at Cecil Jones Academy (\"the Facilities\"), Southend on Sea. The parties acknowledge that the Facilities have been developed to support: o Community participation in sport and physical activity; o Health, wellbeing and social inclusion; o Access to high-quality sporting facilities for local residents, clubs and community organisations; o The long-term protection, maintenance and enhancement of the Facilities. The Trust's primary objective is the delivery of community benefit. The Trust does not require the Facilities to generate a commercial profit. Any operating surplus generated through community use shall be reinvested into the maintenance, improvement and sustainability of the Facilities. 2. Facilities in scope o Full-size 3G Artificial Grass Pitch; o Outdoor Tennis/Netball Courts; o Sprint Track and Long Jump Facility; o Changing accommodation associated with the outdoor facilities o Spectator areas; o Car parking for community users, comprising 61 spaces including 5 accessible bays o Ancillary facilities used in connection with Community Use, namely the toilets, male and female, and first aid provision within the changing accommodation, floodlighting serving the 3G pitch and courts, and the access routes between the car park, changing accommodation and outdoor facilities. To access this competition: Registered: Login to https://suppliers.multiquote.com and view the opportunity CA18665. Not registered: Visit https://suppliers.multiquote.com then register and quote CA18665 as the reason for registration. Any queries please contact MultiQuote on 020 3920 8054.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2027-03-31 to 2030-03-31",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/d81a6809-0f8d-4780-bb96-3d6f573fb6e9",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "SS2 4BU",
+        "cpv": "92610000",
+        "matchedKeywords": [
+          "first aid"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
+        "demo": false
+      },
+      {
         "id": "fts-102062-2026",
         "title": "Passive Fire Safety Remedial works",
         "authority": "Southern Housing",
@@ -7528,6 +7816,45 @@
         "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
         "demo": false,
         "updatedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add"
+      },
+      {
+        "id": "fts-108135-2026",
+        "title": "bpha - Active Fire Safety Systems and Remedial Works",
+        "authority": "Bedford Pilgrims Housing Association (bpha)",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "108135-2026",
+        "published": "2026-11-13",
+        "deadline": "2027-01-12",
+        "value": 1890000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Bedford Pilgrims Housing Association (bpha) is seeking to appoint a single provider to deliver the inspection, testing, servicing, maintenance and repair of active fire safety systems across its residential property portfolio. The systems in scope include fire detection and alarm systems, emergency lighting, smoke ventilation and dampers, and dry risers. The contract also covers a 24-hour emergency call-out service, compliance data and reporting, and waking watch and temporary works. The provider will work with bpha’s asset management system and contact centre, and will be managed through a performance framework of key performance indicators. The contract will start on 1 April 2027 for an initial term of three years, with options to extend by two years and then by one year, to a maximum of six years. Work will be ordered as and when required, and bpha does not guarantee any volume or value of work. The procurement uses a competitive flexible procedure in two stages. In the first stage, bidders complete a pass/fail Procurement Specific Questionnaire and a scored Quality Schedule, and at least four bidders will be shortlisted. In the second stage, shortlisted bidders receive the full specification, pricing and contract documents, submit tenders and attend interview. A Bidders’ Briefing will be held on Microsoft Teams on 23 November 2026.",
+        "tenderSummary": "Bedford Pilgrims Housing Association (bpha) is seeking to appoint a single provider to deliver the inspection, testing, servicing, maintenance and repair of active fire safety systems across its residential property portfolio. The systems in scope include fire detection and alarm systems, emergency lighting, smoke ventilation and dampers, and dry risers. The contract also covers a 24-hour emergency call-out service, compliance data and reporting, and waking watch and temporary works. The provider will work with bpha’s asset management system and contact centre, and will be managed through a performance framework of key performance indicators. The contract will start on 1 April 2027 for an initial term of three years, with options to extend by two years and then by one year, to a maximum of six years. Work will be ordered as and when required, and bpha does not guarantee any volume or value of work. The procurement uses a competitive flexible procedure in two stages. In the first stage, bidders complete a pass/fail Procurement Specific Questionnaire and a scored Quality Schedule, and at least four bidders will be shortlisted. In the second stage, shortlisted bidders receive the full specification, pricing and contract documents, submit tenders and attend interview. A Bidders’ Briefing will be held on Microsoft Teams on 23 November 2026.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108135-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK, UKH",
+        "cpv": "50413200, 45343000, 50610000, 50700000, 50710000, 51700000, 71317100",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
+        "demo": false
       },
       {
         "id": "fts-105654-2026",
@@ -7726,42 +8053,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-12T16:47:03.023Z"
+    "lastPartialUpdate": "2026-11-13T16:19:29.894Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
-    "attemptedAt": "2026-11-12T16:47:03.023Z",
+    "attemptId": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
+    "attemptedAt": "2026-11-13T16:19:29.894Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
-    "retrievedCount": 19,
-    "totalCount": 191,
+    "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
+    "retrievedCount": 14,
+    "totalCount": 199,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-12T16:47:03.023Z",
-        "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
-        "lastAttemptAt": "2026-11-12T16:47:03.023Z",
+        "watermark": "2026-11-13T16:19:29.894Z",
+        "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
+        "lastAttemptAt": "2026-11-13T16:19:29.894Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-10T16:08:42.282Z",
-          "to": "2026-11-12T16:47:03.023Z"
+          "from": "2026-11-11T16:47:03.023Z",
+          "to": "2026-11-13T16:19:29.894Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-12T16:47:03.023Z",
-        "lastSuccessfulUpdate": "2026-11-12T16:47:03.023Z",
-        "lastAttemptAt": "2026-11-12T16:47:03.023Z",
+        "watermark": "2026-11-13T16:19:29.894Z",
+        "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
+        "lastAttemptAt": "2026-11-13T16:19:29.894Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-10T16:08:42.282Z",
-          "to": "2026-11-12T16:47:03.023Z"
+          "from": "2026-11-11T16:47:03.023Z",
+          "to": "2026-11-13T16:19:29.894Z"
         }
       }
     }
