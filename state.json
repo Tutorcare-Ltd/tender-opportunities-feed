@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-13T16:19:29.894Z",
-      "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
-      "lastAttemptAt": "2026-11-13T16:19:29.894Z",
+      "watermark": "2026-11-16T18:30:35.231Z",
+      "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
+      "lastAttemptAt": "2026-11-16T18:30:35.231Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-11T16:47:03.023Z",
-        "to": "2026-11-13T16:19:29.894Z"
+        "from": "2026-11-12T16:19:29.894Z",
+        "to": "2026-11-16T18:30:35.231Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-13T16:19:29.894Z",
-      "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
-      "lastAttemptAt": "2026-11-13T16:19:29.894Z",
+      "watermark": "2026-11-16T18:30:35.231Z",
+      "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
+      "lastAttemptAt": "2026-11-16T18:30:35.231Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-11T16:47:03.023Z",
-        "to": "2026-11-13T16:19:29.894Z"
+        "from": "2026-11-12T16:19:29.894Z",
+        "to": "2026-11-16T18:30:35.231Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
-    "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
+    "buildId": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+    "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
     "interval": {
-      "from": "2026-11-11T16:47:03.023Z",
-      "to": "2026-11-13T16:19:29.894Z"
+      "from": "2026-11-12T16:19:29.894Z",
+      "to": "2026-11-16T18:30:35.231Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 14,
-    "totalCount": 199,
+    "retrievedCount": 20,
+    "totalCount": 210,
     "sourceFailures": [],
     "records": [
       {
@@ -4662,6 +4662,85 @@
         "updatedBuild": "2026-11-11T16:08:42.282Z-d0146cb1-5722-4af8-8f90-9cdcf4bbf99b"
       },
       {
+        "id": "fts-108354-2026",
+        "title": "Framework for the Provision of Forensic Testing",
+        "authority": "The Council of the City of Wakefield",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "108354-2026",
+        "published": "2026-11-16",
+        "deadline": "2026-11-23",
+        "value": 1700000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The Council would like to establish a Closed Framework Agreement for the Provision of Forensic Testing. Forensic Testing (a term used to cover DNA, drug and alcohol testing) is used to help inform decision making, particularly with regard to the safeguarding of children and young people. The proposed Closed Framework Agreement will run for an initial period of 2 years with the option to extend, on two occasions, each for a 12-month period (2 + 1 + 1). The Closed Framework will be procured via the Open Procedure under the Procurement Act 2023 The Closed Framework Agreement will be split into 2 lots, with a maximum of 3 suppliers awarded to each lot: • Lot 1 = DNA Testing • Lot 2 = Drug and Alcohol Testing",
+        "tenderSummary": "The Council would like to establish a Closed Framework Agreement for the Provision of Forensic Testing. Forensic Testing (a term used to cover DNA, drug and alcohol testing) is used to help inform decision making, particularly with regard to the safeguarding of children and young people. The proposed Closed Framework Agreement will run for an initial period of 2 years with the option to extend, on two occasions, each for a 12-month period (2 + 1 + 1). The Closed Framework will be procured via the Open Procedure under the Procurement Act 2023 The Closed Framework Agreement will be split into 2 lots, with a maximum of 3 suppliers awarded to each lot: • Lot 1 = DNA Testing • Lot 2 = Drug and Alcohol Testing",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108354-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE45",
+        "cpv": "85000000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
+      },
+      {
+        "id": "cf-42c80b0b-fbe7-49d7-8ac2-07a1a30e6e1a-921337",
+        "title": "Balfour Beatty - Roads North of the Thames-LTC - Technology Disconnections and Street Lighting Diversions",
+        "authority": "BALFOUR BEATTY CIVIL ENGINEERING LIMITED",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "42c80b0b-fbe7-49d7-8ac2-07a1a30e6e1a-921337",
+        "published": "2026-11-13",
+        "deadline": "2026-11-23",
+        "value": 50000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "We are inviting expressions of interest from experienced suppliers for Technology Disconnections and Street Lighting Diversions on the Lower Thames Crossing Roads North programme. The works support the Roads North Temporary Diversions (RNoT), including the A13 and M25 temporary diversion routes. Package Scope The package includes, but is not limited to: Technology disconnections, diversions and alteration works on the M25. Street lighting diversions and alterations on the M25, A13, A1089 and associated side roads. Disconnection, relocation, modification and reconnection of street lighting and technology assets. Alterations to lighting feeder pillars, electrical supplies, cabling and associated infrastructure. Alterations and diversions to technology electrical infrastructure (EI). Installation, relocation or replacement of lighting columns, luminaires, cabling and equipment. Testing, inspection, commissioning and certification of completed works. Managing temporary and permanent arrangements to maintain safe operation of affected systems. Producing test certification, commissioning records and as-built information. Coordinating with the Contractor, Design Team and stakeholders to meet programme and design requirements. Suppliers should be able to: Deliver highway technology disconnections, diversions and street lighting works on operational road networks. Undertake electrical isolation, installation, testing and commissioning. Demonstrate experience working safely on live highways, including strategic roads and motorways. Manage interfaces with existing highway technology and lighting infrastructure. Provide robust quality assurance and testing processes. Deliver within challenging programme and traffic management constraints. Work collaboratively with Tier 1 contractors, designers and stakeholders. Experience & Standards We are looking for companies with: Proven experience delivering street lighting diversions and highway technology works on major infrastructure projects. Experience in feeder pillar alterations, circuit modifications, electrical disconnections/reconnections and lighting works. Appropriately qualified personnel for electrical installation, isolation, inspection, testing and commissioning. Strong health, safety, environmental and quality management systems. Experience working within National Highways and/or local authority environments. Ability to meet Lower Thames Crossing requirements relating to sustainability, carbon reduction and social value. We actively welcome expressions of interest from SMEs with the relevant experience and capability. Next Steps If you are interested and would like further information, including pre-qualification requirements and tender timelines, please respond by 23.11.26. Additional information: The Lower Thames Crossing (LTC) is a new road to better connect Essex and Kent through a tunnel beneath the River Thames. Our purpose is to drive a change in how we deliver - connecting people to jobs and businesses to opportunities, leaving a skills legacy for the local community and construction industry, all whilst restoring nature and drawing a new blueprint for low-carbon construction. Our ambition is to deliver the UK's greenest road, and to do the right thing for local communities and the environment. We can only achieve this with the support of our supply chain, and it is therefore critical that for any supplier to be successful in winning work on LTC, they must demonstrate commitments to supporting delivery of our ambitions: • Delivering the works through a 'zero emissions' solution, and not using diesel on site in any plant or machinery. • Supporting us to leave a skills legacy for the local community, by not only recruiting locally, but upskilling your workforce to enable meaningful progression into higher paid higher skilled work. • Helping to facilitate successful opportunities by providing early careers roles, as well as inspiring young people into construction through delivery of STEM engagement.",
+        "tenderSummary": "We are inviting expressions of interest from experienced suppliers for Technology Disconnections and Street Lighting Diversions on the Lower Thames Crossing Roads North programme. The works support the Roads North Temporary Diversions (RNoT), including the A13 and M25 temporary diversion routes. Package Scope The package includes, but is not limited to: Technology disconnections, diversions and alteration works on the M25. Street lighting diversions and alterations on the M25, A13, A1089 and associated side roads. Disconnection, relocation, modification and reconnection of street lighting and technology assets. Alterations to lighting feeder pillars, electrical supplies, cabling and associated infrastructure. Alterations and diversions to technology electrical infrastructure (EI). Installation, relocation or replacement of lighting columns, luminaires, cabling and equipment. Testing, inspection, commissioning and certification of completed works. Managing temporary and permanent arrangements to maintain safe operation of affected systems. Producing test certification, commissioning records and as-built information. Coordinating with the Contractor, Design Team and stakeholders to meet programme and design requirements. Suppliers should be able to: Deliver highway technology disconnections, diversions and street lighting works on operational road networks. Undertake electrical isolation, installation, testing and commissioning. Demonstrate experience working safely on live highways, including strategic roads and motorways. Manage interfaces with existing highway technology and lighting infrastructure. Provide robust quality assurance and testing processes. Deliver within challenging programme and traffic management constraints. Work collaboratively with Tier 1 contractors, designers and stakeholders. Experience & Standards We are looking for companies with: Proven experience delivering street lighting diversions and highway technology works on major infrastructure projects. Experience in feeder pillar alterations, circuit modifications, electrical disconnections/reconnections and lighting works. Appropriately qualified personnel for electrical installation, isolation, inspection, testing and commissioning. Strong health, safety, environmental and quality management systems. Experience working within National Highways and/or local authority environments. Ability to meet Lower Thames Crossing requirements relating to sustainability, carbon reduction and social value. We actively welcome expressions of interest from SMEs with the relevant experience and capability. Next Steps If you are interested and would like further information, including pre-qualification requirements and tender timelines, please respond by 23.11.26. Additional information: The Lower Thames Crossing (LTC) is a new road to better connect Essex and Kent through a tunnel beneath the River Thames. Our purpose is to drive a change in how we deliver - connecting people to jobs and businesses to opportunities, leaving a skills legacy for the local community and construction industry, all whilst restoring nature and drawing a new blueprint for low-carbon construction. Our ambition is to deliver the UK's greenest road, and to do the right thing for local communities and the environment. We can only achieve this with the support of our supply chain, and it is therefore critical that for any supplier to be successful in winning work on LTC, they must demonstrate commitments to supporting delivery of our ambitions: • Delivering the works through a 'zero emissions' solution, and not using diesel on site in any plant or machinery. • Supporting us to leave a skills legacy for the local community, by not only recruiting locally, but upskilling your workforce to enable meaningful progression into higher paid higher skilled work. • Helping to facilitate successful opportunities by providing early careers roles, as well as inspiring young people into construction through delivery of STEM engagement.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2027-02-01 to 2027-11-01",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/42c80b0b-fbe7-49d7-8ac2-07a1a30e6e1a",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "East of England, South East",
+        "cpv": "34928500, 34928530, 34929000, 34993000, 50232000, 71334000, 71356100, 71356200, 71356300, 71356400, 71631000",
+        "matchedKeywords": [
+          "skills",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
+      },
+      {
         "id": "fts-099209-2026",
         "title": "Fire Door Replacements",
         "authority": "Royal Borough of Greenwich",
@@ -4935,7 +5014,7 @@
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
         "demo": false,
-        "updatedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e"
+        "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
       },
       {
         "id": "fts-107612-2026",
@@ -4976,6 +5055,45 @@
         "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
         "demo": false,
         "updatedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e"
+      },
+      {
+        "id": "fts-108377-2026",
+        "title": "Conwy County Leisure Facilities CCTV Supply and Install",
+        "authority": "Conwy County Borough Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "108377-2026",
+        "published": "2026-11-16",
+        "deadline": "2026-11-26",
+        "value": 100000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "tenderSummary": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sell2wales.gov.wales/Assets/NoticeBuilder_FileDownload.aspx?id=385689",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL13",
+        "cpv": "32231000, 32234000, 32235000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
       },
       {
         "id": "fts-096003-2026",
@@ -6385,7 +6503,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
       },
       {
         "id": "fts-104917-2026",
@@ -6799,7 +6918,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
       },
       {
         "id": "fts-106015-2026",
@@ -7124,6 +7244,45 @@
         "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
+        "id": "fts-108228-2026",
+        "title": "CBC-2192-T-ZH Fire Systems and Equipment Servicing and Maintenance",
+        "authority": "Central Bedfordshire Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "108228-2026",
+        "published": "2026-11-13",
+        "deadline": "2026-12-13",
+        "value": 405000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Central Bedfordshire Council is seeking a suitably qualified and BAFE-registered contractor to provide planned preventative maintenance, inspection, testing, repair and emergency call-out services for fire safety systems and equipment across its housing portfolio. Services include fire alarms, dry risers, fire extinguishers, sprinkler and mist systems, fire blankets, and automatic smoke ventilation systems, together with asset management and statutory compliance reporting.",
+        "tenderSummary": "Central Bedfordshire Council is seeking a suitably qualified and BAFE-registered contractor to provide planned preventative maintenance, inspection, testing, repair and emergency call-out services for fire safety systems and equipment across its housing portfolio. Services include fire alarms, dry risers, fire extinguishers, sprinkler and mist systems, fire blankets, and automatic smoke ventilation systems, together with asset management and statutory compliance reporting.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://supplier.in-tend.co.uk/centralbedfordshire/home",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "50413100, 51700000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
+      },
+      {
         "id": "fts-107232-2026",
         "title": "P660 Westminster City Council - Cycle Training and Services",
         "authority": "Westminster City Council",
@@ -7204,7 +7363,207 @@
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
         "demo": false,
-        "updatedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e"
+        "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
+      },
+      {
+        "id": "fts-108685-2026",
+        "title": "Flexible Framework Agreement for the Provision of Home Care Services",
+        "authority": "The Council of the City of Wakefield",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "108685-2026",
+        "published": "2026-11-16",
+        "deadline": "2026-12-14",
+        "value": 202200000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Wakefield Council commissions home care services to support Adults to live safely and independently in their own homes. This service supports the national \"Home First Approach\" recognising that wherever it is safe and appropriate, home is the best place for care and support. It also contributes to the ambitions of Wakefield Council's Adults and Health Strategy 2030 to help people live healthy and independent lives. Delivery will be through a locality-based model, with care providers working closely with adult social care, and other partners, to ensure support is coordinated, responsive, and rooted in local communities Providers are expected to deliver high-quality person-centred care that goes beyond task-based support. Care support should enable people to retain choice and control over their daily lives. Care must be flexible and responsive, adapting as people need change over time. Providers will make appropriate use of technology enabled care (TEC), equipment and innovative approaches to promote safety, independence and quality of life The provider will support people to remain safe and well in their own homes, maintain or improve their independence, and achieve the outcomes that matter to them The service will be underpinned by a skilled, valued and supported workforce, committed to delivering safe, effective and compassionate care Scope The home care service in Wakefield will provide care and support to adults aged 18 and over, who have been assessed to meet the Councils eligibility criteria. For Adult Social Care, the need for care and support is defined in line with the Care and Support (Eligibility Criteria) Regulations 2014 (the 'Eligibility Regulations'). This threshold is based on identifying how a person's needs affect their ability to achieve relevant outcomes, and how these impact on their wellbeing.",
+        "tenderSummary": "Wakefield Council commissions home care services to support Adults to live safely and independently in their own homes. This service supports the national \"Home First Approach\" recognising that wherever it is safe and appropriate, home is the best place for care and support. It also contributes to the ambitions of Wakefield Council's Adults and Health Strategy 2030 to help people live healthy and independent lives. Delivery will be through a locality-based model, with care providers working closely with adult social care, and other partners, to ensure support is coordinated, responsive, and rooted in local communities Providers are expected to deliver high-quality person-centred care that goes beyond task-based support. Care support should enable people to retain choice and control over their daily lives. Care must be flexible and responsive, adapting as people need change over time. Providers will make appropriate use of technology enabled care (TEC), equipment and innovative approaches to promote safety, independence and quality of life The provider will support people to remain safe and well in their own homes, maintain or improve their independence, and achieve the outcomes that matter to them The service will be underpinned by a skilled, valued and supported workforce, committed to delivering safe, effective and compassionate care Scope The home care service in Wakefield will provide care and support to adults aged 18 and over, who have been assessed to meet the Councils eligibility criteria. For Adult Social Care, the need for care and support is defined in line with the Care and Support (Eligibility Criteria) Regulations 2014 (the 'Eligibility Regulations'). This threshold is based on identifying how a person's needs affect their ability to achieve relevant outcomes, and how these impact on their wellbeing.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108685-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKE45",
+        "cpv": "85000000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
+      },
+      {
+        "id": "fts-108418-2026",
+        "title": "(ITT) Provision of an English, Maths and Optional Digital Skills Initial Assessment Platform",
+        "authority": "New College Swindon",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "108418-2026",
+        "published": "2026-11-16",
+        "deadline": "2026-12-14",
+        "value": 150000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "New College Swindon invites tenders for the provision of an English and Maths Initial Assessment, Diagnostic, Learning and Reporting Platform. The College is also interested in understanding suppliers' capability to provide Digital Skills assessment and learning functionality, which may be incorporated during the Contract term subject to funding availability and business requirements. The successful supplier will provide implementation, support, maintenance and associated services under a contract for an initial period of three years, with the option to extend for up to two periods of twelve months.",
+        "tenderSummary": "New College Swindon invites tenders for the provision of an English and Maths Initial Assessment, Diagnostic, Learning and Reporting Platform. The College is also interested in understanding suppliers' capability to provide Digital Skills assessment and learning functionality, which may be incorporated during the Contract term subject to funding availability and business requirements. The successful supplier will provide implementation, support, maintenance and associated services under a contract for an initial period of three years, with the option to extend for up to two periods of twelve months.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-25917",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "72261000, 72268000, 80500000, 72267100, 72263000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
+      },
+      {
+        "id": "fts-108380-2026",
+        "title": "PLA26210 Conservation Skills Torbay",
+        "authority": "Torbay Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "108380-2026",
+        "published": "2026-11-16",
+        "deadline": "2026-12-14",
+        "value": 25000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Torbay Council are seeking bids from appropriate skills learning providers to offer introductory conservation skills sessions to enhance learning for students/apprentices who are already engaged in formal Further Education. The Provider must be a Further Education Provider delivering the following courses within the Torbay area: • Bricklaying • Carpentry/joinery • Painting and decorating • Plastering The award of this Contract is conditional upon the Authority securing grant funding for the delivery of the project.",
+        "tenderSummary": "Torbay Council are seeking bids from appropriate skills learning providers to offer introductory conservation skills sessions to enhance learning for students/apprentices who are already engaged in formal Further Education. The Provider must be a Further Education Provider delivering the following courses within the Torbay area: • Bricklaying • Carpentry/joinery • Painting and decorating • Plastering The award of this Contract is conditional upon the Authority securing grant funding for the delivery of the project.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108380-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK42",
+        "cpv": "80000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
+      },
+      {
+        "id": "fts-108230-2026",
+        "title": "CBC-2192-T-ZH Fire Systems and Equipment Servicing and Maintenance",
+        "authority": "Central Bedfordshire Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "108230-2026",
+        "published": "2026-11-13",
+        "deadline": "2026-12-14",
+        "value": 405000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Central Bedfordshire Council is seeking a suitably qualified and BAFE-registered contractor to provide planned preventative maintenance, inspection, testing, repair and emergency call-out services for fire safety systems and equipment across its housing portfolio. Services include fire alarms, dry risers, fire extinguishers, sprinkler and mist systems, fire blankets, and automatic smoke ventilation systems, together with asset management and statutory compliance reporting.",
+        "tenderSummary": "Central Bedfordshire Council is seeking a suitably qualified and BAFE-registered contractor to provide planned preventative maintenance, inspection, testing, repair and emergency call-out services for fire safety systems and equipment across its housing portfolio. Services include fire alarms, dry risers, fire extinguishers, sprinkler and mist systems, fire blankets, and automatic smoke ventilation systems, together with asset management and statutory compliance reporting.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://supplier.in-tend.co.uk/centralbedfordshire/home",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "50413100, 51700000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
+      },
+      {
+        "id": "fts-108175-2026",
+        "title": "External Cyclical Maintenance",
+        "authority": "Northern Ireland Housing Executive",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "108175-2026",
+        "published": "2026-11-13",
+        "deadline": "2026-12-14",
+        "value": 35283515,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The works include, but are not limited to, the provision of surveys and design services, consultation with customers including design development, and the scheduling and programming of all elements of the service. The works also encompass the installation, construction, repair, maintenance, renewal, reinstatement, replacement and/or improvement of structural components, roof coverings, fascias, bargeboards, soffits, rainwater goods, windows, external doors, fire safety measures, internal doors and frames, retrofit and energy efficiency measures, play areas, external paving, fencing and other environmental components, together with any additional works identified by the Client. Window repairs or replacements undertaken as part of External Cyclical Maintenance Planned Schemes will generally involve a limited number of windows at an individual property. It is not anticipated that such schemes will require the replacement of a significant number of windows or the complete replacement of all windows within a property. The works also include cyclical redecoration, comprising the redecoration of existing painted or decorated surfaces, including windows, doors, fascias, rainwater and sanitary pipework, walls, soffits to external elevations, and common areas including communal rooms. Cyclical redecoration may also extend to bin stores, garages, cycle sheds, fencing, railings, screens, gates and similar features located within boundaries, paths, drives, communal areas, staircases, access decks and balconies. Cyclical redecoration shall be deemed to include the cleaning, where specified, of external surfaces of components and products such as windows, doors, soffits, fascias, cladding and other similar elements encountered during the works. The works further include pre-decoration repairs, comprising the repair, maintenance, renewal, reinstatement or replacement of previously decorated elements and components where such works are required prior to cyclical redecoration. This includes the inspection, repair and adjustment of hinges, locking mechanisms, handles and security devices associated with UPVC windows and external or communal doors. The works also include the identification, surveying, management, removal and disposal of asbestos-containing materials where these are discovered during the course of the works",
+        "tenderSummary": "The works include, but are not limited to, the provision of surveys and design services, consultation with customers including design development, and the scheduling and programming of all elements of the service. The works also encompass the installation, construction, repair, maintenance, renewal, reinstatement, replacement and/or improvement of structural components, roof coverings, fascias, bargeboards, soffits, rainwater goods, windows, external doors, fire safety measures, internal doors and frames, retrofit and energy efficiency measures, play areas, external paving, fencing and other environmental components, together with any additional works identified by the Client. Window repairs or replacements undertaken as part of External Cyclical Maintenance Planned Schemes will generally involve a limited number of windows at an individual property. It is not anticipated that such schemes will require the replacement of a significant number of windows or the complete replacement of all windows within a property. The works also include cyclical redecoration, comprising the redecoration of existing painted or decorated surfaces, including windows, doors, fascias, rainwater and sanitary pipework, walls, soffits to external elevations, and common areas including communal rooms. Cyclical redecoration may also extend to bin stores, garages, cycle sheds, fencing, railings, screens, gates and similar features located within boundaries, paths, drives, communal areas, staircases, access decks and balconies. Cyclical redecoration shall be deemed to include the cleaning, where specified, of external surfaces of components and products such as windows, doors, soffits, fascias, cladding and other similar elements encountered during the works. The works further include pre-decoration repairs, comprising the repair, maintenance, renewal, reinstatement or replacement of previously decorated elements and components where such works are required prior to cyclical redecoration. This includes the inspection, repair and adjustment of hinges, locking mechanisms, handles and security devices associated with UPVC windows and external or communal doors. The works also include the identification, surveying, management, removal and disposal of asbestos-containing materials where these are discovered during the course of the works",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108175-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKN",
+        "cpv": "45210000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
       },
       {
         "id": "fts-093865-2026",
@@ -7326,7 +7685,8 @@
           "80510000"
         ],
         "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
       },
       {
         "id": "fts-105842-2026",
@@ -7496,6 +7856,88 @@
         "updatedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6"
       },
       {
+        "id": "fts-108637-2026",
+        "title": "FTS054 Leadership, Entrepreneurship and Innovation Framework - Lot 2 Innovation and Digital",
+        "authority": "Highlands and Islands Enterprise",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "108637-2026",
+        "published": "2026-11-16",
+        "deadline": "2026-12-18",
+        "value": 1950000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          14,
+          10,
+          10,
+          0
+        ],
+        "description": "The Leadership, Entrepreneurship and Innovation Framework is separated into two lots: -Lot 1 Leadership and Entrepreneurship -Lot 2 Innovation and Digital This notice relates solely to Lot 2 of the two-lot framework procurement. Separate Public Contracts Scotland (PCS) notices have been published for each Lot, each with the description ‘FTS054 Leadership, Entrepreneurship and Innovation Framework’. The estimated value of Lot 2 is GBP 604,200. The total estimated value of the framework across Lots 1 and 2 is GBP 1,950,000, which is the value stated in this notice. Suppliers may tender for, and be appointed to, one or both Lots. Lot 2 covers a flexible range of services designed to support organisations to identify, develop, test and adopt innovative ideas, processes, products, services and digital solutions.",
+        "tenderSummary": "The Leadership, Entrepreneurship and Innovation Framework is separated into two lots: -Lot 1 Leadership and Entrepreneurship -Lot 2 Innovation and Digital This notice relates solely to Lot 2 of the two-lot framework procurement. Separate Public Contracts Scotland (PCS) notices have been published for each Lot, each with the description ‘FTS054 Leadership, Entrepreneurship and Innovation Framework’. The estimated value of Lot 2 is GBP 604,200. The total estimated value of the framework across Lots 1 and 2 is GBP 1,950,000, which is the value stated in this notice. Suppliers may tender for, and be appointed to, one or both Lots. Lot 2 covers a flexible range of services designed to support organisations to identify, develop, test and adopt innovative ideas, processes, products, services and digital solutions.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108637-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKM6",
+        "cpv": "80532000, 80570000, 80521000, 80510000, 80511000, 79411100, 79410000, 80500000, 79400000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
+      },
+      {
+        "id": "fts-108598-2026",
+        "title": "FTS054 Leadership, Entrepreneurship and Innovation Framework - Lot 1 Leadership and Entrepreneurship",
+        "authority": "Highlands and Islands Enterprise",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "108598-2026",
+        "published": "2026-11-16",
+        "deadline": "2026-12-18",
+        "value": 1950000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          14,
+          10,
+          10,
+          0
+        ],
+        "description": "The Leadership, Entrepreneurship and Innovation Framework is separated into two lots: -Lot 1 Leadership and Entrepreneurship -Lot 2 Innovation and Digital This notice relates solely to Lot 1 of the two-lot framework procurement. Separate Public Contracts Scotland (PCS) notices have been published for each Lot, each with the description ‘FTS054 Leadership, Entrepreneurship and Innovation Framework’. The estimated value of Lot 1 is GBP 1,345,000. The total estimated value of the framework across Lots 1 and 2 is GBP 1,950,000, which is the value stated in this notice. Suppliers may tender for, and be appointed to, one or both Lots. Lot 1 covers a flexible range of services designed to develop effective leaders, strengthen organisational capability and support entrepreneurial ambition.",
+        "tenderSummary": "The Leadership, Entrepreneurship and Innovation Framework is separated into two lots: -Lot 1 Leadership and Entrepreneurship -Lot 2 Innovation and Digital This notice relates solely to Lot 1 of the two-lot framework procurement. Separate Public Contracts Scotland (PCS) notices have been published for each Lot, each with the description ‘FTS054 Leadership, Entrepreneurship and Innovation Framework’. The estimated value of Lot 1 is GBP 1,345,000. The total estimated value of the framework across Lots 1 and 2 is GBP 1,950,000, which is the value stated in this notice. Suppliers may tender for, and be appointed to, one or both Lots. Lot 1 covers a flexible range of services designed to develop effective leaders, strengthen organisational capability and support entrepreneurial ambition.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108598-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKM6",
+        "cpv": "80532000, 80570000, 80521000, 80510000, 79411100, 79410000, 80500000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
+      },
+      {
         "id": "fts-105109-2026",
         "title": "Shropshire 0-25 Public Health Nursing Service (PHNS)",
         "authority": "Shropshire Council",
@@ -7616,7 +8058,8 @@
           "80510000"
         ],
         "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
       },
       {
         "id": "fts-106845-2026",
@@ -7697,7 +8140,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
       },
       {
         "id": "fts-107882-2026",
@@ -7736,7 +8180,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
       },
       {
         "id": "cf-d81a6809-0f8d-4780-bb96-3d6f573fb6e9-921493",
@@ -7854,7 +8299,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
       },
       {
         "id": "fts-105654-2026",
@@ -8053,42 +8499,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-13T16:19:29.894Z"
+    "lastPartialUpdate": "2026-11-16T18:30:35.231Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
-    "attemptedAt": "2026-11-13T16:19:29.894Z",
+    "attemptId": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+    "attemptedAt": "2026-11-16T18:30:35.231Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
-    "retrievedCount": 14,
-    "totalCount": 199,
+    "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
+    "retrievedCount": 20,
+    "totalCount": 210,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-13T16:19:29.894Z",
-        "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
-        "lastAttemptAt": "2026-11-13T16:19:29.894Z",
+        "watermark": "2026-11-16T18:30:35.231Z",
+        "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
+        "lastAttemptAt": "2026-11-16T18:30:35.231Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-11T16:47:03.023Z",
-          "to": "2026-11-13T16:19:29.894Z"
+          "from": "2026-11-12T16:19:29.894Z",
+          "to": "2026-11-16T18:30:35.231Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-13T16:19:29.894Z",
-        "lastSuccessfulUpdate": "2026-11-13T16:19:29.894Z",
-        "lastAttemptAt": "2026-11-13T16:19:29.894Z",
+        "watermark": "2026-11-16T18:30:35.231Z",
+        "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
+        "lastAttemptAt": "2026-11-16T18:30:35.231Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-11T16:47:03.023Z",
-          "to": "2026-11-13T16:19:29.894Z"
+          "from": "2026-11-12T16:19:29.894Z",
+          "to": "2026-11-16T18:30:35.231Z"
         }
       }
     }
