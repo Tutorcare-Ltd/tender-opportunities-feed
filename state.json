@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-16T18:30:35.231Z",
-      "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
-      "lastAttemptAt": "2026-11-16T18:30:35.231Z",
+      "watermark": "2026-11-17T17:37:06.296Z",
+      "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
+      "lastAttemptAt": "2026-11-17T17:37:06.296Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-12T16:19:29.894Z",
-        "to": "2026-11-16T18:30:35.231Z"
+        "from": "2026-11-15T18:30:35.231Z",
+        "to": "2026-11-17T17:37:06.296Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-16T18:30:35.231Z",
-      "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
-      "lastAttemptAt": "2026-11-16T18:30:35.231Z",
+      "watermark": "2026-11-17T17:37:06.296Z",
+      "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
+      "lastAttemptAt": "2026-11-17T17:37:06.296Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-12T16:19:29.894Z",
-        "to": "2026-11-16T18:30:35.231Z"
+        "from": "2026-11-15T18:30:35.231Z",
+        "to": "2026-11-17T17:37:06.296Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
-    "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
+    "buildId": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
+    "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
     "interval": {
-      "from": "2026-11-12T16:19:29.894Z",
-      "to": "2026-11-16T18:30:35.231Z"
+      "from": "2026-11-15T18:30:35.231Z",
+      "to": "2026-11-17T17:37:06.296Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 20,
-    "totalCount": 210,
+    "retrievedCount": 16,
+    "totalCount": 219,
     "sourceFailures": [],
     "records": [
       {
@@ -4383,6 +4383,45 @@
         "demo": false
       },
       {
+        "id": "cf-cbc8d975-376f-4c40-b602-3b8a9b2435cc-921824",
+        "title": "Lead Designer, Architect, Conservation Architect, CDM Principal Designer and Building Safety Act Principal Designer",
+        "authority": "Thetford Town Council",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "cbc8d975-376f-4c40-b602-3b8a9b2435cc-921824",
+        "published": "2026-11-17",
+        "deadline": "2026-11-20",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Below is a summary please refer to the Job pack for detailed information Thetford Town Council is seeking to appoint a single consultant practice to undertake the roles of: • Lead Designer; • Architect; • Conservation Architect; • Principal Designer (CDM Regulations); • Principal Designer (Building Safety Act). The successful consultant shall lead and coordinate the design for the Development Phase and prepare the project design for submission of the NLHF Delivery Phase Application. The consultant will work closely with the Project Manager, Quantity Surveyor, Structural Engineer and specialist advisers to prepare a robust and fully costed proposal capable of supporting a successful National Lottery Heritage Fund Delivery Phase application. The NLHF Delivery Phase application will be managed by the Client Team and appointed Project Manager, however, the Architect may be required to attend NLHF meetings and workshops from time to time as reasonably requested by the Client or Project Manager. Equality, Inclusion & Environmental Sustainability The project is shaped by NLHF's investment principles and Thetford's identity as a richly diverse town. Commissioned work should demonstrate: • Inclusive engagement with communities underserved by heritage; • Barrier-free access to heritage learning and opportunities; • Environmentally responsible design, including re-use and carbon impact; • Contribution to a sustainable operating model rooted in community need. Project Objectives The project objectives are to: • Remove the building from the Heritage at Risk Register; • Secure the long-term conservation of the historic fabric; • Deliver inclusive and accessible community facilities; • Support learning, heritage interpretation and skills development; • Improve environmental sustainability; • Create a financially sustainable operational model and future for the site; • Support regeneration within Thetford town centre. All submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "tenderSummary": "Below is a summary please refer to the Job pack for detailed information Thetford Town Council is seeking to appoint a single consultant practice to undertake the roles of: • Lead Designer; • Architect; • Conservation Architect; • Principal Designer (CDM Regulations); • Principal Designer (Building Safety Act). The successful consultant shall lead and coordinate the design for the Development Phase and prepare the project design for submission of the NLHF Delivery Phase Application. The consultant will work closely with the Project Manager, Quantity Surveyor, Structural Engineer and specialist advisers to prepare a robust and fully costed proposal capable of supporting a successful National Lottery Heritage Fund Delivery Phase application. The NLHF Delivery Phase application will be managed by the Client Team and appointed Project Manager, however, the Architect may be required to attend NLHF meetings and workshops from time to time as reasonably requested by the Client or Project Manager. Equality, Inclusion & Environmental Sustainability The project is shaped by NLHF's investment principles and Thetford's identity as a richly diverse town. Commissioned work should demonstrate: • Inclusive engagement with communities underserved by heritage; • Barrier-free access to heritage learning and opportunities; • Environmentally responsible design, including re-use and carbon impact; • Contribution to a sustainable operating model rooted in community need. Project Objectives The project objectives are to: • Remove the building from the Heritage at Risk Register; • Secure the long-term conservation of the historic fabric; • Deliver inclusive and accessible community facilities; • Support learning, heritage interpretation and skills development; • Improve environmental sustainability; • Create a financially sustainable operational model and future for the site; • Support regeneration within Thetford town centre. All submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-12-14 to 2027-09-14",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/cbc8d975-376f-4c40-b602-3b8a9b2435cc",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "IP24 2DS",
+        "cpv": "71210000, 71221000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
+        "demo": false
+      },
+      {
         "id": "fts-099085-2026",
         "title": "The Harlington Refurbishment And Remodelling",
         "authority": "Fleet Town Council",
@@ -4698,7 +4737,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146"
       },
       {
         "id": "cf-42c80b0b-fbe7-49d7-8ac2-07a1a30e6e1a-921337",
@@ -5093,6 +5133,46 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false,
+        "updatedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146"
+      },
+      {
+        "id": "fts-109021-2026",
+        "title": "Conwy County Leisure Facilities CCTV Supply and Install",
+        "authority": "Conwy County Borough Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "109021-2026",
+        "published": "2026-11-17",
+        "deadline": "2026-11-26",
+        "value": 100000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "tenderSummary": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sell2wales.gov.wales/Assets/NoticeBuilder_FileDownload.aspx?id=385689",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL13",
+        "cpv": "32231000, 32234000, 32235000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
         "demo": false
       },
       {
@@ -5535,6 +5615,45 @@
         "addedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e",
         "demo": false,
         "updatedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e"
+      },
+      {
+        "id": "cf-90d317a4-0657-495a-a9ea-57e035554822-921828",
+        "title": "Activity & Interpretation Plan Consultant",
+        "authority": "Thetford Town Council",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "90d317a4-0657-495a-a9ea-57e035554822-921828",
+        "published": "2026-11-17",
+        "deadline": "2026-11-27",
+        "value": 25000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "The appointed consultant will prepare a comprehensive Activity & Interpretation Plan which demonstrates how people will engage with St Peter's Church and the wider heritage of Thetford through: • Learning; • Volunteering; • Skills development; • Community engagement; • Interpretation; • Participation; • Events; • Training; • Outreach activities. The consultant shall ensure that the Activity & Interpretation Plan is fully aligned with NLHF requirements and capable of supporting a successful Delivery Phase application. The Activity Plan shall identify opportunities for community involvement, volunteering, learning, training, events and wider public engagement, together with recommendations for sustainable delivery and long-term legacy. The Interpretation Plan shall identify and communicate the key heritage themes, stories and significance of St Peter's Church, establish target audiences, and develop recommendations for accessible and engaging interpretation that supports the project's vision and outcomes. The Consultant shall ensure that both plans are fully integrated and aligned with the requirements of the National Lottery Heritage Fund and other funding stakeholders, providing a practical framework for implementation during the Delivery Phase. All Submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "tenderSummary": "The appointed consultant will prepare a comprehensive Activity & Interpretation Plan which demonstrates how people will engage with St Peter's Church and the wider heritage of Thetford through: • Learning; • Volunteering; • Skills development; • Community engagement; • Interpretation; • Participation; • Events; • Training; • Outreach activities. The consultant shall ensure that the Activity & Interpretation Plan is fully aligned with NLHF requirements and capable of supporting a successful Delivery Phase application. The Activity Plan shall identify opportunities for community involvement, volunteering, learning, training, events and wider public engagement, together with recommendations for sustainable delivery and long-term legacy. The Interpretation Plan shall identify and communicate the key heritage themes, stories and significance of St Peter's Church, establish target audiences, and develop recommendations for accessible and engaging interpretation that supports the project's vision and outcomes. The Consultant shall ensure that both plans are fully integrated and aligned with the requirements of the National Lottery Heritage Fund and other funding stakeholders, providing a practical framework for implementation during the Delivery Phase. All Submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-12-14 to 2027-07-14",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/90d317a4-0657-495a-a9ea-57e035554822",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "IP24 2DS",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
+        "demo": false
       },
       {
         "id": "fts-099739-2026",
@@ -7244,6 +7363,45 @@
         "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
+        "id": "fts-108812-2026",
+        "title": "NorTMS External Audit",
+        "authority": "Transport for the North",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "108812-2026",
+        "published": "2026-11-17",
+        "deadline": "2026-12-12",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Transport for the North (TfN) has a requirement for audits as required of the Northern Transport Modelling System (NorTMS), a Cube-based VDM with a focus on intercity rail in the North of England. The audits will be required on a call-off basis when a stable model release becomes available or to cover specific models and releases. After each audit the supplier will be expected to provide an audit report with recommendations for areas requiring improvement. This contract will run for up to three years, with a decision point at the end of each year subject to TfN funding and supplier performance. Within each year the contract will operate on a call-off basis. This commission has a total value of £100,000 per year, however there is no commitment on a minimum spend. TfN requires a supplier who is an expert Cube model reviewer with competent Python skills as some elements of NorTMS are coded in Python, and who has not worked with NorTMS or related to any TfN framework directly involved in NorTMS, unless the work that was delivered relates to the audit of NorTMS. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Manchester:-Computer-audit-and-testing-services./Y8NT28996K To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/Y8NT28996K",
+        "tenderSummary": "Transport for the North (TfN) has a requirement for audits as required of the Northern Transport Modelling System (NorTMS), a Cube-based VDM with a focus on intercity rail in the North of England. The audits will be required on a call-off basis when a stable model release becomes available or to cover specific models and releases. After each audit the supplier will be expected to provide an audit report with recommendations for areas requiring improvement. This contract will run for up to three years, with a decision point at the end of each year subject to TfN funding and supplier performance. Within each year the contract will operate on a call-off basis. This commission has a total value of £100,000 per year, however there is no commitment on a minimum spend. TfN requires a supplier who is an expert Cube model reviewer with competent Python skills as some elements of NorTMS are coded in Python, and who has not worked with NorTMS or related to any TfN framework directly involved in NorTMS, unless the work that was delivered relates to the audit of NorTMS. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Manchester:-Computer-audit-and-testing-services./Y8NT28996K To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/Y8NT28996K",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108812-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "72800000, 79212000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
+        "demo": false
+      },
+      {
         "id": "fts-108228-2026",
         "title": "CBC-2192-T-ZH Fire Systems and Equipment Servicing and Maintenance",
         "authority": "Central Bedfordshire Council",
@@ -7402,7 +7560,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146"
       },
       {
         "id": "fts-108418-2026",
@@ -7444,7 +7603,8 @@
           "80500000"
         ],
         "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146"
       },
       {
         "id": "fts-108380-2026",
@@ -7485,7 +7645,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146"
       },
       {
         "id": "fts-108230-2026",
@@ -7687,6 +7848,127 @@
         "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
         "demo": false,
         "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
+      },
+      {
+        "id": "fts-108930-2026",
+        "title": "RFQ 2026/48 - PEACEPLUS Roots Relationships Programme - Slieve Gullion DEA",
+        "authority": "Newry, Mourne and Down District Council (NMD)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "108930-2026",
+        "published": "2026-11-17",
+        "deadline": "2026-12-15",
+        "value": 10000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "To deliver a community-led Arts, Crafts and Heritage Capacity Building Programme in the Slieve Gullion DEA, working with community groups from the Forkhill and Newtownhamilton areas. The programme should use arts, crafts, cultural heritage and creative skills development as a vehicle for building organisational capacity, increasing skills and confidence, supporting knowledge exchange, and creating opportunities for participants to learn from one another through practical activities, shared experiences and networking opportunities. The programme should celebrate and explore the rich cultural and heritage assets of the area while creating opportunities for participants from different backgrounds to connect, collaborate and develop lasting relationships. Through shared learning and creative engagement, participants will strengthen both their individual skills and the sustainability of their community organisations. This project will serve as both a community development initiative and a peacebuilding mechanism, creating sustained and meaningful contact across communities while strengthening local organisations and promoting appreciation of the area's diverse cultural heritage.",
+        "tenderSummary": "To deliver a community-led Arts, Crafts and Heritage Capacity Building Programme in the Slieve Gullion DEA, working with community groups from the Forkhill and Newtownhamilton areas. The programme should use arts, crafts, cultural heritage and creative skills development as a vehicle for building organisational capacity, increasing skills and confidence, supporting knowledge exchange, and creating opportunities for participants to learn from one another through practical activities, shared experiences and networking opportunities. The programme should celebrate and explore the rich cultural and heritage assets of the area while creating opportunities for participants from different backgrounds to connect, collaborate and develop lasting relationships. Through shared learning and creative engagement, participants will strengthen both their individual skills and the sustainability of their community organisations. This project will serve as both a community development initiative and a peacebuilding mechanism, creating sustained and meaningful contact across communities while strengthening local organisations and promoting appreciation of the area's diverse cultural heritage.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108930-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "80000000, 85000000, 98000000, 92000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
+        "demo": false
+      },
+      {
+        "id": "fts-108855-2026",
+        "title": "Fire Safety Equipment Inspection, Testing and Maintenance 2027",
+        "authority": "Dover District Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "108855-2026",
+        "published": "2026-11-17",
+        "deadline": "2026-12-15",
+        "value": 600000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Dover District Council (“the Council”) wishes to select and appoint a suitable Contractor for the provision of Fire Safety Equipment Inspection, Testing and Maintenance in Council owned domestic properties including communal areas to blocks of flats and sheltered schemes within the Dover District Council area. For more information about this opportunity, please visit the eSourcing portal at: https://www.kentbusinessportal.org.uk/tenders/UK-UK-Dover:-Repair-and-maintenance-services-of-firefighting-equipment./FU4K44SVP6 To respond to this opportunity, please click here: https://www.kentbusinessportal.org.uk/respond/FU4K44SVP6",
+        "tenderSummary": "Dover District Council (“the Council”) wishes to select and appoint a suitable Contractor for the provision of Fire Safety Equipment Inspection, Testing and Maintenance in Council owned domestic properties including communal areas to blocks of flats and sheltered schemes within the Dover District Council area. For more information about this opportunity, please visit the eSourcing portal at: https://www.kentbusinessportal.org.uk/tenders/UK-UK-Dover:-Repair-and-maintenance-services-of-firefighting-equipment./FU4K44SVP6 To respond to this opportunity, please click here: https://www.kentbusinessportal.org.uk/respond/FU4K44SVP6",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108855-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ4",
+        "cpv": "50413200",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
+        "demo": false
+      },
+      {
+        "id": "cf-91ce9ffa-4f4e-4f2c-826c-070b55e93f87-921794",
+        "title": "CA18691 - RFQ 2026/48 - PEACEPLUS Roots Relationships Programme - Slieve Gullion DEA",
+        "authority": "Newry, Mourne and Down District Council (NMD)",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "91ce9ffa-4f4e-4f2c-826c-070b55e93f87-921794",
+        "published": "2026-11-17",
+        "deadline": "2026-12-15",
+        "value": 10000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "To deliver a community-led Arts, Crafts and Heritage Capacity Building Programme in the Slieve Gullion DEA, working with community groups from the Forkhill and Newtownhamilton areas. The programme should use arts, crafts, cultural heritage and creative skills development as a vehicle for building organisational capacity, increasing skills and confidence, supporting knowledge exchange, and creating opportunities for participants to learn from one another through practical activities, shared experiences and networking opportunities. The programme should celebrate and explore the rich cultural and heritage assets of the area while creating opportunities for participants from different backgrounds to connect, collaborate and develop lasting relationships. Through shared learning and creative engagement, participants will strengthen both their individual skills and the sustainability of their community organisations. This project will serve as both a community development initiative and a peacebuilding mechanism, creating sustained and meaningful contact across communities while strengthening local organisations and promoting appreciation of the area's diverse cultural heritage. To access this competition: Registered: Login to https://suppliers.multiquote.com and view the opportunity CA18691. Not registered: Visit https://suppliers.multiquote.com then register and quote CA18691 as the reason for registration. Any queries please contact MultiQuote on 020 3920 8054.",
+        "tenderSummary": "To deliver a community-led Arts, Crafts and Heritage Capacity Building Programme in the Slieve Gullion DEA, working with community groups from the Forkhill and Newtownhamilton areas. The programme should use arts, crafts, cultural heritage and creative skills development as a vehicle for building organisational capacity, increasing skills and confidence, supporting knowledge exchange, and creating opportunities for participants to learn from one another through practical activities, shared experiences and networking opportunities. The programme should celebrate and explore the rich cultural and heritage assets of the area while creating opportunities for participants from different backgrounds to connect, collaborate and develop lasting relationships. Through shared learning and creative engagement, participants will strengthen both their individual skills and the sustainability of their community organisations. This project will serve as both a community development initiative and a peacebuilding mechanism, creating sustained and meaningful contact across communities while strengthening local organisations and promoting appreciation of the area's diverse cultural heritage. To access this competition: Registered: Login to https://suppliers.multiquote.com and view the opportunity CA18691. Not registered: Visit https://suppliers.multiquote.com then register and quote CA18691 as the reason for registration. Any queries please contact MultiQuote on 020 3920 8054.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2027-01-11 to 2027-04-30",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/91ce9ffa-4f4e-4f2c-826c-070b55e93f87",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "BT34 2QU",
+        "cpv": "80000000, 85000000, 98000000, 92000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
+        "demo": false
       },
       {
         "id": "fts-105842-2026",
@@ -7894,7 +8176,8 @@
           "80510000"
         ],
         "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146"
       },
       {
         "id": "fts-108598-2026",
@@ -7935,7 +8218,8 @@
           "80510000"
         ],
         "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146"
       },
       {
         "id": "fts-105109-2026",
@@ -8144,6 +8428,45 @@
         "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
       },
       {
+        "id": "fts-108843-2026",
+        "title": "UK Space Agency- Strategic Support to the International Charter: Space and Major Disasters",
+        "authority": "Department for Science, Innovation & Technology",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "108843-2026",
+        "published": "2026-11-17",
+        "deadline": "2027-01-07",
+        "value": 471490,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "The International Charter: Space and Major Disasters (“the Charter”) is a global agreement which aims to provide a unified system of space data acquisition and delivery to those affected by natural or man-made disasters. It provides and enables transmission of earth observation satellite data and pre-authorised resilience/emergency response bodies in response to “activations”. Further details on the Charter can be found at https://disasterscharter.org/. Charter members are national government bodies/ agencies or recognised space system organisations, who are the owners/ operators of earth observation satellite missions and have access to contributing resources/ assets/ facilities to sustainability support, co-ordinate and govern ongoing Charter operations. These members and their partners all strive to meet the common goal of providing assured, co-ordinated and timely access to satellite data to assist recognised rescue/ resilience authorities in the event of a natural or manmade disaster to ultimately help minimise losses and save lives. The UK has been a Charter member since 2005 and wishes to continue to play an active leadership role in this highly regarded and valued global initiative. To meet our agreed national obligations to our international partners, end users within the UK Government and its’ partners, UK Space Agency (UKSA) has an enduring requirement for the provision of Strategic Support, and ongoing technical/specialist Operational Support to support ongoing satellite imagery provision as these technical capabilities and specialist skills do not currently exist/reside within UKSA. This will ensure that the UK continues to meet its obligations to this international agreement, whilst also continuing to make the best use of UK assets and resources. However please note that the UK Operational Support aspects of this role will not form part of this procurement opportunity, and instead will be provided under a separate contract. This specification refers only to those requirements necessary for the strategic support role. This role will involve significant interaction between UKSA (now a directorate within the Department for Science, Innovation and Technology (DSIT)), UK Government stakeholders, the Charter Executive Secretariat and the UK Operational Support provider.",
+        "tenderSummary": "The International Charter: Space and Major Disasters (“the Charter”) is a global agreement which aims to provide a unified system of space data acquisition and delivery to those affected by natural or man-made disasters. It provides and enables transmission of earth observation satellite data and pre-authorised resilience/emergency response bodies in response to “activations”. Further details on the Charter can be found at https://disasterscharter.org/. Charter members are national government bodies/ agencies or recognised space system organisations, who are the owners/ operators of earth observation satellite missions and have access to contributing resources/ assets/ facilities to sustainability support, co-ordinate and govern ongoing Charter operations. These members and their partners all strive to meet the common goal of providing assured, co-ordinated and timely access to satellite data to assist recognised rescue/ resilience authorities in the event of a natural or manmade disaster to ultimately help minimise losses and save lives. The UK has been a Charter member since 2005 and wishes to continue to play an active leadership role in this highly regarded and valued global initiative. To meet our agreed national obligations to our international partners, end users within the UK Government and its’ partners, UK Space Agency (UKSA) has an enduring requirement for the provision of Strategic Support, and ongoing technical/specialist Operational Support to support ongoing satellite imagery provision as these technical capabilities and specialist skills do not currently exist/reside within UKSA. This will ensure that the UK continues to meet its obligations to this international agreement, whilst also continuing to make the best use of UK assets and resources. However please note that the UK Operational Support aspects of this role will not form part of this procurement opportunity, and instead will be provided under a separate contract. This specification refers only to those requirements necessary for the strategic support role. This role will involve significant interaction between UKSA (now a directorate within the Department for Science, Innovation and Technology (DSIT)), UK Government stakeholders, the Charter Executive Secretariat and the UK Operational Support provider.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108843-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "98110000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
+        "demo": false
+      },
+      {
         "id": "fts-107882-2026",
         "title": "Management of Sports Facilities for Community use",
         "authority": "Loxford Schools Trust",
@@ -8301,6 +8624,45 @@
         "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
         "demo": false,
         "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
+      },
+      {
+        "id": "fts-108967-2026",
+        "title": "PAN3556 - The provision of Housing Related Accommodation Based Support for Homeless Households",
+        "authority": "Leicester City Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "108967-2026",
+        "published": "2026-11-17",
+        "deadline": "2027-01-12",
+        "value": 14812000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Leicester City Council is seeking to appoint suitably experienced providers to deliver housing-related accommodation-based support services for homeless households within Leicester. The service will provide safe, stable and supported accommodation that enables individuals and families to develop the independence, resilience and life skills necessary to secure and sustain long-term housing outcomes. The Contract is split into lots as detailed below: Lot 1 - Accommodation-based housing related support for families Provision of accommodation-based housing related support services for homeless families including pregnant women within Council owned accommodation. The Provider will be responsible for property management, repairs, maintenance, void management, furnishing, tenancy related support and delivery of outcomes in accordance with the Specification and Property Management Agreement. Lot 2 - Accommodation-based housing related support for individuals/childless couples with complex needs Provision of accommodation-based support services for individuals and childless couples with complex needs. The successful provider will be responsible for sourcing suitable accommodation and delivering housing related support services in accordance with the Council's requirements.",
+        "tenderSummary": "Leicester City Council is seeking to appoint suitably experienced providers to deliver housing-related accommodation-based support services for homeless households within Leicester. The service will provide safe, stable and supported accommodation that enables individuals and families to develop the independence, resilience and life skills necessary to secure and sustain long-term housing outcomes. The Contract is split into lots as detailed below: Lot 1 - Accommodation-based housing related support for families Provision of accommodation-based housing related support services for homeless families including pregnant women within Council owned accommodation. The Provider will be responsible for property management, repairs, maintenance, void management, furnishing, tenancy related support and delivery of outcomes in accordance with the Specification and Property Management Agreement. Lot 2 - Accommodation-based housing related support for individuals/childless couples with complex needs Provision of accommodation-based support services for individuals and childless couples with complex needs. The successful provider will be responsible for sourcing suitable accommodation and delivering housing related support services in accordance with the Council's requirements.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/108967-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKF21",
+        "cpv": "98000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
+        "demo": false
       },
       {
         "id": "fts-105654-2026",
@@ -8499,42 +8861,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-16T18:30:35.231Z"
+    "lastPartialUpdate": "2026-11-17T17:37:06.296Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
-    "attemptedAt": "2026-11-16T18:30:35.231Z",
+    "attemptId": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
+    "attemptedAt": "2026-11-17T17:37:06.296Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
-    "retrievedCount": 20,
-    "totalCount": 210,
+    "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
+    "retrievedCount": 16,
+    "totalCount": 219,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-16T18:30:35.231Z",
-        "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
-        "lastAttemptAt": "2026-11-16T18:30:35.231Z",
+        "watermark": "2026-11-17T17:37:06.296Z",
+        "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
+        "lastAttemptAt": "2026-11-17T17:37:06.296Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-12T16:19:29.894Z",
-          "to": "2026-11-16T18:30:35.231Z"
+          "from": "2026-11-15T18:30:35.231Z",
+          "to": "2026-11-17T17:37:06.296Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-16T18:30:35.231Z",
-        "lastSuccessfulUpdate": "2026-11-16T18:30:35.231Z",
-        "lastAttemptAt": "2026-11-16T18:30:35.231Z",
+        "watermark": "2026-11-17T17:37:06.296Z",
+        "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
+        "lastAttemptAt": "2026-11-17T17:37:06.296Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-12T16:19:29.894Z",
-          "to": "2026-11-16T18:30:35.231Z"
+          "from": "2026-11-15T18:30:35.231Z",
+          "to": "2026-11-17T17:37:06.296Z"
         }
       }
     }
