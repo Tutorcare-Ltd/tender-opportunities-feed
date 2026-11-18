@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-17T17:37:06.296Z",
-      "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
-      "lastAttemptAt": "2026-11-17T17:37:06.296Z",
+      "watermark": "2026-11-18T17:14:09.766Z",
+      "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
+      "lastAttemptAt": "2026-11-18T17:14:09.766Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-15T18:30:35.231Z",
-        "to": "2026-11-17T17:37:06.296Z"
+        "from": "2026-11-16T17:37:06.296Z",
+        "to": "2026-11-18T17:14:09.766Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-17T17:37:06.296Z",
-      "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
-      "lastAttemptAt": "2026-11-17T17:37:06.296Z",
+      "watermark": "2026-11-18T17:14:09.766Z",
+      "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
+      "lastAttemptAt": "2026-11-18T17:14:09.766Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-15T18:30:35.231Z",
-        "to": "2026-11-17T17:37:06.296Z"
+        "from": "2026-11-16T17:37:06.296Z",
+        "to": "2026-11-18T17:14:09.766Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
-    "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
+    "buildId": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+    "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
     "interval": {
-      "from": "2026-11-15T18:30:35.231Z",
-      "to": "2026-11-17T17:37:06.296Z"
+      "from": "2026-11-16T17:37:06.296Z",
+      "to": "2026-11-18T17:14:09.766Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 16,
-    "totalCount": 219,
+    "retrievedCount": 21,
+    "totalCount": 231,
     "sourceFailures": [],
     "records": [
       {
@@ -4419,7 +4419,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
         "id": "fts-099085-2026",
@@ -5173,7 +5174,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
         "id": "fts-096003-2026",
@@ -5653,7 +5655,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
         "id": "fts-099739-2026",
@@ -6063,6 +6066,45 @@
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
         "demo": false,
         "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
+      },
+      {
+        "id": "fts-109274-2026",
+        "title": "Conwy County Leisure Facilities CCTV Supply and Install",
+        "authority": "Conwy County Borough Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "109274-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-01",
+        "value": 100000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "tenderSummary": "Conwy County Borough Council is seeking to appoint a suitably qualified and experienced contractor for the supply, installation, commissioning, configuration and 3year maintenance of CCTV systems across seven leisure facilities operated by the Authority. The project forms part of the Council's investment programme to improve security, safeguarding and operational resilience across its leisure estate. The successful contractor will be responsible for delivering a modern, fully integrated CCTV solution that provides high-quality surveillance coverage, evidential recording capability and integration with the Conwy Alarm Receiving Centre (ARC).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sell2wales.gov.wales/Assets/NoticeBuilder_FileDownload.aspx?id=385689",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL13",
+        "cpv": "32231000, 32234000, 32235000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+        "demo": false
       },
       {
         "id": "fts-099469-2026",
@@ -7084,6 +7126,279 @@
         "updatedBuild": "2026-11-10T16:24:50.988Z-927eded9-da7f-4f17-b9df-0770a591d4e1"
       },
       {
+        "id": "fts-109365-2026",
+        "title": "Refresh of Councillor Handbook on Libraries",
+        "authority": "Local Government Association (LGA)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109365-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-09",
+        "value": 8000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "tenderSummary": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109365-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+        "demo": false
+      },
+      {
+        "id": "fts-109363-2026",
+        "title": "Refresh of Councillor Handbook on Libraries",
+        "authority": "Local Government Association (LGA)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109363-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-09",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "tenderSummary": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109363-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+        "demo": false
+      },
+      {
+        "id": "fts-109361-2026",
+        "title": "Refresh of Councillor Handbook on Libraries",
+        "authority": "Local Government Association (LGA)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109361-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-09",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "tenderSummary": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109361-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+        "demo": false
+      },
+      {
+        "id": "fts-109357-2026",
+        "title": "Refresh of Councillor Handbook on Libraries",
+        "authority": "Local Government Association (LGA)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109357-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-09",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "tenderSummary": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109357-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+        "demo": false
+      },
+      {
+        "id": "fts-109355-2026",
+        "title": "Refresh of Councillor Handbook on Libraries",
+        "authority": "Local Government Association (LGA)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109355-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-09",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "tenderSummary": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109355-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+        "demo": false
+      },
+      {
+        "id": "fts-109353-2026",
+        "title": "Refresh of Councillor Handbook on Libraries",
+        "authority": "Local Government Association (LGA)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109353-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-09",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "tenderSummary": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109353-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+        "demo": false
+      },
+      {
+        "id": "fts-109351-2026",
+        "title": "Refresh of Councillor Handbook on Libraries",
+        "authority": "Local Government Association (LGA)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109351-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-09",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "tenderSummary": "The context in which libraries operate has moved on since our Councillor handbook was first published in 2017. The planned refresh of the publication aims to provide councillors – primarily those with portfolio responsibility for library services – with a guide that outlines the key statutory requirements for delivering the service, opportunities to design and prepare the service for future changes, and options for maximising the service’s impact for local residents. This will include case studies of interesting and effective practice. Where relevant, sections of the existing handbook may be retained and incorporated into the refreshed guide. Your Quotation should give an indicative and high level outline of where you think change is required, and what could be usefully retained. The guide aims to support practical advocacy for library services, providing prompts or key questions to help readers assemble evidence and make the case for their services. Suppliers should propose the most useful format to do this in their submission. The guide should aim to support councillors to make connections with policy objectives across a range of council outcomes, including neighbourhood health, early years and skills, economic growth in every postcode, and high street regeneration. The guide will not be expected to deal with all of these in depth but can signpost to existing information where it exists,",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109351-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+        "demo": false
+      },
+      {
         "id": "fts-098200-2026",
         "title": "Gwelliannau i / Improvement works to the ‘Materials Recovery Facility’ (MRF) Ystâd Ddiwydiannol Cibyn, Caernarfon, Gwynedd, LL55 2BD",
         "authority": "Cyngor Gwynedd",
@@ -7363,6 +7678,48 @@
         "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
+        "id": "fts-109309-2026",
+        "title": "T26-158BUS Kickstart Your Skills DCSDC LMP",
+        "authority": "Derry City and Strabane District Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109309-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-11",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "This is an invitation to tender for the development and delivery of the Kickstart Your Skills Programme for 2026/27 on behalf of Derry City and Strabane District Council’s (DCSDC) Labour Market Partnership (LMP), hereby known as DSLMP. DSLMP are seeking tenders from organisations who have the required experience, expertise, and qualifications in developing, delivering and managing similar programmes to Kickstart Your Skills. The successful tenderer will provide intensive support to furnish participants with the confidence, skills, knowledge, qualifications, and experience required to ensure positive interview outcomes not only in the short term but also in the future. The programme will be designed to lead to positive outcomes at interviews through: Developing and delivering a comprehensive tailored one to one process and Building a comprehensive network of employers and support services to help address employability concerns and facilitate opportunities including work shadowing, work placement, employment and so on. Your submission must be submitted via eTendersNI, via this CFT. No other method of submissions will be accepted. Please refer to the CfT documents for further detail.",
+        "tenderSummary": "This is an invitation to tender for the development and delivery of the Kickstart Your Skills Programme for 2026/27 on behalf of Derry City and Strabane District Council’s (DCSDC) Labour Market Partnership (LMP), hereby known as DSLMP. DSLMP are seeking tenders from organisations who have the required experience, expertise, and qualifications in developing, delivering and managing similar programmes to Kickstart Your Skills. The successful tenderer will provide intensive support to furnish participants with the confidence, skills, knowledge, qualifications, and experience required to ensure positive interview outcomes not only in the short term but also in the future. The programme will be designed to lead to positive outcomes at interviews through: Developing and delivering a comprehensive tailored one to one process and Building a comprehensive network of employers and support services to help address employability concerns and facilitate opportunities including work shadowing, work placement, employment and so on. Your submission must be submitted via eTendersNI, via this CFT. No other method of submissions will be accepted. Please refer to the CfT documents for further detail.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109309-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKN0A",
+        "cpv": "80000000, 80570000, 80521000, 80500000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+        "demo": false
+      },
+      {
         "id": "fts-108812-2026",
         "title": "NorTMS External Audit",
         "authority": "Transport for the North",
@@ -7399,7 +7756,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
         "id": "fts-108228-2026",
@@ -7888,7 +8246,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
         "id": "fts-108855-2026",
@@ -7927,7 +8286,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
         "id": "cf-91ce9ffa-4f4e-4f2c-826c-070b55e93f87-921794",
@@ -7968,7 +8328,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
         "id": "fts-105842-2026",
@@ -8009,6 +8370,84 @@
           "80000000"
         ],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-109106-2026",
+        "title": "T26/27-050 Proposed changing room at Seycon Park Playing Fields",
+        "authority": "Lisburn and Castlereagh City Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109106-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-16",
+        "value": 543108,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "Lisburn and Castlereagh City Council are seeking to identify a Contractor that will have the right skills and are considered capable of delivering the proposed Changing Rooms At Seycon Park Playing Fields . More details can be found in the tender documentation provided.",
+        "tenderSummary": "Lisburn and Castlereagh City Council are seeking to identify a Contractor that will have the right skills and are considered capable of delivering the proposed Changing Rooms At Seycon Park Playing Fields . More details can be found in the tender documentation provided.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109106-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "45000000, 45200000, 45210000, 45212220",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+        "demo": false
+      },
+      {
+        "id": "fts-109248-2026",
+        "title": "Management Information System (MIS) for the Adult College",
+        "authority": "London Borough of Barking and Dagenham",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "109248-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-17",
+        "value": 400000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "The Council intents to appoint a suitable Contractor for a replacement cloud-based Management Information System (MIS) for the Adult College, tailored to handle flexible learner journeys, complex funding models and strict regulatory compliance. The Council requires a solution that meets the College's operational, funding, reporting, safeguarding and statutory requirements, while providing value for money and long-term sustainability Further information and tender documents are available on our e-tendering portal https://lbbd.bravosolution.co.uk/web/login.shtml and central digital platform Suppliers: How to register your organisation and first administrator on Find a Tender in three easy steps (HTML) - GOV.UK. Any questions regarding the tender should be addressed through the portal in the messaging section Closing date for this tender is no later than noon on 17th December 2026",
+        "tenderSummary": "The Council intents to appoint a suitable Contractor for a replacement cloud-based Management Information System (MIS) for the Adult College, tailored to handle flexible learner journeys, complex funding models and strict regulatory compliance. The Council requires a solution that meets the College's operational, funding, reporting, safeguarding and statutory requirements, while providing value for money and long-term sustainability Further information and tender documents are available on our e-tendering portal https://lbbd.bravosolution.co.uk/web/login.shtml and central digital platform Suppliers: How to register your organisation and first administrator on Find a Tender in three easy steps (HTML) - GOV.UK. Any questions regarding the tender should be addressed through the portal in the messaging section Closing date for this tender is no later than noon on 17th December 2026",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109248-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "48190000, 48611000, 72212190",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
         "demo": false
       },
       {
@@ -8464,7 +8903,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
         "id": "fts-107882-2026",
@@ -8662,7 +9102,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
         "id": "fts-105654-2026",
@@ -8701,6 +9142,45 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698",
+        "demo": false
+      },
+      {
+        "id": "fts-109263-2026",
+        "title": "Fire Extinguishers servicing, repair, and commissioning",
+        "authority": "Oldham Metropolitan Borough Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "109263-2026",
+        "published": "2026-11-18",
+        "deadline": "2027-01-15",
+        "value": 268000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Fire Extinguishers servicing, repair, and commissioning including the supply and installation of fire safety signage.",
+        "tenderSummary": "Fire Extinguishers servicing, repair, and commissioning including the supply and installation of fire safety signage.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://procontract.due-north.com/Advert?advertId=426b064c-26ce-f111-8142-6045bdf14b1f",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD37",
+        "cpv": "50000000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
         "demo": false
       },
       {
@@ -8861,42 +9341,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-17T17:37:06.296Z"
+    "lastPartialUpdate": "2026-11-18T17:14:09.766Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146",
-    "attemptedAt": "2026-11-17T17:37:06.296Z",
+    "attemptId": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+    "attemptedAt": "2026-11-18T17:14:09.766Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
-    "retrievedCount": 16,
-    "totalCount": 219,
+    "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
+    "retrievedCount": 21,
+    "totalCount": 231,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-17T17:37:06.296Z",
-        "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
-        "lastAttemptAt": "2026-11-17T17:37:06.296Z",
+        "watermark": "2026-11-18T17:14:09.766Z",
+        "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
+        "lastAttemptAt": "2026-11-18T17:14:09.766Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-15T18:30:35.231Z",
-          "to": "2026-11-17T17:37:06.296Z"
+          "from": "2026-11-16T17:37:06.296Z",
+          "to": "2026-11-18T17:14:09.766Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-17T17:37:06.296Z",
-        "lastSuccessfulUpdate": "2026-11-17T17:37:06.296Z",
-        "lastAttemptAt": "2026-11-17T17:37:06.296Z",
+        "watermark": "2026-11-18T17:14:09.766Z",
+        "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
+        "lastAttemptAt": "2026-11-18T17:14:09.766Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-15T18:30:35.231Z",
-          "to": "2026-11-17T17:37:06.296Z"
+          "from": "2026-11-16T17:37:06.296Z",
+          "to": "2026-11-18T17:14:09.766Z"
         }
       }
     }
