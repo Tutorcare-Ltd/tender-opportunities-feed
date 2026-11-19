@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-18T17:14:09.766Z",
-      "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
-      "lastAttemptAt": "2026-11-18T17:14:09.766Z",
+      "watermark": "2026-11-19T17:21:31.448Z",
+      "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
+      "lastAttemptAt": "2026-11-19T17:21:31.448Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-16T17:37:06.296Z",
-        "to": "2026-11-18T17:14:09.766Z"
+        "from": "2026-11-17T17:14:09.766Z",
+        "to": "2026-11-19T17:21:31.448Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-18T17:14:09.766Z",
-      "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
-      "lastAttemptAt": "2026-11-18T17:14:09.766Z",
+      "watermark": "2026-11-19T17:21:31.448Z",
+      "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
+      "lastAttemptAt": "2026-11-19T17:21:31.448Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-16T17:37:06.296Z",
-        "to": "2026-11-18T17:14:09.766Z"
+        "from": "2026-11-17T17:14:09.766Z",
+        "to": "2026-11-19T17:21:31.448Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-    "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
+    "buildId": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+    "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
     "interval": {
-      "from": "2026-11-16T17:37:06.296Z",
-      "to": "2026-11-18T17:14:09.766Z"
+      "from": "2026-11-17T17:14:09.766Z",
+      "to": "2026-11-19T17:21:31.448Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 21,
-    "totalCount": 231,
+    "retrievedCount": 28,
+    "totalCount": 247,
     "sourceFailures": [],
     "records": [
       {
@@ -6104,7 +6104,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
         "id": "fts-099469-2026",
@@ -6267,6 +6268,47 @@
         "addedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274",
         "demo": false,
         "updatedBuild": "2026-11-09T18:45:47.077Z-5e7a5b2f-fc27-4c67-bc49-31c5ed080698"
+      },
+      {
+        "id": "fts-109482-2026",
+        "title": "Skills Bootcamps: Market Engagement",
+        "authority": "Borough of Telford & Wrekin",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109482-2026",
+        "published": "2026-11-18",
+        "deadline": "2026-12-03",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Telford & Wrekin Council is exploring the potential commissioning of government-funded Skills Bootcamps, with delivery anticipated to commence from April 2027.",
+        "tenderSummary": "Telford & Wrekin Council is exploring the potential commissioning of government-funded Skills Bootcamps, with delivery anticipated to commence from April 2027.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109482-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "80000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
       },
       {
         "id": "fts-098220-2026",
@@ -6666,6 +6708,45 @@
         "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
         "demo": false,
         "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
+      },
+      {
+        "id": "cf-7a0fff75-84ee-4970-a5f2-bf63b5e8549e-922106",
+        "title": "EKFB JV - Supply and Delivery of First Aid Equipment & Consumables",
+        "authority": "Eiffage Kier JV HS2 Main Civils Works, Lots C2 & C3",
+        "category": "First aid",
+        "source": "Contracts Finder",
+        "noticeId": "7a0fff75-84ee-4970-a5f2-bf63b5e8549e-922106",
+        "published": "2026-11-19",
+        "deadline": "2026-12-04",
+        "value": 50000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Eiffage Kier Ferrovial BAM (EKFB) JV is seeking Expressions of Interest from interested parties for the supply of and delivery of First Aid equipment and consumables to support the delivery of the C23 project, which forms part of the HS2 Main Works Civils Contracts. The C23 project consists of three delivery areas; North Chilterns to Aylesbury (NC2A), Calvert to Greatworth (C2G), and Greatworth to Southam (G2S). EKFB JV intends to run a procurement exercise to select a preferred supplier/s of First Aid equipment and consumables, possibly on a framework agreement basis with a call off mechanism. First Aid equipment & consumables will be required in the following categories: • Automated External Defibrillators and consumables for variety of manufacturers (AED) • First Aid kits • First Responder kits • General First Aid consumables EKFB JV may look to award multiple frameworks to suit geographical capability dependant on the response to this EOI. EKFB JV is proud to have been appointed by HS2 to deliver civil engineering works across an 80km section of the new high speed rail link between the Chiltern Tunnel and Long Itchington Wood. Our scope of the works includes 15 viaducts, 6.9km of green tunnels, 22km of road diversions, 81 bridges and around 30 million cubic metres of excavation.",
+        "tenderSummary": "Eiffage Kier Ferrovial BAM (EKFB) JV is seeking Expressions of Interest from interested parties for the supply of and delivery of First Aid equipment and consumables to support the delivery of the C23 project, which forms part of the HS2 Main Works Civils Contracts. The C23 project consists of three delivery areas; North Chilterns to Aylesbury (NC2A), Calvert to Greatworth (C2G), and Greatworth to Southam (G2S). EKFB JV intends to run a procurement exercise to select a preferred supplier/s of First Aid equipment and consumables, possibly on a framework agreement basis with a call off mechanism. First Aid equipment & consumables will be required in the following categories: • Automated External Defibrillators and consumables for variety of manufacturers (AED) • First Aid kits • First Responder kits • General First Aid consumables EKFB JV may look to award multiple frameworks to suit geographical capability dependant on the response to this EOI. EKFB JV is proud to have been appointed by HS2 to deliver civil engineering works across an 80km section of the new high speed rail link between the Chiltern Tunnel and Long Itchington Wood. Our scope of the works includes 15 viaducts, 6.9km of green tunnels, 22km of road diversions, 81 bridges and around 30 million cubic metres of excavation.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2027-03-05 to 2028-12-22",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/7a0fff75-84ee-4970-a5f2-bf63b5e8549e",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "East Midlands, West Midlands, South East",
+        "cpv": "33100000, 33140000",
+        "matchedKeywords": [
+          "first aid"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
       },
       {
         "id": "fts-104917-2026",
@@ -7083,6 +7164,48 @@
         "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
       },
       {
+        "id": "fts-109688-2026",
+        "title": "Procurement of Learning Management System (LMS)",
+        "authority": "Yeovil Town Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "109688-2026",
+        "published": "2026-11-19",
+        "deadline": "2026-12-08",
+        "value": 140000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "Yeovil Town Council is seeking to procure a secure, accessible and scalable cloud-based Learning Management System (LMS), including implementation, configuration, ongoing support, maintenance and account management, to support approximately 200 users comprising employees, elected members, temporary staff, volunteers and other authorised users. The system must provide a centralised platform for delivering, assigning, managing and monitoring mandatory compliance training, employee and councillor development, role-specific learning and Council-specific training content. It must include a comprehensive course library covering subjects such as Health and Safety, Fire Safety, Data Protection and GDPR, Cyber Security, Equality, Diversity and Inclusion, Safeguarding, Information Governance and governance training for elected members. The procurement includes the supply of the LMS as a Software as a Service (SaaS) solution, user licences, implementation and configuration, user setup and data migration support, administrator training, content management and authoring tools, reporting dashboards, automated notifications, policy acknowledgement functionality and integration with Microsoft 365, including Microsoft Entra ID Single Sign-On, Outlook and Microsoft Teams. The supplier must also provide helpdesk and technical support, platform maintenance and upgrades, account management, annual service reviews, performance reporting and agreed Service Level Agreement commitments. The system must comply with UK GDPR, meet WCAG 2.2 AA accessibility requirements, provide a minimum of 99.9% monthly availability and maintain appropriate information security, backup and disaster recovery arrangements. The initial contract term will be three years, with the option for two further extensions of 24 months each, giving a maximum potential contract duration of seven years. The contract is scheduled to commence on 1 February 2027, with implementation and configuration during February and March 2027 and a target go-live date of 1 April 2027. Suppliers must provide a full breakdown of implementation costs, annual licensing, support, maintenance and content library costs, together with any optional charges for additional users, bespoke content, consultancy and integrations. All prices must be exclusive of VAT and remain fixed throughout the initial three-year contract term.",
+        "tenderSummary": "Yeovil Town Council is seeking to procure a secure, accessible and scalable cloud-based Learning Management System (LMS), including implementation, configuration, ongoing support, maintenance and account management, to support approximately 200 users comprising employees, elected members, temporary staff, volunteers and other authorised users. The system must provide a centralised platform for delivering, assigning, managing and monitoring mandatory compliance training, employee and councillor development, role-specific learning and Council-specific training content. It must include a comprehensive course library covering subjects such as Health and Safety, Fire Safety, Data Protection and GDPR, Cyber Security, Equality, Diversity and Inclusion, Safeguarding, Information Governance and governance training for elected members. The procurement includes the supply of the LMS as a Software as a Service (SaaS) solution, user licences, implementation and configuration, user setup and data migration support, administrator training, content management and authoring tools, reporting dashboards, automated notifications, policy acknowledgement functionality and integration with Microsoft 365, including Microsoft Entra ID Single Sign-On, Outlook and Microsoft Teams. The supplier must also provide helpdesk and technical support, platform maintenance and upgrades, account management, annual service reviews, performance reporting and agreed Service Level Agreement commitments. The system must comply with UK GDPR, meet WCAG 2.2 AA accessibility requirements, provide a minimum of 99.9% monthly availability and maintain appropriate information security, backup and disaster recovery arrangements. The initial contract term will be three years, with the option for two further extensions of 24 months each, giving a maximum potential contract duration of seven years. The contract is scheduled to commence on 1 February 2027, with implementation and configuration during February and March 2027 and a target go-live date of 1 April 2027. Suppliers must provide a full breakdown of implementation costs, annual licensing, support, maintenance and content library costs, together with any optional charges for additional users, bespoke content, consultancy and integrations. All prices must be exclusive of VAT and remain fixed throughout the initial three-year contract term.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-25334",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "48190000, 48931000, 80420000",
+        "matchedKeywords": [
+          "safeguarding",
+          "fire safety"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
+      },
+      {
         "id": "fts-106015-2026",
         "title": "Open Framework for Specialist Support and Therapies for Children and Young People with SEND",
         "authority": "London Borough of Hounslow",
@@ -7162,7 +7285,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
         "id": "fts-109363-2026",
@@ -7201,7 +7325,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
         "id": "fts-109361-2026",
@@ -7240,7 +7365,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
         "id": "fts-109357-2026",
@@ -7279,7 +7405,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
         "id": "fts-109355-2026",
@@ -7318,7 +7445,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
         "id": "fts-109353-2026",
@@ -7357,7 +7485,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
         "id": "fts-109351-2026",
@@ -7396,7 +7525,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
         "id": "fts-098200-2026",
@@ -7476,6 +7606,47 @@
           "80000000"
         ],
         "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
+        "demo": false
+      },
+      {
+        "id": "fts-109961-2026",
+        "title": "The Development and Delivery of Armagh City, Banbridge and Craigavon Borough Council Local Economic Partnership AI/Robotics: Empowering Business Through Awareness Programme 2027-28",
+        "authority": "Armagh City Banbridge and Craigavon Borough Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109961-2026",
+        "published": "2026-11-19",
+        "deadline": "2026-12-10",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "The LEP is funded by the DfE Regional Balance Fund and is tasked with addressing structural economic barriers and designing local interventions. The Action Plan focuses on three priority themes 1. Land Availability and Development 2. Business Workspace Development 3. Supporting Business Growth The AI and Robotics Adoption Programme is a key strand of Theme 3 Supporting Business Growth and is open to micro small and social enterprises up to 50 employees across the Armagh City, Banbridge and Craigavon Borough Council area with a minimum 12-month trading history. The programme will be delivered in two stages. Stage 1 will provide AI and Robotics Awareness Roadshows and Workshops for up to 200 participants, helping businesses understand the practical applications and benefits of AI and robotics. Stage 2 will recruit up to 50 eligible businesses to undertake an AI and Robotics Readiness Assessment and Diagnostic Review. Businesses with an identified need will receive up to 15 hours of tailored mentoring to explore AI and robotics adoption, culminating in a bespoke Action Plan with recommendations to enhance productivity, efficiency, customer engagement and competitiveness.",
+        "tenderSummary": "The LEP is funded by the DfE Regional Balance Fund and is tasked with addressing structural economic barriers and designing local interventions. The Action Plan focuses on three priority themes 1. Land Availability and Development 2. Business Workspace Development 3. Supporting Business Growth The AI and Robotics Adoption Programme is a key strand of Theme 3 Supporting Business Growth and is open to micro small and social enterprises up to 50 employees across the Armagh City, Banbridge and Craigavon Borough Council area with a minimum 12-month trading history. The programme will be delivered in two stages. Stage 1 will provide AI and Robotics Awareness Roadshows and Workshops for up to 200 participants, helping businesses understand the practical applications and benefits of AI and robotics. Stage 2 will recruit up to 50 eligible businesses to undertake an AI and Robotics Readiness Assessment and Diagnostic Review. Businesses with an identified need will receive up to 15 hours of tailored mentoring to explore AI and robotics adoption, culminating in a bespoke Action Plan with recommendations to enhance productivity, efficiency, customer engagement and competitiveness.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109961-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "80500000, 80510000, 80530000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
         "demo": false
       },
       {
@@ -7717,7 +7888,8 @@
           "80500000"
         ],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
         "id": "fts-108812-2026",
@@ -8332,6 +8504,88 @@
         "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
+        "id": "fts-109851-2026",
+        "title": "ID 6541768 - DFE - INVEST NI - CLUSTER STRATEGY, LEADERSHIP AND SYSTEM-BUILDING PROGRAMME FOR PHOTONICS AND BIOTECH",
+        "authority": "Invest Northern Ireland",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109851-2026",
+        "published": "2026-11-19",
+        "deadline": "2026-12-15",
+        "value": 240000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          14,
+          0
+        ],
+        "description": "Invest Northern Ireland (Invest NI) (the Buyer) is the regional business development agency for Northern Ireland. Through the Enhanced Investment Zone (EIZ), Invest NI is investing in the development of innovation intensive clusters that can deliver long term productivity growth, attract private investment and anchor high value jobs. As part of this ambition, Invest NI is a Supplier to support the strategic development of the Photonics and Biotech and Life and Health Sciences emerging clusters. The Supplier must design and deliver a tailored, blended (in person and online) programme to strengthen strategic capability, leadership practice and international connectivity across the Photonics and Biotech clusters. Suppliers should refer to the Specification Schedule for full detail on the requirements of this contract.",
+        "tenderSummary": "Invest Northern Ireland (Invest NI) (the Buyer) is the regional business development agency for Northern Ireland. Through the Enhanced Investment Zone (EIZ), Invest NI is investing in the development of innovation intensive clusters that can deliver long term productivity growth, attract private investment and anchor high value jobs. As part of this ambition, Invest NI is a Supplier to support the strategic development of the Photonics and Biotech and Life and Health Sciences emerging clusters. The Supplier must design and deliver a tailored, blended (in person and online) programme to strengthen strategic capability, leadership practice and international connectivity across the Photonics and Biotech clusters. Suppliers should refer to the Specification Schedule for full detail on the requirements of this contract.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109851-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "79410000, 79400000, 79990000, 79900000, 79411100, 79420000, 80511000, 79411000, 73000000, 73200000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
+      },
+      {
+        "id": "fts-109661-2026",
+        "title": "ID 6541768 - DFE - INVEST NI - CLUSTER STRATEGY, LEADERSHIP AND SYSTEM-BUILDING PROGRAMME FOR PHOTONICS AND BIOTECH",
+        "authority": "Invest Northern Ireland",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109661-2026",
+        "published": "2026-11-19",
+        "deadline": "2026-12-15",
+        "value": 240000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          14,
+          0
+        ],
+        "description": "Invest Northern Ireland (Invest NI) (the Buyer) is the regional business development agency for Northern Ireland. Through the Enhanced Investment Zone (EIZ), Invest NI is investing in the development of innovation intensive clusters that can deliver long term productivity growth, attract private investment and anchor high value jobs. As part of this ambition, Invest NI is a Supplier to support the strategic development of the Photonics and Biotech and Life and Health Sciences emerging clusters. The Supplier must design and deliver a tailored, blended (in person and online) programme to strengthen strategic capability, leadership practice and international connectivity across the Photonics and Biotech clusters. Suppliers should refer to the Specification Schedule for full detail on the requirements of this contract.",
+        "tenderSummary": "Invest Northern Ireland (Invest NI) (the Buyer) is the regional business development agency for Northern Ireland. Through the Enhanced Investment Zone (EIZ), Invest NI is investing in the development of innovation intensive clusters that can deliver long term productivity growth, attract private investment and anchor high value jobs. As part of this ambition, Invest NI is a Supplier to support the strategic development of the Photonics and Biotech and Life and Health Sciences emerging clusters. The Supplier must design and deliver a tailored, blended (in person and online) programme to strengthen strategic capability, leadership practice and international connectivity across the Photonics and Biotech clusters. Suppliers should refer to the Specification Schedule for full detail on the requirements of this contract.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109661-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "79410000, 79400000, 79990000, 79900000, 79411100, 79420000, 80511000, 79411000, 73000000, 73200000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
+      },
+      {
         "id": "fts-105842-2026",
         "title": "Somerset Health and Social Care Training, Workforce Development and Innovation Open Framework",
         "authority": "Somerset NHS Foundation Trust",
@@ -8409,7 +8663,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
         "id": "fts-109248-2026",
@@ -8448,6 +8703,128 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
+      },
+      {
+        "id": "fts-109819-2026",
+        "title": "SCE0078 - Breastfeeding Peer Support Service for Mothers in Hospital",
+        "authority": "Leicester City Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109819-2026",
+        "published": "2026-11-19",
+        "deadline": "2026-12-17",
+        "value": 237000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "This is a Provider Selection Regime (PSR) intended approach notice. The awarding of this contract is subject to the Health Care Services (Provider Selection Regime) Regulations 2023. For the avoidance of doubt, the provisions of the provisions of the Public Contracts Regulations 2015 do not apply to award. Leicester City Council (The Authority) is intending to follow the Most Suitable Provider Process to award a contract for the provision of Breastfeeding Peer Support Service for Mothers in Hospital (SCE0078). This service is a hospital-based, nurse-led service delivered within University Hospitals of Leicester (UHL) to support new mothers and parents who are breastfeeding or wish to breastfeed. The service forms a key part of Leicester's Warm Chain of Breastfeeding Support, providing families with timely, compassionate, and evidence-based infant feeding support from pregnancy through to the postnatal period. The service aims to improve breastfeeding initiation, continuation, and overall infant feeding outcomes by providing accessible support during a critical stage of the breastfeeding journey. Trained Breastfeeding Peer Supporters work alongside clinical teams within UHL to engage with families before discharge, offering practical assistance, emotional encouragement, and tailored information to meet individual needs. The service originated through the Department of Health and Social Care (DHSC) funded Best Start for Life Workforce Pilot, which focused on improving outcomes during the first 1,001 critical days of a child's life. Recognising the significant health benefits associated with breastfeeding for both infants and parents, the project was established to strengthen local breastfeeding support pathways and reduce health inequalities across Leicester. The relevant CPV code for this contract is: Community Health Service - 85323000-9. The award decision makers for this procurement process are: Rob Howard - Divisional Director for Public Health Mohammed Irfan - Head of Finance Siobhan Paterson, Social Care, Education and Public Health Procurement Category Manager Procurement Strategic Panel Please note that the dates provided in this notice are indicative and may be subject to change. This contract is VAT exempt. This is not a below-threshold open competition procurement as stated within the Procedure Type. This is an intention notice to follow the Most Suitable Provider process under Provider Selection Regime 2023.",
+        "tenderSummary": "This is a Provider Selection Regime (PSR) intended approach notice. The awarding of this contract is subject to the Health Care Services (Provider Selection Regime) Regulations 2023. For the avoidance of doubt, the provisions of the provisions of the Public Contracts Regulations 2015 do not apply to award. Leicester City Council (The Authority) is intending to follow the Most Suitable Provider Process to award a contract for the provision of Breastfeeding Peer Support Service for Mothers in Hospital (SCE0078). This service is a hospital-based, nurse-led service delivered within University Hospitals of Leicester (UHL) to support new mothers and parents who are breastfeeding or wish to breastfeed. The service forms a key part of Leicester's Warm Chain of Breastfeeding Support, providing families with timely, compassionate, and evidence-based infant feeding support from pregnancy through to the postnatal period. The service aims to improve breastfeeding initiation, continuation, and overall infant feeding outcomes by providing accessible support during a critical stage of the breastfeeding journey. Trained Breastfeeding Peer Supporters work alongside clinical teams within UHL to engage with families before discharge, offering practical assistance, emotional encouragement, and tailored information to meet individual needs. The service originated through the Department of Health and Social Care (DHSC) funded Best Start for Life Workforce Pilot, which focused on improving outcomes during the first 1,001 critical days of a child's life. Recognising the significant health benefits associated with breastfeeding for both infants and parents, the project was established to strengthen local breastfeeding support pathways and reduce health inequalities across Leicester. The relevant CPV code for this contract is: Community Health Service - 85323000-9. The award decision makers for this procurement process are: Rob Howard - Divisional Director for Public Health Mohammed Irfan - Head of Finance Siobhan Paterson, Social Care, Education and Public Health Procurement Category Manager Procurement Strategic Panel Please note that the dates provided in this notice are indicative and may be subject to change. This contract is VAT exempt. This is not a below-threshold open competition procurement as stated within the Procedure Type. This is an intention notice to follow the Most Suitable Provider process under Provider Selection Regime 2023.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109819-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKF21",
+        "cpv": "85323000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
+      },
+      {
+        "id": "fts-109629-2026",
+        "title": "RFQ 2026/49 - NMANDD PEACEPLUS Thriving Together – Celebrating Cultures and Diversity - 3.5 Women’s Festival",
+        "authority": "Newry, Mourne and Down District Council (NMD)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109629-2026",
+        "published": "2026-11-19",
+        "deadline": "2026-12-17",
+        "value": 19545.4,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Competent and creative suppliers are invited to tender for the design, development, and delivery of a two-stage Women’s Festival. Stage 1 will deliver pre-festival workshops and a cross-border learning visit to build the confidence, skills and independence of women from diverse backgrounds. Activities will focus on practical life skills, wellbeing, leadership and personal development, with opportunities to build networks and learn from inspiring women and community organisations. Stage 2 will culminate in an Inclusive Women's Festival around International Women's Day 2027, celebrating participants' achievements through taster sessions, demonstrations, information stands and talks. The festival will showcase learning outcomes while encouraging attendees to access support, explore new interests and connect with local groups.",
+        "tenderSummary": "Competent and creative suppliers are invited to tender for the design, development, and delivery of a two-stage Women’s Festival. Stage 1 will deliver pre-festival workshops and a cross-border learning visit to build the confidence, skills and independence of women from diverse backgrounds. Activities will focus on practical life skills, wellbeing, leadership and personal development, with opportunities to build networks and learn from inspiring women and community organisations. Stage 2 will culminate in an Inclusive Women's Festival around International Women's Day 2027, celebrating participants' achievements through taster sessions, demonstrations, information stands and talks. The festival will showcase learning outcomes while encouraging attendees to access support, explore new interests and connect with local groups.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109629-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "92000000, 98000000, 80000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
+      },
+      {
+        "id": "cf-6dc1388e-b51b-42a8-b7e8-2320c31e37e5-922047",
+        "title": "CA18707 - RFQ 2026/49 - NMANDD PEACEPLUS Thriving Together - Celebrating Cultures and Diversity - 3.5 Women's Festival",
+        "authority": "Newry, Mourne and Down District Council (NMD)",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "6dc1388e-b51b-42a8-b7e8-2320c31e37e5-922047",
+        "published": "2026-11-19",
+        "deadline": "2026-12-17",
+        "value": 19545.4,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Competent and creative suppliers are invited to tender for the design, development, and delivery of a two-stage Women's Festival. Stage 1 will deliver pre-festival workshops and a cross-border learning visit to build the confidence, skills and independence of women from diverse backgrounds. Activities will focus on practical life skills, wellbeing, leadership and personal development, with opportunities to build networks and learn from inspiring women and community organisations. Stage 2 will culminate in an Inclusive Women's Festival around International Women's Day 2027, celebrating participants' achievements through taster sessions, demonstrations, information stands and talks. The festival will showcase learning outcomes while encouraging attendees to access support, explore new interests and connect with local groups. To access this competition: Registered: Login to https://suppliers.multiquote.com and view the opportunity CA18707. Not registered: Visit https://suppliers.multiquote.com then register and quote CA18707 as the reason for registration. Any queries please contact MultiQuote on 020 3920 8054.",
+        "tenderSummary": "Competent and creative suppliers are invited to tender for the design, development, and delivery of a two-stage Women's Festival. Stage 1 will deliver pre-festival workshops and a cross-border learning visit to build the confidence, skills and independence of women from diverse backgrounds. Activities will focus on practical life skills, wellbeing, leadership and personal development, with opportunities to build networks and learn from inspiring women and community organisations. Stage 2 will culminate in an Inclusive Women's Festival around International Women's Day 2027, celebrating participants' achievements through taster sessions, demonstrations, information stands and talks. The festival will showcase learning outcomes while encouraging attendees to access support, explore new interests and connect with local groups. To access this competition: Registered: Login to https://suppliers.multiquote.com and view the opportunity CA18707. Not registered: Visit https://suppliers.multiquote.com then register and quote CA18707 as the reason for registration. Any queries please contact MultiQuote on 020 3920 8054.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2027-01-04 to 2027-03-31",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/6dc1388e-b51b-42a8-b7e8-2320c31e37e5",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "BT34 2QU",
+        "cpv": "92000000, 98000000, 80000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
         "demo": false
       },
       {
@@ -8661,6 +9038,130 @@
         "updatedBuild": "2026-11-17T17:37:06.296Z-7afa8816-8d04-43c6-bb75-5097774b7146"
       },
       {
+        "id": "fts-109916-2026",
+        "title": "Approved Driving Instructors and Trainers Framework",
+        "authority": "Norfolk County Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109916-2026",
+        "published": "2026-11-19",
+        "deadline": "2026-12-18",
+        "value": 2100000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "Norfolk County Council's Public Health Road Safety Team commissions road safety education, driver training and rider training programmes that support behaviour change and casualty reduction. These services include NDORS delivery on behalf of Norfolk Constabulary and commercial driver and rider training. The Council's current framework for the provision of approved driving instructors and trainers ends on 31st March 2027 and the Council are seeking to establish a new multi provider framework with a revised delivery structure that will commence delivery on 1st April 2027. The figure stated below is an estimate over the life of the framework. This figure represents the value across all Lots. There is no guarantee of work or to the level of spend under each Lot of the framework. The Government is undertaking a review which may lead to Local Government Reorganisation (\"LGR\") and is also considering devolution to a Mayoral Strategic Authority for Norfolk and Suffolk. Should LGR and/or devolution processes lead to unitary local government in Norfolk and/or to the establishment of a strategic authority covering Norfolk (i) the Framework may be transferred, assigned or novated to any successor authority(ies) to the county council, or to any joint body incorporating or formed by any such successor and/or to any strategic authority; and/or (ii) the council or a successor authority or joint body may order services on behalf of other local authorities serving any area within Norfolk's current geographical boundaries. The Framework may be used by any contracting authority that succeeds wholly or in part to the functions of Norfolk County Council.",
+        "tenderSummary": "Norfolk County Council's Public Health Road Safety Team commissions road safety education, driver training and rider training programmes that support behaviour change and casualty reduction. These services include NDORS delivery on behalf of Norfolk Constabulary and commercial driver and rider training. The Council's current framework for the provision of approved driving instructors and trainers ends on 31st March 2027 and the Council are seeking to establish a new multi provider framework with a revised delivery structure that will commence delivery on 1st April 2027. The figure stated below is an estimate over the life of the framework. This figure represents the value across all Lots. There is no guarantee of work or to the level of spend under each Lot of the framework. The Government is undertaking a review which may lead to Local Government Reorganisation (\"LGR\") and is also considering devolution to a Mayoral Strategic Authority for Norfolk and Suffolk. Should LGR and/or devolution processes lead to unitary local government in Norfolk and/or to the establishment of a strategic authority covering Norfolk (i) the Framework may be transferred, assigned or novated to any successor authority(ies) to the county council, or to any joint body incorporating or formed by any such successor and/or to any strategic authority; and/or (ii) the council or a successor authority or joint body may order services on behalf of other local authorities serving any area within Norfolk's current geographical boundaries. The Framework may be used by any contracting authority that succeeds wholly or in part to the functions of Norfolk County Council.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109916-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKH15, UKH16, UKH17",
+        "cpv": "80510000, 80522000, 80550000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000",
+          "80550000"
+        ],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
+      },
+      {
+        "id": "fts-109901-2026",
+        "title": "De-escalation and restricted intervention practice",
+        "authority": "Norfolk County Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109901-2026",
+        "published": "2026-11-19",
+        "deadline": "2026-12-18",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "One of the key responsibilities of NCC is to ensure training is delivered to a consistently high standard and to evaluate the effectiveness of the training. Norfolk County Council has 7 residential children's homes, 7 CWD homes, 1 x in reach team and 2 No Wrong Door hubs, all of whom require de-escalation and restricted physical intervention practice training. The nature of the placements within these homes means that staff are at risk of confrontational and distressed behaviours, and they need the skills to de-escalate a situation, and in a worst-case scenario undertake a physical intervention with a child or young person aged 5-18 years old. This is in line with Ofsted Protection of Children Quality Standard 9, and NCC residential policies. The Children's homes require all new staff to undertake a full course in de-escalation and restricted intervention practice techniques, with an annual refresher training for all staff. There may be times when service specific training is required, which will include specific behaviours that are being experienced within the individual home. Full details of the requirement can be found in the Service Specification, which forms a Schedule to the Terms and Conditions. The Government is undertaking a review which may lead to Local Government Reorganisation (\"LGR\") and is also considering devolution to a Mayoral Strategic Authority for Norfolk and Suffolk. Should LGR and/or devolution processes lead to unitary local government in Norfolk and/or to the establishment of a strategic authority covering Norfolk (i) the contract may be transferred, assigned or novated to any successor authority(ies) to the county council, or to any joint body incorporating or formed by any such successor and/or to any strategic authority; and/or (ii) the council or a successor authority or joint body may order services on behalf of other local authorities serving any area within Norfolk's current geographical boundaries.",
+        "tenderSummary": "One of the key responsibilities of NCC is to ensure training is delivered to a consistently high standard and to evaluate the effectiveness of the training. Norfolk County Council has 7 residential children's homes, 7 CWD homes, 1 x in reach team and 2 No Wrong Door hubs, all of whom require de-escalation and restricted physical intervention practice training. The nature of the placements within these homes means that staff are at risk of confrontational and distressed behaviours, and they need the skills to de-escalate a situation, and in a worst-case scenario undertake a physical intervention with a child or young person aged 5-18 years old. This is in line with Ofsted Protection of Children Quality Standard 9, and NCC residential policies. The Children's homes require all new staff to undertake a full course in de-escalation and restricted intervention practice techniques, with an annual refresher training for all staff. There may be times when service specific training is required, which will include specific behaviours that are being experienced within the individual home. Full details of the requirement can be found in the Service Specification, which forms a Schedule to the Terms and Conditions. The Government is undertaking a review which may lead to Local Government Reorganisation (\"LGR\") and is also considering devolution to a Mayoral Strategic Authority for Norfolk and Suffolk. Should LGR and/or devolution processes lead to unitary local government in Norfolk and/or to the establishment of a strategic authority covering Norfolk (i) the contract may be transferred, assigned or novated to any successor authority(ies) to the county council, or to any joint body incorporating or formed by any such successor and/or to any strategic authority; and/or (ii) the council or a successor authority or joint body may order services on behalf of other local authorities serving any area within Norfolk's current geographical boundaries.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-26137",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKH15, UKH16, UKH17",
+        "cpv": "80500000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
+      },
+      {
+        "id": "cf-afd07786-47ca-48b3-9ea9-8518b0e5a29a-922070",
+        "title": "MOD FM Maintenance East Anglia",
+        "authority": "VIVO DEFENCE SERVICES LIMITED",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "afd07786-47ca-48b3-9ea9-8518b0e5a29a-922070",
+        "published": "2026-11-19",
+        "deadline": "2026-12-18",
+        "value": 6000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "We are seeking expressions of interest from experienced Facilities Management providers to support the delivery of Facilities Maintenance services across the East Anglia region as part of the Ministry of Defence (MOD) Future Defence Infrastructure Services (FDIS) contract. The anticipated annual contract value is approximately £6 million per annum, with potential for additional workload and revenue growth subject to operational requirements, contract performance, and future programme demands. The successful supplier will be responsible for the delivery of planned preventative maintenance, reactive maintenance, and associated facilities engineering services across a diverse estate portfolio. Services are expected to cover a broad range of mechanical and electrical building systems and associated infrastructure. Scope of Services The scope is expected to include, but is not limited to: Mechanical maintenance services Electrical maintenance services Planned Preventative Maintenance (PPM) Reactive and corrective maintenance Statutory and mandatory compliance activities Out-of-hours and emergency response services Minor lifecycle and maintenance works Asset inspection, reporting and condition assessments Supplier Profile This opportunity is likely to be best suited to an established Mechanical and Electrical Facilities Management provider with: Demonstrable experience delivering facilities maintenance services within complex and operationally critical environments. Strong self-delivery capability across mechanical and electrical disciplines. An established directly employed workforce capable of delivering the majority of maintenance activities. Existing operational presence within, or close to, the East Anglia region. The ability to mobilise and sustain a locally based workforce to support service delivery requirements. Robust health, safety, environmental and compliance management systems. Whilst organisations of all sizes are encouraged to express an interest, SMEs with a strong self-delivery model and established local engineering resource are particularly encouraged to participate. Key Requirements Prospective suppliers should be able to demonstrate: Relevant facilities management and maintenance experience. Financial stability appropriate to the scale of the opportunity. Proven performance in delivering maintenance services against contractual KPIs and service levels. Capability to operate in secure and regulated environments. Commitment to social value, local employment and skills development within the East Anglia region. Additional Information This notice is being issued to assess market interest and identify suitably qualified suppliers capable of supporting the delivery of facilities maintenance services under the MOD FDIS programme. Further information regarding procurement route, detailed scope and contractual arrangements will be provided at the appropriate stage of the procurement process.",
+        "tenderSummary": "We are seeking expressions of interest from experienced Facilities Management providers to support the delivery of Facilities Maintenance services across the East Anglia region as part of the Ministry of Defence (MOD) Future Defence Infrastructure Services (FDIS) contract. The anticipated annual contract value is approximately £6 million per annum, with potential for additional workload and revenue growth subject to operational requirements, contract performance, and future programme demands. The successful supplier will be responsible for the delivery of planned preventative maintenance, reactive maintenance, and associated facilities engineering services across a diverse estate portfolio. Services are expected to cover a broad range of mechanical and electrical building systems and associated infrastructure. Scope of Services The scope is expected to include, but is not limited to: Mechanical maintenance services Electrical maintenance services Planned Preventative Maintenance (PPM) Reactive and corrective maintenance Statutory and mandatory compliance activities Out-of-hours and emergency response services Minor lifecycle and maintenance works Asset inspection, reporting and condition assessments Supplier Profile This opportunity is likely to be best suited to an established Mechanical and Electrical Facilities Management provider with: Demonstrable experience delivering facilities maintenance services within complex and operationally critical environments. Strong self-delivery capability across mechanical and electrical disciplines. An established directly employed workforce capable of delivering the majority of maintenance activities. Existing operational presence within, or close to, the East Anglia region. The ability to mobilise and sustain a locally based workforce to support service delivery requirements. Robust health, safety, environmental and compliance management systems. Whilst organisations of all sizes are encouraged to express an interest, SMEs with a strong self-delivery model and established local engineering resource are particularly encouraged to participate. Key Requirements Prospective suppliers should be able to demonstrate: Relevant facilities management and maintenance experience. Financial stability appropriate to the scale of the opportunity. Proven performance in delivering maintenance services against contractual KPIs and service levels. Capability to operate in secure and regulated environments. Commitment to social value, local employment and skills development within the East Anglia region. Additional Information This notice is being issued to assess market interest and identify suitably qualified suppliers capable of supporting the delivery of facilities maintenance services under the MOD FDIS programme. Further information regarding procurement route, detailed scope and contractual arrangements will be provided at the appropriate stage of the procurement process.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2027-02-01 to 2029-01-31",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/afd07786-47ca-48b3-9ea9-8518b0e5a29a",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "East of England",
+        "cpv": "45000000, 50000000",
+        "matchedKeywords": [
+          "skills",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
+      },
+      {
         "id": "fts-105109-2026",
         "title": "Shropshire 0-25 Public Health Nursing Service (PHNS)",
         "authority": "Shropshire Council",
@@ -8741,6 +9242,47 @@
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
         "demo": false,
         "updatedBuild": "2026-11-06T15:54:30.401Z-0c91f219-9f1a-4b2f-8605-4b6848c66274"
+      },
+      {
+        "id": "fts-109891-2026",
+        "title": "NPQH Evaluation on behalf of Dysgu",
+        "authority": "Caerphilly County Borough Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109891-2026",
+        "published": "2026-11-19",
+        "deadline": "2026-12-21",
+        "value": 75000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Mae Dysgu yn comisiynu gwerthusiad allanol annibynnol o'r Cymhwyster Proffesiynol Cenedlaethol ar gyfer Prifathrawiaeth (CPCP Cymru). CPCP Cymru yw'r cymhwyster gorfodol ar gyfer prifathrawiaeth yng Nghymru, gan wneud ei ansawdd, ei hygrededd a'i effaith yn hanfodol i hyder y gweithlu cenedlaethol a pharatoi arweinwyr ysgolion y dyfodol yn effeithiol. Fel rhan o'i ymrwymiad strategol i sicrhau ansawdd ac effaith, mae Dysgu yn sefydlu dull gwerthuso cadarn i sicrhau bod rhaglenni arweinyddiaeth o ansawdd uchel, yn seiliedig ar dystiolaeth, yn dryloyw ac yn cyd-fynd â blaenoriaethau cenedlaethol, gan gynnwys y Safonau Proffesiynol ar gyfer Cynorthwyo Addysgu, Addysgu ac Arweinyddiaeth. Mae'r briff hwn yn gwahodd cynigion gan sefydliadau sydd â phrofiad addas i gyflwyno gwerthusiad annibynnol o Garfan 3 CPCP Cymru (2026-27). Dysgu is commissioning an independent external evaluation of the National Professional Qualification for Headship (NPQH Wales). NPQH Wales is the mandatory qualification for headship in Wales, making its quality, credibility and impact critical to national workforce confidence and the effective preparation of future school leaders. As part of its strategic commitment to quality assurance and impact, Dysgu is establishing a robust evaluation approach to ensure leadership programmes are high-quality, evidence-informed, transparent and aligned with national priorities, including the Professional Standards for Assisting Teaching, Teaching and Leadership. This brief invites proposals from suitably experienced organisations to deliver an independent evaluation of NPQH Wales Cohort 3 (2026-27).",
+        "tenderSummary": "Mae Dysgu yn comisiynu gwerthusiad allanol annibynnol o'r Cymhwyster Proffesiynol Cenedlaethol ar gyfer Prifathrawiaeth (CPCP Cymru). CPCP Cymru yw'r cymhwyster gorfodol ar gyfer prifathrawiaeth yng Nghymru, gan wneud ei ansawdd, ei hygrededd a'i effaith yn hanfodol i hyder y gweithlu cenedlaethol a pharatoi arweinwyr ysgolion y dyfodol yn effeithiol. Fel rhan o'i ymrwymiad strategol i sicrhau ansawdd ac effaith, mae Dysgu yn sefydlu dull gwerthuso cadarn i sicrhau bod rhaglenni arweinyddiaeth o ansawdd uchel, yn seiliedig ar dystiolaeth, yn dryloyw ac yn cyd-fynd â blaenoriaethau cenedlaethol, gan gynnwys y Safonau Proffesiynol ar gyfer Cynorthwyo Addysgu, Addysgu ac Arweinyddiaeth. Mae'r briff hwn yn gwahodd cynigion gan sefydliadau sydd â phrofiad addas i gyflwyno gwerthusiad annibynnol o Garfan 3 CPCP Cymru (2026-27). Dysgu is commissioning an independent external evaluation of the National Professional Qualification for Headship (NPQH Wales). NPQH Wales is the mandatory qualification for headship in Wales, making its quality, credibility and impact critical to national workforce confidence and the effective preparation of future school leaders. As part of its strategic commitment to quality assurance and impact, Dysgu is establishing a robust evaluation approach to ensure leadership programmes are high-quality, evidence-informed, transparent and aligned with national priorities, including the Professional Standards for Assisting Teaching, Teaching and Leadership. This brief invites proposals from suitably experienced organisations to deliver an independent evaluation of NPQH Wales Cohort 3 (2026-27).",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109891-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL",
+        "cpv": "79315000, 79311300, 79311400, 73210000, 80400000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
       },
       {
         "id": "fts-107837-2026",
@@ -9106,6 +9648,86 @@
         "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
+        "id": "fts-109735-2026",
+        "title": "Science & Industry Museum Technicians Gallery Digital Interactives Package A",
+        "authority": "Science Museum Group",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109735-2026",
+        "published": "2026-11-19",
+        "deadline": "2027-01-13",
+        "value": 170000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "The Technicians Gallery project is a partnership with the Gatsby Charitable Foundation and offers a wonderful opportunity to fulfil the mission of both organisations, while complementing the UK government’s Industrial Strategy and Greater Manchester Local Industrial Strategy. Both the Museum and Gatsby are committed to strengthening the country’s science and engineering skills. This project addresses this concern through promoting technicians and technician careers, both highlighting the current shortage in the workforce, and opening up science and engineering opportunities to an audience that often feels this path is closed to them. SMG is seeking suitably qualified and experienced suppliers to design and deliver digital interactives for the gallery. This tender is divided into four separate Lots, each covering an individual digital interactive. Suppliers may tender for one, multiple or all Lots. Further information is provided in the tender document pack.",
+        "tenderSummary": "The Technicians Gallery project is a partnership with the Gatsby Charitable Foundation and offers a wonderful opportunity to fulfil the mission of both organisations, while complementing the UK government’s Industrial Strategy and Greater Manchester Local Industrial Strategy. Both the Museum and Gatsby are committed to strengthening the country’s science and engineering skills. This project addresses this concern through promoting technicians and technician careers, both highlighting the current shortage in the workforce, and opening up science and engineering opportunities to an audience that often feels this path is closed to them. SMG is seeking suitably qualified and experienced suppliers to design and deliver digital interactives for the gallery. This tender is divided into four separate Lots, each covering an individual digital interactive. Suppliers may tender for one, multiple or all Lots. Further information is provided in the tender document pack.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://supplier.in-tend.co.uk/sciencemuseumgroup/tenders/current",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD33",
+        "cpv": "92521000, 92521100",
+        "matchedKeywords": [
+          "skills",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
+      },
+      {
+        "id": "fts-109718-2026",
+        "title": "Science & Industry Museum Technicians Gallery Digital Interactives Package A",
+        "authority": "Science Museum Group",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "109718-2026",
+        "published": "2026-11-19",
+        "deadline": "2027-01-13",
+        "value": 170000,
+        "currency": "ZAR",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "The Technicians Gallery project is a partnership with the Gatsby Charitable Foundation and offers a wonderful opportunity to fulfil the mission of both organisations, while complementing the UK government’s Industrial Strategy and Greater Manchester Local Industrial Strategy. Both the Museum and Gatsby are committed to strengthening the country’s science and engineering skills. This project addresses this concern through promoting technicians and technician careers, both highlighting the current shortage in the workforce, and opening up science and engineering opportunities to an audience that often feels this path is closed to them. SMG is seeking suitably qualified and experienced suppliers to design and deliver digital interactives for the gallery. This tender is divided into four separate Lots, each covering an individual digital interactive. Suppliers may tender for one, multiple or all Lots. Further information is provided in the tender document pack.",
+        "tenderSummary": "The Technicians Gallery project is a partnership with the Gatsby Charitable Foundation and offers a wonderful opportunity to fulfil the mission of both organisations, while complementing the UK government’s Industrial Strategy and Greater Manchester Local Industrial Strategy. Both the Museum and Gatsby are committed to strengthening the country’s science and engineering skills. This project addresses this concern through promoting technicians and technician careers, both highlighting the current shortage in the workforce, and opening up science and engineering opportunities to an audience that often feels this path is closed to them. SMG is seeking suitably qualified and experienced suppliers to design and deliver digital interactives for the gallery. This tender is divided into four separate Lots, each covering an individual digital interactive. Suppliers may tender for one, multiple or all Lots. Further information is provided in the tender document pack.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://in-tendhost.co.uk/sciencemuseumgroup/aspx/Tenders/Current",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD33",
+        "cpv": "92521000, 92521100",
+        "matchedKeywords": [
+          "skills",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false
+      },
+      {
         "id": "fts-105654-2026",
         "title": "Multi-Supplier Framework Agreement for the Provision of Agency Staff and Recruitment Services",
         "authority": "The Sheffield College",
@@ -9181,7 +9803,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
         "id": "fts-104440-2026",
@@ -9259,6 +9882,45 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-05T16:27:29.184Z-9de53707-8ceb-4d05-98f8-03bc302a9e58",
+        "demo": false
+      },
+      {
+        "id": "fts-109667-2026",
+        "title": "MGN255B - Riverbank Stabilisation at Minehead, Somerset",
+        "authority": "Magna Housing",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "109667-2026",
+        "published": "2026-11-19",
+        "deadline": "2027-01-29",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Project Title: Riverbank Stabilisation Works Location: 1-3 Buckhill, Withycombe, Minehead, Somerset, TA24 6QE Objective: To improve and stabilise the riverbank adjacent to properties 1-3 Buckhill. Magna Housing Ltd invites tenders from suitably qualified and experienced contractors to undertake riverbank stabilisation and associated improvement works at the above location. The works are required following a recent collapse of sections of the riverbank, which has resulted in obstruction to the river channel, localised flooding, and associated impacts on the surrounding area, including disruption to the adjacent highway. The objective of the project is to restore and stabilise the affected riverbank, ensure effective water flow, and mitigate the risk of further erosion or failure, thereby safeguarding nearby properties and infrastructure. These works have been identified to address existing erosion and stability issues affecting the riverbank, with the aim of preserving the integrity of the land and preventing further deterioration. Programme Requirements Magna Housing Ltd requires that the works commence in Spring or Summer 2027, to be confirmed with contractor and CA to take advantage of favourable weather conditions and lower water levels typically experienced during this period. The intent is to ensure that the stabilisation works are completed in advance of the autumn and winter seasons, thereby reducing the risk of further collapse, flooding, and weather-related delays.",
+        "tenderSummary": "Project Title: Riverbank Stabilisation Works Location: 1-3 Buckhill, Withycombe, Minehead, Somerset, TA24 6QE Objective: To improve and stabilise the riverbank adjacent to properties 1-3 Buckhill. Magna Housing Ltd invites tenders from suitably qualified and experienced contractors to undertake riverbank stabilisation and associated improvement works at the above location. The works are required following a recent collapse of sections of the riverbank, which has resulted in obstruction to the river channel, localised flooding, and associated impacts on the surrounding area, including disruption to the adjacent highway. The objective of the project is to restore and stabilise the affected riverbank, ensure effective water flow, and mitigate the risk of further erosion or failure, thereby safeguarding nearby properties and infrastructure. These works have been identified to address existing erosion and stability issues affecting the riverbank, with the aim of preserving the integrity of the land and preventing further deterioration. Programme Requirements Magna Housing Ltd requires that the works commence in Spring or Summer 2027, to be confirmed with contractor and CA to take advantage of favourable weather conditions and lower water levels typically experienced during this period. The intent is to ensure that the stabilisation works are completed in advance of the autumn and winter seasons, thereby reducing the risk of further collapse, flooding, and weather-related delays.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/109667-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK23",
+        "cpv": "45246200",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
         "demo": false
       },
       {
@@ -9341,42 +10003,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-18T17:14:09.766Z"
+    "lastPartialUpdate": "2026-11-19T17:21:31.448Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
-    "attemptedAt": "2026-11-18T17:14:09.766Z",
+    "attemptId": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+    "attemptedAt": "2026-11-19T17:21:31.448Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
-    "retrievedCount": 21,
-    "totalCount": 231,
+    "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
+    "retrievedCount": 28,
+    "totalCount": 247,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-18T17:14:09.766Z",
-        "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
-        "lastAttemptAt": "2026-11-18T17:14:09.766Z",
+        "watermark": "2026-11-19T17:21:31.448Z",
+        "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
+        "lastAttemptAt": "2026-11-19T17:21:31.448Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-16T17:37:06.296Z",
-          "to": "2026-11-18T17:14:09.766Z"
+          "from": "2026-11-17T17:14:09.766Z",
+          "to": "2026-11-19T17:21:31.448Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-18T17:14:09.766Z",
-        "lastSuccessfulUpdate": "2026-11-18T17:14:09.766Z",
-        "lastAttemptAt": "2026-11-18T17:14:09.766Z",
+        "watermark": "2026-11-19T17:21:31.448Z",
+        "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
+        "lastAttemptAt": "2026-11-19T17:21:31.448Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-16T17:37:06.296Z",
-          "to": "2026-11-18T17:14:09.766Z"
+          "from": "2026-11-17T17:14:09.766Z",
+          "to": "2026-11-19T17:21:31.448Z"
         }
       }
     }
