@@ -4,43 +4,45 @@
     "FTS": {
       "watermark": "2026-11-19T17:21:31.448Z",
       "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
-      "lastAttemptAt": "2026-11-19T17:21:31.448Z",
-      "ok": true,
-      "error": null,
+      "lastAttemptAt": "2026-11-20T16:56:24.204Z",
+      "ok": false,
+      "error": "FTS: request failed after retries",
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-17T17:14:09.766Z",
-        "to": "2026-11-19T17:21:31.448Z"
+        "from": "2026-11-18T17:21:31.448Z",
+        "to": "2026-11-20T16:56:24.204Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-19T17:21:31.448Z",
-      "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
-      "lastAttemptAt": "2026-11-19T17:21:31.448Z",
+      "watermark": "2026-11-20T16:56:24.204Z",
+      "lastSuccessfulUpdate": "2026-11-20T16:56:24.204Z",
+      "lastAttemptAt": "2026-11-20T16:56:24.204Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-17T17:14:09.766Z",
-        "to": "2026-11-19T17:21:31.448Z"
+        "from": "2026-11-18T17:21:31.448Z",
+        "to": "2026-11-20T16:56:24.204Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+    "buildId": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1",
     "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
     "interval": {
-      "from": "2026-11-17T17:14:09.766Z",
-      "to": "2026-11-19T17:21:31.448Z"
+      "from": "2026-11-18T17:21:31.448Z",
+      "to": "2026-11-20T16:56:24.204Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 28,
-    "totalCount": 247,
-    "sourceFailures": [],
+    "retrievedCount": 5,
+    "totalCount": 249,
+    "sourceFailures": [
+      "FTS: FTS: request failed after retries"
+    ],
     "records": [
       {
         "id": "cf-0517bf68-0a3f-4e09-8353-3a6e97560ef9-920373",
@@ -5659,6 +5661,45 @@
         "updatedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8"
       },
       {
+        "id": "cf-90d317a4-0657-495a-a9ea-57e035554822-922207",
+        "title": "Activity & Interpretation Plan Consultant",
+        "authority": "Thetford Town Council",
+        "category": "Learning & development",
+        "source": "Contracts Finder",
+        "noticeId": "90d317a4-0657-495a-a9ea-57e035554822-922207",
+        "published": "2026-11-20",
+        "deadline": "2026-11-27",
+        "value": 25000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "The appointed consultant will prepare a comprehensive Activity & Interpretation Plan which demonstrates how people will engage with St Peter's Church and the wider heritage of Thetford through: • Learning; • Volunteering; • Skills development; • Community engagement; • Interpretation; • Participation; • Events; • Training; • Outreach activities. The consultant shall ensure that the Activity & Interpretation Plan is fully aligned with NLHF requirements and capable of supporting a successful Delivery Phase application. The Activity Plan shall identify opportunities for community involvement, volunteering, learning, training, events and wider public engagement, together with recommendations for sustainable delivery and long-term legacy. The Interpretation Plan shall identify and communicate the key heritage themes, stories and significance of St Peter's Church, establish target audiences, and develop recommendations for accessible and engaging interpretation that supports the project's vision and outcomes. The Consultant shall ensure that both plans are fully integrated and aligned with the requirements of the National Lottery Heritage Fund and other funding stakeholders, providing a practical framework for implementation during the Delivery Phase. All Submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "tenderSummary": "The appointed consultant will prepare a comprehensive Activity & Interpretation Plan which demonstrates how people will engage with St Peter's Church and the wider heritage of Thetford through: • Learning; • Volunteering; • Skills development; • Community engagement; • Interpretation; • Participation; • Events; • Training; • Outreach activities. The consultant shall ensure that the Activity & Interpretation Plan is fully aligned with NLHF requirements and capable of supporting a successful Delivery Phase application. The Activity Plan shall identify opportunities for community involvement, volunteering, learning, training, events and wider public engagement, together with recommendations for sustainable delivery and long-term legacy. The Interpretation Plan shall identify and communicate the key heritage themes, stories and significance of St Peter's Church, establish target audiences, and develop recommendations for accessible and engaging interpretation that supports the project's vision and outcomes. The Consultant shall ensure that both plans are fully integrated and aligned with the requirements of the National Lottery Heritage Fund and other funding stakeholders, providing a practical framework for implementation during the Delivery Phase. All Submissions should sent to Susan Moore - susanmoore@thetfordtowncouncil.gov.uk",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2026-12-14 to 2027-07-14",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/90d317a4-0657-495a-a9ea-57e035554822",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "IP24 2DS",
+        "cpv": "73000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1",
+        "demo": false
+      },
+      {
         "id": "fts-099739-2026",
         "title": "WSTLAT Provision of Supply Agency Services",
         "authority": "Westcountry Schools Trust",
@@ -6746,7 +6787,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1"
       },
       {
         "id": "fts-104917-2026",
@@ -8825,7 +8867,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1"
       },
       {
         "id": "fts-096631-2026",
@@ -9159,7 +9202,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1"
       },
       {
         "id": "fts-105109-2026",
@@ -9964,6 +10008,45 @@
         "updatedBuild": "2026-11-12T16:47:03.023Z-7caed4f6-2076-45fd-b0c1-4b0ae5ee573e"
       },
       {
+        "id": "cf-47b813e5-efbb-46cf-bdc2-312d91f38479-922135",
+        "title": "CA18704 - St Matthew's Primary School _ Luton",
+        "authority": "St Matthew's Primary School",
+        "category": "Safeguarding",
+        "source": "Contracts Finder",
+        "noticeId": "47b813e5-efbb-46cf-bdc2-312d91f38479-922135",
+        "published": "2026-11-20",
+        "deadline": "2027-02-26",
+        "value": 990000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "St Matthew's Primary School is seeking an experienced, innovative, and customer-focused catering partner to deliver high-quality school meal services for our pupils and staff. Located in the heart of Luton's historic Old Town, St Matthew's is a large and vibrant primary school with a diverse school community. We are committed to providing nutritious, enjoyable, and well-presented meals that support the health, wellbeing, and educational success of our pupils. We are inviting expressions of interest from catering providers who can demonstrate: • A strong track record of delivering successful school catering services. • Commitment to providing fresh, nutritious, and balanced meals that meet or exceed School Food Standards. • Innovative menu development that reflects the diversity of our school community and promotes healthy eating. • Excellent customer service and engagement with pupils, staff, parents, and school leadership. • Effective management of kitchen operations, staffing, food safety, and compliance requirements. • Initiatives to increase meal uptake, particularly for Universal and Free School Meals. • A commitment to sustainability, waste reduction, and responsible sourcing. The successful contractor will work in partnership with the school to create a positive dining experience, encourage healthy lifestyle choices, and support the wider educational objectives of the school. Suppliers interested in this opportunity will be expected to demonstrate financial stability, relevant experience within the education sector, robust safeguarding practices, and the capability to deliver a high-quality catering service throughout the contract term. St Matthew's Primary School looks forward to engaging with suppliers who share our vision of delivering exceptional food and service to our school community. To access this competition: Registered: Login to https://suppliers.multiquote.com and view the opportunity CA18704. Not registered: Visit https://suppliers.multiquote.com then register and quote CA18704 as the reason for registration. Any queries please contact MultiQuote on 020 3920 8054.",
+        "tenderSummary": "St Matthew's Primary School is seeking an experienced, innovative, and customer-focused catering partner to deliver high-quality school meal services for our pupils and staff. Located in the heart of Luton's historic Old Town, St Matthew's is a large and vibrant primary school with a diverse school community. We are committed to providing nutritious, enjoyable, and well-presented meals that support the health, wellbeing, and educational success of our pupils. We are inviting expressions of interest from catering providers who can demonstrate: • A strong track record of delivering successful school catering services. • Commitment to providing fresh, nutritious, and balanced meals that meet or exceed School Food Standards. • Innovative menu development that reflects the diversity of our school community and promotes healthy eating. • Excellent customer service and engagement with pupils, staff, parents, and school leadership. • Effective management of kitchen operations, staffing, food safety, and compliance requirements. • Initiatives to increase meal uptake, particularly for Universal and Free School Meals. • A commitment to sustainability, waste reduction, and responsible sourcing. The successful contractor will work in partnership with the school to create a positive dining experience, encourage healthy lifestyle choices, and support the wider educational objectives of the school. Suppliers interested in this opportunity will be expected to demonstrate financial stability, relevant experience within the education sector, robust safeguarding practices, and the capability to deliver a high-quality catering service throughout the contract term. St Matthew's Primary School looks forward to engaging with suppliers who share our vision of delivering exceptional food and service to our school community. To access this competition: Registered: Login to https://suppliers.multiquote.com and view the opportunity CA18704. Not registered: Visit https://suppliers.multiquote.com then register and quote CA18704 as the reason for registration. Any queries please contact MultiQuote on 020 3920 8054.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2027-07-31 to 2030-07-31",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/47b813e5-efbb-46cf-bdc2-312d91f38479",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "LU2 0NJ",
+        "cpv": "15894210",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1",
+        "demo": false
+      },
+      {
         "id": "cf-e92582f5-95e5-461d-8a9f-675c50df724a-920293",
         "title": "Fire safety works and curtain walling - Bicton - Accommodation blocks",
         "authority": "Cornwall College",
@@ -10003,42 +10086,44 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-19T17:21:31.448Z"
+    "lastPartialUpdate": "2026-11-20T16:56:24.204Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-    "attemptedAt": "2026-11-19T17:21:31.448Z",
-    "ok": true,
-    "status": "healthy",
-    "degraded": false,
+    "attemptId": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1",
+    "attemptedAt": "2026-11-20T16:56:24.204Z",
+    "ok": false,
+    "status": "degraded",
+    "degraded": true,
     "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
-    "retrievedCount": 28,
-    "totalCount": 247,
-    "sourceFailures": [],
+    "retrievedCount": 5,
+    "totalCount": 249,
+    "sourceFailures": [
+      "FTS: FTS: request failed after retries"
+    ],
     "sourceState": {
       "FTS": {
         "watermark": "2026-11-19T17:21:31.448Z",
         "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
-        "lastAttemptAt": "2026-11-19T17:21:31.448Z",
-        "ok": true,
-        "error": null,
+        "lastAttemptAt": "2026-11-20T16:56:24.204Z",
+        "ok": false,
+        "error": "FTS: request failed after retries",
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-17T17:14:09.766Z",
-          "to": "2026-11-19T17:21:31.448Z"
+          "from": "2026-11-18T17:21:31.448Z",
+          "to": "2026-11-20T16:56:24.204Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-19T17:21:31.448Z",
-        "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
-        "lastAttemptAt": "2026-11-19T17:21:31.448Z",
+        "watermark": "2026-11-20T16:56:24.204Z",
+        "lastSuccessfulUpdate": "2026-11-20T16:56:24.204Z",
+        "lastAttemptAt": "2026-11-20T16:56:24.204Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-17T17:14:09.766Z",
-          "to": "2026-11-19T17:21:31.448Z"
+          "from": "2026-11-18T17:21:31.448Z",
+          "to": "2026-11-20T16:56:24.204Z"
         }
       }
     }
