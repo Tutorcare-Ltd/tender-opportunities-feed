@@ -2,47 +2,45 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-19T17:21:31.448Z",
-      "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
-      "lastAttemptAt": "2026-11-20T16:56:24.204Z",
-      "ok": false,
-      "error": "FTS: request failed after retries",
-      "retryNotBefore": null,
-      "interval": {
-        "from": "2026-11-18T17:21:31.448Z",
-        "to": "2026-11-20T16:56:24.204Z"
-      }
-    },
-    "Contracts Finder": {
-      "watermark": "2026-11-20T16:56:24.204Z",
-      "lastSuccessfulUpdate": "2026-11-20T16:56:24.204Z",
-      "lastAttemptAt": "2026-11-20T16:56:24.204Z",
+      "watermark": "2026-11-23T20:11:41.256Z",
+      "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
+      "lastAttemptAt": "2026-11-23T20:11:41.256Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
         "from": "2026-11-18T17:21:31.448Z",
-        "to": "2026-11-20T16:56:24.204Z"
+        "to": "2026-11-23T20:11:41.256Z"
+      }
+    },
+    "Contracts Finder": {
+      "watermark": "2026-11-23T20:11:41.256Z",
+      "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
+      "lastAttemptAt": "2026-11-23T20:11:41.256Z",
+      "ok": true,
+      "error": null,
+      "retryNotBefore": null,
+      "interval": {
+        "from": "2026-11-19T16:56:24.204Z",
+        "to": "2026-11-23T20:11:41.256Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1",
-    "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
+    "buildId": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+    "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
     "interval": {
       "from": "2026-11-18T17:21:31.448Z",
-      "to": "2026-11-20T16:56:24.204Z"
+      "to": "2026-11-23T20:11:41.256Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 5,
-    "totalCount": 249,
-    "sourceFailures": [
-      "FTS: FTS: request failed after retries"
-    ],
+    "retrievedCount": 37,
+    "totalCount": 271,
+    "sourceFailures": [],
     "records": [
       {
         "id": "cf-0517bf68-0a3f-4e09-8353-3a6e97560ef9-920373",
@@ -5697,7 +5695,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "fts-099739-2026",
@@ -6349,7 +6348,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "fts-098220-2026",
@@ -7245,7 +7245,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "fts-106015-2026",
@@ -7689,7 +7690,8 @@
           "80510000"
         ],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "fts-106121-2026",
@@ -7932,6 +7934,88 @@
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
         "demo": false,
         "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
+      },
+      {
+        "id": "fts-110190-2026",
+        "title": "The Development and Delivery of Armagh City, Banbridge and Craigavon Borough Council Local Economic Partnership Foreign Direct Invest Positioning Programme 2027-2028",
+        "authority": "Armagh City Banbridge and Craigavon Borough Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110190-2026",
+        "published": "2026-11-20",
+        "deadline": "2026-12-11",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "Launched in June 2025, the ABC LEP brings together six equal partners:  ABC Council  Local Enterprise Partners  Southern Regional College  Community and Voluntary Sector Panel  ABC Labour Market Partnership  ABC Business Partnership Alliance The LEP is funded by the DfE Regional Balance Fund (£4.509m, 2025-2028) and is tasked with addressing structural economic barriers and designing local interventions. The Action Plan focuses on three priority themes: 1. Land Availability and Development (capital) 2. Business Workspace Development (capital) 3. Supporting Business Growth (revenue) The Foreign Direct Investment (FDI) Propositioning Programme forms a key component of the Supporting Business Growth theme within the LEP Action Plan. The programme will support the strategic ambition of positioning Armagh City, Banbridge and Craigavon Borough (ABC) as a competitive, investment-ready location for inward investment and business expansion. The programme must complement and align with the other Action Plan themes, namely Land Availability and Development and Business Workspace Development, ensuring a coherent offer to potential investors and providing clear pathways from investor engagement through to potential investment projects. The Council seeks to appoint a suitably qualified and experienced contractor to design and deliver a comprehensive FDI propositioning and investor promotion programme that enhances the profile of the Borough, strengthens its investment proposition, and generates meaningful inward investment opportunities.",
+        "tenderSummary": "Launched in June 2025, the ABC LEP brings together six equal partners:  ABC Council  Local Enterprise Partners  Southern Regional College  Community and Voluntary Sector Panel  ABC Labour Market Partnership  ABC Business Partnership Alliance The LEP is funded by the DfE Regional Balance Fund (£4.509m, 2025-2028) and is tasked with addressing structural economic barriers and designing local interventions. The Action Plan focuses on three priority themes: 1. Land Availability and Development (capital) 2. Business Workspace Development (capital) 3. Supporting Business Growth (revenue) The Foreign Direct Investment (FDI) Propositioning Programme forms a key component of the Supporting Business Growth theme within the LEP Action Plan. The programme will support the strategic ambition of positioning Armagh City, Banbridge and Craigavon Borough (ABC) as a competitive, investment-ready location for inward investment and business expansion. The programme must complement and align with the other Action Plan themes, namely Land Availability and Development and Business Workspace Development, ensuring a coherent offer to potential investors and providing clear pathways from investor engagement through to potential investment projects. The Council seeks to appoint a suitably qualified and experienced contractor to design and deliver a comprehensive FDI propositioning and investor promotion programme that enhances the profile of the Borough, strengthens its investment proposition, and generates meaningful inward investment opportunities.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110190-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "80000000, 79632000, 80570000, 80531000, 80532000, 80522000, 80530000, 80500000, 80510000, 80511000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110189-2026",
+        "title": "The Development and Delivery of Armagh City, Banbridge and Craigavon Borough Council Local Economic Partnership Foreign Direct Invest Positioning Programme 2027-2028",
+        "authority": "Armagh City Banbridge and Craigavon Borough Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110189-2026",
+        "published": "2026-11-20",
+        "deadline": "2026-12-11",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          14,
+          10,
+          6,
+          0
+        ],
+        "description": "Launched in June 2025, the ABC LEP brings together six equal partners:  ABC Council  Local Enterprise Partners  Southern Regional College  Community and Voluntary Sector Panel  ABC Labour Market Partnership  ABC Business Partnership Alliance The LEP is funded by the DfE Regional Balance Fund (£4.509m, 2025-2028) and is tasked with addressing structural economic barriers and designing local interventions. The Action Plan focuses on three priority themes: 1. Land Availability and Development (capital) 2. Business Workspace Development (capital) 3. Supporting Business Growth (revenue) The Foreign Direct Investment (FDI) Propositioning Programme forms a key component of the Supporting Business Growth theme within the LEP Action Plan. The programme will support the strategic ambition of positioning Armagh City, Banbridge and Craigavon Borough (ABC) as a competitive, investment-ready location for inward investment and business expansion. The programme must complement and align with the other Action Plan themes, namely Land Availability and Development and Business Workspace Development, ensuring a coherent offer to potential investors and providing clear pathways from investor engagement through to potential investment projects. The Council seeks to appoint a suitably qualified and experienced contractor to design and deliver a comprehensive FDI propositioning and investor promotion programme that enhances the profile of the Borough, strengthens its investment proposition, and generates meaningful inward investment opportunities.",
+        "tenderSummary": "Launched in June 2025, the ABC LEP brings together six equal partners:  ABC Council  Local Enterprise Partners  Southern Regional College  Community and Voluntary Sector Panel  ABC Labour Market Partnership  ABC Business Partnership Alliance The LEP is funded by the DfE Regional Balance Fund (£4.509m, 2025-2028) and is tasked with addressing structural economic barriers and designing local interventions. The Action Plan focuses on three priority themes: 1. Land Availability and Development (capital) 2. Business Workspace Development (capital) 3. Supporting Business Growth (revenue) The Foreign Direct Investment (FDI) Propositioning Programme forms a key component of the Supporting Business Growth theme within the LEP Action Plan. The programme will support the strategic ambition of positioning Armagh City, Banbridge and Craigavon Borough (ABC) as a competitive, investment-ready location for inward investment and business expansion. The programme must complement and align with the other Action Plan themes, namely Land Availability and Development and Business Workspace Development, ensuring a coherent offer to potential investors and providing clear pathways from investor engagement through to potential investment projects. The Council seeks to appoint a suitably qualified and experienced contractor to design and deliver a comprehensive FDI propositioning and investor promotion programme that enhances the profile of the Borough, strengthens its investment proposition, and generates meaningful inward investment opportunities.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110189-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "80000000, 79632000, 80570000, 80531000, 80532000, 80522000, 80530000, 80500000, 80510000, 80511000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000"
+        ],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
       },
       {
         "id": "fts-108812-2026",
@@ -8584,7 +8668,8 @@
           "80510000"
         ],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "fts-109661-2026",
@@ -8625,7 +8710,8 @@
           "80510000"
         ],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "fts-105842-2026",
@@ -8709,6 +8795,85 @@
         "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
+        "id": "fts-110238-2026",
+        "title": "London's Violence Reduction Unit - Pan London Tertiary Service",
+        "authority": "Mayor's Office For Policing And Crime",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "110238-2026",
+        "published": "2026-11-20",
+        "deadline": "2026-12-16",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "About the VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. Project Background The VRU takes a public health approach to violence reduction, recognising that prevention requires action at different stages. Primary prevention seeks to change the conditions that make violence more likely, strengthening protective factors before violence occurs. Secondary prevention responds when risk or violence is emerging, aiming to interrupt risk and prevent escalation. Tertiary prevention focuses on reducing the harm caused by violence, supporting recovery and reducing the likelihood of further violence. These approaches are complementary, forming part of a wider response to violence and exploitation. Children and young people affected by violence and exploitation can experience complex and interconnected needs, alongside significant barriers to accessing support. These may include safeguarding concerns, trauma, mental health needs, housing instability, disrupted relationships and difficulties accessing education, employment and other opportunities. Tertiary provision is therefore essential to provide tailored, coordinated support that addresses immediate safeguarding concerns, helps young people recover and improve their circumstances, and reduces the risk of further harm. The Violence and Exploitation Support Service (VESS) launched in June 2024 to provide specialist support to young people across London who have been affected by violence and exploitation. Management of the VESS contract transferred from the Mayor’s Office for Police and Crime (MOPAC) to the VRU in October 2025, with the contract due to expire in June 2027. VESS has made an important contribution to the VRU’s wider approach to tertiary provision, reinforcing the value of trusted relationships between practitioners and young people, flexible and personalised support, and a multidisciplinary approach connecting young people to specialist services, including mental health, housing, education, employment and safeguarding. This experience, alongside the VRU’s established expertise in violence reduction and wider evidence base, provides a strong foundation for the development of the new Tertiary Service. As VESS is due to end in June 2027, the VRU is commissioning a new Tertiary Service to provide specialist support to young people experiencing the highest levels of harm, vulnerability, violence and exploitation. Description of the service The London Violence Reduction Unit (VRU) will appoint a provider to deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The VRU Tertiary Service forms part of the VRU’s wider public health approach to violence reduction. It is intended to provide specialist support to young people who are already affected by, or at significant risk of, serious violence and exploitation, where intensive and coordinated, intervention is required to address their needs and reduce the risk of further harm. The Service will deliver intensive, relationship-based one-to-one support that responds to immediate safeguarding concerns and the wider factors contributing to violence, exploitation and vulnerability. Practitioners will build trusted relationships with young people who may have experienced significant trauma, have difficulty engaging with services or have developed distrust towards professionals. Support will be tailored to each young person’s circumstances, needs, risks and aspirations. This includes responding to immediate concerns while addressing longer-term factors affecting safety, stability and wellbeing. The Provider will coordinate support across multiple areas of need and help young people access relevant specialist interventions and wider services. The Provider will work collaboratively with statutory, voluntary and community sector partners to support identification and referral, coordinate interventions, address barriers to accessing support and strengthen pathways between the VRU’s wider tertiary provision and other relevant services. The Service will operate within a consistent pan-London framework, supported by strong local integration and partnerships. The Provider will understand local systems and community contexts in which young people experience violence and exploitation, while ensuring that young people can access a consistent standard of support across London. The service is expected to: - Identify, engage and support young people aged 11-25 who are experiencing the highest levels of violence, exploitation, harm and vulnerability. - Deliver intensive, relationship-based support through named practitioners who build trusted, consistent and sustained relationships with young people. - Improve young people's safety, wellbeing, stability and resilience by addressing immediate safeguarding concerns and underlying drivers of harm. - Provide tailored, needs-led interventions that respond to each young person's individual circumstances, strengths, risks, and aspirations. - Support young people to access, navigate, and engage with relevant statutory, voluntary, and community services through advocacy and system navigation. - Improve access to specialist support, including housing, education, training and employment, family support, mental health services, and other interventions relevant to need. - Strengthen multi-agency partnerships, information sharing, and coordinated responses across local systems. - Promote culturally competent, gender-responsive, and trauma-informed approaches that reflect young people's identities, experiences, and needs. - Embed lived experience, cultural competence, reflective practice and trauma-informed principles throughout service delivery. - Strengthen local safeguarding and violence reduction responses through the sharing of intelligence, learning, emerging risks and contextual safeguarding insights. - Operate as a connected pan-London service that shares effective practice, learning and intelligence across borough boundaries. - Support wider system improvement by informing more effective local and pan-London responses to violence and exploitation through learning from service delivery. Target Audience The Service is intended for London-based young people aged 11 to 25 who are most impacted by violence and exploitation. Support young people who demonstrate indicators of: - Established harm: Violence or exploitation is currently occurring or has occurred repeatedly. - Entrenched circumstances: The young person is experiencing persistent violence or exploitation that has not been effectively addressed through existing services or previous interventions. - Multiple and interconnected risks: Violence or exploitation is linked to factors such as housing instability, family circumstances, harmful peer influences, trauma, substance use, education, or involvement with the justice system. - Escalating or significant contextual risk: The young person is exposed to harm through relationships, peer networks, locations, institutions, online spaces or wider environments that require specialist intervention and coordinated support. This risk may be increasing in frequency, severity or impact. Examples of young people who may be appropriate for the Service include, but are not limited to: - Young people with missing episodes linked to violence, exploitation or criminal activity. - Young people who are being exploited into, or are actively involved with, harmful peer groups, gangs or organised criminal networks. - Young people whose risks have persisted or escalated despite previous interventions or support arrangements. - Young people demonstrating escalating patterns of offending, exploitation, vulnerability or harm. - Young people experiencing violence and exploitation alongside housing insecurity, homelessness, family breakdown, trauma, poor mental health, neurodiversity, substance use or disengagement from education, training or employment. Scope of Delivery The Provider will deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The Provider delivering the Service must demonstrate the following: - Credible and effective youth work - Advocacy and systems navigation - Safeguarding and transitional safeguarding - Multi-agency partnership working and local systems integration - Specialist intervention and needs-led support - Reflective practice, learning and service development The Provider will demonstrate experience of working with young people affected by violence and exploitation who present with high levels of risk, harm and vulnerability. The Provider will deliver a clear organisational approach to engaging and supporting this cohort. They must evidence how their approach enables them to build trust, sustain long term engagement, and achieve positive outcomes in relation to safety, wellbeing, stability and reduced vulnerability to violence and exploitation. Practitioners must demonstrate credibility, authenticity, professional curiosity and appropriate boundaries, supported by training, supervision and ongoing workforce development. The service is expected to work closely with local authorities, criminal justice system, education providers, health services, community VCS organisations, and other VRU tertiary programmes.",
+        "tenderSummary": "About the VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. Project Background The VRU takes a public health approach to violence reduction, recognising that prevention requires action at different stages. Primary prevention seeks to change the conditions that make violence more likely, strengthening protective factors before violence occurs. Secondary prevention responds when risk or violence is emerging, aiming to interrupt risk and prevent escalation. Tertiary prevention focuses on reducing the harm caused by violence, supporting recovery and reducing the likelihood of further violence. These approaches are complementary, forming part of a wider response to violence and exploitation. Children and young people affected by violence and exploitation can experience complex and interconnected needs, alongside significant barriers to accessing support. These may include safeguarding concerns, trauma, mental health needs, housing instability, disrupted relationships and difficulties accessing education, employment and other opportunities. Tertiary provision is therefore essential to provide tailored, coordinated support that addresses immediate safeguarding concerns, helps young people recover and improve their circumstances, and reduces the risk of further harm. The Violence and Exploitation Support Service (VESS) launched in June 2024 to provide specialist support to young people across London who have been affected by violence and exploitation. Management of the VESS contract transferred from the Mayor’s Office for Police and Crime (MOPAC) to the VRU in October 2025, with the contract due to expire in June 2027. VESS has made an important contribution to the VRU’s wider approach to tertiary provision, reinforcing the value of trusted relationships between practitioners and young people, flexible and personalised support, and a multidisciplinary approach connecting young people to specialist services, including mental health, housing, education, employment and safeguarding. This experience, alongside the VRU’s established expertise in violence reduction and wider evidence base, provides a strong foundation for the development of the new Tertiary Service. As VESS is due to end in June 2027, the VRU is commissioning a new Tertiary Service to provide specialist support to young people experiencing the highest levels of harm, vulnerability, violence and exploitation. Description of the service The London Violence Reduction Unit (VRU) will appoint a provider to deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The VRU Tertiary Service forms part of the VRU’s wider public health approach to violence reduction. It is intended to provide specialist support to young people who are already affected by, or at significant risk of, serious violence and exploitation, where intensive and coordinated, intervention is required to address their needs and reduce the risk of further harm. The Service will deliver intensive, relationship-based one-to-one support that responds to immediate safeguarding concerns and the wider factors contributing to violence, exploitation and vulnerability. Practitioners will build trusted relationships with young people who may have experienced significant trauma, have difficulty engaging with services or have developed distrust towards professionals. Support will be tailored to each young person’s circumstances, needs, risks and aspirations. This includes responding to immediate concerns while addressing longer-term factors affecting safety, stability and wellbeing. The Provider will coordinate support across multiple areas of need and help young people access relevant specialist interventions and wider services. The Provider will work collaboratively with statutory, voluntary and community sector partners to support identification and referral, coordinate interventions, address barriers to accessing support and strengthen pathways between the VRU’s wider tertiary provision and other relevant services. The Service will operate within a consistent pan-London framework, supported by strong local integration and partnerships. The Provider will understand local systems and community contexts in which young people experience violence and exploitation, while ensuring that young people can access a consistent standard of support across London. The service is expected to: - Identify, engage and support young people aged 11-25 who are experiencing the highest levels of violence, exploitation, harm and vulnerability. - Deliver intensive, relationship-based support through named practitioners who build trusted, consistent and sustained relationships with young people. - Improve young people's safety, wellbeing, stability and resilience by addressing immediate safeguarding concerns and underlying drivers of harm. - Provide tailored, needs-led interventions that respond to each young person's individual circumstances, strengths, risks, and aspirations. - Support young people to access, navigate, and engage with relevant statutory, voluntary, and community services through advocacy and system navigation. - Improve access to specialist support, including housing, education, training and employment, family support, mental health services, and other interventions relevant to need. - Strengthen multi-agency partnerships, information sharing, and coordinated responses across local systems. - Promote culturally competent, gender-responsive, and trauma-informed approaches that reflect young people's identities, experiences, and needs. - Embed lived experience, cultural competence, reflective practice and trauma-informed principles throughout service delivery. - Strengthen local safeguarding and violence reduction responses through the sharing of intelligence, learning, emerging risks and contextual safeguarding insights. - Operate as a connected pan-London service that shares effective practice, learning and intelligence across borough boundaries. - Support wider system improvement by informing more effective local and pan-London responses to violence and exploitation through learning from service delivery. Target Audience The Service is intended for London-based young people aged 11 to 25 who are most impacted by violence and exploitation. Support young people who demonstrate indicators of: - Established harm: Violence or exploitation is currently occurring or has occurred repeatedly. - Entrenched circumstances: The young person is experiencing persistent violence or exploitation that has not been effectively addressed through existing services or previous interventions. - Multiple and interconnected risks: Violence or exploitation is linked to factors such as housing instability, family circumstances, harmful peer influences, trauma, substance use, education, or involvement with the justice system. - Escalating or significant contextual risk: The young person is exposed to harm through relationships, peer networks, locations, institutions, online spaces or wider environments that require specialist intervention and coordinated support. This risk may be increasing in frequency, severity or impact. Examples of young people who may be appropriate for the Service include, but are not limited to: - Young people with missing episodes linked to violence, exploitation or criminal activity. - Young people who are being exploited into, or are actively involved with, harmful peer groups, gangs or organised criminal networks. - Young people whose risks have persisted or escalated despite previous interventions or support arrangements. - Young people demonstrating escalating patterns of offending, exploitation, vulnerability or harm. - Young people experiencing violence and exploitation alongside housing insecurity, homelessness, family breakdown, trauma, poor mental health, neurodiversity, substance use or disengagement from education, training or employment. Scope of Delivery The Provider will deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The Provider delivering the Service must demonstrate the following: - Credible and effective youth work - Advocacy and systems navigation - Safeguarding and transitional safeguarding - Multi-agency partnership working and local systems integration - Specialist intervention and needs-led support - Reflective practice, learning and service development The Provider will demonstrate experience of working with young people affected by violence and exploitation who present with high levels of risk, harm and vulnerability. The Provider will deliver a clear organisational approach to engaging and supporting this cohort. They must evidence how their approach enables them to build trust, sustain long term engagement, and achieve positive outcomes in relation to safety, wellbeing, stability and reduced vulnerability to violence and exploitation. Practitioners must demonstrate credibility, authenticity, professional curiosity and appropriate boundaries, supported by training, supervision and ongoing workforce development. The service is expected to work closely with local authorities, criminal justice system, education providers, health services, community VCS organisations, and other VRU tertiary programmes.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110238-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85000000",
+        "matchedKeywords": [
+          "safeguarding",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110185-2026",
+        "title": "Recruitment, Reward, and Retention Solutions: Reward",
+        "authority": "Mid South Essex NHS Foundation Trust",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110185-2026",
+        "published": "2026-11-20",
+        "deadline": "2026-12-16",
+        "value": 145000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The Reward Solutions Framework (“Framework”) scope is to give Customers, within the public sector, access to suppliers who can deliver reward-related workforce solutions. This includes salary sacrifice employee benefits, salary sacrifice vehicle leasing including EV leasing and home charging, and wider employee support services such as occupational health and employee assistance programmes.",
+        "tenderSummary": "The Reward Solutions Framework (“Framework”) scope is to give Customers, within the public sector, access to suppliers who can deliver reward-related workforce solutions. This includes salary sacrifice employee benefits, salary sacrifice vehicle leasing including EV leasing and home charging, and wider employee support services such as occupational health and employee assistance programmes.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110185-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "75310000, 72212450, 66510000, 79342321, 85311300, 34144900, 66114000, 79211110, 79900000, 85147000, 85100000, 85120000, 85140000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
         "id": "fts-109248-2026",
         "title": "Management Information System (MIS) for the Adult College",
         "authority": "London Borough of Barking and Dagenham",
@@ -8785,7 +8950,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "fts-109629-2026",
@@ -8826,7 +8992,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "cf-6dc1388e-b51b-42a8-b7e8-2320c31e37e5-922047",
@@ -9120,7 +9287,8 @@
           "80550000"
         ],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "fts-109901-2026",
@@ -9162,7 +9330,8 @@
           "80500000"
         ],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "cf-afd07786-47ca-48b3-9ea9-8518b0e5a29a-922070",
@@ -9204,6 +9373,201 @@
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
         "demo": false,
         "updatedBuild": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1"
+      },
+      {
+        "id": "fts-110826-2026",
+        "title": "ESPH782: Rother Housing Maintenance and Repair",
+        "authority": "Rother District Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "110826-2026",
+        "published": "2026-11-23",
+        "deadline": "2026-12-18",
+        "value": 1000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Rother District Council is seeking to appoint a suitably experienced contractor to provide housing repair, maintenance, compliance and refurbishment works across its housing portfolio, including temporary accommodation and newly acquired properties. The contract will cover a range of responsive, planned and improvement works, including property refurbishment; kitchen and bathroom works; electrical, plumbing, heating and gas works; statutory servicing, inspection and certification; fire safety works; building fabric and roofing repairs; damp, mould and ventilation works; environmental and energy-efficiency improvements; accessibility adaptations; void works and clearance; and emergency attendance and making-safe works. Works will be instructed as required through individual works orders under a measured term arrangement. The nature, frequency and value of works will vary during the contract term and no minimum volume or value of work is guaranteed. The initial contract term will be 24 months, with the option for the Council to extend for up to a further two periods of 12 months.",
+        "tenderSummary": "Rother District Council is seeking to appoint a suitably experienced contractor to provide housing repair, maintenance, compliance and refurbishment works across its housing portfolio, including temporary accommodation and newly acquired properties. The contract will cover a range of responsive, planned and improvement works, including property refurbishment; kitchen and bathroom works; electrical, plumbing, heating and gas works; statutory servicing, inspection and certification; fire safety works; building fabric and roofing repairs; damp, mould and ventilation works; environmental and energy-efficiency improvements; accessibility adaptations; void works and clearance; and emergency attendance and making-safe works. Works will be instructed as required through individual works orders under a measured term arrangement. The nature, frequency and value of works will vary during the contract term and no minimum volume or value of work is guaranteed. The initial contract term will be 24 months, with the option for the Council to extend for up to a further two periods of 12 months.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110826-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ22",
+        "cpv": "45260000, 45300000, 45310000, 45312100, 45320000, 45330000, 45331000, 45420000, 45430000, 45440000, 45453100, 50000000, 50531100, 50531200, 50700000, 71631000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110485-2026",
+        "title": "PRN26158 Kilcreggan Phase 2, Elizabeth Avenue, Carrickfergus - Works Contract",
+        "authority": "Choice Housing",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110485-2026",
+        "published": "2026-11-23",
+        "deadline": "2026-12-18",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Choice is seeking to identify a Supplier Team (Supplier, Subcontractors and associated supply chain) that together will have all the right skills and are considered most capable of working in partnership, to identify the optimal solution and of delivering it as efficiently and safely as possible. The Supplier Team will be required to support Choice, as Client, in the development of performance indicators and in the delivery of best practice. Regular performance assessments will be required to ensure that the Supplier Team is achieving required standards and delivering continuous improvement. The contract is a ‘Develop and Construct’ NEC4 Engineering and Construction Option A: Priced with Activity Schedule contract. The contract will cover the completion of RIBA Stage 4 (Technical Design) and RIBA Stage 5 (Construction), to achieve RIBA Stages 6 (Handover) and 7 (Use), for 6 no. new-build Supported Housing units (1 no. 2 bed wheelchair accessible bungalow and 5 no. 1 bed wheelchair accessible bungalows) alongside ancillary staff facilities (office space, conference room, staff WCs) and alterations to existing car parking at Kilcreggan Phase 2, Elizabeth Avenue, Carrickfergus. The scope of works includes: • Completion of the technical design; • Completion of the works of a mix of accommodation types, ancillary staff facilities and car parking upgrade work; • Completion of the associated car parking, landscaping, and site works; and • Completion of the associated utilities, services, roads, and drainage infrastructure. The Supplier will be required to appoint a fully integrated design team to complete the RIBA Stage 4 design, based on the Client’s Works Information. This includes coordination of all design disciplines to ensure compliance with statutory and regulatory requirements.",
+        "tenderSummary": "Choice is seeking to identify a Supplier Team (Supplier, Subcontractors and associated supply chain) that together will have all the right skills and are considered most capable of working in partnership, to identify the optimal solution and of delivering it as efficiently and safely as possible. The Supplier Team will be required to support Choice, as Client, in the development of performance indicators and in the delivery of best practice. Regular performance assessments will be required to ensure that the Supplier Team is achieving required standards and delivering continuous improvement. The contract is a ‘Develop and Construct’ NEC4 Engineering and Construction Option A: Priced with Activity Schedule contract. The contract will cover the completion of RIBA Stage 4 (Technical Design) and RIBA Stage 5 (Construction), to achieve RIBA Stages 6 (Handover) and 7 (Use), for 6 no. new-build Supported Housing units (1 no. 2 bed wheelchair accessible bungalow and 5 no. 1 bed wheelchair accessible bungalows) alongside ancillary staff facilities (office space, conference room, staff WCs) and alterations to existing car parking at Kilcreggan Phase 2, Elizabeth Avenue, Carrickfergus. The scope of works includes: • Completion of the technical design; • Completion of the works of a mix of accommodation types, ancillary staff facilities and car parking upgrade work; • Completion of the associated car parking, landscaping, and site works; and • Completion of the associated utilities, services, roads, and drainage infrastructure. The Supplier will be required to appoint a fully integrated design team to complete the RIBA Stage 4 design, based on the Client’s Works Information. This includes coordination of all design disciplines to ensure compliance with statutory and regulatory requirements.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110485-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKN",
+        "cpv": "45000000, 45210000, 45211000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110481-2026",
+        "title": "Reay &amp; Richard Atkins Primary School Fire Safety Project",
+        "authority": "London Borough of Lambeth",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "110481-2026",
+        "published": "2026-11-23",
+        "deadline": "2026-12-18",
+        "value": 450000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "A Contractor to carry out fire safety works at Reay &amp; Richard Atkins Primary School. The works will include the replacement of fire doors, installation of fire stopping measures and works to the fire compartmentation lines where required.",
+        "tenderSummary": "A Contractor to carry out fire safety works at Reay &amp; Richard Atkins Primary School. The works will include the replacement of fire doors, installation of fire stopping measures and works to the fire compartmentation lines where required.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110481-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "51700000, 45343000, 45343100, 45343200",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110447-2026",
+        "title": "Reay &amp; Richard Atkins Primary School Fire Safety Project",
+        "authority": "London Borough of Lambeth",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "110447-2026",
+        "published": "2026-11-23",
+        "deadline": "2026-12-18",
+        "value": 450000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "A Contractor to carry out fire safety works at Reay &amp; Richard Atkins Primary School. The works will include the replacement of fire doors, installation of fire stopping measures and works to the fire compartmentation lines where required.",
+        "tenderSummary": "A Contractor to carry out fire safety works at Reay &amp; Richard Atkins Primary School. The works will include the replacement of fire doors, installation of fire stopping measures and works to the fire compartmentation lines where required.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110447-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "51700000, 45343000, 45343100, 45343200",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110422-2026",
+        "title": "P0402 - Provision of a Risk Management System",
+        "authority": "Hywel Dda University Health Board",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110422-2026",
+        "published": "2026-11-23",
+        "deadline": "2026-12-18",
+        "value": 300000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Hywel Dda University Health Board (HDUHB) is looking to award a contract to appoint one (1) suitably qualified provider to replace their current corporate risk management system. The system has historically been managed by all Health Boards within NHS Wales individually, with the contract due to expire in November 2027. The proposed procurement presents an opportunity to modernise and future-proof risk management arrangements whilst exploring opportunities for greater regional collaboration and consistency in governance and risk practices. HDUHB operate in a highly regulated healthcare environment and require strong governance, assurance and transparency across strategic corporate, operational/service delivery, information, data protection and major projects risks. The system will provide a centralised platform for the identification, assessment, management, monitoring and reporting of organisational risks. It will support effective governance, assurance and compliance processes, providing a single source of information for risk management activities across clinical, operational, workforce, financial, digital, corporate and regulatory functions. The system will support decision-making at operational, corporate and strategic levels, enabling risks to be escalated, monitored and reported through appropriate governance structures.",
+        "tenderSummary": "Hywel Dda University Health Board (HDUHB) is looking to award a contract to appoint one (1) suitably qualified provider to replace their current corporate risk management system. The system has historically been managed by all Health Boards within NHS Wales individually, with the contract due to expire in November 2027. The proposed procurement presents an opportunity to modernise and future-proof risk management arrangements whilst exploring opportunities for greater regional collaboration and consistency in governance and risk practices. HDUHB operate in a highly regulated healthcare environment and require strong governance, assurance and transparency across strategic corporate, operational/service delivery, information, data protection and major projects risks. The system will provide a centralised platform for the identification, assessment, management, monitoring and reporting of organisational risks. It will support effective governance, assurance and compliance processes, providing a single source of information for risk management activities across clinical, operational, workforce, financial, digital, corporate and regulatory functions. The system will support decision-making at operational, corporate and strategic levels, enabling risks to be escalated, monitored and reported through appropriate governance structures.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sell2wales.gov.wales/Assets/NoticeBuilder_FileDownload.aspx?id=387269",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL14, UKL18, UKL17",
+        "cpv": "48000000, 72000000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
       },
       {
         "id": "fts-105109-2026",
@@ -9326,6 +9690,289 @@
           "80000000"
         ],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
+      },
+      {
+        "id": "fts-110714-2026",
+        "title": "The Development and Delivery of Armagh City, Banbridge and Craigavon Borough Council Local Economic Partnership Future Focused Technologies Programme 2027-2028",
+        "authority": "Armagh City Banbridge and Craigavon Borough Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110714-2026",
+        "published": "2026-11-23",
+        "deadline": "2026-12-21",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The LEP is funded by the DfE Regional Balance Fund (£4.509m, 2025-2029) and is tasked with addressing structural economic barriers and designing local interventions. The Action Plan focuses on three priority themes: 1. Land Availability and Development (capital) 2. Business Workspace Development (capital) 3. Supporting Business Growth (revenue) The Future Focused Technologies Programme forms a key component of the Supporting Business Growth theme within the ABC Local Economic Partnership (LEP) Action Plan. The programme will support the strategic ambition of equipping businesses within the agri-food sector, agri-supply chain and wider rural economy with the skills, knowledge and capabilities required to embrace emerging technologies, improve productivity and drive innovation. It will also support the future development and utilisation of the Mid South West Agri Bio Innovation Centre as a focal point for innovation, technology adoption and business growth. The programme must complement and align with the wider LEP Action Plan themes, namely Land Availability and Development and Business Workspace Development, while creating a pipeline of innovation-ready businesses capable of engaging with the future services, facilities and opportunities provided through the Agri Bio Innovation Centre. The programme should support businesses to identify and adopt practical solutions that enhance competitiveness, sustainability and operational performance. The Council seeks to appoint a suitably qualified and experienced contractor to design and deliver a comprehensive Future Focused Technologies Programme that addresses identified skills gaps in business fundamentals, digital capability, automation, productivity improvement and emerging technologies. The programme will provide bespoke support to businesses operating within the agri-food sector and rural economy, enabling them to adopt future-focused technologies including Artificial Intelligence (AI), automation, Agri-Tech, digital systems and green technologies. Through tailored business support, diagnostics and action planning, the programme will strengthen business resilience, improve productivity, foster innovation and contribute to sustainable economic growth across the Borough, whilst supporting the strategic objectives and long-term success of the Agri Bio Innovation Centre.",
+        "tenderSummary": "The LEP is funded by the DfE Regional Balance Fund (£4.509m, 2025-2029) and is tasked with addressing structural economic barriers and designing local interventions. The Action Plan focuses on three priority themes: 1. Land Availability and Development (capital) 2. Business Workspace Development (capital) 3. Supporting Business Growth (revenue) The Future Focused Technologies Programme forms a key component of the Supporting Business Growth theme within the ABC Local Economic Partnership (LEP) Action Plan. The programme will support the strategic ambition of equipping businesses within the agri-food sector, agri-supply chain and wider rural economy with the skills, knowledge and capabilities required to embrace emerging technologies, improve productivity and drive innovation. It will also support the future development and utilisation of the Mid South West Agri Bio Innovation Centre as a focal point for innovation, technology adoption and business growth. The programme must complement and align with the wider LEP Action Plan themes, namely Land Availability and Development and Business Workspace Development, while creating a pipeline of innovation-ready businesses capable of engaging with the future services, facilities and opportunities provided through the Agri Bio Innovation Centre. The programme should support businesses to identify and adopt practical solutions that enhance competitiveness, sustainability and operational performance. The Council seeks to appoint a suitably qualified and experienced contractor to design and deliver a comprehensive Future Focused Technologies Programme that addresses identified skills gaps in business fundamentals, digital capability, automation, productivity improvement and emerging technologies. The programme will provide bespoke support to businesses operating within the agri-food sector and rural economy, enabling them to adopt future-focused technologies including Artificial Intelligence (AI), automation, Agri-Tech, digital systems and green technologies. Through tailored business support, diagnostics and action planning, the programme will strengthen business resilience, improve productivity, foster innovation and contribute to sustainable economic growth across the Borough, whilst supporting the strategic objectives and long-term success of the Agri Bio Innovation Centre.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110714-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "98110000, 98111000, 79996000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110336-2026",
+        "title": "High Needs Supported Accommodation Service for Young People Aged From 16 Years - Strategic Partner",
+        "authority": "Metropolitan borough of Bury",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "110336-2026",
+        "published": "2026-11-20",
+        "deadline": "2026-12-21",
+        "value": 13000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Bury Council is seeking a single strategic partner to provide a complete turnkey solution for a High Needs Supported Accommodation Service for looked after and care experienced young people aged from 16 years. The successful provider will: - fund, design and build a minimum of five properties on a Council-owned site leased to it by the Council: four self-contained single-occupancy homes for young people and one staff and support hub; - register the service with Ofsted as supported accommodation and keep it registered; - staff and operate the service 24 hours a day, 365 days a year, with its own employed staff; - repair, maintain and renew the properties for the contract term; - work with the Council as a strategic partner on an open-book basis. Tenderers should note that the following are fixed requirements of this procurement and will not be subject to negotiation: - Service: A High Needs Supported Accommodation Service for looked-after and care-experienced young people aged 16 and 17, operated in accordance with the Supported Accommodation (England) Regulations 2023 and registered with Ofsted. - Accommodation: A minimum of four self-contained homes for young people together with one staff and support hub. - Site: The accommodation will be developed on a Council-owned site which will be leased to the successful Provider. - Capital Funding: The successful Provider shall be responsible for all design, development, construction, financing and associated capital costs required to deliver the accommodation. Capital, development, financing and borrowing costs shall not be recoverable through the weekly placement fee. - Contract Term: Ten (10) years with an option for the Council to extend for a further period of up to five (5) years. - Programme: The accommodation is anticipated to be ready for occupation approximately 18 months after Contract Award and agreement of the development site. - TUPE: TUPE is not expected to apply as this is a new service. Matters Subject to Further Development The Council has taken reasonable steps to define its requirements at the point of publication. However, due to the nature of the development and service, certain matters cannot be fully determined at this stage and may be refined during the procurement, development, mobilisation and implementation phases. These include: - The specific Council owned site to be utilised. - Ground conditions, abnormal development costs and utility connection requirements, which may only become known following detailed surveys and investigations. - The outcome and timing of the planning process and any associated approvals. - Final lease documentation, which will be based on Heads of Terms issued with the procurement documents and remain subject to the Council's internal approval processes. - The timing of Ofsted registration and any associated regulatory approvals. - Detailed mobilisation arrangements, including any phased opening of accommodation. - Final contract management arrangements, reporting requirements and performance measures. - Service demand, occupancy levels and placement volumes throughout the Contract Term. - Changes in legislation, statutory guidance, regulatory requirements or inspection frameworks applicable to supported accommodation services. Tenderers should therefore ensure that their proposals demonstrate sufficient flexibility to respond to reasonable operational and regulatory changes throughout the Contract Term. Service Flexibility The successful Provider shall be required to deliver a service capable of adapting to: - changes in demand and occupancy levels; - safeguarding requirements; - statutory, regulatory and inspection requirements; - reporting and performance management requirements; and - partnership-working arrangements with the Council and other relevant agencies. Any changes shall be implemented in accordance with the terms of the Contract and the provisions of the Procurement Act 2023. Estimated Contract Value The estimated Contract Value has been calculated on the basis of four homes operating at the maximum weekly price throughout the maximum potential Contract Term of fifteen years. The estimate is not a guarantee of occupancy levels, placement volumes, expenditure or income. Option to Add Additional Homes The Council reserves the right to require the successful Provider to develop and operate additional self-contained homes during the Contract Term should service demand justify such expansion. Any additional homes shall be delivered on substantially the same terms and conditions as the initial requirement. At the maximum Contract Price, each additional home would increase the annual Contract Value by up to £156,000 per annum. The estimated value of any such option has been taken into account when establishing the overall scope of this procurement. Sites The Council will lease a Council owned site to the successful Provider for the development. The site has not yet been confirmed. Details of the sites under consideration will be provided within the procurement documents. Should a proposed site become unavailable, unsuitable, uneconomic, fail to secure the necessary approvals, or otherwise be incapable of delivering the required accommodation and service outcomes, the Council reserves the right to substitute an alternative Council owned site. Any resulting changes shall be managed in accordance with the Partnership Agreement and associated contractual provisions. If no suitable site can be identified or agreed, the Council reserves the right to discontinue the project and terminate the Partnership Agreement in accordance with its terms. Tenderers should note that the specific development site may change prior to Contract Award. However, following development of the accommodation, the Council does not anticipate any material change to the accommodation requirement other than through the option to add additional homes described above. Future Service Development The Council expects the service to evolve in line with emerging best practice, learning, legislation and regulatory requirements. Accordingly, the Council may, during the Contract Term, introduce enhancements to service delivery, including: trauma-informed approaches; psychologically informed environments (PIE); revised support interventions; enhanced partnership-working arrangements; improved outcomes frameworks; and revised reporting and performance management requirements. Any such enhancements shall be implemented in accordance with the Contract variation provisions and shall not alter the overall nature of the Contract. The successful Provider shall be expected to demonstrate flexibility and resilience in adapting service delivery to ensure services remain effective, compliant and responsive to the needs of young people. Award Approval Award of the Contract will be subject to Cabinet approval and confirmation that the preferred Tender provides an affordable, sustainable, deliverable and value for money solution. The Council's objective is to secure improved outcomes for looked after and care experienced young people through the provision of high-quality supported accommodation that represents long-term value for money when compared with current arrangements. Tenders will be evaluated solely in accordance with the published procurement documents, award criteria and the maximum permitted price. The Council reserves the right not to award a Contract where: no Tender meets the Council's minimum requirements; all Tenders exceed the maximum permitted price; the Council is unable to obtain the necessary approvals; the procurement no longer represents an affordable or deliverable solution; or the procurement is discontinued in accordance with the Procurement Act 2023. The Council reserves the right to abandon or discontinue the procurement process at any stage and shall not be liable for any costs incurred by Tenderers in participating in the procurement.",
+        "tenderSummary": "Bury Council is seeking a single strategic partner to provide a complete turnkey solution for a High Needs Supported Accommodation Service for looked after and care experienced young people aged from 16 years. The successful provider will: - fund, design and build a minimum of five properties on a Council-owned site leased to it by the Council: four self-contained single-occupancy homes for young people and one staff and support hub; - register the service with Ofsted as supported accommodation and keep it registered; - staff and operate the service 24 hours a day, 365 days a year, with its own employed staff; - repair, maintain and renew the properties for the contract term; - work with the Council as a strategic partner on an open-book basis. Tenderers should note that the following are fixed requirements of this procurement and will not be subject to negotiation: - Service: A High Needs Supported Accommodation Service for looked-after and care-experienced young people aged 16 and 17, operated in accordance with the Supported Accommodation (England) Regulations 2023 and registered with Ofsted. - Accommodation: A minimum of four self-contained homes for young people together with one staff and support hub. - Site: The accommodation will be developed on a Council-owned site which will be leased to the successful Provider. - Capital Funding: The successful Provider shall be responsible for all design, development, construction, financing and associated capital costs required to deliver the accommodation. Capital, development, financing and borrowing costs shall not be recoverable through the weekly placement fee. - Contract Term: Ten (10) years with an option for the Council to extend for a further period of up to five (5) years. - Programme: The accommodation is anticipated to be ready for occupation approximately 18 months after Contract Award and agreement of the development site. - TUPE: TUPE is not expected to apply as this is a new service. Matters Subject to Further Development The Council has taken reasonable steps to define its requirements at the point of publication. However, due to the nature of the development and service, certain matters cannot be fully determined at this stage and may be refined during the procurement, development, mobilisation and implementation phases. These include: - The specific Council owned site to be utilised. - Ground conditions, abnormal development costs and utility connection requirements, which may only become known following detailed surveys and investigations. - The outcome and timing of the planning process and any associated approvals. - Final lease documentation, which will be based on Heads of Terms issued with the procurement documents and remain subject to the Council's internal approval processes. - The timing of Ofsted registration and any associated regulatory approvals. - Detailed mobilisation arrangements, including any phased opening of accommodation. - Final contract management arrangements, reporting requirements and performance measures. - Service demand, occupancy levels and placement volumes throughout the Contract Term. - Changes in legislation, statutory guidance, regulatory requirements or inspection frameworks applicable to supported accommodation services. Tenderers should therefore ensure that their proposals demonstrate sufficient flexibility to respond to reasonable operational and regulatory changes throughout the Contract Term. Service Flexibility The successful Provider shall be required to deliver a service capable of adapting to: - changes in demand and occupancy levels; - safeguarding requirements; - statutory, regulatory and inspection requirements; - reporting and performance management requirements; and - partnership-working arrangements with the Council and other relevant agencies. Any changes shall be implemented in accordance with the terms of the Contract and the provisions of the Procurement Act 2023. Estimated Contract Value The estimated Contract Value has been calculated on the basis of four homes operating at the maximum weekly price throughout the maximum potential Contract Term of fifteen years. The estimate is not a guarantee of occupancy levels, placement volumes, expenditure or income. Option to Add Additional Homes The Council reserves the right to require the successful Provider to develop and operate additional self-contained homes during the Contract Term should service demand justify such expansion. Any additional homes shall be delivered on substantially the same terms and conditions as the initial requirement. At the maximum Contract Price, each additional home would increase the annual Contract Value by up to £156,000 per annum. The estimated value of any such option has been taken into account when establishing the overall scope of this procurement. Sites The Council will lease a Council owned site to the successful Provider for the development. The site has not yet been confirmed. Details of the sites under consideration will be provided within the procurement documents. Should a proposed site become unavailable, unsuitable, uneconomic, fail to secure the necessary approvals, or otherwise be incapable of delivering the required accommodation and service outcomes, the Council reserves the right to substitute an alternative Council owned site. Any resulting changes shall be managed in accordance with the Partnership Agreement and associated contractual provisions. If no suitable site can be identified or agreed, the Council reserves the right to discontinue the project and terminate the Partnership Agreement in accordance with its terms. Tenderers should note that the specific development site may change prior to Contract Award. However, following development of the accommodation, the Council does not anticipate any material change to the accommodation requirement other than through the option to add additional homes described above. Future Service Development The Council expects the service to evolve in line with emerging best practice, learning, legislation and regulatory requirements. Accordingly, the Council may, during the Contract Term, introduce enhancements to service delivery, including: trauma-informed approaches; psychologically informed environments (PIE); revised support interventions; enhanced partnership-working arrangements; improved outcomes frameworks; and revised reporting and performance management requirements. Any such enhancements shall be implemented in accordance with the Contract variation provisions and shall not alter the overall nature of the Contract. The successful Provider shall be expected to demonstrate flexibility and resilience in adapting service delivery to ensure services remain effective, compliant and responsive to the needs of young people. Award Approval Award of the Contract will be subject to Cabinet approval and confirmation that the preferred Tender provides an affordable, sustainable, deliverable and value for money solution. The Council's objective is to secure improved outcomes for looked after and care experienced young people through the provision of high-quality supported accommodation that represents long-term value for money when compared with current arrangements. Tenders will be evaluated solely in accordance with the published procurement documents, award criteria and the maximum permitted price. The Council reserves the right not to award a Contract where: no Tender meets the Council's minimum requirements; all Tenders exceed the maximum permitted price; the Council is unable to obtain the necessary approvals; the procurement no longer represents an affordable or deliverable solution; or the procurement is discontinued in accordance with the Procurement Act 2023. The Council reserves the right to abandon or discontinue the procurement process at any stage and shall not be liable for any costs incurred by Tenderers in participating in the procurement.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110336-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD36",
+        "cpv": "85311000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110220-2026",
+        "title": "Restrictive Physical Intervention and Positive Behaviour Support Training",
+        "authority": "Nottingham City Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110220-2026",
+        "published": "2026-11-20",
+        "deadline": "2026-12-21",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Training provider to deliver Restrictive Physical Intervention and Positive Behaviour Support training. To provide high-quality, fit-for-purpose training for Nottingham City Council Children’s Integrated Services (CIS) colleagues in de-escalation, conflict diffusion, restrictive physical intervention, disengagement, and positive behaviour support techniques. The training must be tailored to the specific needs of each service setting and equip colleagues with the knowledge and skills required to promote the safety, wellbeing, and positive outcomes of children and young people, while ensuring the safety of colleagues.",
+        "tenderSummary": "Training provider to deliver Restrictive Physical Intervention and Positive Behaviour Support training. To provide high-quality, fit-for-purpose training for Nottingham City Council Children’s Integrated Services (CIS) colleagues in de-escalation, conflict diffusion, restrictive physical intervention, disengagement, and positive behaviour support techniques. The training must be tailored to the specific needs of each service setting and equip colleagues with the knowledge and skills required to promote the safety, wellbeing, and positive outcomes of children and young people, while ensuring the safety of colleagues.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110220-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85311300, 85311200, 80521000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110211-2026",
+        "title": "Restrictive Physical Intervention and Positive Behaviour Support Training",
+        "authority": "Nottingham City Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110211-2026",
+        "published": "2026-11-20",
+        "deadline": "2026-12-21",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Training provider to deliver Restrictive Physical Intervention and Positive Behaviour Support training. To provide high-quality, fit-for-purpose training for Nottingham City Council Children’s Integrated Services (CIS) colleagues in de-escalation, conflict diffusion, restrictive physical intervention, disengagement, and positive behaviour support techniques. The training must be tailored to the specific needs of each service setting and equip colleagues with the knowledge and skills required to promote the safety, wellbeing, and positive outcomes of children and young people, while ensuring the safety of colleagues.",
+        "tenderSummary": "Training provider to deliver Restrictive Physical Intervention and Positive Behaviour Support training. To provide high-quality, fit-for-purpose training for Nottingham City Council Children’s Integrated Services (CIS) colleagues in de-escalation, conflict diffusion, restrictive physical intervention, disengagement, and positive behaviour support techniques. The training must be tailored to the specific needs of each service setting and equip colleagues with the knowledge and skills required to promote the safety, wellbeing, and positive outcomes of children and young people, while ensuring the safety of colleagues.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110211-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85311300, 85311200, 80521000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110206-2026",
+        "title": "Restrictive Physical Intervention and Positive Behaviour Support Training",
+        "authority": "Nottingham City Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110206-2026",
+        "published": "2026-11-20",
+        "deadline": "2026-12-21",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Training provider to deliver Restrictive Physical Intervention and Positive Behaviour Support training. To provide high-quality, fit-for-purpose training for Nottingham City Council Children’s Integrated Services (CIS) colleagues in de-escalation, conflict diffusion, restrictive physical intervention, disengagement, and positive behaviour support techniques. The training must be tailored to the specific needs of each service setting and equip colleagues with the knowledge and skills required to promote the safety, wellbeing, and positive outcomes of children and young people, while ensuring the safety of colleagues.",
+        "tenderSummary": "Training provider to deliver Restrictive Physical Intervention and Positive Behaviour Support training. To provide high-quality, fit-for-purpose training for Nottingham City Council Children’s Integrated Services (CIS) colleagues in de-escalation, conflict diffusion, restrictive physical intervention, disengagement, and positive behaviour support techniques. The training must be tailored to the specific needs of each service setting and equip colleagues with the knowledge and skills required to promote the safety, wellbeing, and positive outcomes of children and young people, while ensuring the safety of colleagues.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110206-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85311300, 85311200, 80521000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110170-2026",
+        "title": "MCA Fire Risk Assessments and Fire Risk Strategy Project",
+        "authority": "Maritime and Coastguard Agency",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "110170-2026",
+        "published": "2026-11-20",
+        "deadline": "2026-12-21",
+        "value": 1000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Requirement is for a nationwide programme of fire risk assessments and fire safety strategies across the estate, which includes main HQ offices, regional offices and small garage buildings.",
+        "tenderSummary": "Requirement is for a nationwide programme of fire risk assessments and fire safety strategies across the estate, which includes main HQ offices, regional offices and small garage buildings.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110170-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "71315210",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110419-2026",
+        "title": "National Early Inflammatory Autoimmune Diseases Audit",
+        "authority": "Healthcare Quality Improvement Partnership Ltd",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110419-2026",
+        "published": "2026-11-23",
+        "deadline": "2026-12-23",
+        "value": 8055953,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "PLEASE NOTE, THIS IS A NEW TENDER OPPORTUNITY RELATED TO A TERMINATED TENDER REF: 2026/S 000-092791 THE CORE REQUIREMENTS OF THE SPECIFICATION REMAIN AS ORIGINALLY PUBLISHED AND THE ONLY AMENDMENTS ARE TO THE FUNDING ENVELOPE. The contract is expected to initially be delivered for NHS-funded care in England and Wales, and publicly funded care in Jersey for a period of three years, at a maximum total budget of up to £1,116,421.20 GBP including VAT and £930,376.00 GBP excluding VAT. Bids exceeding this limit will be rejected. There is potential to extend the contract for up to two additional years as well as the option to include other Devolved Nations and/or Crown Dependencies, aspirational measures and discretionary inflationary uplifts (all of which will be defined in the service specification). The maximum budget ‘core’ value of £1,116,421.20 GBP including VAT and £930,376.00 GBP excluding VAT, excludes the potential two-year extension and aspirational intent as included in section 14.4 of Annex A - Service Specification The contract may be extended for up to 24 months at a pro rata value of the core three- year funding, estimated at up to £620,251.00 excluding VAT. This proposed extension value may also include pro rata funding of any additional aspirational measures invoked in the first three years of the contract. For example: If an aspirational annual requirement costing £500,000 per year is invoked in year three, then the extension funding (if the aspirational measure is continued) will be the above figures plus the additional £500,000 per year. Further to this funding, the specification contains a list of aspirational measures which will be expected to be modified into the contract should the need and funding become available. The aspirational intent value, including the potential two- year extension and core 3 year value means an overall ceiling value for this contract of up to £8,055,953.00 excluding VAT and £9,667,144.00 including VAT. This aspirational intent has the potential to be invoked fully, partially, or not at all, and the Authority cannot guarantee that the successful supplier will be required to do any of the aspirational measures listed in section 14.4 of Annex A - Service Specification The role of a national clinical audit is to stimulate healthcare quality improvement through the provision of high-quality information on the organisation, delivery and outcomes of healthcare, together with tools and support to enable healthcare providers and other audiences to make best use of this information. Outcomes are benchmarked against available national guidance and standards e.g. quality standards from the National Institute for Health and Care Excellence (NICE), and those from other established professional and patient sources. Successful national audits are those where the individuals who are engaging with and using the audit results are also in a position to improve the system, and where there is a shared understanding of what good care looks like. National clinical audits are expected to: a.Develop a robust, high-quality audit designed around key quality metrics likely to best support local and national healthcare quality improvement. b.Detect, describe and help reduce unwarranted clinical variation by systematically benchmarking performance, identifying outliers, and supporting services to understand variation in outcomes, processes and experience. c.Achieve, articulate and maintain close alignment with relevant NICE national guidance and quality standards throughout the audit, as appropriate. d.Enable healthcare quality improvement through the provision of timely, high-quality data that compares providers of healthcare, and comprises an integrated mixture of named Trust or Health board, Integrated Care System (ICS), commissioner, multidisciplinary team (MDT), possibly consultant or clinical team level and other levels of reporting. e.Engage patients, carers and the public in a meaningful way, achieving a strong patient voice which informs and contributes to the design, functioning, outputs and direction of the audit. f.Consider the value and feasibility of linking data at an individual patient level to other relevant national datasets either from the outset or in the future and plan for these linkages from the inception of the contract. g.Ensure robust methodological and statistical input at all stages of the audit. h.Identify from the outset the full range of audiences for the reports and other audit outputs and plan and tailor them accordingly. i.Provide audit results in a timely, accessible and meaningful manner to support healthcare quality improvement, minimising the reporting delay and providing continual access to each unit for their own data. j.Utilise strong and effective project and programme management to deliver audit outputs on time and within budget. k.Develop and maintain strong engagement with local clinicians, networks, commissioners, patients and their families and carers and charity and community support groups to drive improvements in services. l.Deliver high-quality audit outputs, benchmarking and quality improvement as a priority. At the time of writing the specification, requirements include (but please also refer to the potential future aspirational intent section): 1. Audit Purpose The overall ambition of the audit is to continue to capture and report data on the performance of individual healthcare providers against the National Institute for Health and Care Excellence (NICE) Quality Standard QS33: Rheumatoid Arthritis in Adults, Quality standard QS214: Rare diseases, and other relevant national standards and guidance, (see Appendix 1). 2. Paediatric Inflammatory Arthritis Pathway The supplier should work with the wider Dataset and Methodology Stakeholder Group to develop, maintain and report against a minimum viable paediatric inflammatory arthritis pathway. The initial focus should be on establishing a clinically meaningful dataset and reporting framework sufficient to describe the patient pathway and support audit activity. Initial measures should focus on a limited number of priority areas agreed with funders and stakeholders, for example referral, diagnosis and treatment timelines. The updated GIRFT Paediatric Inflammatory Arthritis Pathway guidance, anticipated for publication in January 2027, should be considered a key reference for the future development of the dataset, measures and reporting framework. The supplier should work with the wider Dataset and Methodology Stakeholder Group to review and align the dataset, metrics and reporting outputs with the recommendations and standards set out within the GIRFT guidance, ensuring ongoing relevance and consistency with national best practice. Any expansion beyond the core pathway, including additional metrics, PROMs/PREMs, transition measures and broader pathway development, should be considered future aspirational intent subject to feasibility, resources and further funding. 3. Data Collection and Audit Design The supplier should continue to deliver a continuous prospective clinical audit and work with the Dataset and Methodology Group to ensure the audit dataset remains clinically relevant and proportionate. The supplier is expected to collaborate with specialist disease-specific clinical groups to support interpretation of findings and improve case ascertainment and recruitment rates. 4. Organisational Survey and Quality Improvement The supplier should review and maintain the organisational survey to ensure it remains proportionate and aligned with audit objectives. Priority should be given to maximising analysis and utilisation of existing data rather than increasing data collection burden in collaboration with the wider Dataset and Methodology Stakeholder Group. The organisational survey should support the audit's quality improvement objectives by enabling a deeper understanding of service delivery, workforce capacity, variation in practice and barriers to high-quality care. 5. Benchmarking and Improvement The audit is expected to support continuous improvement across all services. While identifying high-performing and outlier services remains important, the audit should also support improvement among services performing at or around the national average, where the greatest overall gains may be achieved. Benchmarking should encourage year-on-year improvement within individual services and provide meaningful insights that motivate all providers to improve, regardless of their current position relative to national performance. 6. Targeted improvement support The supplier should provide targeted quality improvement support following each annual audit cycle. Activities should build on existing professional networks, collaboratives and stakeholder infrastructure wherever possible rather than creating wholly new arrangements. Improvement support should be designed to benefit healthcare providers across the performance spectrum, including those performing at a middle level where the greatest overall gains may be achieved, while also supporting services experiencing significant challenges or demonstrating exceptional practice. Learning generated through quality improvement activities should be shared with all participating healthcare providers to maximise the impact of the audit programme. The anticipated outputs are: 1.Near real-time dynamic and interactive metric results. 2.Publication of an annual state of the nation report with the inclusion of an organisational survey. 3.Incorporation of validated Patient Reported Outcome Measures. 4.Quality improvement resources. 5.The identification and notification of outliers. For further information on the current audit, currently delivered by the British Society for Rheumatology (BSR) please head to: https://www.rheumatology.org.uk/improving-care/audits/neiaa For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-London:-Health-services./7J4F596ZXQ To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/7J4F596ZXQ",
+        "tenderSummary": "PLEASE NOTE, THIS IS A NEW TENDER OPPORTUNITY RELATED TO A TERMINATED TENDER REF: 2026/S 000-092791 THE CORE REQUIREMENTS OF THE SPECIFICATION REMAIN AS ORIGINALLY PUBLISHED AND THE ONLY AMENDMENTS ARE TO THE FUNDING ENVELOPE. The contract is expected to initially be delivered for NHS-funded care in England and Wales, and publicly funded care in Jersey for a period of three years, at a maximum total budget of up to £1,116,421.20 GBP including VAT and £930,376.00 GBP excluding VAT. Bids exceeding this limit will be rejected. There is potential to extend the contract for up to two additional years as well as the option to include other Devolved Nations and/or Crown Dependencies, aspirational measures and discretionary inflationary uplifts (all of which will be defined in the service specification). The maximum budget ‘core’ value of £1,116,421.20 GBP including VAT and £930,376.00 GBP excluding VAT, excludes the potential two-year extension and aspirational intent as included in section 14.4 of Annex A - Service Specification The contract may be extended for up to 24 months at a pro rata value of the core three- year funding, estimated at up to £620,251.00 excluding VAT. This proposed extension value may also include pro rata funding of any additional aspirational measures invoked in the first three years of the contract. For example: If an aspirational annual requirement costing £500,000 per year is invoked in year three, then the extension funding (if the aspirational measure is continued) will be the above figures plus the additional £500,000 per year. Further to this funding, the specification contains a list of aspirational measures which will be expected to be modified into the contract should the need and funding become available. The aspirational intent value, including the potential two- year extension and core 3 year value means an overall ceiling value for this contract of up to £8,055,953.00 excluding VAT and £9,667,144.00 including VAT. This aspirational intent has the potential to be invoked fully, partially, or not at all, and the Authority cannot guarantee that the successful supplier will be required to do any of the aspirational measures listed in section 14.4 of Annex A - Service Specification The role of a national clinical audit is to stimulate healthcare quality improvement through the provision of high-quality information on the organisation, delivery and outcomes of healthcare, together with tools and support to enable healthcare providers and other audiences to make best use of this information. Outcomes are benchmarked against available national guidance and standards e.g. quality standards from the National Institute for Health and Care Excellence (NICE), and those from other established professional and patient sources. Successful national audits are those where the individuals who are engaging with and using the audit results are also in a position to improve the system, and where there is a shared understanding of what good care looks like. National clinical audits are expected to: a.Develop a robust, high-quality audit designed around key quality metrics likely to best support local and national healthcare quality improvement. b.Detect, describe and help reduce unwarranted clinical variation by systematically benchmarking performance, identifying outliers, and supporting services to understand variation in outcomes, processes and experience. c.Achieve, articulate and maintain close alignment with relevant NICE national guidance and quality standards throughout the audit, as appropriate. d.Enable healthcare quality improvement through the provision of timely, high-quality data that compares providers of healthcare, and comprises an integrated mixture of named Trust or Health board, Integrated Care System (ICS), commissioner, multidisciplinary team (MDT), possibly consultant or clinical team level and other levels of reporting. e.Engage patients, carers and the public in a meaningful way, achieving a strong patient voice which informs and contributes to the design, functioning, outputs and direction of the audit. f.Consider the value and feasibility of linking data at an individual patient level to other relevant national datasets either from the outset or in the future and plan for these linkages from the inception of the contract. g.Ensure robust methodological and statistical input at all stages of the audit. h.Identify from the outset the full range of audiences for the reports and other audit outputs and plan and tailor them accordingly. i.Provide audit results in a timely, accessible and meaningful manner to support healthcare quality improvement, minimising the reporting delay and providing continual access to each unit for their own data. j.Utilise strong and effective project and programme management to deliver audit outputs on time and within budget. k.Develop and maintain strong engagement with local clinicians, networks, commissioners, patients and their families and carers and charity and community support groups to drive improvements in services. l.Deliver high-quality audit outputs, benchmarking and quality improvement as a priority. At the time of writing the specification, requirements include (but please also refer to the potential future aspirational intent section): 1. Audit Purpose The overall ambition of the audit is to continue to capture and report data on the performance of individual healthcare providers against the National Institute for Health and Care Excellence (NICE) Quality Standard QS33: Rheumatoid Arthritis in Adults, Quality standard QS214: Rare diseases, and other relevant national standards and guidance, (see Appendix 1). 2. Paediatric Inflammatory Arthritis Pathway The supplier should work with the wider Dataset and Methodology Stakeholder Group to develop, maintain and report against a minimum viable paediatric inflammatory arthritis pathway. The initial focus should be on establishing a clinically meaningful dataset and reporting framework sufficient to describe the patient pathway and support audit activity. Initial measures should focus on a limited number of priority areas agreed with funders and stakeholders, for example referral, diagnosis and treatment timelines. The updated GIRFT Paediatric Inflammatory Arthritis Pathway guidance, anticipated for publication in January 2027, should be considered a key reference for the future development of the dataset, measures and reporting framework. The supplier should work with the wider Dataset and Methodology Stakeholder Group to review and align the dataset, metrics and reporting outputs with the recommendations and standards set out within the GIRFT guidance, ensuring ongoing relevance and consistency with national best practice. Any expansion beyond the core pathway, including additional metrics, PROMs/PREMs, transition measures and broader pathway development, should be considered future aspirational intent subject to feasibility, resources and further funding. 3. Data Collection and Audit Design The supplier should continue to deliver a continuous prospective clinical audit and work with the Dataset and Methodology Group to ensure the audit dataset remains clinically relevant and proportionate. The supplier is expected to collaborate with specialist disease-specific clinical groups to support interpretation of findings and improve case ascertainment and recruitment rates. 4. Organisational Survey and Quality Improvement The supplier should review and maintain the organisational survey to ensure it remains proportionate and aligned with audit objectives. Priority should be given to maximising analysis and utilisation of existing data rather than increasing data collection burden in collaboration with the wider Dataset and Methodology Stakeholder Group. The organisational survey should support the audit's quality improvement objectives by enabling a deeper understanding of service delivery, workforce capacity, variation in practice and barriers to high-quality care. 5. Benchmarking and Improvement The audit is expected to support continuous improvement across all services. While identifying high-performing and outlier services remains important, the audit should also support improvement among services performing at or around the national average, where the greatest overall gains may be achieved. Benchmarking should encourage year-on-year improvement within individual services and provide meaningful insights that motivate all providers to improve, regardless of their current position relative to national performance. 6. Targeted improvement support The supplier should provide targeted quality improvement support following each annual audit cycle. Activities should build on existing professional networks, collaboratives and stakeholder infrastructure wherever possible rather than creating wholly new arrangements. Improvement support should be designed to benefit healthcare providers across the performance spectrum, including those performing at a middle level where the greatest overall gains may be achieved, while also supporting services experiencing significant challenges or demonstrating exceptional practice. Learning generated through quality improvement activities should be shared with all participating healthcare providers to maximise the impact of the audit programme. The anticipated outputs are: 1.Near real-time dynamic and interactive metric results. 2.Publication of an annual state of the nation report with the inclusion of an organisational survey. 3.Incorporation of validated Patient Reported Outcome Measures. 4.Quality improvement resources. 5.The identification and notification of outliers. For further information on the current audit, currently delivered by the British Society for Rheumatology (BSR) please head to: https://www.rheumatology.org.uk/improving-care/audits/neiaa For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-London:-Health-services./7J4F596ZXQ To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/7J4F596ZXQ",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-26197",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "85100000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
         "demo": false
       },
       {
@@ -9369,6 +10016,87 @@
         "addedBuild": "2026-11-13T16:19:29.894Z-80b65e31-8546-421c-a414-831020aa512e",
         "demo": false,
         "updatedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498"
+      },
+      {
+        "id": "fts-110646-2026",
+        "title": "Open Framework for Prevention Accommodation and Housing Support Services",
+        "authority": "Rochdale Borough Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110646-2026",
+        "published": "2026-11-23",
+        "deadline": "2027-01-05",
+        "value": 5310000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Rochdale Borough Council, acting on behalf of itself and its partners, is seeking to establish an Open Framework for Prevention Accommodation and Housing Support Services aimed at preventing homelessness, promoting independence and improving housing outcomes for vulnerable residents. The Framework will provide a range of accommodation-based and housing-related support services for children, young people, young parents, women and adults with varying support needs. Services will include supported accommodation, housing-related support, outreach provision, tenancy sustainment, homelessness prevention interventions and planned move-on support into independent living. The procurement is divided into four Lots. Successful providers will be required to deliver flexible, person-centred, strengths-based services that support individuals to access and maintain safe and suitable accommodation, develop independent living skills and achieve sustainable housing outcomes. Lots 1, 2 and 4 require providers to supply and manage suitable accommodation alongside support services. Lot 3 requires providers to secure and sustain access to suitable accommodation, including private rented sector and supportive living arrangements, supported by effective tenancy sustainment and bond guarantee arrangements. The estimated total value of the Framework is £5,310,000 over the Framework term. Providers may apply for one or more Lots and may be appointed to multiple Lots. Services will be commissioned on an outcomes-focused basis, with performance measures linked to homelessness prevention, tenancy sustainment, move-on outcomes and service user wellbeing.",
+        "tenderSummary": "Rochdale Borough Council, acting on behalf of itself and its partners, is seeking to establish an Open Framework for Prevention Accommodation and Housing Support Services aimed at preventing homelessness, promoting independence and improving housing outcomes for vulnerable residents. The Framework will provide a range of accommodation-based and housing-related support services for children, young people, young parents, women and adults with varying support needs. Services will include supported accommodation, housing-related support, outreach provision, tenancy sustainment, homelessness prevention interventions and planned move-on support into independent living. The procurement is divided into four Lots. Successful providers will be required to deliver flexible, person-centred, strengths-based services that support individuals to access and maintain safe and suitable accommodation, develop independent living skills and achieve sustainable housing outcomes. Lots 1, 2 and 4 require providers to supply and manage suitable accommodation alongside support services. Lot 3 requires providers to secure and sustain access to suitable accommodation, including private rented sector and supportive living arrangements, supported by effective tenancy sustainment and bond guarantee arrangements. The estimated total value of the Framework is £5,310,000 over the Framework term. Providers may apply for one or more Lots and may be appointed to multiple Lots. Services will be commissioned on an outcomes-focused basis, with performance measures linked to homelessness prevention, tenancy sustainment, move-on outcomes and service user wellbeing.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110646-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "85311000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110639-2026",
+        "title": "Apprenticeship Training Providers",
+        "authority": "Trafford Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110639-2026",
+        "published": "2026-11-23",
+        "deadline": "2027-01-05",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Trafford Council is seeking to appoint apprenticeship training providers across a number of lots to deliver apprenticeship programmes for Trafford Council employees and employees of Trafford schools. The lots cover Digital and Data, Social Care, Management & Leadership Apprenticeships and Social Work and Teaching and Schools apprenticeship provision. The Council anticipates significant apprenticeship levy expenditure in these areas over the coming years due to forecast learner volumes and the value of the apprenticeship standards required. The contract will enable access to high-quality apprenticeship training and support workforce development objectives across the Council and Trafford schools.",
+        "tenderSummary": "Trafford Council is seeking to appoint apprenticeship training providers across a number of lots to deliver apprenticeship programmes for Trafford Council employees and employees of Trafford schools. The lots cover Digital and Data, Social Care, Management & Leadership Apprenticeships and Social Work and Teaching and Schools apprenticeship provision. The Council anticipates significant apprenticeship levy expenditure in these areas over the coming years due to forecast learner volumes and the value of the apprenticeship standards required. The contract will enable access to high-quality apprenticeship training and support workforce development objectives across the Council and Trafford schools.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110639-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD3",
+        "cpv": "80530000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000"
+        ],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
       },
       {
         "id": "fts-106845-2026",
@@ -9572,6 +10300,45 @@
         "demo": false
       },
       {
+        "id": "fts-110730-2026",
+        "title": "Education Software",
+        "authority": "Milton Keynes City Council",
+        "category": "Manual handling",
+        "source": "FTS",
+        "noticeId": "110730-2026",
+        "published": "2026-11-23",
+        "deadline": "2027-01-08",
+        "value": 1018000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Milton Keynes City Council are currently out to tender for the provision of Education Software. Milton Keynes City Council requires an integrated, secure, accessible, scalable and cloud-hosted education software solution to support statutory and operational delivery across eight service areas: • Admissions • Children Missing Education (CME) • Early Years Education Outcomes • Early Years Payments • SEND • Setting and School Inclusion • Sensory Services • School Travel Support The solution must provide joined up, appropriately controlled records and workflows while protecting sensitive child, family, education, health, and financial information. The Council is seeking a coherent solution that reduces duplicate entry and avoidable manual handling, supports statutory timescales and returns, improves secure communication with families and partner organisations, and provides reliable operational and management information. Suppliers may propose improved workflows where statutory compliance, service outcomes, data integrity, auditability, accessibility and continuity are preserved. Deadline for submissions for this tender will be 12 Noon 8th January 2027.",
+        "tenderSummary": "Milton Keynes City Council are currently out to tender for the provision of Education Software. Milton Keynes City Council requires an integrated, secure, accessible, scalable and cloud-hosted education software solution to support statutory and operational delivery across eight service areas: • Admissions • Children Missing Education (CME) • Early Years Education Outcomes • Early Years Payments • SEND • Setting and School Inclusion • Sensory Services • School Travel Support The solution must provide joined up, appropriately controlled records and workflows while protecting sensitive child, family, education, health, and financial information. The Council is seeking a coherent solution that reduces duplicate entry and avoidable manual handling, supports statutory timescales and returns, improves secure communication with families and partner organisations, and provides reliable operational and management information. Suppliers may propose improved workflows where statutory compliance, service outcomes, data integrity, auditability, accessibility and continuity are preserved. Deadline for submissions for this tender will be 12 Noon 8th January 2027.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://in-tendhost.co.uk/milton-keynes/aspx/Home",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "48000000, 48100000, 48190000, 72212190, 75121000",
+        "matchedKeywords": [
+          "manual handling"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
         "id": "fts-102062-2026",
         "title": "Passive Fire Safety Remedial works",
         "authority": "Southern Housing",
@@ -9729,7 +10496,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "fts-109718-2026",
@@ -9769,7 +10537,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "fts-105654-2026",
@@ -9849,6 +10618,84 @@
         "addedBuild": "2026-11-18T17:14:09.766Z-0c1fc3e2-c3ad-490c-a29d-4bb038d138f8",
         "demo": false,
         "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
+      },
+      {
+        "id": "fts-110344-2026",
+        "title": "Glasshouse Fields Estate – External Fire Safety Improvement Scheme",
+        "authority": "Newlon Housing Trust",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "110344-2026",
+        "published": "2026-11-20",
+        "deadline": "2027-01-15",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "NHT are working with Martin Arnold Limited, acting as NHT’s consultants, who have designed the works to allow for the external facades of all properties associated with this project to be brought up to standards required by the Building Safety Act and Building Regulations. The primary reason for the works is to address the defects identified by the FRAEW report. These defects are: •Fire stopping around vent and duct penetrations within the masonry, rendered EWI and curtain wall façades. •Provide cavity barriers to the top of the walls at the parapet level of the masonry and rendered façades. •Remediate the curtain walls on compartment wall lines to remove combustible insulation and reinstate cavity barriers behind the panels. In order to address the defects, all external facades will need to be stripped back in localised areas, a new sheathing board fitted, new fire cavity barriers fitted, new insulation fitted and the external leaf of the façade reinstated, including all enabling and other associated works in achieving this. This statement is intended as a simply description of the works, please refer to the specification for a full description of the works For more information about this opportunity, please visit the eSourcing portal at: https://newlon.delta-esourcing.com/tenders/UK-UK-London:-Fire-prevention-installation-works./6246UR742T To respond to this opportunity, please click here: https://newlon.delta-esourcing.com/respond/6246UR742T",
+        "tenderSummary": "NHT are working with Martin Arnold Limited, acting as NHT’s consultants, who have designed the works to allow for the external facades of all properties associated with this project to be brought up to standards required by the Building Safety Act and Building Regulations. The primary reason for the works is to address the defects identified by the FRAEW report. These defects are: •Fire stopping around vent and duct penetrations within the masonry, rendered EWI and curtain wall façades. •Provide cavity barriers to the top of the walls at the parapet level of the masonry and rendered façades. •Remediate the curtain walls on compartment wall lines to remove combustible insulation and reinstate cavity barriers behind the panels. In order to address the defects, all external facades will need to be stripped back in localised areas, a new sheathing board fitted, new fire cavity barriers fitted, new insulation fitted and the external leaf of the façade reinstated, including all enabling and other associated works in achieving this. This statement is intended as a simply description of the works, please refer to the specification for a full description of the works For more information about this opportunity, please visit the eSourcing portal at: https://newlon.delta-esourcing.com/tenders/UK-UK-London:-Fire-prevention-installation-works./6246UR742T To respond to this opportunity, please click here: https://newlon.delta-esourcing.com/respond/6246UR742T",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110344-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "45320000, 45343000, 51700000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "fts-110098-2026",
+        "title": "Support for Victims of Technology-Facilitated Violence Against Women and Girls (TFVAWG)",
+        "authority": "The Mayor's Office for Policing and Crime (MOPAC)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "110098-2026",
+        "published": "2026-11-20",
+        "deadline": "2027-01-15",
+        "value": 8000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "MOPAC is seeking to commission a pan-London service that strengthens the response to technology-facilitated violence against women and girls (TFVAWG). The service will be required to: - Provide specialist support to victims and survivors of TFVAWG where such support is not otherwise available, ensuring interventions are tailored to the differing risks and needs experienced across different life stages. - Build the capability of professionals, trusted adults and families to identify, prevent and respond effectively to TFVAWG through specialist advice, consultation, guidance, workforce development and practical resources. - Ensure that London's response to TFVAWG remains responsive to rapidly evolving technologies and emerging forms of abuse. - Generate evidence, insight and learning to support continuous improvement in policy, practice and service delivery, including evaluation and dissemination of best practice. The initial contract term is 3 years with a potential contract value of £6,000,000 plus a potential one year extension with a value of £2,000,000. This would total 4 years (2027-2031) at £8,000,000 ex VAT. To view to this opportunity, please click here: https://www.delta-esourcing.com/respond/JC9A5J3Q62 For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-London:-Health-and-social-work-services./JC9A5J3Q62 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/JC9A5J3Q62",
+        "tenderSummary": "MOPAC is seeking to commission a pan-London service that strengthens the response to technology-facilitated violence against women and girls (TFVAWG). The service will be required to: - Provide specialist support to victims and survivors of TFVAWG where such support is not otherwise available, ensuring interventions are tailored to the differing risks and needs experienced across different life stages. - Build the capability of professionals, trusted adults and families to identify, prevent and respond effectively to TFVAWG through specialist advice, consultation, guidance, workforce development and practical resources. - Ensure that London's response to TFVAWG remains responsive to rapidly evolving technologies and emerging forms of abuse. - Generate evidence, insight and learning to support continuous improvement in policy, practice and service delivery, including evaluation and dissemination of best practice. The initial contract term is 3 years with a potential contract value of £6,000,000 plus a potential one year extension with a value of £2,000,000. This would total 4 years (2027-2031) at £8,000,000 ex VAT. To view to this opportunity, please click here: https://www.delta-esourcing.com/respond/JC9A5J3Q62 For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-London:-Health-and-social-work-services./JC9A5J3Q62 To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/JC9A5J3Q62",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110098-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85000000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
       },
       {
         "id": "fts-104440-2026",
@@ -9965,7 +10812,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
       },
       {
         "id": "fts-107124-2026",
@@ -10044,6 +10892,46 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1",
+        "demo": false,
+        "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
+      },
+      {
+        "id": "fts-110017-2026",
+        "title": "St Matthew's Primary School _ Luton",
+        "authority": "St Matthew's Primary School",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "110017-2026",
+        "published": "2026-11-20",
+        "deadline": "2027-02-26",
+        "value": 990000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "St Matthew’s Primary School is seeking an experienced, innovative, and customer-focused catering partner to deliver high-quality school meal services for our pupils and staff. Located in the heart of Luton’s historic Old Town, St Matthew’s is a large and vibrant primary school with a diverse school community. We are committed to providing nutritious, enjoyable, and well-presented meals that support the health, wellbeing, and educational success of our pupils. We are inviting expressions of interest from catering providers who can demonstrate: • A strong track record of delivering successful school catering services. • Commitment to providing fresh, nutritious, and balanced meals that meet or exceed School Food Standards. • Innovative menu development that reflects the diversity of our school community and promotes healthy eating. • Excellent customer service and engagement with pupils, staff, parents, and school leadership. • Effective management of kitchen operations, staffing, food safety, and compliance requirements. • Initiatives to increase meal uptake, particularly for Universal and Free School Meals. • A commitment to sustainability, waste reduction, and responsible sourcing. The successful contractor will work in partnership with the school to create a positive dining experience, encourage healthy lifestyle choices, and support the wider educational objectives of the school. Suppliers interested in this opportunity will be expected to demonstrate financial stability, relevant experience within the education sector, robust safeguarding practices, and the capability to deliver a high-quality catering service throughout the contract term. St Matthew’s Primary School looks forward to engaging with suppliers who share our vision of delivering exceptional food and service to our school community.",
+        "tenderSummary": "St Matthew’s Primary School is seeking an experienced, innovative, and customer-focused catering partner to deliver high-quality school meal services for our pupils and staff. Located in the heart of Luton’s historic Old Town, St Matthew’s is a large and vibrant primary school with a diverse school community. We are committed to providing nutritious, enjoyable, and well-presented meals that support the health, wellbeing, and educational success of our pupils. We are inviting expressions of interest from catering providers who can demonstrate: • A strong track record of delivering successful school catering services. • Commitment to providing fresh, nutritious, and balanced meals that meet or exceed School Food Standards. • Innovative menu development that reflects the diversity of our school community and promotes healthy eating. • Excellent customer service and engagement with pupils, staff, parents, and school leadership. • Effective management of kitchen operations, staffing, food safety, and compliance requirements. • Initiatives to increase meal uptake, particularly for Universal and Free School Meals. • A commitment to sustainability, waste reduction, and responsible sourcing. The successful contractor will work in partnership with the school to create a positive dining experience, encourage healthy lifestyle choices, and support the wider educational objectives of the school. Suppliers interested in this opportunity will be expected to demonstrate financial stability, relevant experience within the education sector, robust safeguarding practices, and the capability to deliver a high-quality catering service throughout the contract term. St Matthew’s Primary School looks forward to engaging with suppliers who share our vision of delivering exceptional food and service to our school community.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/110017-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "15894210",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
         "demo": false
       },
       {
@@ -10086,44 +10974,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-20T16:56:24.204Z"
+    "lastPartialUpdate": "2026-11-23T20:11:41.256Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1",
-    "attemptedAt": "2026-11-20T16:56:24.204Z",
-    "ok": false,
-    "status": "degraded",
-    "degraded": true,
-    "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
-    "retrievedCount": 5,
-    "totalCount": 249,
-    "sourceFailures": [
-      "FTS: FTS: request failed after retries"
-    ],
+    "attemptId": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+    "attemptedAt": "2026-11-23T20:11:41.256Z",
+    "ok": true,
+    "status": "healthy",
+    "degraded": false,
+    "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
+    "retrievedCount": 37,
+    "totalCount": 271,
+    "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-19T17:21:31.448Z",
-        "lastSuccessfulUpdate": "2026-11-19T17:21:31.448Z",
-        "lastAttemptAt": "2026-11-20T16:56:24.204Z",
-        "ok": false,
-        "error": "FTS: request failed after retries",
-        "retryNotBefore": null,
-        "interval": {
-          "from": "2026-11-18T17:21:31.448Z",
-          "to": "2026-11-20T16:56:24.204Z"
-        }
-      },
-      "Contracts Finder": {
-        "watermark": "2026-11-20T16:56:24.204Z",
-        "lastSuccessfulUpdate": "2026-11-20T16:56:24.204Z",
-        "lastAttemptAt": "2026-11-20T16:56:24.204Z",
+        "watermark": "2026-11-23T20:11:41.256Z",
+        "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
+        "lastAttemptAt": "2026-11-23T20:11:41.256Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
           "from": "2026-11-18T17:21:31.448Z",
-          "to": "2026-11-20T16:56:24.204Z"
+          "to": "2026-11-23T20:11:41.256Z"
+        }
+      },
+      "Contracts Finder": {
+        "watermark": "2026-11-23T20:11:41.256Z",
+        "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
+        "lastAttemptAt": "2026-11-23T20:11:41.256Z",
+        "ok": true,
+        "error": null,
+        "retryNotBefore": null,
+        "interval": {
+          "from": "2026-11-19T16:56:24.204Z",
+          "to": "2026-11-23T20:11:41.256Z"
         }
       }
     }
