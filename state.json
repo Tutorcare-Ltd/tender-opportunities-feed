@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-23T20:11:41.256Z",
-      "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
-      "lastAttemptAt": "2026-11-23T20:11:41.256Z",
+      "watermark": "2026-11-24T19:29:23.076Z",
+      "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
+      "lastAttemptAt": "2026-11-24T19:29:23.076Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-18T17:21:31.448Z",
-        "to": "2026-11-23T20:11:41.256Z"
+        "from": "2026-11-22T20:11:41.256Z",
+        "to": "2026-11-24T19:29:23.076Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-23T20:11:41.256Z",
-      "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
-      "lastAttemptAt": "2026-11-23T20:11:41.256Z",
+      "watermark": "2026-11-24T19:29:23.076Z",
+      "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
+      "lastAttemptAt": "2026-11-24T19:29:23.076Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-19T16:56:24.204Z",
-        "to": "2026-11-23T20:11:41.256Z"
+        "from": "2026-11-22T20:11:41.256Z",
+        "to": "2026-11-24T19:29:23.076Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-    "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
+    "buildId": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f",
+    "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
     "interval": {
-      "from": "2026-11-18T17:21:31.448Z",
-      "to": "2026-11-23T20:11:41.256Z"
+      "from": "2026-11-22T20:11:41.256Z",
+      "to": "2026-11-24T19:29:23.076Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 37,
-    "totalCount": 271,
+    "retrievedCount": 13,
+    "totalCount": 274,
     "sourceFailures": [],
     "records": [
       {
@@ -6791,6 +6791,45 @@
         "updatedBuild": "2026-11-20T16:56:24.204Z-a818d254-8c78-4b72-85b6-e8b845cc9de1"
       },
       {
+        "id": "fts-110980-2026",
+        "title": "Contract for the Execution of Fire Safety Works",
+        "authority": "City & County of Swansea",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "110980-2026",
+        "published": "2026-11-24",
+        "deadline": "2026-12-04",
+        "value": 1400000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Swansea Council intends to Carry out Fire Safety Works to various properties around Swansea. Clyne Court Blocks 1, 2 & 3. Swansea. SA2 8JD. Griffith John Street Blocks 1 & 2. Swansea. SA1 2BS. Matthew Street. Swansea. SA1 1PY. Rheidol Court. Swansea. SA6 7LH. Jeffreys Court. Swansea. SA5 7EP. Gloucester House. Swansea. SA1 1RW. Conway Court Blocks 1, 2 & 3. Swansea. SA5 7BB. Maes Y Efail. Swansea. SA4 4AE. Cartersford Place. Swansea. SA3 5LH. Heol Y Wern Blocks 1 & 2. Swansea. SA4 6JE. Llanllienwen Close Blocks 1, 2, 3, 4, 5, 6, 7 & 8. Swansea. SA6 6LY. Plas Melyn. Swansea.SA5 5JQ. Waverley Close. Swansea. SA6 5LS",
+        "tenderSummary": "Swansea Council intends to Carry out Fire Safety Works to various properties around Swansea. Clyne Court Blocks 1, 2 & 3. Swansea. SA2 8JD. Griffith John Street Blocks 1 & 2. Swansea. SA1 2BS. Matthew Street. Swansea. SA1 1PY. Rheidol Court. Swansea. SA6 7LH. Jeffreys Court. Swansea. SA5 7EP. Gloucester House. Swansea. SA1 1RW. Conway Court Blocks 1, 2 & 3. Swansea. SA5 7BB. Maes Y Efail. Swansea. SA4 4AE. Cartersford Place. Swansea. SA3 5LH. Heol Y Wern Blocks 1 & 2. Swansea. SA4 6JE. Llanllienwen Close Blocks 1, 2, 3, 4, 5, 6, 7 & 8. Swansea. SA6 6LY. Plas Melyn. Swansea.SA5 5JQ. Waverley Close. Swansea. SA6 5LS",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://etenderwales.bravosolution.co.uk/",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL18",
+        "cpv": "45343100, 45343000, 45000000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f",
+        "demo": false
+      },
+      {
         "id": "fts-104917-2026",
         "title": "National Education and Training for NHS Talking Therapies for Anxiety and Depression - Core",
         "authority": "NHS England",
@@ -9411,7 +9450,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
       },
       {
         "id": "fts-110485-2026",
@@ -9450,7 +9490,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
       },
       {
         "id": "fts-110481-2026",
@@ -9489,7 +9530,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
       },
       {
         "id": "fts-110447-2026",
@@ -9528,7 +9570,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
       },
       {
         "id": "fts-110422-2026",
@@ -9567,7 +9610,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
       },
       {
         "id": "fts-105109-2026",
@@ -9730,7 +9774,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
       },
       {
         "id": "fts-110336-2026",
@@ -9937,6 +9982,46 @@
         "demo": false
       },
       {
+        "id": "fts-111254-2026",
+        "title": "London's Violence Reduction Unit - Pan London Tertiary Service",
+        "authority": "Mayor's Office For Policing And Crime",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "111254-2026",
+        "published": "2026-11-24",
+        "deadline": "2026-12-21",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "About the VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. Project Background The VRU takes a public health approach to violence reduction, recognising that prevention requires action at different stages. Primary prevention seeks to change the conditions that make violence more likely, strengthening protective factors before violence occurs. Secondary prevention responds when risk or violence is emerging, aiming to interrupt risk and prevent escalation. Tertiary prevention focuses on reducing the harm caused by violence, supporting recovery and reducing the likelihood of further violence. These approaches are complementary, forming part of a wider response to violence and exploitation. Children and young people affected by violence and exploitation can experience complex and interconnected needs, alongside significant barriers to accessing support. These may include safeguarding concerns, trauma, mental health needs, housing instability, disrupted relationships and difficulties accessing education, employment and other opportunities. Tertiary provision is therefore essential to provide tailored, coordinated support that addresses immediate safeguarding concerns, helps young people recover and improve their circumstances, and reduces the risk of further harm. The Violence and Exploitation Support Service (VESS) launched in June 2024 to provide specialist support to young people across London who have been affected by violence and exploitation. Management of the VESS contract transferred from the Mayor’s Office for Police and Crime (MOPAC) to the VRU in October 2025, with the contract due to expire in June 2027. VESS has made an important contribution to the VRU’s wider approach to tertiary provision, reinforcing the value of trusted relationships between practitioners and young people, flexible and personalised support, and a multidisciplinary approach connecting young people to specialist services, including mental health, housing, education, employment and safeguarding. This experience, alongside the VRU’s established expertise in violence reduction and wider evidence base, provides a strong foundation for the development of the new Tertiary Service. As VESS is due to end in June 2027, the VRU is commissioning a new Tertiary Service to provide specialist support to young people experiencing the highest levels of harm, vulnerability, violence and exploitation. Description of the service The London Violence Reduction Unit (VRU) will appoint a provider to deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The VRU Tertiary Service forms part of the VRU’s wider public health approach to violence reduction. It is intended to provide specialist support to young people who are already affected by, or at significant risk of, serious violence and exploitation, where intensive and coordinated, intervention is required to address their needs and reduce the risk of further harm. The Service will deliver intensive, relationship-based one-to-one support that responds to immediate safeguarding concerns and the wider factors contributing to violence, exploitation and vulnerability. Practitioners will build trusted relationships with young people who may have experienced significant trauma, have difficulty engaging with services or have developed distrust towards professionals. Support will be tailored to each young person’s circumstances, needs, risks and aspirations. This includes responding to immediate concerns while addressing longer-term factors affecting safety, stability and wellbeing. The Provider will coordinate support across multiple areas of need and help young people access relevant specialist interventions and wider services. The Provider will work collaboratively with statutory, voluntary and community sector partners to support identification and referral, coordinate interventions, address barriers to accessing support and strengthen pathways between the VRU’s wider tertiary provision and other relevant services. The Service will operate within a consistent pan-London framework, supported by strong local integration and partnerships. The Provider will understand local systems and community contexts in which young people experience violence and exploitation, while ensuring that young people can access a consistent standard of support across London. The service is expected to: - Identify, engage and support young people aged 11-25 who are experiencing the highest levels of violence, exploitation, harm and vulnerability. - Deliver intensive, relationship-based support through named practitioners who build trusted, consistent and sustained relationships with young people. - Improve young people's safety, wellbeing, stability and resilience by addressing immediate safeguarding concerns and underlying drivers of harm. - Provide tailored, needs-led interventions that respond to each young person's individual circumstances, strengths, risks, and aspirations. - Support young people to access, navigate, and engage with relevant statutory, voluntary, and community services through advocacy and system navigation. - Improve access to specialist support, including housing, education, training and employment, family support, mental health services, and other interventions relevant to need. - Strengthen multi-agency partnerships, information sharing, and coordinated responses across local systems. - Promote culturally competent, gender-responsive, and trauma-informed approaches that reflect young people's identities, experiences, and needs. - Embed lived experience, cultural competence, reflective practice and trauma-informed principles throughout service delivery. - Strengthen local safeguarding and violence reduction responses through the sharing of intelligence, learning, emerging risks and contextual safeguarding insights. - Operate as a connected pan-London service that shares effective practice, learning and intelligence across borough boundaries. - Support wider system improvement by informing more effective local and pan-London responses to violence and exploitation through learning from service delivery. Target Audience The Service is intended for London-based young people aged 11 to 25 who are most impacted by violence and exploitation. Support young people who demonstrate indicators of: - Established harm: Violence or exploitation is currently occurring or has occurred repeatedly. - Entrenched circumstances: The young person is experiencing persistent violence or exploitation that has not been effectively addressed through existing services or previous interventions. - Multiple and interconnected risks: Violence or exploitation is linked to factors such as housing instability, family circumstances, harmful peer influences, trauma, substance use, education, or involvement with the justice system. - Escalating or significant contextual risk: The young person is exposed to harm through relationships, peer networks, locations, institutions, online spaces or wider environments that require specialist intervention and coordinated support. This risk may be increasing in frequency, severity or impact. Examples of young people who may be appropriate for the Service include, but are not limited to: - Young people with missing episodes linked to violence, exploitation or criminal activity. - Young people who are being exploited into, or are actively involved with, harmful peer groups, gangs or organised criminal networks. - Young people whose risks have persisted or escalated despite previous interventions or support arrangements. - Young people demonstrating escalating patterns of offending, exploitation, vulnerability or harm. - Young people experiencing violence and exploitation alongside housing insecurity, homelessness, family breakdown, trauma, poor mental health, neurodiversity, substance use or disengagement from education, training or employment. Scope of Delivery The Provider will deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The Provider delivering the Service must demonstrate the following: - Credible and effective youth work - Advocacy and systems navigation - Safeguarding and transitional safeguarding - Multi-agency partnership working and local systems integration - Specialist intervention and needs-led support - Reflective practice, learning and service development The Provider will demonstrate experience of working with young people affected by violence and exploitation who present with high levels of risk, harm and vulnerability. The Provider will deliver a clear organisational approach to engaging and supporting this cohort. They must evidence how their approach enables them to build trust, sustain long term engagement, and achieve positive outcomes in relation to safety, wellbeing, stability and reduced vulnerability to violence and exploitation. Practitioners must demonstrate credibility, authenticity, professional curiosity and appropriate boundaries, supported by training, supervision and ongoing workforce development. The service is expected to work closely with local authorities, criminal justice system, education providers, health services, community VCS organisations, and other VRU tertiary programmes.",
+        "tenderSummary": "About the VRU The London Violence Reduction Unit (VRU), hosted within the Mayor's Office for Policing and Crime (MOPAC), pioneers a partnership-based public health approach to tackling violence rooted in prevention and early intervention. Since 2019, the VRU has invested in over 550,000 targeted interventions for young people across London. Project Background The VRU takes a public health approach to violence reduction, recognising that prevention requires action at different stages. Primary prevention seeks to change the conditions that make violence more likely, strengthening protective factors before violence occurs. Secondary prevention responds when risk or violence is emerging, aiming to interrupt risk and prevent escalation. Tertiary prevention focuses on reducing the harm caused by violence, supporting recovery and reducing the likelihood of further violence. These approaches are complementary, forming part of a wider response to violence and exploitation. Children and young people affected by violence and exploitation can experience complex and interconnected needs, alongside significant barriers to accessing support. These may include safeguarding concerns, trauma, mental health needs, housing instability, disrupted relationships and difficulties accessing education, employment and other opportunities. Tertiary provision is therefore essential to provide tailored, coordinated support that addresses immediate safeguarding concerns, helps young people recover and improve their circumstances, and reduces the risk of further harm. The Violence and Exploitation Support Service (VESS) launched in June 2024 to provide specialist support to young people across London who have been affected by violence and exploitation. Management of the VESS contract transferred from the Mayor’s Office for Police and Crime (MOPAC) to the VRU in October 2025, with the contract due to expire in June 2027. VESS has made an important contribution to the VRU’s wider approach to tertiary provision, reinforcing the value of trusted relationships between practitioners and young people, flexible and personalised support, and a multidisciplinary approach connecting young people to specialist services, including mental health, housing, education, employment and safeguarding. This experience, alongside the VRU’s established expertise in violence reduction and wider evidence base, provides a strong foundation for the development of the new Tertiary Service. As VESS is due to end in June 2027, the VRU is commissioning a new Tertiary Service to provide specialist support to young people experiencing the highest levels of harm, vulnerability, violence and exploitation. Description of the service The London Violence Reduction Unit (VRU) will appoint a provider to deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The VRU Tertiary Service forms part of the VRU’s wider public health approach to violence reduction. It is intended to provide specialist support to young people who are already affected by, or at significant risk of, serious violence and exploitation, where intensive and coordinated, intervention is required to address their needs and reduce the risk of further harm. The Service will deliver intensive, relationship-based one-to-one support that responds to immediate safeguarding concerns and the wider factors contributing to violence, exploitation and vulnerability. Practitioners will build trusted relationships with young people who may have experienced significant trauma, have difficulty engaging with services or have developed distrust towards professionals. Support will be tailored to each young person’s circumstances, needs, risks and aspirations. This includes responding to immediate concerns while addressing longer-term factors affecting safety, stability and wellbeing. The Provider will coordinate support across multiple areas of need and help young people access relevant specialist interventions and wider services. The Provider will work collaboratively with statutory, voluntary and community sector partners to support identification and referral, coordinate interventions, address barriers to accessing support and strengthen pathways between the VRU’s wider tertiary provision and other relevant services. The Service will operate within a consistent pan-London framework, supported by strong local integration and partnerships. The Provider will understand local systems and community contexts in which young people experience violence and exploitation, while ensuring that young people can access a consistent standard of support across London. The service is expected to: - Identify, engage and support young people aged 11-25 who are experiencing the highest levels of violence, exploitation, harm and vulnerability. - Deliver intensive, relationship-based support through named practitioners who build trusted, consistent and sustained relationships with young people. - Improve young people's safety, wellbeing, stability and resilience by addressing immediate safeguarding concerns and underlying drivers of harm. - Provide tailored, needs-led interventions that respond to each young person's individual circumstances, strengths, risks, and aspirations. - Support young people to access, navigate, and engage with relevant statutory, voluntary, and community services through advocacy and system navigation. - Improve access to specialist support, including housing, education, training and employment, family support, mental health services, and other interventions relevant to need. - Strengthen multi-agency partnerships, information sharing, and coordinated responses across local systems. - Promote culturally competent, gender-responsive, and trauma-informed approaches that reflect young people's identities, experiences, and needs. - Embed lived experience, cultural competence, reflective practice and trauma-informed principles throughout service delivery. - Strengthen local safeguarding and violence reduction responses through the sharing of intelligence, learning, emerging risks and contextual safeguarding insights. - Operate as a connected pan-London service that shares effective practice, learning and intelligence across borough boundaries. - Support wider system improvement by informing more effective local and pan-London responses to violence and exploitation through learning from service delivery. Target Audience The Service is intended for London-based young people aged 11 to 25 who are most impacted by violence and exploitation. Support young people who demonstrate indicators of: - Established harm: Violence or exploitation is currently occurring or has occurred repeatedly. - Entrenched circumstances: The young person is experiencing persistent violence or exploitation that has not been effectively addressed through existing services or previous interventions. - Multiple and interconnected risks: Violence or exploitation is linked to factors such as housing instability, family circumstances, harmful peer influences, trauma, substance use, education, or involvement with the justice system. - Escalating or significant contextual risk: The young person is exposed to harm through relationships, peer networks, locations, institutions, online spaces or wider environments that require specialist intervention and coordinated support. This risk may be increasing in frequency, severity or impact. Examples of young people who may be appropriate for the Service include, but are not limited to: - Young people with missing episodes linked to violence, exploitation or criminal activity. - Young people who are being exploited into, or are actively involved with, harmful peer groups, gangs or organised criminal networks. - Young people whose risks have persisted or escalated despite previous interventions or support arrangements. - Young people demonstrating escalating patterns of offending, exploitation, vulnerability or harm. - Young people experiencing violence and exploitation alongside housing insecurity, homelessness, family breakdown, trauma, poor mental health, neurodiversity, substance use or disengagement from education, training or employment. Scope of Delivery The Provider will deliver a pan-London Tertiary Service for young people aged 11–25 who are experiencing the highest levels of harm, vulnerability, violence and exploitation. The Provider delivering the Service must demonstrate the following: - Credible and effective youth work - Advocacy and systems navigation - Safeguarding and transitional safeguarding - Multi-agency partnership working and local systems integration - Specialist intervention and needs-led support - Reflective practice, learning and service development The Provider will demonstrate experience of working with young people affected by violence and exploitation who present with high levels of risk, harm and vulnerability. The Provider will deliver a clear organisational approach to engaging and supporting this cohort. They must evidence how their approach enables them to build trust, sustain long term engagement, and achieve positive outcomes in relation to safety, wellbeing, stability and reduced vulnerability to violence and exploitation. Practitioners must demonstrate credibility, authenticity, professional curiosity and appropriate boundaries, supported by training, supervision and ongoing workforce development. The service is expected to work closely with local authorities, criminal justice system, education providers, health services, community VCS organisations, and other VRU tertiary programmes.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/111254-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "85000000",
+        "matchedKeywords": [
+          "safeguarding",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f",
+        "demo": false
+      },
+      {
         "id": "fts-110419-2026",
         "title": "National Early Inflammatory Autoimmune Diseases Audit",
         "authority": "Healthcare Quality Improvement Partnership Ltd",
@@ -9973,7 +10058,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
       },
       {
         "id": "fts-107837-2026",
@@ -10054,7 +10140,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
       },
       {
         "id": "fts-110639-2026",
@@ -10096,7 +10183,8 @@
           "80500000"
         ],
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
       },
       {
         "id": "fts-106845-2026",
@@ -10336,7 +10424,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
       },
       {
         "id": "fts-102062-2026",
@@ -10698,6 +10787,45 @@
         "demo": false
       },
       {
+        "id": "fts-111282-2026",
+        "title": "Telemetry Engineering Support Services",
+        "authority": "Scottish Water",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "111282-2026",
+        "published": "2026-11-24",
+        "deadline": "2027-01-20",
+        "value": 13000000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "Scottish Water is establishing a Framework Agreement for Telemetry Engineering Support Services, covering the survey, supply, installation, commissioning, decommissioning and documentation of Remote Telemetry Units (RTUs) and associated communications equipment across Scottish Water's water and wastewater asset base, together with reactive telemetry support. Services may be required anywhere in Scotland, so Suppliers must be able to service all geographic areas.<br/><br/>The scope includes, but is not limited to:<br/><br/>- Desktop and on-site surveys of existing and future telemetry installations, including communications surveys (e.g. 4G, SOGEA, FTTP).<br/>- Procurement of RTUs and associated equipment through Scottish Water's mandatory RTU framework, and Factory Acceptance Testing (FAT) prior to delivery to site.<br/>- Supply and installation of RTU associated communications equipment in accordance with Scottish Water specifications (antennas, surge and lightning protection, cable containment, marshalling, relays, signal conditioners, Modbus PLC communications, data gatherers and inter-site comms).<br/>- Programming and end to end (source to screen) commissioning and testing of new and existing plant monitored by the telemetry top end, including hot swaps of live RTUs.<br/>- Decommissioning of RTUs and associated equipment, including safe removal, return of spares and WEEE compliant disposal.<br/>- Production of IO tag sheets, mimics, risk assessments and method statements, commissioning and FAT records, Ready to Go Live documentation and Operation and Maintenance manuals, in line with Scottish Water procedures and a Common Data Environment aligned to ISO 19650.<br/>- Training for Scottish Water Electrical and Mechanical (E&M) support staff on installed telemetry.<br/>- Additional on-site support to Scottish Water E&M teams for communications failures, reactive faults and minor enhancements, and to supplement Scottish Water maintenance teams during periods of high breakdown volumes or staff shortages.<br/><br/>Work will be delivered on assets within Scottish Water's Operational Technology environment, which is in scope of the Network and Information Systems (NIS) Regulations, in accordance with Scottish Water's Telemetry Realisation Process, telemetry procedures and Engineering Specification Section 633 - Telemetry. The Supplier will act as Principal Contractor only and must provide its own base facilities, as Scottish Water will not make premises available.<br/><br/>Call-off contracts will be awarded under the Framework by direct allocation or mini-competition. Scottish Water may appoint more than one Supplier. Appointment to the Framework does not guarantee any volume or value of work.<br/><br/>This opportunity is aimed at telemetry, SCADA, instrumentation and controls and electrical engineering contractors with proven capability in delivering telemetry installations on operational water and wastewater assets, a competent and suitably qualified workforce, and the capacity to respond across Scotland.",
+        "tenderSummary": "Scottish Water is establishing a Framework Agreement for Telemetry Engineering Support Services, covering the survey, supply, installation, commissioning, decommissioning and documentation of Remote Telemetry Units (RTUs) and associated communications equipment across Scottish Water's water and wastewater asset base, together with reactive telemetry support. Services may be required anywhere in Scotland, so Suppliers must be able to service all geographic areas.<br/><br/>The scope includes, but is not limited to:<br/><br/>- Desktop and on-site surveys of existing and future telemetry installations, including communications surveys (e.g. 4G, SOGEA, FTTP).<br/>- Procurement of RTUs and associated equipment through Scottish Water's mandatory RTU framework, and Factory Acceptance Testing (FAT) prior to delivery to site.<br/>- Supply and installation of RTU associated communications equipment in accordance with Scottish Water specifications (antennas, surge and lightning protection, cable containment, marshalling, relays, signal conditioners, Modbus PLC communications, data gatherers and inter-site comms).<br/>- Programming and end to end (source to screen) commissioning and testing of new and existing plant monitored by the telemetry top end, including hot swaps of live RTUs.<br/>- Decommissioning of RTUs and associated equipment, including safe removal, return of spares and WEEE compliant disposal.<br/>- Production of IO tag sheets, mimics, risk assessments and method statements, commissioning and FAT records, Ready to Go Live documentation and Operation and Maintenance manuals, in line with Scottish Water procedures and a Common Data Environment aligned to ISO 19650.<br/>- Training for Scottish Water Electrical and Mechanical (E&M) support staff on installed telemetry.<br/>- Additional on-site support to Scottish Water E&M teams for communications failures, reactive faults and minor enhancements, and to supplement Scottish Water maintenance teams during periods of high breakdown volumes or staff shortages.<br/><br/>Work will be delivered on assets within Scottish Water's Operational Technology environment, which is in scope of the Network and Information Systems (NIS) Regulations, in accordance with Scottish Water's Telemetry Realisation Process, telemetry procedures and Engineering Specification Section 633 - Telemetry. The Supplier will act as Principal Contractor only and must provide its own base facilities, as Scottish Water will not make premises available.<br/><br/>Call-off contracts will be awarded under the Framework by direct allocation or mini-competition. Scottish Water may appoint more than one Supplier. Appointment to the Framework does not guarantee any volume or value of work.<br/><br/>This opportunity is aimed at telemetry, SCADA, instrumentation and controls and electrical engineering contractors with proven capability in delivering telemetry installations on operational water and wastewater assets, a competent and suitably qualified workforce, and the capacity to respond across Scotland.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/111282-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKM",
+        "cpv": "50330000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f",
+        "demo": false
+      },
+      {
         "id": "fts-104440-2026",
         "title": "Provision of a Finance Solution and Associated Services to the Northern Ireland Assembly Commission",
         "authority": "Northern Ireland Assembly Commission",
@@ -10974,42 +11102,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-23T20:11:41.256Z"
+    "lastPartialUpdate": "2026-11-24T19:29:23.076Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
-    "attemptedAt": "2026-11-23T20:11:41.256Z",
+    "attemptId": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f",
+    "attemptedAt": "2026-11-24T19:29:23.076Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
-    "retrievedCount": 37,
-    "totalCount": 271,
+    "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
+    "retrievedCount": 13,
+    "totalCount": 274,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-23T20:11:41.256Z",
-        "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
-        "lastAttemptAt": "2026-11-23T20:11:41.256Z",
+        "watermark": "2026-11-24T19:29:23.076Z",
+        "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
+        "lastAttemptAt": "2026-11-24T19:29:23.076Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-18T17:21:31.448Z",
-          "to": "2026-11-23T20:11:41.256Z"
+          "from": "2026-11-22T20:11:41.256Z",
+          "to": "2026-11-24T19:29:23.076Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-23T20:11:41.256Z",
-        "lastSuccessfulUpdate": "2026-11-23T20:11:41.256Z",
-        "lastAttemptAt": "2026-11-23T20:11:41.256Z",
+        "watermark": "2026-11-24T19:29:23.076Z",
+        "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
+        "lastAttemptAt": "2026-11-24T19:29:23.076Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-19T16:56:24.204Z",
-          "to": "2026-11-23T20:11:41.256Z"
+          "from": "2026-11-22T20:11:41.256Z",
+          "to": "2026-11-24T19:29:23.076Z"
         }
       }
     }
