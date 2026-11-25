@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-24T19:29:23.076Z",
-      "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
-      "lastAttemptAt": "2026-11-24T19:29:23.076Z",
+      "watermark": "2026-11-25T18:38:34.337Z",
+      "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
+      "lastAttemptAt": "2026-11-25T18:38:34.337Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-22T20:11:41.256Z",
-        "to": "2026-11-24T19:29:23.076Z"
+        "from": "2026-11-23T19:29:23.076Z",
+        "to": "2026-11-25T18:38:34.337Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-24T19:29:23.076Z",
-      "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
-      "lastAttemptAt": "2026-11-24T19:29:23.076Z",
+      "watermark": "2026-11-25T18:38:34.337Z",
+      "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
+      "lastAttemptAt": "2026-11-25T18:38:34.337Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-22T20:11:41.256Z",
-        "to": "2026-11-24T19:29:23.076Z"
+        "from": "2026-11-23T19:29:23.076Z",
+        "to": "2026-11-25T18:38:34.337Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f",
-    "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
+    "buildId": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
+    "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
     "interval": {
-      "from": "2026-11-22T20:11:41.256Z",
-      "to": "2026-11-24T19:29:23.076Z"
+      "from": "2026-11-23T19:29:23.076Z",
+      "to": "2026-11-25T18:38:34.337Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 13,
-    "totalCount": 274,
+    "retrievedCount": 8,
+    "totalCount": 279,
     "sourceFailures": [],
     "records": [
       {
@@ -6827,7 +6827,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c"
       },
       {
         "id": "fts-104917-2026",
@@ -10019,7 +10020,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c"
       },
       {
         "id": "fts-110419-2026",
@@ -10060,6 +10062,90 @@
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
         "demo": false,
         "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
+      },
+      {
+        "id": "fts-111579-2026",
+        "title": "Provision of a DurhamLearn Framework for the North East Skills Programme",
+        "authority": "Durham County Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "111579-2026",
+        "published": "2026-11-25",
+        "deadline": "2026-12-23",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "DurhamLearn is establishing and maintaining a Framework of organisations that have demonstrated the capability, capacity and organisational arrangements required to deliver learning and skills provision. The Framework shall support DurhamLearn in responding to funding opportunities, strategic priorities and commissioning requirements. Appointment to the Framework confirms that a Provider has satisfied DurhamLearn's minimum requirements relating to: • Quality assurance • Safeguarding and learner welfare • Health and safety • Organisational capacity • Financial standing • Data protection and information governance • Regulatory compliance • Delivery capability. The Framework is divided into the following Lots: LOT 1 - Skills Foundation The Skills Foundation strand of the North East Skills Programme has been developed to address the persistent challenges faced by residents with the lowest skill levels. It provides accessible, confidence building learning that enables adults to develop essential literacy, numeracy, digital and wider employability capabilities, helping them move closer to work or further study. Skills Foundation is specifically targeted at residents who are furthest from the labour market Through community based, inclusive provision, it helps adults overcome barriers, build foundational capabilities, and re engage in learning as the first step on a longer progression journey. Delivery is centred on personalised, non accredited learning that develops core skills, confidence, wellbeing, and sector awareness. This ensures that residents with the lowest starting points can begin their progression journey in a supportive environment. We would expect you to encourage and support all learners to progress on to new or more stretching provision to help them move into formal learning or employment where possible. A valid progression must occur within 13 weeks of the Skills Foundation aim. LOT 2 - Skills Activation Skills Activation supports learners who are ready to take the next step towards work or further training but require targeted preparation, employability development or sector awareness. Courses are accredited and may include English and maths legal entitlements, digital skills and vocational qualifications. Funding for Skills Activation is determined by national funding rates listed in Find a Learning Aim. With Skills Activation all provision should have clear progression routes - including progression into Skills for Work, accredited learning, apprenticeships or employment. At least 20% of learners completing Level 1 are expected to progress to Level 2. LOT 3 - Skills for Work Skills for Work support residents directly into employment through employer-led programmes, sector-based work academy programmes (SWAPs), progression pathways and initiatives. Priority sectors are listed below and the NE MSA has full guidance on the delivery requirements for Skills for Work provision, see Appendix 1 Funding Rules. Skills for Work curriculum should be planned with named employers, there should be confirmed job vacancies and guaranteed interviews. There must be a range of pre-employment training which can include work trials, site visits, interview preparation and specific sector skills training. It is expected that 30% of learners who complete a Skills for Work course will progress into work.",
+        "tenderSummary": "DurhamLearn is establishing and maintaining a Framework of organisations that have demonstrated the capability, capacity and organisational arrangements required to deliver learning and skills provision. The Framework shall support DurhamLearn in responding to funding opportunities, strategic priorities and commissioning requirements. Appointment to the Framework confirms that a Provider has satisfied DurhamLearn's minimum requirements relating to: • Quality assurance • Safeguarding and learner welfare • Health and safety • Organisational capacity • Financial standing • Data protection and information governance • Regulatory compliance • Delivery capability. The Framework is divided into the following Lots: LOT 1 - Skills Foundation The Skills Foundation strand of the North East Skills Programme has been developed to address the persistent challenges faced by residents with the lowest skill levels. It provides accessible, confidence building learning that enables adults to develop essential literacy, numeracy, digital and wider employability capabilities, helping them move closer to work or further study. Skills Foundation is specifically targeted at residents who are furthest from the labour market Through community based, inclusive provision, it helps adults overcome barriers, build foundational capabilities, and re engage in learning as the first step on a longer progression journey. Delivery is centred on personalised, non accredited learning that develops core skills, confidence, wellbeing, and sector awareness. This ensures that residents with the lowest starting points can begin their progression journey in a supportive environment. We would expect you to encourage and support all learners to progress on to new or more stretching provision to help them move into formal learning or employment where possible. A valid progression must occur within 13 weeks of the Skills Foundation aim. LOT 2 - Skills Activation Skills Activation supports learners who are ready to take the next step towards work or further training but require targeted preparation, employability development or sector awareness. Courses are accredited and may include English and maths legal entitlements, digital skills and vocational qualifications. Funding for Skills Activation is determined by national funding rates listed in Find a Learning Aim. With Skills Activation all provision should have clear progression routes - including progression into Skills for Work, accredited learning, apprenticeships or employment. At least 20% of learners completing Level 1 are expected to progress to Level 2. LOT 3 - Skills for Work Skills for Work support residents directly into employment through employer-led programmes, sector-based work academy programmes (SWAPs), progression pathways and initiatives. Priority sectors are listed below and the NE MSA has full guidance on the delivery requirements for Skills for Work provision, see Appendix 1 Funding Rules. Skills for Work curriculum should be planned with named employers, there should be confirmed job vacancies and guaranteed interviews. There must be a range of pre-employment training which can include work trials, site visits, interview preparation and specific sector skills training. It is expected that 30% of learners who complete a Skills for Work course will progress into work.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/111579-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKC14",
+        "cpv": "80400000",
+        "matchedKeywords": [
+          "safeguarding",
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
+        "demo": false
+      },
+      {
+        "id": "fts-111527-2026",
+        "title": "Falls and Frailty Awareness Sessions",
+        "authority": "Birmingham City Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "111527-2026",
+        "published": "2026-11-25",
+        "deadline": "2026-12-31",
+        "value": 50000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          14,
+          10,
+          14,
+          0
+        ],
+        "description": "Birmingham City Council (the Council) is seeking to procure a community falls and frailty prevention programme for a two-year period. The appointed provider will be required to deliver awareness and education sessions in high-footfall community locations, as well as with established community groups, to increase understanding among vulnerable older adults of the risks associated with falls and frailty, and to promote practical measures that can help prevent falls and maintain independence The contract for the services will commence February 2027 and will be in place for a period of 2 years. This Request for Quotations is being issued using the Council's e-tendering system 'In-tend' and organisations must ensure that they are registered users. The procurement process will be managed using this system and therefore all bids must be submitted by Tenderers via the 'in-tend' system. https://in-tendhost.co.uk/birminghamcc Registration and use of in-tend is free. All correspondence for this procurement process must be via the in-tend correspondence function and you should not contact any individual directly either by email or by telephone. If you are already a registered user, you do not have to re-register. If you are unable to register with in-tend or are experiencing difficulties, please email the etendering@birmingham.gov.uk. Deadline for request for quotation is noon on 31st December 2026",
+        "tenderSummary": "Birmingham City Council (the Council) is seeking to procure a community falls and frailty prevention programme for a two-year period. The appointed provider will be required to deliver awareness and education sessions in high-footfall community locations, as well as with established community groups, to increase understanding among vulnerable older adults of the risks associated with falls and frailty, and to promote practical measures that can help prevent falls and maintain independence The contract for the services will commence February 2027 and will be in place for a period of 2 years. This Request for Quotations is being issued using the Council's e-tendering system 'In-tend' and organisations must ensure that they are registered users. The procurement process will be managed using this system and therefore all bids must be submitted by Tenderers via the 'in-tend' system. https://in-tendhost.co.uk/birminghamcc Registration and use of in-tend is free. All correspondence for this procurement process must be via the in-tend correspondence function and you should not contact any individual directly either by email or by telephone. If you are already a registered user, you do not have to re-register. If you are unable to register with in-tend or are experiencing difficulties, please email the etendering@birmingham.gov.uk. Deadline for request for quotation is noon on 31st December 2026",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/111527-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG31",
+        "cpv": "80561000, 85000000, 85100000, 85140000, 85144000, 85323000",
+        "matchedKeywords": [],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80560000",
+          "80561000"
+        ],
+        "addedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
+        "demo": false
       },
       {
         "id": "fts-107837-2026",
@@ -10428,6 +10514,45 @@
         "updatedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f"
       },
       {
+        "id": "fts-111771-2026",
+        "title": "DoJ - Youth Justice Agency - Hub Security and Ancillary Services Woodlands Juvenile Justice Centre",
+        "authority": "Youth Justice Agency",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "111771-2026",
+        "published": "2026-11-25",
+        "deadline": "2027-01-08",
+        "value": 2800000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Woodlands Juvenile Justice Centre is part of the Youth Justice Agency for Northern Ireland and the only custodial facility for children and young people remanded or sentenced by the courts. It also serves as a place of safety with respect to the Police and Criminal Evidence Order. Woodlands is considered to be a Centre of national and international excellence in secure care offering a wide range of services and supports to the young people placed in its care. Woodlands was opened in 2007. The Centre is ‘secure by design’ and makes use of technologies that enable a safe, secure and stable environment for all. Central to the integration of these technologies into the operational effectiveness of the Centre is the Communications Hub – a self-contained unit located within the Centre but which operates as a stand-alone, autonomous service. The core functions of the Hub are the management of communication and the control of three key business areas namely: Safety and Security, Access Control and Building Management. These included but not limited to functions such as CCTV operations, control of secure doors and gates, fire alarm services and personal alarm systems. The decision was taken prior to opening the Centre that the Hub functions should be carried out by an external contractor rather than by Woodlands Management and staff. The two main reasons were to ensure complete independence of the functions of the Hub, particularly those that impact on safeguarding and security, and a more economic provision of service. Since opening this service has been provided and managed by a third-party contractor on behalf of the Youth Justice Agency. This decision has proved to be beneficial to Woodlands in terms of overall performance and contribution to the operational management of the Centre and enabling it to maintain the highest levels of safety and security. The use of an outside contractor has enabled an agility of response to resourcing the Hub and permitted the continuity of this business critical service in Woodlands. The Centre’s current contract is due to expire on 31st March 2027.",
+        "tenderSummary": "Woodlands Juvenile Justice Centre is part of the Youth Justice Agency for Northern Ireland and the only custodial facility for children and young people remanded or sentenced by the courts. It also serves as a place of safety with respect to the Police and Criminal Evidence Order. Woodlands is considered to be a Centre of national and international excellence in secure care offering a wide range of services and supports to the young people placed in its care. Woodlands was opened in 2007. The Centre is ‘secure by design’ and makes use of technologies that enable a safe, secure and stable environment for all. Central to the integration of these technologies into the operational effectiveness of the Centre is the Communications Hub – a self-contained unit located within the Centre but which operates as a stand-alone, autonomous service. The core functions of the Hub are the management of communication and the control of three key business areas namely: Safety and Security, Access Control and Building Management. These included but not limited to functions such as CCTV operations, control of secure doors and gates, fire alarm services and personal alarm systems. The decision was taken prior to opening the Centre that the Hub functions should be carried out by an external contractor rather than by Woodlands Management and staff. The two main reasons were to ensure complete independence of the functions of the Hub, particularly those that impact on safeguarding and security, and a more economic provision of service. Since opening this service has been provided and managed by a third-party contractor on behalf of the Youth Justice Agency. This decision has proved to be beneficial to Woodlands in terms of overall performance and contribution to the operational management of the Centre and enabling it to maintain the highest levels of safety and security. The use of an outside contractor has enabled an agility of response to resourcing the Hub and permitted the continuity of this business critical service in Woodlands. The Centre’s current contract is due to expire on 31st March 2027.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/111771-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKN09",
+        "cpv": "79710000, 79700000, 79711000, 79713000, 79714000",
+        "matchedKeywords": [
+          "safeguarding"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
+        "demo": false
+      },
+      {
         "id": "fts-102062-2026",
         "title": "Passive Fire Safety Remedial works",
         "authority": "Southern Housing",
@@ -10466,6 +10591,47 @@
         "addedBuild": "2026-11-04T13:25:53.583Z-7e6b1f75-fe60-47eb-bc56-913c4904d2b6",
         "demo": false,
         "updatedBuild": "2026-11-04T13:30:44.767Z-29518474-2d0c-4b4a-a229-0f7bee526add"
+      },
+      {
+        "id": "fts-111818-2026",
+        "title": "MATHEMATICS TEACHER CONTINUING PROFESSIONAL DEVELOPMENT FROM RECEPTION- A-LEVEL",
+        "authority": "Department for Education",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "111818-2026",
+        "published": "2026-11-25",
+        "deadline": "2027-01-11",
+        "value": 63491951,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The Department for Education (DfE) is seeking to appoint suppliers to deliver national mathematics education programmes supporting the improvement of mathematics teaching, participation and outcomes for children and young people in England. The procurement is divided into two Lots: Lot 1 - National Centre for Excellence in the Teaching of Mathematics (NCETM) The appointed supplier will provide national mathematical expertise and coordinate the Maths Hubs network to deliver high-quality, evidence-informed professional development and school improvement support. The programme will support the improvement of mathematics teaching, numeracy, mathematical skills and attainment from Reception through to Key Stage 4 and Level 2 post-16. Lot 2 - Advanced Mathematics Support Programme (AMSP) The appointed supplier will deliver national support for Level 3 mathematics in state-funded schools and colleges in England, covering Core Maths, AS/A level Mathematics and AS/A level Further Mathematics. This will include professional development for teachers and support for students to improve participation, attainment and progression to higher education, apprenticeships and careers requiring advanced mathematical and quantitative skills. Suppliers may tender for either or both Lots. Each Lot will be evaluated independently and will result in a separate contract.",
+        "tenderSummary": "The Department for Education (DfE) is seeking to appoint suppliers to deliver national mathematics education programmes supporting the improvement of mathematics teaching, participation and outcomes for children and young people in England. The procurement is divided into two Lots: Lot 1 - National Centre for Excellence in the Teaching of Mathematics (NCETM) The appointed supplier will provide national mathematical expertise and coordinate the Maths Hubs network to deliver high-quality, evidence-informed professional development and school improvement support. The programme will support the improvement of mathematics teaching, numeracy, mathematical skills and attainment from Reception through to Key Stage 4 and Level 2 post-16. Lot 2 - Advanced Mathematics Support Programme (AMSP) The appointed supplier will deliver national support for Level 3 mathematics in state-funded schools and colleges in England, covering Core Maths, AS/A level Mathematics and AS/A level Further Mathematics. This will include professional development for teachers and support for students to improve participation, attainment and progression to higher education, apprenticeships and careers requiring advanced mathematical and quantitative skills. Suppliers may tender for either or both Lots. Each Lot will be evaluated independently and will result in a separate contract.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/111818-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "80000000, 80200000, 80400000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
+        "demo": false
       },
       {
         "id": "fts-108135-2026",
@@ -10823,7 +10989,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c"
       },
       {
         "id": "fts-104440-2026",
@@ -10942,6 +11109,45 @@
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
         "demo": false,
         "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
+      },
+      {
+        "id": "fts-111511-2026",
+        "title": "Provision of Medical cover for Ten Tors 2027 - 2032",
+        "authority": "Ministry of Defence",
+        "category": "First aid",
+        "source": "FTS",
+        "noticeId": "111511-2026",
+        "published": "2026-11-25",
+        "deadline": "2027-01-29",
+        "value": 525000,
+        "currency": "GBP",
+        "stage": "Pipeline",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "Provide a comprehensive Enhanced First Aid Service to Exercise Wyvern Tor - Tens Tors for Military Staff, Ten Tors Challenge (TTC) participants, Jubilee Challenge (JC) and Granite Challenge (GC) participants, and to the general public visiting Okehampton Camp, in order to provide a safe public event. Ten Tors is an annual military-led multi-agency event based in Okehampton Camp each year on a weekend in May. If you are interested in bidding for this requirement, please contact the Authority where we will relesae the Full Statement Of Requirement.",
+        "tenderSummary": "Provide a comprehensive Enhanced First Aid Service to Exercise Wyvern Tor - Tens Tors for Military Staff, Ten Tors Challenge (TTC) participants, Jubilee Challenge (JC) and Granite Challenge (GC) participants, and to the general public visiting Okehampton Camp, in order to provide a safe public event. Ten Tors is an annual military-led multi-agency event based in Okehampton Camp each year on a weekend in May. If you are interested in bidding for this requirement, please contact the Authority where we will relesae the Full Statement Of Requirement.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/111511-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKK4",
+        "cpv": "79625000",
+        "matchedKeywords": [
+          "first aid"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
+        "demo": false
       },
       {
         "id": "fts-107124-2026",
@@ -11102,42 +11308,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-24T19:29:23.076Z"
+    "lastPartialUpdate": "2026-11-25T18:38:34.337Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-24T19:29:23.076Z-42711891-dbf5-4738-91ae-8a2691e6fd6f",
-    "attemptedAt": "2026-11-24T19:29:23.076Z",
+    "attemptId": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
+    "attemptedAt": "2026-11-25T18:38:34.337Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
-    "retrievedCount": 13,
-    "totalCount": 274,
+    "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
+    "retrievedCount": 8,
+    "totalCount": 279,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-24T19:29:23.076Z",
-        "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
-        "lastAttemptAt": "2026-11-24T19:29:23.076Z",
+        "watermark": "2026-11-25T18:38:34.337Z",
+        "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
+        "lastAttemptAt": "2026-11-25T18:38:34.337Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-22T20:11:41.256Z",
-          "to": "2026-11-24T19:29:23.076Z"
+          "from": "2026-11-23T19:29:23.076Z",
+          "to": "2026-11-25T18:38:34.337Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-24T19:29:23.076Z",
-        "lastSuccessfulUpdate": "2026-11-24T19:29:23.076Z",
-        "lastAttemptAt": "2026-11-24T19:29:23.076Z",
+        "watermark": "2026-11-25T18:38:34.337Z",
+        "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
+        "lastAttemptAt": "2026-11-25T18:38:34.337Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-22T20:11:41.256Z",
-          "to": "2026-11-24T19:29:23.076Z"
+          "from": "2026-11-23T19:29:23.076Z",
+          "to": "2026-11-25T18:38:34.337Z"
         }
       }
     }
