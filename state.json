@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-25T18:38:34.337Z",
-      "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
-      "lastAttemptAt": "2026-11-25T18:38:34.337Z",
+      "watermark": "2026-11-26T18:24:22.765Z",
+      "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
+      "lastAttemptAt": "2026-11-26T18:24:22.765Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-23T19:29:23.076Z",
-        "to": "2026-11-25T18:38:34.337Z"
+        "from": "2026-11-24T18:38:34.337Z",
+        "to": "2026-11-26T18:24:22.765Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-25T18:38:34.337Z",
-      "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
-      "lastAttemptAt": "2026-11-25T18:38:34.337Z",
+      "watermark": "2026-11-26T18:24:22.765Z",
+      "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
+      "lastAttemptAt": "2026-11-26T18:24:22.765Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-23T19:29:23.076Z",
-        "to": "2026-11-25T18:38:34.337Z"
+        "from": "2026-11-24T18:38:34.337Z",
+        "to": "2026-11-26T18:24:22.765Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
-    "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
+    "buildId": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+    "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
     "interval": {
-      "from": "2026-11-23T19:29:23.076Z",
-      "to": "2026-11-25T18:38:34.337Z"
+      "from": "2026-11-24T18:38:34.337Z",
+      "to": "2026-11-26T18:24:22.765Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 8,
-    "totalCount": 279,
+    "retrievedCount": 14,
+    "totalCount": 288,
     "sourceFailures": [],
     "records": [
       {
@@ -7116,6 +7116,45 @@
         "demo": false
       },
       {
+        "id": "fts-111888-2026",
+        "title": "Skills Celebrations Sponsorship Services",
+        "authority": "Department for Work & Pensions",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "111888-2026",
+        "published": "2026-11-25",
+        "deadline": "2026-12-07",
+        "value": 300000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "The Department for Work and Pensions is seeking a Supplier to provide sponsorship acquisition, Sponsor relationship management, Ticket Sales support and associated financial, reporting and administrative services for the Skills Celebrations programme. The programme comprises the National Apprenticeship and Skills Awards, Top Apprenticeship Employers and the Apprenticeship Ambassadors Network annual conference. The Supplier will be required to develop and deliver a sponsorship strategy, identify and secure suitable Sponsors, negotiate and administer Sponsorship Agreements, manage Sponsor rights and relationships, support relevant events and Ticket Sales, maintain accurate financial and performance records and work collaboratively with DWP and its other Delivery Suppliers. The Contract will have an initial term of two years, covering the 2027 and 2028 Awards Cycles, with the option for one or more extensions up to a maximum aggregate period of 12 months. The intended Contract Start Date is 1 January 2027.",
+        "tenderSummary": "The Department for Work and Pensions is seeking a Supplier to provide sponsorship acquisition, Sponsor relationship management, Ticket Sales support and associated financial, reporting and administrative services for the Skills Celebrations programme. The programme comprises the National Apprenticeship and Skills Awards, Top Apprenticeship Employers and the Apprenticeship Ambassadors Network annual conference. The Supplier will be required to develop and deliver a sponsorship strategy, identify and secure suitable Sponsors, negotiate and administer Sponsorship Agreements, manage Sponsor rights and relationships, support relevant events and Ticket Sales, maintain accurate financial and performance records and work collaboratively with DWP and its other Delivery Suppliers. The Contract will have an initial term of two years, covering the 2027 and 2028 Awards Cycles, with the option for one or more extensions up to a maximum aggregate period of 12 months. The intended Contract Start Date is 1 January 2027.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/111888-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKF, UKG, UKH, UKJ, UKK, UKC, UKD, UKE, UKI",
+        "cpv": "79952000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+        "demo": false
+      },
+      {
         "id": "fts-105671-2026",
         "title": "Procurement of Learning Management System (LMS)",
         "authority": "Yeovil Town Council",
@@ -7612,6 +7651,53 @@
         "updatedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7"
       },
       {
+        "id": "fts-112018-2026",
+        "title": "Mandatory Training for students enrolled on Healthcare programmes Framework Agreement",
+        "authority": "University of Greenwich",
+        "category": "First aid",
+        "source": "FTS",
+        "noticeId": "112018-2026",
+        "published": "2026-11-26",
+        "deadline": "2026-12-09",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The University of Greenwich and the University of Kent successfully completed their merger on 3 August 2026, to create the new London and South East University Group - to be known as LASE. LASE is seeking to establish a Framework Agreement for the provision of additional resource, on an as-needed basis, to deliver mandatory training for students enrolled on healthcare programmes. The Framework is divided into two lots: Lot 1 – Resuscitation / Basic Life Support (BLS) Training and Moving and Handling Training Lot 2 – Conflict Resolution Training and Breakaway Training One Provider will be appointed to each Lot. The framework is being designed to supply services to LASE member institutions, and those of its subsidiaries and eligible partner institution the Kent and Medway Medical School, which is a partnership between Canterbury Christ Church University and the University of Kent. The first call-off contract will be awarded at the same time as the Framework Agreement. To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/2WM3TEYUJP If suppliers experience any issues accessing this opportunity, they should contact the Delta Helpdesk for assistance quoting the Reference Number: 1060034026 and the Access Code: 2WM3TEYUJP. The Delta Helpdesk operates Monday to Friday, 8:00 am to 6:00 pm (GMT), excluding bank holidays. You can contact the Helpdesk by calling +44 800 923 9236.",
+        "tenderSummary": "The University of Greenwich and the University of Kent successfully completed their merger on 3 August 2026, to create the new London and South East University Group - to be known as LASE. LASE is seeking to establish a Framework Agreement for the provision of additional resource, on an as-needed basis, to deliver mandatory training for students enrolled on healthcare programmes. The Framework is divided into two lots: Lot 1 – Resuscitation / Basic Life Support (BLS) Training and Moving and Handling Training Lot 2 – Conflict Resolution Training and Breakaway Training One Provider will be appointed to each Lot. The framework is being designed to supply services to LASE member institutions, and those of its subsidiaries and eligible partner institution the Kent and Medway Medical School, which is a partnership between Canterbury Christ Church University and the University of Kent. The first call-off contract will be awarded at the same time as the Framework Agreement. To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/2WM3TEYUJP If suppliers experience any issues accessing this opportunity, they should contact the Delta Helpdesk for assistance quoting the Reference Number: 1060034026 and the Access Code: 2WM3TEYUJP. The Delta Helpdesk operates Monday to Friday, 8:00 am to 6:00 pm (GMT), excluding bank holidays. You can contact the Helpdesk by calling +44 800 923 9236.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/112018-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ",
+        "cpv": "80500000, 80510000, 80521000, 80550000, 80560000, 80561000, 80562000",
+        "matchedKeywords": [
+          "resuscitation"
+        ],
+        "matchedCpvCodes": [
+          "80000000",
+          "80500000",
+          "80510000",
+          "80550000",
+          "80560000",
+          "80561000",
+          "80562000"
+        ],
+        "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+        "demo": false
+      },
+      {
         "id": "fts-098200-2026",
         "title": "Gwelliannau i / Improvement works to the ‘Materials Recovery Facility’ (MRF) Ystâd Ddiwydiannol Cibyn, Caernarfon, Gwynedd, LL55 2BD",
         "authority": "Cyngor Gwynedd",
@@ -7732,6 +7818,45 @@
         "addedBuild": "2026-11-19T17:21:31.448Z-e34e6d82-2642-41fc-a513-6834b55dabd7",
         "demo": false,
         "updatedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19"
+      },
+      {
+        "id": "fts-112165-2026",
+        "title": "Gambling Harms Community Engagement Coordinator",
+        "authority": "Trafford Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "112165-2026",
+        "published": "2026-11-26",
+        "deadline": "2026-12-10",
+        "value": 35357.45,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Trafford Council's Public Health team wishes to commission an organisation to deliver a Gambling Harms Community Engagement Coordinator function for a period of 12 months. The purpose of the role is to strengthen Trafford's local approach to preventing and reducing gambling-related harm by: • increasing local knowledge and intelligence about gambling-related harms; • mapping existing services, community assets and gaps in provision; • strengthening partnerships across statutory, voluntary, community, faith and social enterprise organisations; • improving workforce awareness, knowledge and confidence; • increasing awareness of appropriate sources of information and support; • ensuring the experiences of people affected by gambling-related harms inform local priorities; and • contributing evidence and intelligence to ongoing development of Trafford's Gambling Needs Assessment and future prevention activity. The maximum funding available is £35,357.45 for the 12-month contract period. The funding is expected to cover all costs associated with delivery, including staffing, management, training, travel, communications, equipment, engagement and evaluation. It is anticipated that the provider will employ or designate a suitably experienced member of staff, likely on a part-time basis, to lead delivery. The contract is for an initial period of 12 months. Trafford Council reserves the right to extend the contract for up to a further 12 months, subject to satisfactory performance and the availability of gambling harms prevention funding.",
+        "tenderSummary": "Trafford Council's Public Health team wishes to commission an organisation to deliver a Gambling Harms Community Engagement Coordinator function for a period of 12 months. The purpose of the role is to strengthen Trafford's local approach to preventing and reducing gambling-related harm by: • increasing local knowledge and intelligence about gambling-related harms; • mapping existing services, community assets and gaps in provision; • strengthening partnerships across statutory, voluntary, community, faith and social enterprise organisations; • improving workforce awareness, knowledge and confidence; • increasing awareness of appropriate sources of information and support; • ensuring the experiences of people affected by gambling-related harms inform local priorities; and • contributing evidence and intelligence to ongoing development of Trafford's Gambling Needs Assessment and future prevention activity. The maximum funding available is £35,357.45 for the 12-month contract period. The funding is expected to cover all costs associated with delivery, including staffing, management, training, travel, communications, equipment, engagement and evaluation. It is anticipated that the provider will employ or designate a suitably experienced member of staff, likely on a part-time basis, to lead delivery. The contract is for an initial period of 12 months. Trafford Council reserves the right to extend the contract for up to a further 12 months, subject to satisfactory performance and the availability of gambling harms prevention funding.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/112165-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD",
+        "cpv": "92351000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+        "demo": false
       },
       {
         "id": "fts-106121-2026",
@@ -8914,6 +9039,45 @@
         "demo": false
       },
       {
+        "id": "fts-112321-2026",
+        "title": "Upper Wellsprings Category A Fit Out",
+        "authority": "Bolton Metropolitan Borough Council",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "112321-2026",
+        "published": "2026-11-26",
+        "deadline": "2026-12-16",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "The Contract comprises the provision of a Category A fit-out and refurbishment of existing office accommodation within a public sector building. The works are intended to create modern, compliant and functional workspace accommodation suitable for occupation and future operational use. The Authority is seeking suitably qualified and experienced contractors to undertake a Category A fit-out and refurbishment of office accommodation within the Wellsprings building. The project aims to provide a modern, functional and compliant workspace accommodation through the installation of new building services, interior finishes and associated facilities. The proposed works include: • Lot 1:  Electrical works including the installation of power outlets, containment and associated infrastructure.  Data and communications cabling infrastructure. • Lot 2:  Supply and installation of acoustic treatment solutions. • Lot 3:  Design, supply and installation of kitchenette facilities, including associated plumbing, electrical and appliance installations. • Lot 4:  Fire safety works, including fire protection measures, fire detection equipment, signage and associated compliance works. • Lot 5:  Flooring replacement and associated floor preparation works.  Testing, commissioning, certification and provision of operation and maintenance information. The Authority is committed to supporting Small and Medium-sized Enterprises (SMEs) and intends to structure the procurement to maximise opportunities for specialist suppliers. Tenderers may submit bids for one or more of the above lots.",
+        "tenderSummary": "The Contract comprises the provision of a Category A fit-out and refurbishment of existing office accommodation within a public sector building. The works are intended to create modern, compliant and functional workspace accommodation suitable for occupation and future operational use. The Authority is seeking suitably qualified and experienced contractors to undertake a Category A fit-out and refurbishment of office accommodation within the Wellsprings building. The project aims to provide a modern, functional and compliant workspace accommodation through the installation of new building services, interior finishes and associated facilities. The proposed works include: • Lot 1:  Electrical works including the installation of power outlets, containment and associated infrastructure.  Data and communications cabling infrastructure. • Lot 2:  Supply and installation of acoustic treatment solutions. • Lot 3:  Design, supply and installation of kitchenette facilities, including associated plumbing, electrical and appliance installations. • Lot 4:  Fire safety works, including fire protection measures, fire detection equipment, signage and associated compliance works. • Lot 5:  Flooring replacement and associated floor preparation works.  Testing, commissioning, certification and provision of operation and maintenance information. The Authority is committed to supporting Small and Medium-sized Enterprises (SMEs) and intends to structure the procurement to maximise opportunities for specialist suppliers. Tenderers may submit bids for one or more of the above lots.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://procontract.due-north.com/Advert?advertId=adcc5008-e4e8-f111-8142-6045bdf14b1f&p=e0cc5631-4690-e511-80fb-000c29c9ba21",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKD3",
+        "cpv": "32581000, 45310000, 45453100, 45300000, 71313200, 39141000, 45421151, 35111300, 45343100, 45343200, 45343220, 45432000",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+        "demo": false
+      },
+      {
         "id": "fts-109248-2026",
         "title": "Management Information System (MIS) for the Adult College",
         "authority": "London Borough of Barking and Dagenham",
@@ -10024,6 +10188,123 @@
         "updatedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c"
       },
       {
+        "id": "fts-112240-2026",
+        "title": "Knowsley Supported Lodgings and Emergency Bedspaces (Crash Bed) Enhanced Service",
+        "authority": "Knowsley Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "112240-2026",
+        "published": "2026-11-26",
+        "deadline": "2026-12-21",
+        "value": 2540000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "To provide suitable, safe and well supported live-in accommodation for young people aged 16-24 that enables focused recovery, reablement and progression to independence through the recruitment, training and support of appropriate Lodging Providers, referred to as Householders. Interventions will support young people to achieve positive change so that they have the confidence, skills, resilience and networks to move on safely, sustain accommodation, progress into education, employment, training or university where appropriate, and make a successful transition into adulthood.",
+        "tenderSummary": "To provide suitable, safe and well supported live-in accommodation for young people aged 16-24 that enables focused recovery, reablement and progression to independence through the recruitment, training and support of appropriate Lodging Providers, referred to as Householders. Interventions will support young people to achieve positive change so that they have the confidence, skills, resilience and networks to move on safely, sustain accommodation, progress into education, employment, training or university where appropriate, and make a successful transition into adulthood.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.the-chest.org.uk/",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "85311000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+        "demo": false
+      },
+      {
+        "id": "fts-112249-2026",
+        "title": "Multi-Disciplinary and Professional Expertise, Skills and Capacity Support for the Council's Energy Island Programme",
+        "authority": "Isle of Anglesey County Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "112249-2026",
+        "published": "2026-11-26",
+        "deadline": "2026-12-22",
+        "value": 500000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Consultancy support for the Council's Energy Island Programme, for work in relation to a new nuclear development at Wylfa. Please see tender documents for more information.",
+        "tenderSummary": "Consultancy support for the Council's Energy Island Programme, for work in relation to a new nuclear development at Wylfa. Please see tender documents for more information.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-26413",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL11",
+        "cpv": "73220000, 90712000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+        "demo": false
+      },
+      {
+        "id": "fts-112196-2026",
+        "title": "Provision of Fire Risk Assessments across Science Museum Group Sites",
+        "authority": "Science Museum Group",
+        "category": "Fire safety",
+        "source": "FTS",
+        "noticeId": "112196-2026",
+        "published": "2026-11-26",
+        "deadline": "2026-12-22",
+        "value": 76000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          14,
+          0
+        ],
+        "description": "The Science Museum Group is seeking a supplier to provide Fire Risk Assessments at all of the buildings owned and or operated by the Science Museum Group, in addition to the provision of associated fire safety advice related to the fire risk assessments.",
+        "tenderSummary": "The Science Museum Group is seeking a supplier to provide Fire Risk Assessments at all of the buildings owned and or operated by the Science Museum Group, in addition to the provision of associated fire safety advice related to the fire risk assessments.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://in-tendhost.co.uk/sciencemuseumgroup/aspx/Tenders/Current",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKI, UKK14, UKD33, UKE41, UKE21, UKC1",
+        "cpv": "75251110",
+        "matchedKeywords": [
+          "fire safety"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+        "demo": false
+      },
+      {
         "id": "fts-110419-2026",
         "title": "National Early Inflammatory Autoimmune Diseases Audit",
         "authority": "Healthcare Quality Improvement Partnership Ltd",
@@ -10103,7 +10384,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95"
       },
       {
         "id": "fts-111527-2026",
@@ -10145,7 +10427,8 @@
           "80561000"
         ],
         "addedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95"
       },
       {
         "id": "fts-107837-2026",
@@ -10550,6 +10833,46 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
+        "demo": false,
+        "updatedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95"
+      },
+      {
+        "id": "fts-112178-2026",
+        "title": "Evaluation Consultant for Leading Lights Project (National Historic Ships UK)",
+        "authority": "National Historic Ships UK",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "112178-2026",
+        "published": "2026-11-26",
+        "deadline": "2027-01-08",
+        "value": 47000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "National Historic Ships UK (NHS-UK) wishes to appoint an experienced consultant (which may be an individual consultant or consultancy organisation) to monitor and evaluate the Development and Delivery Phases of a significant capacity building project grant aided by the National Lottery Heritage Fund (Heritage Fund). About the Project NHS-UK has secured initial support of £155,600 from the Heritage Fund (£140,040) and the Pilgrim Trust (£15,560) to progress plans for the Leading Lights project, a five-year project which aims to invest in historic vessels at a UK-wide level, making the sector more resilient, connected and informed. It has been designed to impact a wide range of people, from vessel custodians to sector professionals, training organisations and funding bodies, as well as NHS-UK itself. The project is now entering its Development Phase, as part of which NHS-UK is seeking a consultant to undertake monitoring and evaluation work. The brief is for both the Development and Delivery Phases of the project. Responsibilities The Evaluation consultant will work during the Development Phase to design and develop a framework for evaluation that will be used during the Delivery Phase to measure the impact, outcomes and legacy of the project in accordance with Heritage Fund guidance. The consultant will also undertake an evaluation of the Development Phase and produce a written report based on documentation generated by the project, as well as interviews and feedback from a range of stakeholders and project staff. The Evaluation consultant will work during the Delivery Phase to monitor the project across its five-year delivery using the Evaluation Framework. This part of the work will include collating and reviewing documentation, gathering data (including interviews), undertaking stakeholder surveys and analysing responses, attending project events or activities to evaluate them, attending quarterly meetings and annual reviews, leading an end of project workshop, preparing a final evaluation report in accordance with National Lottery Heritage Fund guidelines. Renumeration The following fees must not be exceeded: Development phase February 2027 – November 2027Up to £18,000 excluding VAT Delivery phase March 2028 – March 2033Up to £27,000 excluding VAT A separate expense budget of £2,000 excluding VAT is also available for use in the Development Phase. Consultants should indicate how the evaluation will be delivered within this budget, who will work on the project, their day rates and predicted time expenditure. The appointed consultant will be required to deliver all required documents by mid October 2027 ahead of a Delivery Phase application to the Heritage Fund on 11 November 2027. There will then be a break clause before Delivery Phase work commences in March 2028, should the application be successful. Requirements Submissions should demonstrate an interest in the work of NHS-UK and the Leading Lights Project, previous experience of working on Heritage Fund or maritime projects, details of relevant skills and knowledge (including evaluating a range of programmes using different approaches), practical knowledge and access to tools such as Survey Monkey, strong report writing and presentation skills, proposed methodology for undertaking the work including a schedule and breakdown of fees, details of two referees for whom you have completed similar work. How to apply Interested parties should submit a CV and a written proposal (6 pages maximum) which includes the above requirements. For more information about this opportunity, please visit the Delta portal at: https://www.delta-esourcing.com/tenders/UK-Greenwich:-Museum-services-and-preservation-services-of-historical-sites-and-buildings./ F79BGPB26R To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/F79BGPB26R If you experience any technical difficulties from accessing the above url, then please contact the Delta eSourcing Helpdesk on call 0800 923 9236 or email helpdesk@delta-esourcing.com. Submissions should be uploaded to the portal no later than 5pm on 8 January 2027. Interviews are expected to take place on 2nd February at the NHS-UK offices in Greenwich or online via Zoom. Contract start date: February 2027 This project is made possible thanks to support from the National Lottery Heritage Fund. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Greenwich:-Museum-services-and-preservation-services-of-historical-sites-and-buildings./F79BGPB26R To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/F79BGPB26R",
+        "tenderSummary": "National Historic Ships UK (NHS-UK) wishes to appoint an experienced consultant (which may be an individual consultant or consultancy organisation) to monitor and evaluate the Development and Delivery Phases of a significant capacity building project grant aided by the National Lottery Heritage Fund (Heritage Fund). About the Project NHS-UK has secured initial support of £155,600 from the Heritage Fund (£140,040) and the Pilgrim Trust (£15,560) to progress plans for the Leading Lights project, a five-year project which aims to invest in historic vessels at a UK-wide level, making the sector more resilient, connected and informed. It has been designed to impact a wide range of people, from vessel custodians to sector professionals, training organisations and funding bodies, as well as NHS-UK itself. The project is now entering its Development Phase, as part of which NHS-UK is seeking a consultant to undertake monitoring and evaluation work. The brief is for both the Development and Delivery Phases of the project. Responsibilities The Evaluation consultant will work during the Development Phase to design and develop a framework for evaluation that will be used during the Delivery Phase to measure the impact, outcomes and legacy of the project in accordance with Heritage Fund guidance. The consultant will also undertake an evaluation of the Development Phase and produce a written report based on documentation generated by the project, as well as interviews and feedback from a range of stakeholders and project staff. The Evaluation consultant will work during the Delivery Phase to monitor the project across its five-year delivery using the Evaluation Framework. This part of the work will include collating and reviewing documentation, gathering data (including interviews), undertaking stakeholder surveys and analysing responses, attending project events or activities to evaluate them, attending quarterly meetings and annual reviews, leading an end of project workshop, preparing a final evaluation report in accordance with National Lottery Heritage Fund guidelines. Renumeration The following fees must not be exceeded: Development phase February 2027 – November 2027Up to £18,000 excluding VAT Delivery phase March 2028 – March 2033Up to £27,000 excluding VAT A separate expense budget of £2,000 excluding VAT is also available for use in the Development Phase. Consultants should indicate how the evaluation will be delivered within this budget, who will work on the project, their day rates and predicted time expenditure. The appointed consultant will be required to deliver all required documents by mid October 2027 ahead of a Delivery Phase application to the Heritage Fund on 11 November 2027. There will then be a break clause before Delivery Phase work commences in March 2028, should the application be successful. Requirements Submissions should demonstrate an interest in the work of NHS-UK and the Leading Lights Project, previous experience of working on Heritage Fund or maritime projects, details of relevant skills and knowledge (including evaluating a range of programmes using different approaches), practical knowledge and access to tools such as Survey Monkey, strong report writing and presentation skills, proposed methodology for undertaking the work including a schedule and breakdown of fees, details of two referees for whom you have completed similar work. How to apply Interested parties should submit a CV and a written proposal (6 pages maximum) which includes the above requirements. For more information about this opportunity, please visit the Delta portal at: https://www.delta-esourcing.com/tenders/UK-Greenwich:-Museum-services-and-preservation-services-of-historical-sites-and-buildings./ F79BGPB26R To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/F79BGPB26R If you experience any technical difficulties from accessing the above url, then please contact the Delta eSourcing Helpdesk on call 0800 923 9236 or email helpdesk@delta-esourcing.com. Submissions should be uploaded to the portal no later than 5pm on 8 January 2027. Interviews are expected to take place on 2nd February at the NHS-UK offices in Greenwich or online via Zoom. Contract start date: February 2027 This project is made possible thanks to support from the National Lottery Heritage Fund. For more information about this opportunity, please visit the eSourcing portal at: https://www.delta-esourcing.com/tenders/UK-UK-Greenwich:-Museum-services-and-preservation-services-of-historical-sites-and-buildings./F79BGPB26R To respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/F79BGPB26R",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/Attachment/A-26401",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UK",
+        "cpv": "92520000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
         "demo": false
       },
       {
@@ -10631,7 +10954,8 @@
           "80000000"
         ],
         "addedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95"
       },
       {
         "id": "fts-108135-2026",
@@ -10953,6 +11277,45 @@
         "demo": false
       },
       {
+        "id": "fts-112244-2026",
+        "title": "Provision of Advocacy Services for Adults and Children",
+        "authority": "Buckinghamshire Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "112244-2026",
+        "published": "2026-11-26",
+        "deadline": "2027-01-15",
+        "value": 3681608,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Buckinghamshire Council is seeking to commission independent advocacy services for adults, children and young people to ensure eligible individuals can understand their rights, have their voices heard, participate in decisions affecting their lives, and access support to safeguard their wellbeing and interests. The service will be divided into two Lots. Both contracts are expected to commence on 1 July 2027 and will be awarded for an initial term of five (5) years, with the option to extend for up to two (2) additional years. Lot 1 Adult Advocacy Service The Adult Advocacy Service will bring together statutory and non-statutory advocacy within a single service. It will support adults who have a statutory entitlement to advocacy, as well as those who meet the Council’s criteria for community advocacy, through the five pathways below. The service will deliver these core advocacy functions: • Independent Mental Capacity Advocacy (IMCA) including Relevant Person's Representative (RPR) Services • Independent Mental Health Advocacy (IMHA) • Care Act Advocacy • Independent Health Complaints Advocacy (IHCA) • Community Advocacy The service will also provide advocacy support for young people transitioning from children's services to adult social care. Support will be delivered in hospital, residential and community settings in accordance with relevant statutory requirements and eligibility criteria. The service must be independent, accessible, inclusive and person-centred, enabling people to participate as fully as possible in decisions affecting them. The service will contribute to the ambitions of the Buckinghamshire Better Lives Strategy 2026-2031 and the Buckinghamshire Joint Local Health and Wellbeing Strategy 2035 by supporting independence, choice and control, prevention, participation and positive outcomes for residents. The estimated contract value is up to £362,154 per annum. Lot 2 Children's Advocacy Service The Children's Advocacy Service will support eligible children and young people within Buckinghamshire to have their voices heard and to actively participate and put forward their preferences relating to their care and future arrangements. The service will also provide positive role models who can help shape their future and support them to develop self-advocacy skills for later life. It is a statutory requirement to provide advocacy services to children receiving care and support from the local authority. The service will help children and young people understand and participate in processes relating to their care, including the review and development of care and support arrangements, raise concerns, and protect their rights. The service will support a broad range of children and young people, including children with disabilities, asylum seekers and unaccompanied asylum-seeking children, children in out-of-county placements, children in secure units, psychiatric units and hospitals, and young carers who do not have adult support due to parental substance misuse or ill health. The service will deliver three core advocacy functions: • Issue Based Advocacy (IBA) for Children • Residential Visiting Advocacy (RVA) • Independent Visitor (IV) Services for Looked After Children The service will also support children and young people aged 16-17 years who are presenting as homeless and ensure independent participation in Secure Accommodation Reviews (SARs) for Buckinghamshire children and young people. The estimated contract value is up to £163,790 per annum. Both services will support Buckinghamshire Council's ambition to promote independence, choice and control, strengthen participation, reduce inequalities and improve outcomes for residents, children and young people. The Council is of the opinion that TUPE may apply to Lot 1 and to Lot 2.",
+        "tenderSummary": "Buckinghamshire Council is seeking to commission independent advocacy services for adults, children and young people to ensure eligible individuals can understand their rights, have their voices heard, participate in decisions affecting their lives, and access support to safeguard their wellbeing and interests. The service will be divided into two Lots. Both contracts are expected to commence on 1 July 2027 and will be awarded for an initial term of five (5) years, with the option to extend for up to two (2) additional years. Lot 1 Adult Advocacy Service The Adult Advocacy Service will bring together statutory and non-statutory advocacy within a single service. It will support adults who have a statutory entitlement to advocacy, as well as those who meet the Council’s criteria for community advocacy, through the five pathways below. The service will deliver these core advocacy functions: • Independent Mental Capacity Advocacy (IMCA) including Relevant Person's Representative (RPR) Services • Independent Mental Health Advocacy (IMHA) • Care Act Advocacy • Independent Health Complaints Advocacy (IHCA) • Community Advocacy The service will also provide advocacy support for young people transitioning from children's services to adult social care. Support will be delivered in hospital, residential and community settings in accordance with relevant statutory requirements and eligibility criteria. The service must be independent, accessible, inclusive and person-centred, enabling people to participate as fully as possible in decisions affecting them. The service will contribute to the ambitions of the Buckinghamshire Better Lives Strategy 2026-2031 and the Buckinghamshire Joint Local Health and Wellbeing Strategy 2035 by supporting independence, choice and control, prevention, participation and positive outcomes for residents. The estimated contract value is up to £362,154 per annum. Lot 2 Children's Advocacy Service The Children's Advocacy Service will support eligible children and young people within Buckinghamshire to have their voices heard and to actively participate and put forward their preferences relating to their care and future arrangements. The service will also provide positive role models who can help shape their future and support them to develop self-advocacy skills for later life. It is a statutory requirement to provide advocacy services to children receiving care and support from the local authority. The service will help children and young people understand and participate in processes relating to their care, including the review and development of care and support arrangements, raise concerns, and protect their rights. The service will support a broad range of children and young people, including children with disabilities, asylum seekers and unaccompanied asylum-seeking children, children in out-of-county placements, children in secure units, psychiatric units and hospitals, and young carers who do not have adult support due to parental substance misuse or ill health. The service will deliver three core advocacy functions: • Issue Based Advocacy (IBA) for Children • Residential Visiting Advocacy (RVA) • Independent Visitor (IV) Services for Looked After Children The service will also support children and young people aged 16-17 years who are presenting as homeless and ensure independent participation in Secure Accommodation Reviews (SARs) for Buckinghamshire children and young people. The estimated contract value is up to £163,790 per annum. Both services will support Buckinghamshire Council's ambition to promote independence, choice and control, strengthen participation, reduce inequalities and improve outcomes for residents, children and young people. The Council is of the opinion that TUPE may apply to Lot 1 and to Lot 2.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://in-tendhost.co.uk/buckinghamshire-council",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ13",
+        "cpv": "85000000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+        "demo": false
+      },
+      {
         "id": "fts-111282-2026",
         "title": "Telemetry Engineering Support Services",
         "authority": "Scottish Water",
@@ -11147,7 +11510,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95"
       },
       {
         "id": "fts-107124-2026",
@@ -11308,42 +11672,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-25T18:38:34.337Z"
+    "lastPartialUpdate": "2026-11-26T18:24:22.765Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
-    "attemptedAt": "2026-11-25T18:38:34.337Z",
+    "attemptId": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+    "attemptedAt": "2026-11-26T18:24:22.765Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
-    "retrievedCount": 8,
-    "totalCount": 279,
+    "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
+    "retrievedCount": 14,
+    "totalCount": 288,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-25T18:38:34.337Z",
-        "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
-        "lastAttemptAt": "2026-11-25T18:38:34.337Z",
+        "watermark": "2026-11-26T18:24:22.765Z",
+        "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
+        "lastAttemptAt": "2026-11-26T18:24:22.765Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-23T19:29:23.076Z",
-          "to": "2026-11-25T18:38:34.337Z"
+          "from": "2026-11-24T18:38:34.337Z",
+          "to": "2026-11-26T18:24:22.765Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-25T18:38:34.337Z",
-        "lastSuccessfulUpdate": "2026-11-25T18:38:34.337Z",
-        "lastAttemptAt": "2026-11-25T18:38:34.337Z",
+        "watermark": "2026-11-26T18:24:22.765Z",
+        "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
+        "lastAttemptAt": "2026-11-26T18:24:22.765Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-23T19:29:23.076Z",
-          "to": "2026-11-25T18:38:34.337Z"
+          "from": "2026-11-24T18:38:34.337Z",
+          "to": "2026-11-26T18:24:22.765Z"
         }
       }
     }
