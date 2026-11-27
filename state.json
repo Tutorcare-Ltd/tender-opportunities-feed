@@ -2,44 +2,44 @@
   "schemaVersion": 2,
   "sourceState": {
     "FTS": {
-      "watermark": "2026-11-26T18:24:22.765Z",
-      "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
-      "lastAttemptAt": "2026-11-26T18:24:22.765Z",
+      "watermark": "2026-11-27T18:10:14.975Z",
+      "lastSuccessfulUpdate": "2026-11-27T18:10:14.975Z",
+      "lastAttemptAt": "2026-11-27T18:10:14.975Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-24T18:38:34.337Z",
-        "to": "2026-11-26T18:24:22.765Z"
+        "from": "2026-11-25T18:24:22.765Z",
+        "to": "2026-11-27T18:10:14.975Z"
       }
     },
     "Contracts Finder": {
-      "watermark": "2026-11-26T18:24:22.765Z",
-      "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
-      "lastAttemptAt": "2026-11-26T18:24:22.765Z",
+      "watermark": "2026-11-27T18:10:14.975Z",
+      "lastSuccessfulUpdate": "2026-11-27T18:10:14.975Z",
+      "lastAttemptAt": "2026-11-27T18:10:14.975Z",
       "ok": true,
       "error": null,
       "retryNotBefore": null,
       "interval": {
-        "from": "2026-11-24T18:38:34.337Z",
-        "to": "2026-11-26T18:24:22.765Z"
+        "from": "2026-11-25T18:24:22.765Z",
+        "to": "2026-11-27T18:10:14.975Z"
       }
     }
   },
   "snapshot": {
     "schemaVersion": 1,
-    "buildId": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
-    "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
+    "buildId": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393",
+    "lastSuccessfulUpdate": "2026-11-27T18:10:14.975Z",
     "interval": {
-      "from": "2026-11-24T18:38:34.337Z",
-      "to": "2026-11-26T18:24:22.765Z"
+      "from": "2026-11-25T18:24:22.765Z",
+      "to": "2026-11-27T18:10:14.975Z"
     },
     "sources": [
       "FTS",
       "Contracts Finder"
     ],
-    "retrievedCount": 14,
-    "totalCount": 288,
+    "retrievedCount": 18,
+    "totalCount": 297,
     "sourceFailures": [],
     "records": [
       {
@@ -7152,6 +7152,46 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+        "demo": false,
+        "updatedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393"
+      },
+      {
+        "id": "fts-112784-2026",
+        "title": "Provision of a Service Provider to support the delivery of the Jobs Guarantee Programme.",
+        "authority": "London Borough of Hillingdon",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "112784-2026",
+        "published": "2026-11-27",
+        "deadline": "2026-12-07",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "The London Borough of Hillingdon (LBH) is seeking to appoint a provider to deliver an Employment and Progression and Employer Engagement Service as part of its Jobs Guarantee Programme. The programme is aimed at unemployed young people aged 18-24 who are claiming Universal Credit and face barriers to employment. An interim provider will be commissioned for an initial four-month period to ensure the programme is mobilised quickly and participants can access support from the outset, while LBH plans a separate procurement for longer-term delivery beyond April 2027. The successful provider will deliver a coordinated service through an Employment Progression Coach (EPC) and an Employer Engagement Officer (EEO). The EPC will provide intensive one-to-one support, including employability assessments, personalised action plans, skills development, job search assistance, training referrals and ongoing in-work support. The EEO will engage with employers across Hillingdon to identify vacancies, create employment opportunities, conduct employer due diligence checks and support recruitment activities. Together, these roles will help participants secure and sustain suitable employment opportunities. The provider will be responsible for recruiting and managing the EPC and EEO roles, maintaining employer relationships, generating vacancies and delivering programme outcomes. Participants must be matched to suitable vacancies within four weeks of joining the programme and commence employment within eight weeks. The provider will work closely with LBH's in-house Employment Progression Coach and programme team, ensuring a collaborative and responsive approach that supports both participants and local employers while contributing to the borough's economic growth objectives. Robust contract management, reporting and compliance arrangements will be required throughout delivery. The provider must maintain accurate records, submit weekly performance reports, attend regular review meetings and provide evidence of participant and employer outcomes. Compliance with UK GDPR and the Data Protection Act 2018 is mandatory, with providers required to demonstrate strong data security arrangements, including information governance processes, cyber security measures and relevant accreditations such as Cyber Essentials and ISO 27001 where available. The overarching aim is to deliver sustainable employment outcomes for young residents while supporting local labour market needs and inclusive economic growth across Hillingdon.",
+        "tenderSummary": "The London Borough of Hillingdon (LBH) is seeking to appoint a provider to deliver an Employment and Progression and Employer Engagement Service as part of its Jobs Guarantee Programme. The programme is aimed at unemployed young people aged 18-24 who are claiming Universal Credit and face barriers to employment. An interim provider will be commissioned for an initial four-month period to ensure the programme is mobilised quickly and participants can access support from the outset, while LBH plans a separate procurement for longer-term delivery beyond April 2027. The successful provider will deliver a coordinated service through an Employment Progression Coach (EPC) and an Employer Engagement Officer (EEO). The EPC will provide intensive one-to-one support, including employability assessments, personalised action plans, skills development, job search assistance, training referrals and ongoing in-work support. The EEO will engage with employers across Hillingdon to identify vacancies, create employment opportunities, conduct employer due diligence checks and support recruitment activities. Together, these roles will help participants secure and sustain suitable employment opportunities. The provider will be responsible for recruiting and managing the EPC and EEO roles, maintaining employer relationships, generating vacancies and delivering programme outcomes. Participants must be matched to suitable vacancies within four weeks of joining the programme and commence employment within eight weeks. The provider will work closely with LBH's in-house Employment Progression Coach and programme team, ensuring a collaborative and responsive approach that supports both participants and local employers while contributing to the borough's economic growth objectives. Robust contract management, reporting and compliance arrangements will be required throughout delivery. The provider must maintain accurate records, submit weekly performance reports, attend regular review meetings and provide evidence of participant and employer outcomes. Compliance with UK GDPR and the Data Protection Act 2018 is mandatory, with providers required to demonstrate strong data security arrangements, including information governance processes, cyber security measures and relevant accreditations such as Cyber Essentials and ISO 27001 where available. The overarching aim is to deliver sustainable employment outcomes for young residents while supporting local labour market needs and inclusive economic growth across Hillingdon.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/112784-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKI74",
+        "cpv": "79611000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393",
         "demo": false
       },
       {
@@ -7695,7 +7735,8 @@
           "80562000"
         ],
         "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393"
       },
       {
         "id": "fts-098200-2026",
@@ -7856,7 +7897,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393"
       },
       {
         "id": "fts-106121-2026",
@@ -8180,6 +8222,45 @@
           "80510000"
         ],
         "addedBuild": "2026-11-23T20:11:41.256Z-2e89f789-cf91-4006-85b9-2ba6b93bcb19",
+        "demo": false
+      },
+      {
+        "id": "cf-7e327ed7-0e06-49db-b197-a2a46073f209-922652",
+        "title": "Procurement of Individual First Aid Kits and Pre-Hospital Emergency Medical Supplies",
+        "authority": "Chemonics International, Inc.",
+        "category": "First aid",
+        "source": "Contracts Finder",
+        "noticeId": "7e327ed7-0e06-49db-b197-a2a46073f209-922652",
+        "published": "2026-11-27",
+        "deadline": "2026-12-11",
+        "value": 1,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "Partnership Fund for a Resilient Ukraine Phase 2 (PFRU-2) is a multi-year, multi-donor-funded programme managed by the UK's Foreign, Commonwealth and Development Office. As part of its project activities, PFRU-2 is seeking an organization to supply the Individual First Aid Kits and Pre-Hospital Emergency Medical Supplies. Please note the following important tender provisions: • the deadline for submitting proposals is December 11, 2026, at 15:00 Kyiv time; • all questions regarding the tender conditions must be submitted no later than December 04, 2026, at 18:00 Kyiv time; • Price proposals must be submitted either in Ukrainian or English; • All tender-related communication must be conducted exclusively in writing via email at pfruprocurement@chemonics.com; • The PFRU-2 project is exempt from taxes, fees, and VAT in the partner country. Therefore, PFRU-2 will make payments for services excluding VAT; • Email for submitting proposals: pfruprocurement@chemonics.com; • When sending proposals or inquiries via email, it is mandatory to include the tender number PFRU2-2025-869 in the email subject line. Proposal Submission Instructions: ITT_PFRU2-2025-869 - review the tender conditions; Volume 3_Terms of Reference - complete the document  sign the original scan/convert to PDF and sign electronically  submit the completed Excel file and the signed document as part of the proposal. Annex 1 - complete either the English or Ukrainian version and sign the original and scan/convert to PDF and sign electronically and include it in the proposal submission. Registration documents that follow the laws of your country must be part of the proposal.",
+        "tenderSummary": "Partnership Fund for a Resilient Ukraine Phase 2 (PFRU-2) is a multi-year, multi-donor-funded programme managed by the UK's Foreign, Commonwealth and Development Office. As part of its project activities, PFRU-2 is seeking an organization to supply the Individual First Aid Kits and Pre-Hospital Emergency Medical Supplies. Please note the following important tender provisions: • the deadline for submitting proposals is December 11, 2026, at 15:00 Kyiv time; • all questions regarding the tender conditions must be submitted no later than December 04, 2026, at 18:00 Kyiv time; • Price proposals must be submitted either in Ukrainian or English; • All tender-related communication must be conducted exclusively in writing via email at pfruprocurement@chemonics.com; • The PFRU-2 project is exempt from taxes, fees, and VAT in the partner country. Therefore, PFRU-2 will make payments for services excluding VAT; • Email for submitting proposals: pfruprocurement@chemonics.com; • When sending proposals or inquiries via email, it is mandatory to include the tender number PFRU2-2025-869 in the email subject line. Proposal Submission Instructions: ITT_PFRU2-2025-869 - review the tender conditions; Volume 3_Terms of Reference - complete the document  sign the original scan/convert to PDF and sign electronically  submit the completed Excel file and the signed document as part of the proposal. Annex 1 - complete either the English or Ukrainian version and sign the original and scan/convert to PDF and sign electronically and include it in the proposal submission. Registration documents that follow the laws of your country must be part of the proposal.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "2027-01-10 to 2028-01-11",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/7e327ed7-0e06-49db-b197-a2a46073f209",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "United Kingdom / to confirm",
+        "cpv": "33140000",
+        "matchedKeywords": [
+          "first aid"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393",
         "demo": false
       },
       {
@@ -8545,6 +8626,46 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-16T18:30:35.231Z-2bdb8be3-bf99-4789-8f94-cacc69038498",
+        "demo": false
+      },
+      {
+        "id": "fts-112479-2026",
+        "title": "Community Health Improvement and Lifestyle Service",
+        "authority": "NHS Coventry and Warwickshire Integrated Care Board",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "112479-2026",
+        "published": "2026-11-27",
+        "deadline": "2026-12-14",
+        "value": 3750888,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "NHS Coventry and Warwickshire Integrated Care Board (referred to as the Commissioner) are inviting suitably qualified and experienced suppliers to express their interest in delivering a Community Health Improvement and Lifestyle Service. The aim of the service is: For a Lead Provider to deliver an integrated Community Health Improvement and Lifestyle Service for adults aged 16 years and over who are registered with a GP in Coventry and Warwickshire. The objectives of the service are to: • Collaborate to deliver an integrated pathway The Provider will work in partnership with primary care, Tier 3 services, public health, VCFSE organisations and the separately commissioned digital platform to ensure a seamless, joined-up weight management pathway for patients. • Reduce inequalities and improve equity The Provider will work in collaboration with the ICB to use Population Health Management (PHM) models to proactively identify and engage underserved populations, delivering targeted, culturally appropriate interventions in priority communities to reduce inequalities in access, experience and outcomes. • Prevent deterioration through early identification The Service will support early identification and timely intervention for individuals living with, or at risk of obesity-related conditions or complications, to prevent the acquisition of further conditions or exacerbations and in some cases reverse or improve the management of pre-existing conditions. • Deliver care in the right place at the right time The Provider will deliver accessible, community-based care, ensuring timely assessment, intervention and escalation based on clinical need, with services delivered as close to home as possible. • Support recovery, participation and independence The Service will empower individuals to achieve and sustain healthy weight through personalised care planning, behaviour change support and development of long-term self-management skills. • Build system capability and confidence The Provider will contribute to workforce development and system learning by supporting training, sharing best practice and strengthening local capability to deliver effective weight management interventions. • Use digital and data to improve care and outcomes The Provider will utilise the ICB-commissioned digital platform and population health data to support patient identification, care coordination, monitoring and reporting, ensuring data-driven improvement in service delivery and outcomes. The contract will be for a period of 2 years. Please refer to the procurement documentation for further details. To register your interest and access the procurement documentation and submit a bid, please follow this link, https://atamis-1928.my.site.com/s/Welcome, and search for: Project Reference: C485290 Project Name: Community Health Improvement and Lifestyle Service",
+        "tenderSummary": "NHS Coventry and Warwickshire Integrated Care Board (referred to as the Commissioner) are inviting suitably qualified and experienced suppliers to express their interest in delivering a Community Health Improvement and Lifestyle Service. The aim of the service is: For a Lead Provider to deliver an integrated Community Health Improvement and Lifestyle Service for adults aged 16 years and over who are registered with a GP in Coventry and Warwickshire. The objectives of the service are to: • Collaborate to deliver an integrated pathway The Provider will work in partnership with primary care, Tier 3 services, public health, VCFSE organisations and the separately commissioned digital platform to ensure a seamless, joined-up weight management pathway for patients. • Reduce inequalities and improve equity The Provider will work in collaboration with the ICB to use Population Health Management (PHM) models to proactively identify and engage underserved populations, delivering targeted, culturally appropriate interventions in priority communities to reduce inequalities in access, experience and outcomes. • Prevent deterioration through early identification The Service will support early identification and timely intervention for individuals living with, or at risk of obesity-related conditions or complications, to prevent the acquisition of further conditions or exacerbations and in some cases reverse or improve the management of pre-existing conditions. • Deliver care in the right place at the right time The Provider will deliver accessible, community-based care, ensuring timely assessment, intervention and escalation based on clinical need, with services delivered as close to home as possible. • Support recovery, participation and independence The Service will empower individuals to achieve and sustain healthy weight through personalised care planning, behaviour change support and development of long-term self-management skills. • Build system capability and confidence The Provider will contribute to workforce development and system learning by supporting training, sharing best practice and strengthening local capability to deliver effective weight management interventions. • Use digital and data to improve care and outcomes The Provider will utilise the ICB-commissioned digital platform and population health data to support patient identification, care coordination, monitoring and reporting, ensuring data-driven improvement in service delivery and outcomes. The contract will be for a period of 2 years. Please refer to the procurement documentation for further details. To register your interest and access the procurement documentation and submit a bid, please follow this link, https://atamis-1928.my.site.com/s/Welcome, and search for: Project Reference: C485290 Project Name: Community Health Improvement and Lifestyle Service",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/112479-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKG33, UKG13",
+        "cpv": "98334000",
+        "matchedKeywords": [
+          "skills",
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393",
         "demo": false
       },
       {
@@ -9075,7 +9196,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393"
       },
       {
         "id": "fts-109248-2026",
@@ -10224,7 +10346,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393"
       },
       {
         "id": "fts-112249-2026",
@@ -10263,7 +10386,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393"
       },
       {
         "id": "fts-112196-2026",
@@ -10302,6 +10426,85 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+        "demo": false,
+        "updatedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393"
+      },
+      {
+        "id": "fts-112804-2026",
+        "title": "Multi-Disciplinary and Professional Expertise, Skills and Capacity Support for the Council's Energy Island Programme",
+        "authority": "Isle of Anglesey County Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "112804-2026",
+        "published": "2026-11-27",
+        "deadline": "2026-12-22",
+        "value": 500000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          14,
+          0
+        ],
+        "description": "Consultancy support for the Council's Energy Island Programme, for work in relation to a new nuclear development at Wylfa. Please see tender documents for more information.",
+        "tenderSummary": "Consultancy support for the Council's Energy Island Programme, for work in relation to a new nuclear development at Wylfa. Please see tender documents for more information.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.sell2wales.gov.wales/Assets/NoticeBuilder_FileDownload.aspx?id=388235",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL11",
+        "cpv": "73000000, 90712000",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393",
+        "demo": false
+      },
+      {
+        "id": "fts-112670-2026",
+        "title": "Substance Use Service for Children and Young people",
+        "authority": "Oxfordshire County Council",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "112670-2026",
+        "published": "2026-11-27",
+        "deadline": "2026-12-22",
+        "value": 4900000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          6,
+          0
+        ],
+        "description": "NOTE: This tender ended on 9 October 2026 ; evaluation process has ended and it is currently at the Contract Award stage. The awarding of this contract is subject to the Health Care Services (Provider Selection Regime) Regulations 2023. For the avoidance of doubt, the Procurement Act 2023 does not apply to this award. The service will address the key priorities in the Children and Young People's action plan under the Oxfordshire Combatting Drugs Partnership. The service will adopt a flexible and innovative approach to delivery and funding opportunities, using expert workforce and evidence-based ideas to develop the service and increase the numbers of children and young people who benefit from the service.",
+        "tenderSummary": "NOTE: This tender ended on 9 October 2026 ; evaluation process has ended and it is currently at the Contract Award stage. The awarding of this contract is subject to the Health Care Services (Provider Selection Regime) Regulations 2023. For the avoidance of doubt, the Procurement Act 2023 does not apply to this award. The service will address the key priorities in the Children and Young People's action plan under the Oxfordshire Combatting Drugs Partnership. The service will adopt a flexible and innovative approach to delivery and funding opportunities, using expert workforce and evidence-based ideas to develop the service and increase the numbers of children and young people who benefit from the service.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/112670-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ14",
+        "cpv": "85100000, 85323000",
+        "matchedKeywords": [
+          "workforce"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393",
         "demo": false
       },
       {
@@ -10388,6 +10591,48 @@
         "updatedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95"
       },
       {
+        "id": "fts-112560-2026",
+        "title": "Provision of a DurhamLearn Framework for the North East Skills Programme",
+        "authority": "Durham County Council",
+        "category": "Safeguarding",
+        "source": "FTS",
+        "noticeId": "112560-2026",
+        "published": "2026-11-27",
+        "deadline": "2026-12-23",
+        "value": 0,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          14,
+          18,
+          18,
+          6,
+          0
+        ],
+        "description": "DurhamLearn is establishing and maintaining a Framework of organisations that have demonstrated the capability, capacity and organisational arrangements required to deliver learning and skills provision. The Framework shall support DurhamLearn in responding to funding opportunities, strategic priorities and commissioning requirements. Appointment to the Framework confirms that a Provider has satisfied DurhamLearn's minimum requirements relating to: • Quality assurance • Safeguarding and learner welfare • Health and safety • Organisational capacity • Financial standing • Data protection and information governance • Regulatory compliance • Delivery capability. The Framework is divided into the following Lots: LOT 1 - Skills Foundation The Skills Foundation strand of the North East Skills Programme has been developed to address the persistent challenges faced by residents with the lowest skill levels. It provides accessible, confidence building learning that enables adults to develop essential literacy, numeracy, digital and wider employability capabilities, helping them move closer to work or further study. Skills Foundation is specifically targeted at residents who are furthest from the labour market Through community based, inclusive provision, it helps adults overcome barriers, build foundational capabilities, and re engage in learning as the first step on a longer progression journey. Delivery is centred on personalised, non accredited learning that develops core skills, confidence, wellbeing, and sector awareness. This ensures that residents with the lowest starting points can begin their progression journey in a supportive environment. We would expect you to encourage and support all learners to progress on to new or more stretching provision to help them move into formal learning or employment where possible. A valid progression must occur within 13 weeks of the Skills Foundation aim. LOT 2 - Skills Activation Skills Activation supports learners who are ready to take the next step towards work or further training but require targeted preparation, employability development or sector awareness. Courses are accredited and may include English and maths legal entitlements, digital skills and vocational qualifications. Funding for Skills Activation is determined by national funding rates listed in Find a Learning Aim. With Skills Activation all provision should have clear progression routes - including progression into Skills for Work, accredited learning, apprenticeships or employment. At least 20% of learners completing Level 1 are expected to progress to Level 2. LOT 3 - Skills for Work Skills for Work support residents directly into employment through employer-led programmes, sector-based work academy programmes (SWAPs), progression pathways and initiatives. Priority sectors are listed below and the NE MSA has full guidance on the delivery requirements for Skills for Work provision, see Appendix 1 Funding Rules. Skills for Work curriculum should be planned with named employers, there should be confirmed job vacancies and guaranteed interviews. There must be a range of pre-employment training which can include work trials, site visits, interview preparation and specific sector skills training. It is expected that 30% of learners who complete a Skills for Work course will progress into work. Competed call off evaluation criteria will be notified at call off stage.",
+        "tenderSummary": "DurhamLearn is establishing and maintaining a Framework of organisations that have demonstrated the capability, capacity and organisational arrangements required to deliver learning and skills provision. The Framework shall support DurhamLearn in responding to funding opportunities, strategic priorities and commissioning requirements. Appointment to the Framework confirms that a Provider has satisfied DurhamLearn's minimum requirements relating to: • Quality assurance • Safeguarding and learner welfare • Health and safety • Organisational capacity • Financial standing • Data protection and information governance • Regulatory compliance • Delivery capability. The Framework is divided into the following Lots: LOT 1 - Skills Foundation The Skills Foundation strand of the North East Skills Programme has been developed to address the persistent challenges faced by residents with the lowest skill levels. It provides accessible, confidence building learning that enables adults to develop essential literacy, numeracy, digital and wider employability capabilities, helping them move closer to work or further study. Skills Foundation is specifically targeted at residents who are furthest from the labour market Through community based, inclusive provision, it helps adults overcome barriers, build foundational capabilities, and re engage in learning as the first step on a longer progression journey. Delivery is centred on personalised, non accredited learning that develops core skills, confidence, wellbeing, and sector awareness. This ensures that residents with the lowest starting points can begin their progression journey in a supportive environment. We would expect you to encourage and support all learners to progress on to new or more stretching provision to help them move into formal learning or employment where possible. A valid progression must occur within 13 weeks of the Skills Foundation aim. LOT 2 - Skills Activation Skills Activation supports learners who are ready to take the next step towards work or further training but require targeted preparation, employability development or sector awareness. Courses are accredited and may include English and maths legal entitlements, digital skills and vocational qualifications. Funding for Skills Activation is determined by national funding rates listed in Find a Learning Aim. With Skills Activation all provision should have clear progression routes - including progression into Skills for Work, accredited learning, apprenticeships or employment. At least 20% of learners completing Level 1 are expected to progress to Level 2. LOT 3 - Skills for Work Skills for Work support residents directly into employment through employer-led programmes, sector-based work academy programmes (SWAPs), progression pathways and initiatives. Priority sectors are listed below and the NE MSA has full guidance on the delivery requirements for Skills for Work provision, see Appendix 1 Funding Rules. Skills for Work curriculum should be planned with named employers, there should be confirmed job vacancies and guaranteed interviews. There must be a range of pre-employment training which can include work trials, site visits, interview preparation and specific sector skills training. It is expected that 30% of learners who complete a Skills for Work course will progress into work. Competed call off evaluation criteria will be notified at call off stage.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/112560-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKC14",
+        "cpv": "80400000",
+        "matchedKeywords": [
+          "safeguarding",
+          "skills"
+        ],
+        "matchedCpvCodes": [
+          "80000000"
+        ],
+        "addedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393",
+        "demo": false
+      },
+      {
         "id": "fts-111527-2026",
         "title": "Falls and Frailty Awareness Sessions",
         "authority": "Birmingham City Council",
@@ -10429,6 +10674,45 @@
         "addedBuild": "2026-11-25T18:38:34.337Z-cecffd8b-197e-4a1d-a500-476cff000d9c",
         "demo": false,
         "updatedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95"
+      },
+      {
+        "id": "fts-112445-2026",
+        "title": "Pre Vocational and Vocational Training for People with Mental Health Needs",
+        "authority": "CARIDFF AND VALE UNIVERSITY HEALTH BOARD",
+        "category": "Mental health",
+        "source": "FTS",
+        "noticeId": "112445-2026",
+        "published": "2026-11-27",
+        "deadline": "2027-01-04",
+        "value": 607500,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          18,
+          10,
+          0
+        ],
+        "description": "The service will provide a Pre-Vocational and Vocational Mental Health Day Service for people with mental health needs across Cardiff and the Vale of Glamorgan. The service will support recovery, social inclusion and independence through vocational and avocational training, skills development, peer support, wellbeing activities, volunteering opportunities, and pathways into employment, education and community participation. The service will provide a supportive and rehabilitative environment to help individuals develop confidence, practical skills and opportunities for progression. The services are intended to be provided from 1st April 2027 to 30th September 2030 for an initial period of 3.5 years, with the option to extend for a further 12 months until 30th September 2031.",
+        "tenderSummary": "The service will provide a Pre-Vocational and Vocational Mental Health Day Service for people with mental health needs across Cardiff and the Vale of Glamorgan. The service will support recovery, social inclusion and independence through vocational and avocational training, skills development, peer support, wellbeing activities, volunteering opportunities, and pathways into employment, education and community participation. The service will provide a supportive and rehabilitative environment to help individuals develop confidence, practical skills and opportunities for progression. The services are intended to be provided from 1st April 2027 to 30th September 2030 for an initial period of 3.5 years, with the option to extend for a further 12 months until 30th September 2031.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/112445-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKL22",
+        "cpv": "85312500",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393",
+        "demo": false
       },
       {
         "id": "fts-107837-2026",
@@ -10873,7 +11157,8 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
-        "demo": false
+        "demo": false,
+        "updatedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393"
       },
       {
         "id": "fts-102062-2026",
@@ -11313,6 +11598,85 @@
         ],
         "matchedCpvCodes": [],
         "addedBuild": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
+        "demo": false,
+        "updatedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393"
+      },
+      {
+        "id": "fts-112553-2026",
+        "title": "UKRI-6071 Underground Gas Network & Associated Services",
+        "authority": "UK Research & Innovation (UKRI)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "112553-2026",
+        "published": "2026-11-27",
+        "deadline": "2027-01-18",
+        "value": 890000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "UKRI-STFC is seeking to engage with specialist gas network providers that are registered under the Gas Industry Registration Scheme (GIRS) and have the capacity, capability, skills and competencies required to deliver a comprehensive gas network maintenance service. The requirement relates to the planned and preventative maintenance of UKRI-STFC's private gas distribution network ensuring the safe and reliable flow of gas across the network and the provision of suitable records and evidence to support external audits, demonstrating compliance, safety and operational performance.",
+        "tenderSummary": "UKRI-STFC is seeking to engage with specialist gas network providers that are registered under the Gas Industry Registration Scheme (GIRS) and have the capacity, capability, skills and competencies required to deliver a comprehensive gas network maintenance service. The requirement relates to the planned and preventative maintenance of UKRI-STFC's private gas distribution network ensuring the safe and reliable flow of gas across the network and the provision of suitable records and evidence to support external audits, demonstrating compliance, safety and operational performance.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/112553-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ14",
+        "cpv": "45231221",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393",
+        "demo": false
+      },
+      {
+        "id": "fts-112552-2026",
+        "title": "UKRI-6071 Underground Gas Network & Associated Services",
+        "authority": "UK Research & Innovation (UKRI)",
+        "category": "Learning & development",
+        "source": "FTS",
+        "noticeId": "112552-2026",
+        "published": "2026-11-27",
+        "deadline": "2027-01-18",
+        "value": 890000,
+        "currency": "GBP",
+        "stage": "Open",
+        "scores": [
+          8,
+          18,
+          10,
+          10,
+          0
+        ],
+        "description": "UKRI-STFC is seeking to engage with specialist gas network providers that are registered under the Gas Industry Registration Scheme (GIRS) and have the capacity, capability, skills and competencies required to deliver a comprehensive gas network maintenance service. The requirement relates to the planned and preventative maintenance of UKRI-STFC's private gas distribution network ensuring the safe and reliable flow of gas across the network and the provision of suitable records and evidence to support external audits, demonstrating compliance, safety and operational performance.",
+        "tenderSummary": "UKRI-STFC is seeking to engage with specialist gas network providers that are registered under the Gas Industry Registration Scheme (GIRS) and have the capacity, capability, skills and competencies required to deliver a comprehensive gas network maintenance service. The requirement relates to the planned and preventative maintenance of UKRI-STFC's private gas distribution network ensuring the safe and reliable flow of gas across the network and the provision of suitable records and evidence to support external audits, demonstrating compliance, safety and operational performance.",
+        "fitRationale": "Team assessment required after reviewing the full specification.",
+        "buyerInsight": "Review the official notice and procurement documents before making a bid decision.",
+        "decision": "",
+        "workflowStatus": "New lead",
+        "comments": "",
+        "duration": "To confirm on source portal",
+        "url": "https://www.find-tender.service.gov.uk/Notice/112552-2026",
+        "researchUrl": "",
+        "procurementUrl": "",
+        "location": "UKJ14",
+        "cpv": "45231221",
+        "matchedKeywords": [
+          "skills"
+        ],
+        "matchedCpvCodes": [],
+        "addedBuild": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393",
         "demo": false
       },
       {
@@ -11672,42 +12036,42 @@
         "demo": false
       }
     ],
-    "lastPartialUpdate": "2026-11-26T18:24:22.765Z"
+    "lastPartialUpdate": "2026-11-27T18:10:14.975Z"
   },
   "health": {
     "schemaVersion": 2,
-    "attemptId": "2026-11-26T18:24:22.765Z-7335a9d8-77aa-4acc-98da-364fabcc6e95",
-    "attemptedAt": "2026-11-26T18:24:22.765Z",
+    "attemptId": "2026-11-27T18:10:14.975Z-7b67b0f5-20e0-4e55-92fb-09512e378393",
+    "attemptedAt": "2026-11-27T18:10:14.975Z",
     "ok": true,
     "status": "healthy",
     "degraded": false,
-    "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
-    "retrievedCount": 14,
-    "totalCount": 288,
+    "lastSuccessfulUpdate": "2026-11-27T18:10:14.975Z",
+    "retrievedCount": 18,
+    "totalCount": 297,
     "sourceFailures": [],
     "sourceState": {
       "FTS": {
-        "watermark": "2026-11-26T18:24:22.765Z",
-        "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
-        "lastAttemptAt": "2026-11-26T18:24:22.765Z",
+        "watermark": "2026-11-27T18:10:14.975Z",
+        "lastSuccessfulUpdate": "2026-11-27T18:10:14.975Z",
+        "lastAttemptAt": "2026-11-27T18:10:14.975Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-24T18:38:34.337Z",
-          "to": "2026-11-26T18:24:22.765Z"
+          "from": "2026-11-25T18:24:22.765Z",
+          "to": "2026-11-27T18:10:14.975Z"
         }
       },
       "Contracts Finder": {
-        "watermark": "2026-11-26T18:24:22.765Z",
-        "lastSuccessfulUpdate": "2026-11-26T18:24:22.765Z",
-        "lastAttemptAt": "2026-11-26T18:24:22.765Z",
+        "watermark": "2026-11-27T18:10:14.975Z",
+        "lastSuccessfulUpdate": "2026-11-27T18:10:14.975Z",
+        "lastAttemptAt": "2026-11-27T18:10:14.975Z",
         "ok": true,
         "error": null,
         "retryNotBefore": null,
         "interval": {
-          "from": "2026-11-24T18:38:34.337Z",
-          "to": "2026-11-26T18:24:22.765Z"
+          "from": "2026-11-25T18:24:22.765Z",
+          "to": "2026-11-27T18:10:14.975Z"
         }
       }
     }
